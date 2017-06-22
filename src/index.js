@@ -91,11 +91,22 @@ class Game extends React.Component {
 
     const moves = history.map((step, move) => {
       const desc = move ? "Move #" + move : "Game start";
-      return (
-        <li key={move}>
-          <a href="#" onClick={() => this.jumpTo(move)}>{desc}</a>
-        </li>
-      );
+      if (step == current) {
+        return (
+          <li key={move}>
+            <a href="#" onClick={() => this.jumpTo(move)}>
+            <strong>{desc}</strong>
+            </a>
+          </li>
+        );
+      }
+      else{
+        return (
+          <li key={move}>
+            <a href="#" onClick={() => this.jumpTo(move)}>{desc}</a>
+          </li>
+        );
+      }
     });
 
     let status;
@@ -110,8 +121,7 @@ class Game extends React.Component {
         <div className="game-board">
           <Board
             squares={current.squares}
-            onClick={i => this.handleClick(i)}
-          />
+            onClick={i => this.handleClick(i)}/>
         </div>
         <div className="game-info">
           <div>{status}</div>
@@ -136,7 +146,7 @@ function calculateWinner(squares) {
   for (let i = 0; i < lines.length; i++) {
     const [a, b, c] = lines[i];
     if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
-      return squares[a];
+      return squares[a] + " at " + lines[i];
     }
   }
   return null;
