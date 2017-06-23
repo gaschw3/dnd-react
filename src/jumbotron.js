@@ -1,9 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-
 import {Jumbotron} from  'react-bootstrap';
 
-class JumbotronComponent extends React.Component {
+export default class JumbotronComponent extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -25,5 +23,3 @@ class JumbotronComponent extends React.Component {
     );
   }
 }
-
-ReactDOM.render(<JumbotronComponent />, document.getElementById('jumbo'));
