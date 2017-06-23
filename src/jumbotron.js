@@ -8,10 +8,10 @@ class JumbotronComponent extends React.Component {
     super();
     this.state = {
       title: "EotCC D&D 5e Reference",
-      description: `
-                    This is a suite of tools pulled into a React app for use 
-                    by intrepid adventurers and explorers. May or may not ever
-                    actually work.
+      description:`
+                  This is a suite of tools pulled into a React app for use 
+                  by intrepid adventurers and explorers. May or may not ever
+                  actually work.
                   `
     };
   }
