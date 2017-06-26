@@ -14,10 +14,6 @@ class App extends React.Component {
               You need to enable JavaScript to run this app.
             </noscript>
             <Navbar />
-            <div className="container">
-              <Jumbotron />
-              <div className="main" />
-            </div>
             <Footer />
           </div>
         );
