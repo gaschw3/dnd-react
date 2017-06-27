@@ -2,6 +2,7 @@
     "class": [
        {
           "name": "Barbarian",
+          "description": "Huge people that get very mad and crush stuff.",
           "hd": "12",
           "proficiency": "Strength, Constitution",
           "autolevel": [

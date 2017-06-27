@@ -2,11 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Navbar from './navbar.js';
-import Jumbotron from './jumbotron.js';
-import Footer from './footer.js';
 import Main from './main.js';
 
-class App extends React.Component {
+export default class App extends React.Component {
     render(){
         return (
           <div>
@@ -14,7 +12,6 @@ class App extends React.Component {
               You need to enable JavaScript to run this app.
             </noscript>
             <Navbar />
-            <Footer />
           </div>
         );
     }

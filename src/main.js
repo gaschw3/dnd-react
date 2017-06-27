@@ -5,7 +5,16 @@ import {Router, Route } from 'react-router';
 import { hashHistory } from 'react-router';
 // Import custom components
 import Home from './views/home.js'
-import Classes from './views/classes.js';
+import Classes from './views/classes/Classes.js';
+import {ClassName} from './views/classes/ClassName.js'
+import {ClassArchetype} from './views/classes/ClassArchetype.js'
+
+
+class NotFound  extends Component {
+    render(){
+        return (<h1>Looks like you broke it, pard</h1>);
+    }
+}
 
 class Backgrounds extends Component {
     render(){
@@ -21,10 +30,13 @@ class Races extends Component {
 
 ReactDOM.render(
     <Router history={hashHistory}>
-        <Route path="/" component={Home}/>
-        <Route path="/classes" component={Classes}/>
-        <Route path="/backgrounds" component={Backgrounds}/>
-        <Route path="/races" component={Races}/>
+        <Route path="/" exact component={Home}/>
+            <Route path="/classes" component={Classes}/>
+                <Route path="/classes/:className" component={ClassName}/>
+                <Route path="/classes/:className/:classArchetype" component={ClassArchetype}/>
+            <Route path="/backgrounds" component={Backgrounds}/>
+            <Route path="/races" component={Races}/>
+        <Route path="*" component={NotFound}/>
     </Router>,
     document.getElementById('main')
 );
