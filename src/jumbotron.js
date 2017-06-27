@@ -13,14 +13,14 @@ export default class JumbotronComponent extends React.Component {
 
   render() {
     return (
-    <Carousel>
-    <Carousel.Item>
-      <img width={900} height={500} alt="900x500" src="https://drive.google.com/open?id=0B5XPhXpni0uxR2pOZmRlSERzVzg"/>
-      <Carousel.Caption>
-        <h3>{this.state.title}</h3>
-        <p>{this.state.description}</p>
-      </Carousel.Caption>
-    </Carousel.Item>
+    <Carousel Indicators="false" controls="false" slide="false" nextIcon="" prevIcon="">
+      <Carousel.Item>
+        <img width={900} height={300} alt="900x300" src="https://rawgit.com/gaschw3/dnd-react/master/src/images/Barbarian.jpg"/>
+        <Carousel.Caption>
+          <h1>{this.state.title}</h1>
+          <p>{this.state.description}</p>
+        </Carousel.Caption>
+      </Carousel.Item>
     </Carousel>
     );
   }
