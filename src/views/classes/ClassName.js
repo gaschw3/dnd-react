@@ -24,9 +24,9 @@ export const ClassName = ( {params} ) => {
         Back
       </button>
       <JumbotronComponent title={currClass.name} description={currClass.description}/>
-      <ClassLevels class={currClass} />
-      <ClassArchetypeList class={currClass} />
-      <ClassDetails class={currClass} />
+      <ClassLevels />
+      <ClassArchetypeList />
+      <ClassDetails currClass={currClass.name}/>
     </div>
   );
 }

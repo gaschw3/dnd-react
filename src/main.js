@@ -36,7 +36,6 @@ ReactDOM.render(
                 <Route path="/classes/:className/:classArchetype" component={ClassArchetype}/>
             <Route path="/backgrounds" component={Backgrounds}/>
             <Route path="/races" component={Races}/>
-        <Route path="*" component={NotFound}/>
     </Router>,
     document.getElementById('main')
 );
