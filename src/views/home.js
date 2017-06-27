@@ -11,23 +11,23 @@ export default class Home extends Component {
           <Grid>
             <Row>
               <Col sm={6}>
-                <h4><a href="/#/classes">Classes</a></h4>
+                <h4><a href="/dnd-react/#/classes">Classes</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/#/backgrounds">Backgrounds</a></h4>
+                <h4><a href="/dnd-react/#/backgrounds">Backgrounds</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/#/races">Races</a></h4>
+                <h4><a href="/dnd-react/#/races">Races</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/#/feats">Feats</a></h4>
+                <h4><a href="/dnd-react/#/feats">Feats</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
               </Col>
               <Col sm={6}>
-                <h4><a href="/#/spells">Spells</a></h4>
+                <h4><a href="/dnd-react/#/spells">Spells</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/#/items">Items</a></h4>
+                <h4><a href="/dnd-react/#/items">Items</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/#/beastiary">Beastiary</a></h4>
+                <h4><a href="/dnd-react/#/beastiary">Beastiary</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/#/rules">Rules</a></h4>
+                <h4><a href="/dnd-react/#/rules">Rules</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
               </Col>
             </Row>
