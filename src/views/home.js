@@ -7,7 +7,7 @@ export default class Home extends Component {
     render(){
       return (
         <div>
-          <JumbotronComponent title="EotCC D&D 5e Reference" description="This is a suite of tools pulled into a React app for use by intrepid adventurers and explorers. May or may not ever actually work." />
+          <JumbotronComponent image="Main" title="EotCC D&D 5e Reference" description="This is a suite of tools pulled into a React app for use by intrepid adventurers and explorers. May or may not ever actually work." />
           <Grid>
             <Row>
               <Col sm={6}>

@@ -20,9 +20,6 @@ export const ClassName = ( {params} ) => {
 
   return(
     <div>
-      <button onClick={()=>hashHistory.goBack()}>
-        Back
-      </button>
       <JumbotronComponent title={currClass.name} description={currClass.description} image={currClass.name}/>
       <ClassLevels />
       <ClassArchetypeList />

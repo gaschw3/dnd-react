@@ -21,9 +21,6 @@ export default class Classes extends Component {
 
     return (
       <div>
-        <button onClick={()=>hashHistory.goBack()}>
-          Back
-        </button>
         <JumbotronComponent title="D&D 5e Classes" description="Browse available classes. You can also select specific subclasses if you already know what you're looking for. The URL should be usable for bookmarking and sharing." image="Classes"/>
         <Grid>
           <Row>
