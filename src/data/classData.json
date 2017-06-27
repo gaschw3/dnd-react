@@ -2,6 +2,7 @@
   "class": [
     {
       "name": "Barbarian",
+      "description": "Primal warriors defined by an unquenchable and unthinking rage. They use their battle fury to gain uncanny reflexes and resilience or perform extraordinary feats of strength.",
       "hd": "12",
       "proficiencies": [
                      "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
