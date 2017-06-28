@@ -24,7 +24,7 @@ export class ClassDetails extends React.Component {
           <p>
             <div><strong>Hit Dice:</strong> 1d{json.hd}</div>
             <div><strong>HP at 1st Level:</strong> {json.hd} + CON</div>
-            <div><strong>HP at Higher Levels:</strong> (1d{json.hd} ( or {json.hd/2}) + CON) per {json.name} lever after first</div>
+            <div><strong>HP at Higher Levels:</strong> (1d{json.hd} ({json.hd/2}) + CON) per {json.name} lever after first</div>
           </p>
           <h4>Proficiencies</h4>
           <p>
