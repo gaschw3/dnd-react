@@ -22,8 +22,10 @@ export const Archetype = ( {params} ) => {
   return(
     <div>
       <JumbotronComponent title={currClass[0].name} description={currArchetype[0]} image={currClass[0].name}/>
-      <ClassLevels currClass={currClass[0]} />
-      <ClassDetails currClass={currClass[0]} />
+      <div className="row">
+        <ClassLevels currClass={currClass[0]} />
+        <ClassDetails currClass={currClass[0]} />
+      </div>
       <ClassFeatures features={currFeatures} />
     </div>
   );

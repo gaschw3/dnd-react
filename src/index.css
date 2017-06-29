@@ -19,7 +19,7 @@ body {
 
 .container {
   width: auto;
-  max-width: 900px;
+  max-width: 1200px;
   padding: 0 15px;
 }
 .container .text-muted {
@@ -36,12 +36,17 @@ ul {
 }
 
 .carousel-caption h1 {
-  font-size: 4em;
+  font-size: 3em;
   text-shadow:0 0 4px black;
 }
 .carousel-caption h3 {
-  font-size: 1.5em;
+  font-size: 1.3em;
   text-shadow:0 0 4px black;
+}
+
+.level-table {
+  margin: 10px;
+  font-size:.8em;
 }
 
 .class-info h4 {
@@ -54,7 +59,7 @@ ul {
   border-radius: 10px;
   font-size: .8em;
   padding:5px 20px 10px 20px;
-  margin:0 0 25px 0;
+  margin:10px;
 }
 
 .class-features {
@@ -63,6 +68,13 @@ ul {
   font-size: .9em;
   padding:5px 20px 10px 20px;
   margin:0 0 25px 0;
+}
+
+.btn-toolbar {
+  margin: 10px;
+}
+.btn-toolbar .btn {
+  margin: 5px;
 }
 
 .feature > p {

@@ -20,9 +20,12 @@ export const Class = ( {params} ) => {
   return(
     <div>
       <JumbotronComponent title={currClass.name} description={currClass.description} image={currClass.name}/>
-      <ClassLevels currClass={currClass} />
-      <ClassArchetypeList currClass={currClass} />
-      <ClassDetails currClass={currClass} />
+      <div className="row">
+        <ClassLevels currClass={currClass} />
+        <ClassDetails currClass={currClass} />
+        <ClassArchetypeList currClass={currClass} />
+      </div>
+      
       <ClassFeatures features={currClass.features} />
     </div>
   );

@@ -17,7 +17,7 @@ export default class JumbotronComponent extends React.Component {
     <div className="carousel slide">
       <div className="carousel-inner">
         <div className="item active">
-        <img width="900" height="300" alt="900x300" src={"https://rawgit.com/gaschw3/dnd-react/master/src/images/"+this.state.image+".jpg"} />
+        <img width="1200" height="300" alt="1200x300" src={"https://rawgit.com/gaschw3/dnd-react/master/src/images/"+this.state.image+".jpg"} />
           <div className="carousel-caption">
           <h1>{this.state.title}</h1>
           <h3 className="hidden-xs">{this.state.description}</h3>
