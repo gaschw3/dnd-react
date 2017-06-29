@@ -25,61 +25,61 @@
           "width": ["1", "1", "5", "1", "1"]
         },
         {
-          "data": ["1", "+2", "features", "2", "+2"]
+          "data": ["1", "+2", "features", "+2"]
         },
         {
-          "data": ["2", "+2", "features", "2", "+2"]
+          "data": ["2", "+2", "features", "+2"]
         },
         {
-          "data": ["3", "+2", "features", "3", "+2"]
+          "data": ["3", "+2", "features", "+2"]
         },
         {
-          "data": ["4", "+2", "features", "3", "+2"]
+          "data": ["4", "+2", "features", "+2"]
         },
         {
-          "data": ["5", "+3", "features", "3", "+2"]
+          "data": ["5", "+3", "features", "+2"]
         },
         {
-          "data": ["6", "+3", "features", "4", "+2"]
+          "data": ["6", "+3", "features", "+2"]
         },
         {
-          "data": ["7", "+3", "features", "4", "+2"]
+          "data": ["7", "+3", "features", "+2"]
         },
         {
-          "data": ["8", "+3", "features", "4", "+2"]
+          "data": ["8", "+3", "features", "+2"]
         },
         {
-          "data": ["9", "+4", "features", "4", "+3"]
+          "data": ["9", "+4", "features", "+3"]
         },
         {
-          "data": ["10", "+4", "features", "4", "+3"]
+          "data": ["10", "+4", "features", "+3"]
         },
         {
-          "data": ["11", "+4", "features", "4", "+3"]
+          "data": ["11", "+4", "features", "+3"]
         },
         {
-          "data": ["12", "+4", "features", "5", "+3"]
+          "data": ["12", "+4", "features", "+3"]
         },
         {
-          "data": ["13", "+5", "features", "5", "+3"]
+          "data": ["13", "+5", "features", "+3"]
         },
         {
-          "data": ["14", "+5", "features", "5", "+3"]
+          "data": ["14", "+5", "features", "+3"]
         },
         {
-          "data": ["15", "+5", "features", "5", "+3"]
+          "data": ["15", "+5", "features", "+3"]
         },
         {
-          "data": ["16", "+5", "features", "5", "+4"]
+          "data": ["16", "+5", "features", "+4"]
         },
         {
-          "data": ["17", "+6", "features", "6", "+4"]
+          "data": ["17", "+6", "features", "+4"]
         },
         {
-          "data": ["18", "+6", "features", "6", "+4"]
+          "data": ["18", "+6", "features", "+4"]
         },
         {
-          "data": ["19", "+6", "features", "6", "+4"]
+          "data": ["19", "+6", "features", "+4"]
         },
         {
           "data": ["20", "+6", "features", "Ultd", "+4"]
@@ -157,6 +157,41 @@
           "text": "<div>At 3rd level, when you adopt this path, you choose a totem spirit and gain its feature. You must make or acquire a physical totem object—an amulet or similar adornment—that incorporates fur or feathers, claws, teeth, or bones of the totem animal. At your option, you also gain minor physical attributes that are reminiscent of your totem spirit. For example, if you have a bear totem spirit, you might be unusually hairy and thick-skinned, or if your totem is the eagle, your eyes turn bright yellow.</div><div><strong>Bear:</strong> While raging, you have resistance to all damage except psychic damage.</div><div><strong>Eagle:</strong> While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn.</div><div><strong>Elk:</strong> While you're raging and aren't wearing heaving armor, your walking speed increases by 15 feet.</div><div><strong>Tiger:</strong> While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance.</div><div><strong>Wolf:</strong> While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you.</div>"
         },
         {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "storm",
+          "title": "Primal Path: Path of the Storm Herald (UA)",
+          "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
+        },
+        {
+          "level": 3,
+          "subclass": "storm",
+          "name": "storm-fury",
+          "title": "Path of the Storm Herald: Storm of Fury",
+          "text": "When you select this path at 3rd level, choose an environment to shape the nature of the storm you conjure when you rage. While raging, you emanate an aura in a 10-foot radius.<ul><li>strong>Desert: </strong>Any enemy that ends its turn in your aura takes fire damage equal to 2 + your barbarian level divided by 4.</li><li><strong>Sea</strong>At the end of each of your turns, you can choose a creature in your aura other than yourself. The target must make a Dexterity saving throw against a DC equal to 8 + your proficiency + CON. The target takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. This damage increases to 3d6 at 10th level and to 4d6 at 15th level.</li><li><strong>Storm Environment: Tundra</strong> Any enemy that ends its turn in your aura takes cold damage equal to 2 + your barbarian level divided by 4.</li></ul>"
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "zealot",
+          "title": "Primal Path: Path of the Zealot (UA)",
+          "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
+        },
+        {
+          "level": 3,
+          "subclass": "zealot",
+          "name": "zealot-fury",
+          "title": "Path of the Zealot: Divine Fury",
+          "text": "Starting when you choose this path at 3rd level, you can channel divine fury when you start to rage. If you do so, you become cloaked in an aura of divine power until the rage ends. At the end of each of your turns for that duration, each creature within 5 feet of you takes damage equal to 1d6 + half your barbarian level. The damage is necrotic or radiant; you choose the type of damage when you gain this feature."
+        },
+        {
+          "level": 3,
+          "subclass": "zealot",
+          "name": "zealot-fury",
+          "title": "Path of the Zealot: Warrior of the Gods",
+          "text": "At 3rd level, your soul is marked for endless battle. If a spell would have the sole effect of restoring you to life, the caster does not need material components to cast the spell on you."
+        },
+        {
           "level": 4,
           "subclass": "base",
           "name": "asi",
@@ -196,7 +231,21 @@
           "subclass": "totem",
           "name": "totem-aspect",
           "title": "Path of the Totem Warrior: Aspect of the Beast",
-          "text": "At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd level or a different one. \n<strong>Bear:</strong> ou can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks. \n<strong>Eagle:</strong> While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn.\n<strong>Elk:</strong> Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated.\n<strong>Tiger:</strong> You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival.\n<strong>Wolf:</strong>  You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace."
+          "text": "At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd level or a different one.<ul><li><strong>Bear:</strong> ou can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.</li><li><strong>Eagle:</strong> While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn.</li><li><strong>Elk:</strong> Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated.</li><li><strong>Tiger:</strong> You gain proficiency in two skills from the following list: Athletics, Acrobatics, Stealth, and Survival.</li><li><strong>Wolf:</strong>  You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.</ul>"
+        },
+        {
+          "level": 6,
+          "subclass": "storm",
+          "name": "storm-soul",
+          "title": "Path of the Storm Herald: Storm Soul",
+          "text": "At 6th level, your link to the power of the storm grants you additional abilities based on the environment you chose at 3rd level.<ul><li><strong>Desert: </strong>You gain resistance to fire damage and don’t suffer the effects of extreme heat.</li><li><strong>Sea: </strong>You gain resistance to lightning damage and can breathe underwater.</li><li><strong>Tundra: </strong> You gain resistance to cold damage and don’t suffer the effects of extreme cold.</li></ul>"
+        },
+        {
+          "level": 6,
+          "subclass": "zealot",
+          "name": "zealot-focus",
+          "title": "Path of the Zealot: Zealous Focus",
+          "text": "At 6th level, the divine power that fuels your rage can shield you from harm. If you fail a saving throw while raging, you can instead succeed on that saving throw as a reaction. However, doing so immediately ends your rage, and you can’t rage again until you finish a short or long rest."
         },
         {
           "level": 7,
@@ -241,6 +290,20 @@
           "text": "At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek."
         },
         {
+          "level": 10,
+          "subclass": "storm",
+          "name": "storm-shield",
+          "title": "Path of the Storm Herald: Shield of the Storm",
+          "text": "At 10th level, you learn to use your mastery of the storm to protect your allies. While you are raging, allies within your aura gain the benefits of your Storm Soul feature."
+        },
+        {
+          "level": 10,
+          "subclass": "zealot",
+          "name": "zealot-presence",
+          "title": "Path of the Zealot: Zealous Presence",
+          "text": "At 10th level, you learn to channel divine power to inspire zealotry in others. As an action, you howl in fury and unleash a battle cry infused with divine energy. Every ally within 60 feet of you gains advantage on attack rolls and saving throws until the start of your next turn. Once you use this feature, you can’t use it again until you finish a long rest."
+        },
+        {
           "level": 11,
           "subclass": "base",
           "name": "relentlessrage",
@@ -280,7 +343,21 @@
           "subclass": "totem",
           "name": "totem-attunement",
           "title": "Path of the Totem Warrior: Spirit Walker",
-          "text": "<p>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.</p><ul><li><strong>Bear:</strong>While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.</li><li><strong>Eagle:</strong>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</li><li><strong>Elk:</strong>While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked prone and take bludgeoning damage equal to 1d12 + your strength modifier.</li><li><strong>Tiger:</strong>While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</li><li><strong>Wolf:</strong>While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.</li></ul>"
+          "text": "<p>At 14th level, you gain a magical benefit based on a totem animal of your choice. You can choose the same animal you selected previously or a different one.</p><ul><li><strong>Bear :</strong>While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.</li><li><strong>Eagle: </strong>While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.</li><li><strong>Elk: </strong>While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked prone and take bludgeoning damage equal to 1d12 + your strength modifier.</li><li><strong>Tiger: </strong>While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</li><li><strong>Wolf: </strong>While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.</li></ul>"
+        },
+        {
+          "level": 14,
+          "subclass": "storm",
+          "name": "storm-shield",
+          "title": "Path of the Storm Herald: Raging Storm",
+          "text": "At 14th level, the power of the storm you channel grows mightier.<ul><li><strong>Desert: </strong>The ground around you becomes like shifting sand. Any enemy that attempts to move more than 5 feet per turn on the ground while in your aura must make a Strength saving throw (DC 8 + proficiency + CON). On a failed save, the creature’s speed drops to 0 until the start of its next turn.</li><li><strong>Sea: </strong>Roaring winds tear through the area around you. Any creature in your aura that you hit with an attack must make a Strength saving throw (DC 8 + proficiency + STR) or be knocked prone.</li><li><strong>Tundra: </strong>The air around you coldly slows your foes. The area within your aura is difficult terrain for your enemies.</li></ul>"
+        },
+        {
+          "level": 14,
+          "subclass": "zealot",
+          "name": "zealot-presence",
+          "title": "Path of the Zealot: Rage Beyond Death",
+          "text": "While raging, having 0 hit points doesn’t knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don’t die until your rage ends."
         },
         {
           "level": 15,
@@ -345,105 +422,70 @@
                      "Alternatively, you may start with 5d4 × 10 gp to buy your own equipment."
                    ],
       "leveltable": [
-        {
-          "known": "4",
-          "slots": "2,2,0,0,0,0,0,0,0,0",
-          "level": "1"
+        { 
+          "columns": 14,
+          "data": ["Level", "Proficiency", "Features", "Spells", "Cantrips", "1st", "2nd","3rd","4th","5th","6th", "7th", "8th", "9th"],
+          "width": ["1", "1", "5", "1", "1"]
         },
         {
-          "known": "5",
-          "slots": "2,3,0,0,0,0,0,0,0,0",
-          "level": "2"
+          "data": ["1", "+2", "features","2","2","-","-","-","-","-","-","-","-"]
         },
         {
-          "known": "6",
-          "slots": "2,4,2,0,0,0,0,0,0,0",
-          "level": "3"
+          "data": ["2", "+2", "features","2","3","-","-","-","-","-","-","-","-"]
         },
         {
-          "known": "7",
-          "slots": "3,4,3,0,0,0,0,0,0,0",
-          "level": "4"
+          "data": ["3", "+2", "features","2","4","2","-","-","-","-","-","-","-"]
         },
         {
-          "known": "8",
-          "slots": "3,4,3,2,0,0,0,0,0,0",
-          "level": "5"
+          "data": ["4", "+2", "features","3","4","3","-","-","-","-","-","-","-"]
         },
         {
-          "known": "9",
-          "slots": "3,4,3,3,0,0,0,0,0,0",
-          "level": "6"
+          "data": ["5", "+3", "features","3","4","3","2","-","-","-","-","-","-"]
         },
         {
-          "known": "10",
-          "slots": "3,4,3,3,1,0,0,0,0,0",
-          "level": "7"
+          "data": ["6", "+3", "features","3","4","3","3","-","-","-","-","-","-"]
         },
         {
-          "known": "11",
-          "slots": "3,4,3,3,2,0,0,0,0,0",
-          "level": "8"
+          "data": ["7", "+3", "features","3","4","3","3","1","-","-","-","-","-"]
         },
         {
-          "known": "12",
-          "slots": "3,4,3,3,3,1,0,0,0,0",
-          "level": "9"
+          "data": ["8", "+3", "features","3","4","3","3","2","-","-","-","-","-"]
         },
         {
-          "known": "14",
-          "slots": "4,4,3,3,3,2,0,0,0,0",
-          "level": "10"
+          "data": ["9", "+4", "features","3","4","3","3","3","1","-","-","-","-"]
         },
         {
-          "known": "15",
-          "slots": "4,4,3,3,3,2,1,0,0,0",
-          "level": "11"
+          "data": ["10", "+4", "features","4","4","3","3","3","2","-","-","-","-"]
         },
         {
-          "known": "15",
-          "slots": "4,4,3,3,3,2,1,0,0,0",
-          "level": "12"
+          "data": ["11", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
         },
         {
-          "known": "16",
-          "slots": "4,4,3,3,3,2,1,1,0,0",
-          "level": "13"
+          "data": ["12", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
         },
         {
-          "known": "18",
-          "slots": "4,4,3,3,3,2,1,1,0,0",
-          "level": "14"
+          "data": ["13", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
         },
         {
-          "known": "19",
-          "slots": "4,4,3,3,3,2,1,1,1,0",
-          "level": "15"
+          "data": ["14", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
         },
         {
-          "known": "19",
-          "slots": "4,4,3,3,3,2,1,1,1,0",
-          "level": "16"
+          "data": ["15", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
         },
         {
-          "known": "20",
-          "slots": "4,4,3,3,3,2,1,1,1,1",
-          "level": "17"
+          "data": ["16", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
         },
         {
-          "known": "22",
-          "slots": "4,4,3,3,3,3,1,1,1,1",
-          "level": "18"
+          "data": ["17", "+6", "features","4","4","3","3","3","2","1","1","1","1"]
         },
         {
-          "known": "22",
-          "slots": "4,4,3,3,3,3,2,1,1,1",
-          "level": "19"
+          "data": ["18", "+6", "features","4","4","3","3","3","3","1","1","1","1"]
         },
         {
-          "known": "22",
-          "slots": "4,4,3,3,3,3,2,2,1,1",
-          "level": "20"
+          "data": ["19", "+6", "features","4","4","3","3","3","3","2","1","1","1"]
+        },
+        {
+          "data": ["20", "+6", "features","4","4","3","3","3","3","2","2","1","1"]
         }
       ],
       "features" : [
@@ -790,105 +832,70 @@
                      "Alternatively, you may start with 5d4 × 10 gp to buy your own equipment."
                    ],
       "leveltable": [
-        {
-          "known": "4",
-          "slots": "2,2,0,0,0,0,0,0,0,0",
-          "level": "1"
+        { 
+          "columns": 14,
+          "data": ["Level", "Proficiency", "Features", "Cantrips", "1st", "2nd","3rd","4th","5th","6th", "7th", "8th", "9th"],
+          "width": ["1", "1", "5", "1", "1"]
         },
         {
-          "known": "5",
-          "slots": "2,3,0,0,0,0,0,0,0,0",
-          "level": "2"
+          "data": ["1", "+2", "features","2","2","-","-","-","-","-","-","-","-"]
         },
         {
-          "known": "6",
-          "slots": "2,4,2,0,0,0,0,0,0,0",
-          "level": "3"
+          "data": ["2", "+2", "features","2","3","-","-","-","-","-","-","-","-"]
         },
         {
-          "known": "7",
-          "slots": "3,4,3,0,0,0,0,0,0,0",
-          "level": "4"
+          "data": ["3", "+2", "features","2","4","2","-","-","-","-","-","-","-"]
         },
         {
-          "known": "8",
-          "slots": "3,4,3,2,0,0,0,0,0,0",
-          "level": "5"
+          "data": ["4", "+2", "features","3","4","3","-","-","-","-","-","-","-"]
         },
         {
-          "known": "9",
-          "slots": "3,4,3,3,0,0,0,0,0,0",
-          "level": "6"
+          "data": ["5", "+3", "features","3","4","3","2","-","-","-","-","-","-"]
         },
         {
-          "known": "10",
-          "slots": "3,4,3,3,1,0,0,0,0,0",
-          "level": "7"
+          "data": ["6", "+3", "features","3","4","3","3","-","-","-","-","-","-"]
         },
         {
-          "known": "11",
-          "slots": "3,4,3,3,2,0,0,0,0,0",
-          "level": "8"
+          "data": ["7", "+3", "features","3","4","3","3","1","-","-","-","-","-"]
         },
         {
-          "known": "12",
-          "slots": "3,4,3,3,3,1,0,0,0,0",
-          "level": "9"
+          "data": ["8", "+3", "features","3","4","3","3","2","-","-","-","-","-"]
         },
         {
-          "known": "14",
-          "slots": "4,4,3,3,3,2,0,0,0,0",
-          "level": "10"
+          "data": ["9", "+4", "features","3","4","3","3","3","1","-","-","-","-"]
         },
         {
-          "known": "15",
-          "slots": "4,4,3,3,3,2,1,0,0,0",
-          "level": "11"
+          "data": ["10", "+4", "features","4","4","3","3","3","2","-","-","-","-"]
         },
         {
-          "known": "15",
-          "slots": "4,4,3,3,3,2,1,0,0,0",
-          "level": "12"
+          "data": ["11", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
         },
         {
-          "known": "16",
-          "slots": "4,4,3,3,3,2,1,1,0,0",
-          "level": "13"
+          "data": ["12", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
         },
         {
-          "known": "18",
-          "slots": "4,4,3,3,3,2,1,1,0,0",
-          "level": "14"
+          "data": ["13", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
         },
         {
-          "known": "19",
-          "slots": "4,4,3,3,3,2,1,1,1,0",
-          "level": "15"
+          "data": ["14", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
         },
         {
-          "known": "19",
-          "slots": "4,4,3,3,3,2,1,1,1,0",
-          "level": "16"
+          "data": ["15", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
         },
         {
-          "known": "20",
-          "slots": "4,4,3,3,3,2,1,1,1,1",
-          "level": "17"
+          "data": ["16", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
         },
         {
-          "known": "22",
-          "slots": "4,4,3,3,3,3,1,1,1,1",
-          "level": "18"
+          "data": ["17", "+6", "features","4","4","3","3","3","2","1","1","1","1"]
         },
         {
-          "known": "22",
-          "slots": "4,4,3,3,3,3,2,1,1,1",
-          "level": "19"
+          "data": ["18", "+6", "features","4","4","3","3","3","3","1","1","1","1"]
         },
         {
-          "known": "22",
-          "slots": "4,4,3,3,3,3,2,2,1,1",
-          "level": "20"
+          "data": ["19", "+6", "features","4","4","3","3","3","3","2","1","1","1"]
+        },
+        {
+          "data": ["20", "+6", "features","4","4","3","3","3","3","2","2","1","1"]
         }
       ],
       "features" : [

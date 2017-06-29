@@ -23,7 +23,12 @@ export class ClassLevels extends React.Component {
     return (
       jp.query(json, searchString).map( (feature, index) => {
         return (
-          <span>{index>0?", ":""}<Scrollchor animate={{offset: -100, duration: 600}} to={feature.name}>{feature.title}</Scrollchor></span>
+          <span>
+            {index>0?", ":""}
+            <Scrollchor animate={{offset: -100, duration: 600}} to={feature.name}>
+              {feature.title}
+            </Scrollchor>
+          </span>
         );
       })
     ) 
@@ -32,7 +37,7 @@ export class ClassLevels extends React.Component {
     return (
       <div className="col-sm-6">
         <div className="level-table">
-          <table className="table table-striped"><tbody>
+          <table className={"table table-striped table-"+this.props.currClass.id}><tbody>
             {
               levels.map( (i) => {
                 return (<tr>
@@ -41,7 +46,7 @@ export class ClassLevels extends React.Component {
                       if (i == 0)
                         return(<th>{leveltable[i].data[j]}</th>)
                       else
-                        return(<td>{leveltable[i].data[j] == "features" ? getFeatures(i) : leveltable[i].data[j]}</td>)
+                        return(<td className={leveltable[i].data[j] == "features" ? "left" : "center"}>{leveltable[i].data[j] == "features" ? getFeatures(i) : leveltable[i].data[j]}</td>)
                     })
                   }
                 </tr>)

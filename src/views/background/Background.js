@@ -12,7 +12,7 @@ export class Background extends React.Component {
     this.state = { 
       background: "Backgrounds",
       description: "Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world.",
-      image: "Bard",
+      image: "Background",
       json: json.background
     };
     this.handleClick = this.handleClick.bind(this);

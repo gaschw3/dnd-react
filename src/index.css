@@ -49,6 +49,15 @@ ul {
   font-size:.8em;
 }
 
+.table-bard>tbody>tr>th,
+.table-cleric>tbody>tr>th {
+    padding: 2px;
+}
+
+td.center, th {
+  text-align:center;
+}
+
 .class-info h4 {
   padding:10px 0 3px 0;
   margin:0;
