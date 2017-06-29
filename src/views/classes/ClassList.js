@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import {Link } from 'react-router';
-import { hashHistory } from 'react-router';
+import { Link } from 'react-router';
 
 import {Grid, Row, Col} from  'react-bootstrap';
 import JumbotronComponent from '../../jumbotron.js';

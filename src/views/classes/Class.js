@@ -1,5 +1,4 @@
 import React from 'react';
-import { hashHistory } from 'react-router'
 import JumbotronComponent from '../../jumbotron.js';
 
 import classes from '../../data/classData.json';
@@ -7,9 +6,9 @@ import classes from '../../data/classData.json';
 import {ClassLevels} from './ClassLevels.js';
 import {ClassArchetypeList} from './ClassArchetypeList.js';
 import {ClassDetails} from './ClassDetails.js';
+import {ClassFeatures} from './ClassFeatures.js';
 
-export const ClassName = ( {params} ) => {
-
+export const Class = ( {params} ) => {
   var className = params.className.charAt(0).toUpperCase() + params.className.slice(1);
   var currClass;
   for (var i=0; i < classes.class.length; i++) {
@@ -21,9 +20,10 @@ export const ClassName = ( {params} ) => {
   return(
     <div>
       <JumbotronComponent title={currClass.name} description={currClass.description} image={currClass.name}/>
-      <ClassLevels currClass={currClass.name} />
-      <ClassArchetypeList />
-      <ClassDetails currClass={currClass.name}/>
+      <ClassLevels currClass={currClass} />
+      <ClassArchetypeList currClass={currClass} />
+      <ClassDetails currClass={currClass} />
+      <ClassFeatures features={currClass.features} />
     </div>
   );
 }
