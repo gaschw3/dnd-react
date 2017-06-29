@@ -4,11 +4,10 @@ import Scrollchor from 'react-scrollchor';
 export class ClassLevels extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { classJson: props.currClass};
   }
 
   render() {
-    var json = this.state.classJson;
+    var json = this.props.currClass;
     var leveltable = json.leveltable;
     var jp = require('jsonpath');
     var searchString;

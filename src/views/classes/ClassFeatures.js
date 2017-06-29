@@ -3,13 +3,10 @@ import React from 'react';
 export class ClassFeatures extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { 
-      featuresJson: props.features
-    };
   }
 
   render() {
-    var json = this.state.featuresJson;
+    var json = this.props.features;
     return (
       <div className="class-features">
           {

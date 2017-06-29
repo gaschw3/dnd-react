@@ -25,6 +25,7 @@ export const Archetype = ( {params} ) => {
       <div className="row">
         <ClassLevels currClass={currClass[0]} />
         <ClassDetails currClass={currClass[0]} />
+        <ClassArchetypeList currClass={currClass[0]} />
       </div>
       <ClassFeatures features={currFeatures} />
     </div>

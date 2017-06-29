@@ -3,13 +3,10 @@ import React from 'react';
 export class ClassDetails extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { 
-      classJson: props.currClass
-    };
   }
 
   render() {
-    var json = this.state.classJson;
+    var json = this.props.currClass;
     return (
       <div className="col-sm-6">
         <div className="class-info">

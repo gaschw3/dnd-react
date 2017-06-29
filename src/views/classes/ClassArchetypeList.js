@@ -7,11 +7,10 @@ import Scrollchor from 'react-scrollchor';
 export class ClassArchetypeList extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { classJson: props.currClass};
   }
 
   render() {
-    var json = this.state.classJson;
+    var json = this.props.currClass;
     var jp = require('jsonpath');
     var searchString = "$..features[?(@.subclass==\"subclass\")]";
 
