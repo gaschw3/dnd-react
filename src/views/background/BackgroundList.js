@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, ButtonToolbar } from  'react-bootstrap';
+import { ListGroup, ListGroupItem } from  'react-bootstrap';
 import JumbotronComponent from '../../jumbotron.js';
 
 export class BackgroundList extends React.Component {
@@ -10,19 +10,22 @@ export class BackgroundList extends React.Component {
 
   render() {
     return(
-      <ButtonToolbar>
+      <div>
+      <ListGroupItem disabled>Name</ListGroupItem>
+      <ListGroup className="background-list">
       {
         this.state.json.map( (background) => {
           return (
-            <Button 
-              bsStyle="primary" 
-              onClick={this.props.handleClick.bind(this, background.name, background.description)}>
+            <ListGroupItem
+              className={this.props.active === background.name ? "active info" : ""}
+              onClick={this.props.handleClick.bind(this, background.name, background.description, background.id)}>
                 {background.name}
-            </Button>
+            </ListGroupItem>
           )
         }, this)
       }
-      </ButtonToolbar>
+      </ListGroup>
+      </div>
     );
   }
 }

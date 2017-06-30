@@ -25,61 +25,61 @@
           "width": ["1", "1", "5", "1", "1"]
         },
         {
-          "data": ["1", "+2", "features", "+2"]
+          "data": ["1", "+2", "features", "2", "+2"]
         },
         {
-          "data": ["2", "+2", "features", "+2"]
+          "data": ["2", "+2", "features", "2", "+2"]
         },
         {
-          "data": ["3", "+2", "features", "+2"]
+          "data": ["3", "+2", "features", "3", "+2"]
         },
         {
-          "data": ["4", "+2", "features", "+2"]
+          "data": ["4", "+2", "features", "3", "+2"]
         },
         {
-          "data": ["5", "+3", "features", "+2"]
+          "data": ["5", "+3", "features", "3", "+2"]
         },
         {
-          "data": ["6", "+3", "features", "+2"]
+          "data": ["6", "+3", "features", "4", "+2"]
         },
         {
-          "data": ["7", "+3", "features", "+2"]
+          "data": ["7", "+3", "features", "4", "+2"]
         },
         {
-          "data": ["8", "+3", "features", "+2"]
+          "data": ["8", "+3", "features", "4", "+2"]
         },
         {
-          "data": ["9", "+4", "features", "+3"]
+          "data": ["9", "+4", "features", "4", "+3"]
         },
         {
-          "data": ["10", "+4", "features", "+3"]
+          "data": ["10", "+4", "features", "4", "+3"]
         },
         {
-          "data": ["11", "+4", "features", "+3"]
+          "data": ["11", "+4", "features", "4", "+3"]
         },
         {
-          "data": ["12", "+4", "features", "+3"]
+          "data": ["12", "+4", "features", "5", "+3"]
         },
         {
-          "data": ["13", "+5", "features", "+3"]
+          "data": ["13", "+5", "features", "5", "+3"]
         },
         {
-          "data": ["14", "+5", "features", "+3"]
+          "data": ["14", "+5", "features", "5", "+3"]
         },
         {
-          "data": ["15", "+5", "features", "+3"]
+          "data": ["15", "+5", "features", "5", "+3"]
         },
         {
-          "data": ["16", "+5", "features", "+4"]
+          "data": ["16", "+5", "features", "5", "+4"]
         },
         {
-          "data": ["17", "+6", "features", "+4"]
+          "data": ["17", "+6", "features", "6", "+4"]
         },
         {
-          "data": ["18", "+6", "features", "+4"]
+          "data": ["18", "+6", "features", "6", "+4"]
         },
         {
-          "data": ["19", "+6", "features", "+4"]
+          "data": ["19", "+6", "features", "6", "+4"]
         },
         {
           "data": ["20", "+6", "features", "Ultd", "+4"]
@@ -966,6 +966,826 @@
           "level": 3,
           "subclass": "whispers",
           "name": "whispers-college",
+          "title": "Bard College: College of Whispers (UA)",
+          "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "name": "lore-proficiencies",
+          "title": "College of Lore: Bonus Proficiencies",
+          "text": "When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice."
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "name": "lore-cutting",
+          "title": "College of Lore: Cutting Words",
+          "text": "Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can't hear you or if it's immune to being charmed."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "name": "valor-proficiencies",
+          "title": "College of Valor: Bonus Proficiencies",
+          "text": "When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "name": "valor-combat",
+          "title": "College of Valor: Combat Inspiration",
+          "text": "Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack."
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "name": "glamour-mantle",
+          "title": "College of Glamour: Mantle of Inspiration",
+          "text": "When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points. The temporary HP die increases along with your Inspiration die."
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "name": "glamour-enthrall",
+          "title": "College of Glamour: Enthralling Performance",
+          "text": "Also at 3rd level, if you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. If a target succeeds on its save against this effect, the target has no hint that you tried to charm it."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "name": "whispers-blades",
+          "title": "College of Whispers: Venomous Blades",
+          "text": "When you join the College of Whispers at 3rd level, and when you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn. The venom damage die increases along with your Inspiration die."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "name": "whispers-words",
+          "title": "College of Whispers: Venomous Words",
+          "text": "If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. If the target succeeds on its save, the target has no hint that you tried to frighten it."
+        },
+        {
+          "level": 4,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "inspiration-2",
+          "title": "Bardic Inspiration (d8)",
+          "text": "At 5th level, your Bardic Inspiration die changes to a d8."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "fontofinspiration",
+          "title": "Font of Inspiration",
+          "text": "Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "countercharm",
+          "title": "Countercharm",
+          "text": "At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required)."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "college-feature-1",
+          "title": "2nd College Feature",
+          "text": "At 6th level, you gain a feature from your Bard College."
+        },
+        {
+          "level": 6,
+          "subclass": "lore",
+          "name": "lore-secrets",
+          "title": "College of Lore: Additional Magical Secrets",
+          "text": "At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know."
+        },
+        {
+          "level": 6,
+          "subclass": "valor",
+          "name": "valor-attack",
+          "title": "College of Valor: Extra Attack",
+          "text": "Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        },
+        {
+          "level": 6,
+          "subclass": "glamour",
+          "name": "glamour-majesty",
+          "title": "College of Glamour: Mantle of Majesty",
+          "text": "At 6th level, you gain the ability to cloak yourself in a fey magic once per day. As a bonus action, you take on an appearance of unearthly beauty for 1 minute. During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. This effect lasts for 1 minute, and any creature charmed by you automatically fails its saving throw against the spell."
+        },
+        {
+          "level": 6,
+          "subclass": "whispers",
+          "name": "whispers-mantle",
+          "title": "College of Whispers: Mantle of Whispers",
+          "text": "<p>At 6th level, you gain the ability to adopt a creature’s persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you’re Small), and you can have only one shadow captured at a time.</p><p>After you capture a creature’s shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature’s appearance for 1 hour or until you end this effect as a bonus action.</p><p>During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories.</p><p>Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</p><p>The disguise and the knowledge it grants disappears when this ability’s duration ends.</p>"
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 9,
+          "subclass": "base",
+          "name": "songofrest-2",
+          "title": "Song of Rest (d8)",
+          "text": "At 9th level, the extra hit points gained from Song of Rest increases to 1d8."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "inspiration-3",
+          "title": "Bardic Inspiration (d10)",
+          "text": "At 10th level, your Bardic Inspiration die changes to a d10."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "expertise-2",
+          "title": "Expertise",
+          "text": "At 10th level, you can choose another two skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 12,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 13,
+          "subclass": "base",
+          "name": "songofrest-3",
+          "title": "Song of Rest (d10)",
+          "text": "At 13th level, the extra hit points gained from Song of Rest increases to 1d10."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "By 14th level choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "college-feature-2",
+          "title": "3nd College Feature",
+          "text": "At 14th level, you gain a feature from your Bard College."
+        },
+        {
+          "level": 14,
+          "subclass": "lore",
+          "name": "lore-skill",
+          "title": "College of Lore: Peerless Skill",
+          "text": "Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roil the die for the ability check, but before the DM tells you whether you succeed or fail."
+        },
+        {
+          "level": 14,
+          "subclass": "valor",
+          "name": "valor-battle",
+          "title": "College of Valor: Battle Magic",
+          "text": "At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action"
+        },
+        {
+          "level": 14,
+          "subclass": "glamour",
+          "name": "glamour-unbreakable",
+          "title": "College of Glamour: Unbreakable Majesty",
+          "text": "At 14th level, you gain an otherworldly aspect to your appearance that makes you look more fierce and lovely. In addition, once per day, you can cast Sanctuary on yourself. If a creature fails its saving throw against the spell, you also gain advantage on all Charisma checks against the creature for 1 minute, and it has disadvantage on any saving throw it makes against your spells on your next turn."
+        },
+        {
+          "level": 14,
+          "subclass": "whispers",
+          "name": "whispers-mantle",
+          "title": "College of Whispers: Shadow Lore",
+          "text": "<p>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.</p><p>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</p><p>If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it.</p><p>While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</p><p>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can’t use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 15,
+          "subclass": "base",
+          "name": "inspiration-4",
+          "title": "Bardic Inspiration (d12)",
+          "text": "At 15th level, your Bardic Inspiration die changes to a d12."
+        },
+        {
+          "level": 16,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 17,
+          "subclass": "base",
+          "name": "songofrest-4",
+          "title": "Song of Rest (d12)",
+          "text": "At 17th level, the extra hit points gained from Song of Rest increases to 1d12."
+        },
+        {
+          "level": 18,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 19,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 20,
+          "subclass": "base",
+          "name": "superior-inspiration",
+          "title": "Superior Inspiration",
+          "text": "At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use."
+        }
+      ]
+    },
+    {
+      "name": "Druid",
+      "id": "druid",
+      "description": "Arcane casters defined by their strong connection to nature and wildlife. They can use powers of the natural world to cast spells, summon allies, and even transform themselves in beasts.",
+      "hd": "8",
+      "proficiencies": [
+                     "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
+                     "<strong>Armor:</strong> light armor",
+                     "<strong>Weapons:</strong> simple weapons, hand crossbows, longswords, rapiers, shortswords",
+                     "<strong>Tools:</strong> three musical instruments of your choice",
+                     "<strong>Saving Throws:</strong> DEX, CHA",
+                     "<strong>Skills:</strong> Choose any three"
+                      ],
+      "equipment": [
+                     "You start with the following items, plus anything provided by your background.",
+                     "<ul><li>(a) a rapier, (b) a longsword, or (c) any simple weapon</li><li>(a) a diplomat's pack or (b) an entertainer's pack</li><li>(a) a lute or (b) any other musical instrument</li><li>Leather armor, and a dagger</li></ul>",
+                     "Alternatively, you may start with 5d4 × 10 gp to buy your own equipment."
+                   ],
+      "leveltable": [
+        { 
+          "columns": 14,
+          "data": ["Level", "Proficiency", "Features", "Spells", "Cantrips", "1st", "2nd","3rd","4th","5th","6th", "7th", "8th", "9th"],
+          "width": ["1", "1", "5", "1", "1"]
+        },
+        {
+          "data": ["1", "+2", "features","2","2","-","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["2", "+2", "features","2","3","-","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["3", "+2", "features","2","4","2","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["4", "+2", "features","3","4","3","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["5", "+3", "features","3","4","3","2","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["6", "+3", "features","3","4","3","3","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["7", "+3", "features","3","4","3","3","1","-","-","-","-","-"]
+        },
+        {
+          "data": ["8", "+3", "features","3","4","3","3","2","-","-","-","-","-"]
+        },
+        {
+          "data": ["9", "+4", "features","3","4","3","3","3","1","-","-","-","-"]
+        },
+        {
+          "data": ["10", "+4", "features","4","4","3","3","3","2","-","-","-","-"]
+        },
+        {
+          "data": ["11", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
+        },
+        {
+          "data": ["12", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
+        },
+        {
+          "data": ["13", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
+        },
+        {
+          "data": ["14", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
+        },
+        {
+          "data": ["15", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
+        },
+        {
+          "data": ["16", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
+        },
+        {
+          "data": ["17", "+6", "features","4","4","3","3","3","2","1","1","1","1"]
+        },
+        {
+          "data": ["18", "+6", "features","4","4","3","3","3","3","1","1","1","1"]
+        },
+        {
+          "data": ["19", "+6", "features","4","4","3","3","3","3","2","1","1","1"]
+        },
+        {
+          "data": ["20", "+6", "features","4","4","3","3","3","3","2","2","1","1"]
+        }
+      ],
+      "features" : [
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "inspiration-1",
+          "title": "Bardic Inspiration",
+          "text": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p><p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "casting",
+          "title": "Spellcasting",
+          "text": "<p>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.</p><h5><strong>Cantrips</strong></h5><p>You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels per the Bard table.</p><h5><strong>Spell Slots</strong></h5><p>The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><h5><strong>Spells Known of 1st Level and Higher</strong></h5><p>You know four 1st-level spells of your choice from the bard spell list. You learn additional bard spells per the Bard table (usually 1 per level).</p><p>Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list.</p><h5><strong>Spellcasting Ability</strong></h5><p>Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration.</p><ul><li>Spell save DC = 8 + your proficiency bonus + your Charisma modifier</li><li>Spell attack modifier = your proficiency bonus + your Charisma modifier</li></ul><h5><strong>Ritual Casting</strong></h5><p>You can cast any bard spell you know as a ritual if that spell has the ritual tag.</p><h5><strong>Spellcasting Focus</strong></h5><p>You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "jackoftradees",
+          "title": "Jack of All Trades",
+          "text": "Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus."
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "songofrest-1",
+          "title": "Song of Rest (d6)",
+          "text": "Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points."
+        },
+        {
+          "level": 3,
+          "subclass": "base",
+          "name": "college",
+          "title": "Bard College",
+          "text": "At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level."
+        },
+        {
+          "level": 3,
+          "subclass": "base",
+          "name": "expertise-1",
+          "title": "Expertise",
+          "text": "At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "lore",
+          "title": "Bard College: College of Lore",
+          "text": "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. "
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "valor",
+          "title": "Bard College: College of Valor",
+          "text": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old."
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "glamour",
+          "title": "Bard College: College of Glamour (UA)",
+          "text": "Bards of the College of Glamour mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others."
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "whispers",
+          "title": "Bard College: College of Whispers (UA)",
+          "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "name": "lore-proficiencies",
+          "title": "College of Lore: Bonus Proficiencies",
+          "text": "When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice."
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "name": "lore-cutting",
+          "title": "College of Lore: Cutting Words",
+          "text": "Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can't hear you or if it's immune to being charmed."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "name": "valor-proficiencies",
+          "title": "College of Valor: Bonus Proficiencies",
+          "text": "When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "name": "valor-combat",
+          "title": "College of Valor: Combat Inspiration",
+          "text": "Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack."
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "name": "glamour-mantle",
+          "title": "College of Glamour: Mantle of Inspiration",
+          "text": "When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points. The temporary HP die increases along with your Inspiration die."
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "name": "glamour-enthrall",
+          "title": "College of Glamour: Enthralling Performance",
+          "text": "Also at 3rd level, if you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. If a target succeeds on its save against this effect, the target has no hint that you tried to charm it."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "name": "whispers-blades",
+          "title": "College of Whispers: Venomous Blades",
+          "text": "When you join the College of Whispers at 3rd level, and when you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn. The venom damage die increases along with your Inspiration die."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "name": "whispers-words",
+          "title": "College of Whispers: Venomous Words",
+          "text": "If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. If the target succeeds on its save, the target has no hint that you tried to frighten it."
+        },
+        {
+          "level": 4,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "inspiration-2",
+          "title": "Bardic Inspiration (d8)",
+          "text": "At 5th level, your Bardic Inspiration die changes to a d8."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "fontofinspiration",
+          "title": "Font of Inspiration",
+          "text": "Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "countercharm",
+          "title": "Countercharm",
+          "text": "At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required)."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "college-feature-1",
+          "title": "2nd College Feature",
+          "text": "At 6th level, you gain a feature from your Bard College."
+        },
+        {
+          "level": 6,
+          "subclass": "lore",
+          "name": "lore-secrets",
+          "title": "College of Lore: Additional Magical Secrets",
+          "text": "At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know."
+        },
+        {
+          "level": 6,
+          "subclass": "valor",
+          "name": "valor-attack",
+          "title": "College of Valor: Extra Attack",
+          "text": "Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        },
+        {
+          "level": 6,
+          "subclass": "glamour",
+          "name": "glamour-majesty",
+          "title": "College of Glamour: Mantle of Majesty",
+          "text": "At 6th level, you gain the ability to cloak yourself in a fey magic once per day. As a bonus action, you take on an appearance of unearthly beauty for 1 minute. During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. This effect lasts for 1 minute, and any creature charmed by you automatically fails its saving throw against the spell."
+        },
+        {
+          "level": 6,
+          "subclass": "whispers",
+          "name": "whispers-mantle",
+          "title": "College of Whispers: Mantle of Whispers",
+          "text": "<p>At 6th level, you gain the ability to adopt a creature’s persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you’re Small), and you can have only one shadow captured at a time.</p><p>After you capture a creature’s shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature’s appearance for 1 hour or until you end this effect as a bonus action.</p><p>During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories.</p><p>Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</p><p>The disguise and the knowledge it grants disappears when this ability’s duration ends.</p>"
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 9,
+          "subclass": "base",
+          "name": "songofrest-2",
+          "title": "Song of Rest (d8)",
+          "text": "At 9th level, the extra hit points gained from Song of Rest increases to 1d8."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "inspiration-3",
+          "title": "Bardic Inspiration (d10)",
+          "text": "At 10th level, your Bardic Inspiration die changes to a d10."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "expertise-2",
+          "title": "Expertise",
+          "text": "At 10th level, you can choose another two skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 12,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 13,
+          "subclass": "base",
+          "name": "songofrest-3",
+          "title": "Song of Rest (d10)",
+          "text": "At 13th level, the extra hit points gained from Song of Rest increases to 1d10."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "By 14th level choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "college-feature-2",
+          "title": "3nd College Feature",
+          "text": "At 14th level, you gain a feature from your Bard College."
+        },
+        {
+          "level": 14,
+          "subclass": "lore",
+          "name": "lore-skill",
+          "title": "College of Lore: Peerless Skill",
+          "text": "Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roil the die for the ability check, but before the DM tells you whether you succeed or fail."
+        },
+        {
+          "level": 14,
+          "subclass": "valor",
+          "name": "valor-battle",
+          "title": "College of Valor: Battle Magic",
+          "text": "At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action"
+        },
+        {
+          "level": 14,
+          "subclass": "glamour",
+          "name": "glamour-unbreakable",
+          "title": "College of Glamour: Unbreakable Majesty",
+          "text": "At 14th level, you gain an otherworldly aspect to your appearance that makes you look more fierce and lovely. In addition, once per day, you can cast Sanctuary on yourself. If a creature fails its saving throw against the spell, you also gain advantage on all Charisma checks against the creature for 1 minute, and it has disadvantage on any saving throw it makes against your spells on your next turn."
+        },
+        {
+          "level": 14,
+          "subclass": "whispers",
+          "name": "whispers-mantle",
+          "title": "College of Whispers: Shadow Lore",
+          "text": "<p>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.</p><p>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</p><p>If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it.</p><p>While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</p><p>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can’t use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 15,
+          "subclass": "base",
+          "name": "inspiration-4",
+          "title": "Bardic Inspiration (d12)",
+          "text": "At 15th level, your Bardic Inspiration die changes to a d12."
+        },
+        {
+          "level": 16,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 17,
+          "subclass": "base",
+          "name": "songofrest-4",
+          "title": "Song of Rest (d12)",
+          "text": "At 17th level, the extra hit points gained from Song of Rest increases to 1d12."
+        },
+        {
+          "level": 18,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 19,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 20,
+          "subclass": "base",
+          "name": "superior-inspiration",
+          "title": "Superior Inspiration",
+          "text": "At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use."
+        }
+      ]
+    },
+    {
+      "name": "Fighter",
+      "id": "fighter",
+      "description": "Highly trained warriors defined by their martial prowess and battlefield command abilities. The hone their skills to stand head and shoulders above others on the field of battle.",
+      "hd": "8",
+      "proficiencies": [
+                     "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
+                     "<strong>Armor:</strong> light armor",
+                     "<strong>Weapons:</strong> simple weapons, hand crossbows, longswords, rapiers, shortswords",
+                     "<strong>Tools:</strong> three musical instruments of your choice",
+                     "<strong>Saving Throws:</strong> DEX, CHA",
+                     "<strong>Skills:</strong> Choose any three"
+                      ],
+      "equipment": [
+                     "You start with the following items, plus anything provided by your background.",
+                     "<ul><li>(a) a rapier, (b) a longsword, or (c) any simple weapon</li><li>(a) a diplomat's pack or (b) an entertainer's pack</li><li>(a) a lute or (b) any other musical instrument</li><li>Leather armor, and a dagger</li></ul>",
+                     "Alternatively, you may start with 5d4 × 10 gp to buy your own equipment."
+                   ],
+      "leveltable": [
+        { 
+          "columns": 14,
+          "data": ["Level", "Proficiency", "Features", "Spells", "Cantrips", "1st", "2nd","3rd","4th","5th","6th", "7th", "8th", "9th"],
+          "width": ["1", "1", "5", "1", "1"]
+        },
+        {
+          "data": ["1", "+2", "features","2","2","-","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["2", "+2", "features","2","3","-","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["3", "+2", "features","2","4","2","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["4", "+2", "features","3","4","3","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["5", "+3", "features","3","4","3","2","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["6", "+3", "features","3","4","3","3","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["7", "+3", "features","3","4","3","3","1","-","-","-","-","-"]
+        },
+        {
+          "data": ["8", "+3", "features","3","4","3","3","2","-","-","-","-","-"]
+        },
+        {
+          "data": ["9", "+4", "features","3","4","3","3","3","1","-","-","-","-"]
+        },
+        {
+          "data": ["10", "+4", "features","4","4","3","3","3","2","-","-","-","-"]
+        },
+        {
+          "data": ["11", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
+        },
+        {
+          "data": ["12", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
+        },
+        {
+          "data": ["13", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
+        },
+        {
+          "data": ["14", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
+        },
+        {
+          "data": ["15", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
+        },
+        {
+          "data": ["16", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
+        },
+        {
+          "data": ["17", "+6", "features","4","4","3","3","3","2","1","1","1","1"]
+        },
+        {
+          "data": ["18", "+6", "features","4","4","3","3","3","3","1","1","1","1"]
+        },
+        {
+          "data": ["19", "+6", "features","4","4","3","3","3","3","2","1","1","1"]
+        },
+        {
+          "data": ["20", "+6", "features","4","4","3","3","3","3","2","2","1","1"]
+        }
+      ],
+      "features" : [
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "inspiration-1",
+          "title": "Bardic Inspiration",
+          "text": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p><p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "casting",
+          "title": "Spellcasting",
+          "text": "<p>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.</p><h5><strong>Cantrips</strong></h5><p>You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels per the Bard table.</p><h5><strong>Spell Slots</strong></h5><p>The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><h5><strong>Spells Known of 1st Level and Higher</strong></h5><p>You know four 1st-level spells of your choice from the bard spell list. You learn additional bard spells per the Bard table (usually 1 per level).</p><p>Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list.</p><h5><strong>Spellcasting Ability</strong></h5><p>Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration.</p><ul><li>Spell save DC = 8 + your proficiency bonus + your Charisma modifier</li><li>Spell attack modifier = your proficiency bonus + your Charisma modifier</li></ul><h5><strong>Ritual Casting</strong></h5><p>You can cast any bard spell you know as a ritual if that spell has the ritual tag.</p><h5><strong>Spellcasting Focus</strong></h5><p>You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "jackoftradees",
+          "title": "Jack of All Trades",
+          "text": "Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus."
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "songofrest-1",
+          "title": "Song of Rest (d6)",
+          "text": "Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points."
+        },
+        {
+          "level": 3,
+          "subclass": "base",
+          "name": "college",
+          "title": "Bard College",
+          "text": "At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level."
+        },
+        {
+          "level": 3,
+          "subclass": "base",
+          "name": "expertise-1",
+          "title": "Expertise",
+          "text": "At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "lore",
+          "title": "Bard College: College of Lore",
+          "text": "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. "
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "valor",
+          "title": "Bard College: College of Valor",
+          "text": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old."
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "glamour",
+          "title": "Bard College: College of Glamour (UA)",
+          "text": "Bards of the College of Glamour mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others."
+        },
+        {
+          "level": 3,
+          "subclass": "subclass",
+          "name": "whispers",
           "title": "Bard College: College of Whispers (UA)",
           "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
         },

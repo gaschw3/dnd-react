@@ -15,7 +15,7 @@ export class ClassArchetypeList extends React.Component {
     var searchString = "$..features[?(@.subclass==\"subclass\")]";
 
     return (
-      <div className="col-sm-6">
+      <div className="col-sm-5">
       <div>
         <div className="archetypes">
         <ButtonToolbar>

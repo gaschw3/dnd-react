@@ -10,7 +10,7 @@ export default class Classes extends Component {
   render(){
     var classList = classes.class.map( element => {
       return(
-        <div>
+        <div className="col-sm-4 class-tile">
         <h4><Link to={"/classes/"+element.name.toLowerCase()}>{element.name}</Link></h4>
         <p>{element.description}</p>
         </div>
@@ -20,10 +20,10 @@ export default class Classes extends Component {
 
     return (
       <div>
-        <JumbotronComponent title="D&D 5e Classes" description="Browse available classes. You can also select specific subclasses if you already know what you're looking for. The URL should be usable for bookmarking and sharing." image="Classes"/>
+        <JumbotronComponent title="D&D 5e Classes" description="Browse available classes. You can also dig down to specific subclasses if you know what you're looking for. The URL should be usable for bookmarking and sharing." image="Classes"/>
         <Grid>
           <Row>
-            <Col sm={4}>
+            <Col>
               {classList}  
             </Col>
           </Row>

@@ -8,7 +8,7 @@ export class ClassDetails extends React.Component {
   render() {
     var json = this.props.currClass;
     return (
-      <div className="col-sm-6">
+      <div className="col-sm-5">
         <div className="class-info">
           <h4>Hit Points</h4>
           <p>

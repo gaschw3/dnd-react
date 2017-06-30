@@ -13,7 +13,7 @@ export class ClassLevels extends React.Component {
     var searchString;
 
     var levels = [], i = -1, len = 20;
-    while (++i < len) levels.push(i);
+    while (++i <= len) levels.push(i);
 
     var columns = [], j = -1, col = leveltable[0].columns;
     while (++j < col) columns.push(j);
@@ -35,7 +35,7 @@ export class ClassLevels extends React.Component {
   }
 
     return (
-      <div className="col-sm-6">
+      <div className="col-sm-7">
         <div className="level-table">
           <table className={"table table-striped table-"+this.props.currClass.id}><tbody>
             {
