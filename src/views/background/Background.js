@@ -10,34 +10,30 @@ export class Background extends React.Component {
   constructor(props) {
     super(props);
     this.state = { 
-      background: "Backgrounds",
-      description: "Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world.",
+      background: "Background",
       image: "Background",
       active: "",
-      index: undefined,
       json: json.background
     };
     this.handleClick = this.handleClick.bind(this);
   }
 
-  handleClick(name, desc, index, e) {
+  handleClick(name, desc) {
      this.setState({
         background: name,
         description: desc,
-        active: name,
-        index: index
     });
   }
 
   render() {
     return(
       <div className="row">
-        <JumbotronComponent title={this.state.background} description={this.state.description} image={this.state.image}/>
+        <JumbotronComponent title="Backgrounds" description="Every story has a beginning. Your character’s background reveals where you came from, how you became an adventurer, and your place in the world." image={this.state.image}/>
         <div className="col-sm-4 background">
-          <BackgroundList handleClick={this.handleClick} json={this.state.json} active={this.state.active}/>
+          <BackgroundList handleClick={this.handleClick} json={this.state.json} active={this.props.params.backgroundName}/>
         </div>
         <div className="col-sm-8 background">
-          <BackgroundFeatures json={this.state.json} index={this.state.index} />
+          <BackgroundFeatures json={this.state.json} background={this.props.params.backgroundName} />
         </div>
       </div>
     );

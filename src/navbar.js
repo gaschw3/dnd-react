@@ -15,9 +15,9 @@ export default class NavbarComponent extends React.Component {
         <Navbar.Collapse>
           <Nav>
             <NavDropdown eventKey={2} title="Players" id="basic-nav-dropdown">
-              <MenuItem href="#/races" eventKey={2.1}>Races</MenuItem>
-              <MenuItem href="#/backgrounds" eventKey={2.2}>Backgrounds</MenuItem>
-              <MenuItem href="#/classes"eventKey={2.3}>Classes</MenuItem>
+              <MenuItem href="#/races/undef" eventKey={2.1}>Races</MenuItem>
+              <MenuItem href="#/backgrounds/undef" eventKey={2.2}>Backgrounds</MenuItem>
+              <MenuItem href="#/classes/"eventKey={2.3}>Classes</MenuItem>
             </NavDropdown>
             <NavDropdown eventKey={3} title="Reference" id="basic-nav-dropdown">
               <MenuItem href="#/conditions" eventKey={3.1}>Conditions</MenuItem>

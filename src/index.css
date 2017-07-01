@@ -105,9 +105,34 @@ td.center, th {
 }
 .background-list {
   max-height: 440px;
-  overflow-y: scroll;
+  overflow-y: auto;
+}
+.background-title {
+  margin-top:0px;
+  border-bottom: 2px solid darkblue;
 }
 .background-features {
+  background: #eee;
+  border-radius: 10px;
+  padding: 15px;
+  margin:10px;
+}
+
+.race {
+  padding: 15px;
+}
+.race-list {
+  max-height: 440px;
+  overflow-y: auto;
+}
+.ability-scores {
+  font-size: .8em;
+}
+.race-title {
+  margin-top:0px;
+  border-bottom: 2px solid darkblue;
+}
+.race-features {
   background: #eee;
   border-radius: 10px;
   padding: 15px;

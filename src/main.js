@@ -6,20 +6,15 @@ import { hashHistory } from 'react-router';
 // Import custom components
 import Home from './views/home.js'
 import ClassList from './views/classes/ClassList.js';
-import {Class} from './views/classes/Class.js'
-import {Archetype} from './views/classes/Archetype.js'
-import {Background} from './views/background/Background.js'
+import {Class} from './views/classes/Class.js';
+import {Archetype} from './views/classes/Archetype.js';
+import {Background} from './views/background/Background.js';
+import {Race} from './views/races/Race.js';
 
 
 class NotFound  extends Component {
     render(){
-        return (<h1>Looks like you broke it, pard</h1>);
-    }
-}
-
-class Races extends Component {
-    render(){
-        return (<h1>Races page</h1>);
+        return (<h1>You have found a page that doesn't exist or isn't complete, try some other link.</h1>);
     }
 }
 
@@ -29,8 +24,9 @@ ReactDOM.render(
             <Route path="/classes" component={ClassList}/>
                 <Route path="/classes/:className" component={Class}/>
                 <Route path="/classes/:className/:classArchetype" component={Archetype}/>
-            <Route path="/backgrounds" component={Background}/>
-            <Route path="/races" component={Races}/>
+            <Route path="/backgrounds/:backgroundName" component={Background}/>
+            <Route path="/races/:raceId" component={Race}/>
+            <Route path="*" component={NotFound}/>
     </Router>,
     document.getElementById('main')
 );

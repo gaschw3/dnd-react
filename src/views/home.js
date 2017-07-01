@@ -13,9 +13,9 @@ export default class Home extends Component {
               <Col sm={6}>
                 <h4><a href="/dnd-react/#/classes">Classes</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/backgrounds">Backgrounds</a></h4>
+                <h4><a href="/dnd-react/#/backgrounds/undef">Backgrounds</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/races">Races</a></h4>
+                <h4><a href="/dnd-react/#/races/undef">Races</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
                 <h4><a href="/dnd-react/#/feats">Feats</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
