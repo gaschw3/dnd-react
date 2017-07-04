@@ -20,7 +20,7 @@ export default class NavbarComponent extends React.Component {
               <MenuItem href="#/backgrounds/undef" eventKey={2.2}>Backgrounds</MenuItem>
               <MenuItem href="#/classes"eventKey={2.3}>Classes</MenuItem>
               <MenuItem href="#/spells" eventKey={3.2}>Spells</MenuItem>
-              <MenuItem href="#/feats" eventKey={3.3}>Feats</MenuItem>
+              <MenuItem href="#/feats/undef" eventKey={3.3}>Feats</MenuItem>
             </NavDropdown>
             <NavDropdown eventKey={4} title="DMs" id="basic-nav-dropdown">
               <MenuItem href="#/beastiary" eventKey={4.1}>Beastiary</MenuItem>

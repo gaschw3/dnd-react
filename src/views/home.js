@@ -17,15 +17,15 @@ export default class Home extends Component {
                 <p>Blah blah blah, all the stuffs the same</p>
                 <h4><a href="/dnd-react/#/races/undef">Races</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/feats">Feats</a></h4>
+                <h4><a href="/dnd-react/#/feats/undef">Feats</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
               </Col>
               <Col sm={6}>
-                <h4><a href="/dnd-react/#/spells">Spells</a></h4>
+                <h4><a href="/dnd-react/#/spells/undef">Spells</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/items">Items</a></h4>
+                <h4><a href="/dnd-react/#/items/undef">Items</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/beastiary">Beastiary</a></h4>
+                <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
                 <h4><a href="/dnd-react/#/rules">Rules</a></h4>
                 <p>Blah blah blah, all the stuffs the same</p>
