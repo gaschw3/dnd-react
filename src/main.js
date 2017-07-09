@@ -10,6 +10,7 @@ import {Class} from './views/classes/Class.js';
 import {Archetype} from './views/classes/Archetype.js';
 import {Background} from './views/background/Background.js';
 import {Feat} from './views/feats/Feat.js';
+import {Spell} from './views/spells/Spell.js';
 import {Race} from './views/races/Race.js';
 
 
@@ -27,6 +28,7 @@ ReactDOM.render(
                 <Route path="/classes/:className/:classArchetype" component={Archetype}/>
             <Route path="/backgrounds/:backgroundName" component={Background}/>
             <Route path="/feats/:featName" component={Feat}/>
+            <Route path="/spells/:spellName" component={Spell}/>
             <Route path="/races/:raceId" component={Race}/>
             <Route path="*" component={NotFound}/>
     </Router>,

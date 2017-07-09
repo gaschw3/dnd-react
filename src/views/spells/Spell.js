@@ -12,7 +12,7 @@ export class Spell extends React.Component {
     this.state = { 
       spell: "Feat",
       image: "Feat",
-      json: json.feat
+      json: json.spell
     };
     this.handleClick = this.handleClick.bind(this);
   }
@@ -27,11 +27,11 @@ export class Spell extends React.Component {
     return(
       <div className="row">
         <JumbotronComponent title="Spells" description="spell.description" image={this.state.image}/>
-        <div className="col-sm-4 spell">
-          <FeatList handleClick={this.handleClick} json={this.state.json} active={this.props.params.spellName}/>
+        <div className="col-1 spell">
+          <SpellList handleClick={this.handleClick} json={this.state.json} active={this.props.params.spellName}/>
         </div>
         <div className="col-sm-8 spell">
-          <FeatDetails json={this.state.json} spell={this.props.params.spellName} />
+          <SpellDetails json={this.state.json} spell={this.props.params.spellName} />
         </div>
       </div>
     );

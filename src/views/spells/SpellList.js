@@ -1,5 +1,5 @@
 import React from 'react';
-import * from 'reactable'
+import { Table, Th, Tr, Td, Thead } from 'reactable'
 import { ListGroup, ListGroupItem, FormGroup, FormControl } from  'react-bootstrap';
 
 export class SpellList extends React.Component {
@@ -23,33 +23,38 @@ export class SpellList extends React.Component {
 
   render() {
     return(
-      <div>
-      <FormGroup
-        controlId="formBasicText">
-        <FormControl
-          type="text"
-          value={this.state.filterText}
-          placeholder="Filter Feats"
-          onChange={this.filterChange}
-        />
-      </FormGroup>
-      <ListGroupItem disabled>Name</ListGroupItem>
-      <ListGroup className="feat-list">
-      {
-        this.state.json.map( (feat) => {
-          if(feat.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) === 0)
+      <Table className="table table-striped table-hover" sortable={true} id="table">
+        <Thead>
+          <Th column="name" className="col-sm-4">
+            <strong className="name-header">Spell Name</strong>
+          </Th>
+          <Th column="source" className="col-sm-1">
+            <strong className="source-header">Source</strong>
+          </Th>
+          <Th column="level" className="col-sm-1">
+            <strong className="level-header">Level</strong>
+          </Th>
+          <Th column="school" className="col-sm-2">
+            <strong className="school-header">School</strong>
+          </Th>
+          <Th column="class" className="col-sm-4">
+            <strong className="classes-header">Classes</strong>
+          </Th>
+        </Thead>
+        {
+          this.state.json.map( (spell) => {
             return (
-              <ListGroupItem
-                href={"/dnd-react/#/feats/"+feat.name}
-                className={this.props.active === feat.name ? "active" : ""}
-                onClick={this.props.handleClick.bind(this, feat.name)}>
-                  {feat.title}
-              </ListGroupItem>
+              <Tr href="test">
+                <Td column="name">{spell.title}</Td>
+                <Td column="source">{spell.source}</Td>
+                <Td column="level">{spell.level}</Td>
+                <Td column="school">{spell.school}</Td>
+                <Td column="class">{spell.classes}</Td>
+              </Tr>
             )
-        }, this)
-      }
-      </ListGroup>
-      </div>
+          })
+        }
+    </Table>
     );
   }
 }

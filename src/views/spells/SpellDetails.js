@@ -4,22 +4,13 @@ export class SpellDetails extends React.Component {
 
   listicate(data){
     return ( 
-      <ul>
-        {
-          data.map(function(line) { 
-            return <li>{line}</li> }
-            )
-        }
-      </ul>
+      <p>listticate</p>
     )
   }
 
   processFeat(data){
     return (
-        <p>
-          {data.text.description}
-          {this.listicate(data.text.benefits)}
-        </p>
+        <p>processSpell</p>
     )
   }
 
