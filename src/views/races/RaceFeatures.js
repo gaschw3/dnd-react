@@ -1,9 +1,6 @@
 import React from 'react';
 
 export class RaceFeatures extends React.Component {
-  constructor(props) {
-    super(props);
-  }
 
   paragraphize(data){
     return (
@@ -28,9 +25,10 @@ export class RaceFeatures extends React.Component {
   }
 
   render() { 
-    var currRace =  this.props.json.find(function(item, index){
+    var currRace = this.props.json.find(function(item, index){
                 if (item.name === this.props.race)
                   return 1;
+                else return 0;
             }, this);
 
     if (currRace) {

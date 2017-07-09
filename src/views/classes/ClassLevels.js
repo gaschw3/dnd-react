@@ -2,10 +2,6 @@ import React from 'react';
 import Scrollchor from 'react-scrollchor';
 
 export class ClassLevels extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     var json = this.props.currClass;
     var leveltable = json.leveltable;
@@ -43,10 +39,10 @@ export class ClassLevels extends React.Component {
                 return (<tr>
                   {
                     columns.map( (j) => {
-                      if (i == 0)
+                      if (i === 0)
                         return(<th>{leveltable[i].data[j]}</th>)
                       else
-                        return(<td className={leveltable[i].data[j] == "features" ? "left" : "center"}>{leveltable[i].data[j] == "features" ? getFeatures(i) : leveltable[i].data[j]}</td>)
+                        return(<td className={leveltable[i].data[j] === "features" ? "left" : "center"}>{leveltable[i].data[j] === "features" ? getFeatures(i) : leveltable[i].data[j]}</td>)
                     })
                   }
                 </tr>)

@@ -1,10 +1,6 @@
 import React from 'react';
 
 export class ClassDetails extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     var json = this.props.currClass;
     return (

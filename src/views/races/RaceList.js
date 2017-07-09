@@ -42,7 +42,7 @@ export class RaceList extends React.Component {
       <ListGroup className="race-list">
       {
         this.state.json.map( (race) => {
-          if(race.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) == 0)
+          if(race.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) !== -1)
             return (
               <ListGroupItem
                 href={"/dnd-react/#/races/"+race.name}
@@ -54,7 +54,8 @@ export class RaceList extends React.Component {
                   </div>
               </ListGroupItem>
             )
-          }, this)
+          else return "";
+        }, this)
       }
       </ListGroup>
       </div>

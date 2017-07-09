@@ -36,7 +36,7 @@ export class BackgroundList extends React.Component {
       <ListGroup className="background-list">
       {
         this.state.json.map( (background) => {
-          if(background.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) == 0)
+          if(background.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) !== -1)
             return (
               <ListGroupItem
                 href={"/dnd-react/#/backgrounds/"+background.name}
@@ -45,6 +45,7 @@ export class BackgroundList extends React.Component {
                   {background.title}
               </ListGroupItem>
             )
+          else return null;
         }, this)
       }
       </ListGroup>

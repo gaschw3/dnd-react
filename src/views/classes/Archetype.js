@@ -10,7 +10,6 @@ import {ClassFeatures} from './ClassFeatures.js';
 
 export const Archetype = ( {params} ) => {
   var jp = require('jsonpath');
-  var test = classes;
   var searchClass = "$..class[?(@.id==\""+params.className+"\")]";
   var searchFeatures = "$..class[?(@.id==\""+params.className+"\")]..features[?(@.subclass==\"base\" || @.subclass==\""+params.classArchetype+"\")]";
   var searchArchetype = "$..class[?(@.id==\""+params.className+"\")]..features[?(@.subclass==\"subclass\" && @.name==\""+params.classArchetype+"\")].title";
@@ -21,7 +20,7 @@ export const Archetype = ( {params} ) => {
 
   return(
     <div>
-      <JumbotronComponent title={currClass[0].name} description={currClass[0].description} image={currClass[0].name}/>
+      <JumbotronComponent title={currClass[0].name} description={currArchetype[0]} image={currClass[0].name}/>
       <div className="row">
         <div className="col-sm-5">
           <ClassDetails currClass={currClass[0]} />
@@ -30,7 +29,7 @@ export const Archetype = ( {params} ) => {
         <ClassLevels currClass={currClass[0]} />
       </div>
       
-      <ClassFeatures features={currClass[0].features} />
+      <ClassFeatures features={currFeatures} />
     </div>
   );
 }

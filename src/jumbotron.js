@@ -3,10 +3,6 @@ import { hashHistory } from 'react-router';
 import {Glyphicon} from  'react-bootstrap';
 
 export default class JumbotronComponent extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
     <div className="carousel slide">

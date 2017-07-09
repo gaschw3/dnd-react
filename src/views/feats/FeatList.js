@@ -36,7 +36,7 @@ export class FeatList extends React.Component {
       <ListGroup className="feat-list">
       {
         this.state.json.map( (feat) => {
-          if(feat.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) === 0)
+          if(feat.title.toLowerCase().indexOf(this.getFilterText().toLowerCase()) !== -1)
             return (
               <ListGroupItem
                 href={"/dnd-react/#/feats/"+feat.name}
@@ -45,6 +45,7 @@ export class FeatList extends React.Component {
                   {feat.title}
               </ListGroupItem>
             )
+          else return "";
         }, this)
       }
       </ListGroup>

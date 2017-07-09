@@ -156,9 +156,9 @@ td.center, th.center {
 
 .spell {
   padding: 15px;
-  font-size: .8em;
 }
 .spell-list {
+  font-size: .8em;
   max-height: 400px;
   overflow-y: auto;
 }
@@ -169,6 +169,24 @@ td.center, th.center {
   padding: 0 0 0 0;
   margin-left: 15px;
   margin-right: 20px;
+}
+.spell-title {
+  margin-top:0px;
+  border-bottom: 2px solid darkblue;
+}
+.spell-title h1,h2,h3,h4 {
+  margin-top:0;
+  margin-bottom:5px;
+}
+.spell-stats {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.spell-details {
+  background: #eee;
+  border-radius: 10px;
+  padding: 15px;
+  margin:10px;
 }
 
 .reactable-header-sortable {

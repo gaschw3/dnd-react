@@ -1,6 +1,6 @@
 import React from 'react';
 import { Table, Th, Tr, Td, Thead } from 'reactable'
-import { ListGroup, ListGroupItem, FormGroup, FormControl } from  'react-bootstrap';
+import { FormGroup, FormControl } from  'react-bootstrap';
 
 export class SpellList extends React.Component {
   constructor(props) {
@@ -127,6 +127,7 @@ export class SpellList extends React.Component {
                     <Td column="class">{spell.classes}</Td>
                   </Tr>
                 )
+              else return ""
             })
           }
         </Table>

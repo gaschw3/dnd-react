@@ -1,9 +1,6 @@
 import React from 'react';
 
 export class BackgroundFeatures extends React.Component {
-  constructor(props) {
-    super(props);
-  }
 
   paragraphize(data){
     return (
@@ -29,6 +26,7 @@ export class BackgroundFeatures extends React.Component {
     var currBackground =  this.props.json.find(function(item, index){
       if (item.name === this.props.background)
         return 1;
+      else return 0;
     }, this);
 
     if (currBackground) {

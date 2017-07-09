@@ -1,14 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router';
 import { Button, ButtonToolbar } from  'react-bootstrap';
 
-import Scrollchor from 'react-scrollchor';
-
 export class ClassArchetypeList extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     var json = this.props.currClass;
     var jp = require('jsonpath');

@@ -27,6 +27,7 @@ export class FeatDetails extends React.Component {
     var currFeat =  this.props.json.find(function(item, index){
       if (item.name === this.props.background)
         return 1;
+      else return 0;
     }, this);
 
     if (currFeat) {
@@ -39,6 +40,6 @@ export class FeatDetails extends React.Component {
         </div>
       );
     }
-    else { return null; }
+    else return null;
   }
 }
