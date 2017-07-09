@@ -38,6 +38,7 @@
         {
             "title": "Acid Splash",
             "name": "acid-splash",
+            "source": "PHB",
             "level": "0",
             "school": "Conjuration",
             "time": "1 action",
@@ -77,6 +78,7 @@
         {
             "title": "Aid",
             "name": "aid",
+            "source": "PHB",
             "level": "2",
             "school": "Abjuration",
             "time": "1 action",
@@ -92,6 +94,7 @@
         {
             "title": "Alarm",
             "name": "alarm",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "ritual": "YES",
@@ -109,6 +112,7 @@
         {
             "title": "Alter Self",
             "name": "alter-self",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -127,6 +131,7 @@
         {
             "title": "Animal Friendship",
             "name": "animal-friendship",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -142,6 +147,7 @@
         {
             "title": "Animal Messenger",
             "name": "animal-messenger",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "ritual": "YES",
@@ -159,6 +165,7 @@
         {
             "title": "Animal Shapes",
             "name": "animal-shapes",
+            "source": "PHB",
             "level": "8",
             "school": "Transmutation",
             "time": "1 action",
@@ -175,6 +182,7 @@
         {
             "title": "Animate Dead",
             "name": "animate-dead",
+            "source": "PHB",
             "level": "3",
             "school": "Necromancy",
             "time": "1 minute",
@@ -192,6 +200,7 @@
         {
             "title": "Animate Objects",
             "name": "animate-objects",
+            "source": "PHB",
             "level": "5",
             "school": "Transmutation",
             "time": "1 action",
@@ -216,6 +225,7 @@
         {
             "title": "Antilife Shell",
             "name": "antilife-shell",
+            "source": "PHB",
             "level": "5",
             "school": "Abjuration",
             "time": "1 action",
@@ -232,6 +242,7 @@
         {
             "title": "Antimagic Field",
             "name": "antimagic-field",
+            "source": "PHB",
             "level": "8",
             "school": "Abjuration",
             "time": "1 action",
@@ -254,6 +265,7 @@
         {
             "title": "Antipathy/Sympathy",
             "name": "antipathy/sympathy",
+            "source": "PHB",
             "level": "8",
             "school": "Enchantment",
             "time": "1 hour",
@@ -272,6 +284,7 @@
         {
             "title": "Arcane Eye",
             "name": "arcane-eye",
+            "source": "PHB",
             "level": "4",
             "school": "Divination",
             "time": "1 action",
@@ -288,6 +301,7 @@
         {
             "title": "Arcane Gate",
             "name": "arcane-gate",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "1 action",
@@ -304,6 +318,7 @@
         {
             "title": "Arcane Lock",
             "name": "arcane-lock",
+            "source": "PHB",
             "level": "2",
             "school": "Abjuration",
             "time": "1 action",
@@ -319,6 +334,7 @@
         {
             "title": "Armor of Agathys",
             "name": "armor-of-agathys",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "time": "1 action",
@@ -334,6 +350,7 @@
         {
             "title": "Arms of Hadar",
             "name": "arms-of-hadar",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "time": "1 action",
@@ -350,6 +367,7 @@
         {
             "title": "Astral Projection",
             "name": "astral-projection",
+            "source": "PHB",
             "level": "9",
             "school": "Necromancy",
             "time": "1 hour",
@@ -369,6 +387,7 @@
         {
             "title": "Augury",
             "name": "augury",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "ritual": "YES",
@@ -390,6 +409,7 @@
         {
             "title": "Aura of Life",
             "name": "aura-of-life",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "1 action",
@@ -402,6 +422,7 @@
         {
             "title": "Aura of Purity",
             "name": "aura-of-purity",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "1 action",
@@ -414,6 +435,7 @@
         {
             "title": "Aura of Vitality",
             "name": "aura-of-vitality",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -427,6 +449,7 @@
         {
             "title": "Awaken",
             "name": "awaken",
+            "source": "PHB",
             "level": "5",
             "school": "Transmutation",
             "time": "8 hours",
@@ -442,6 +465,7 @@
         {
             "title": "Bane",
             "name": "bane",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -457,6 +481,7 @@
         {
             "title": "Banishing Smite",
             "name": "banishing-smite",
+            "source": "PHB",
             "level": "5",
             "school": "Abjuration",
             "time": "1 bonus action",
@@ -470,6 +495,7 @@
         {
             "title": "Banishment",
             "name": "banishment",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "1 action",
@@ -487,6 +513,7 @@
         {
             "title": "Barkskin",
             "name": "barkskin",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -499,6 +526,7 @@
         {
             "title": "Beacon of Hope",
             "name": "beacon-of-hope",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 action",
@@ -527,6 +555,7 @@
         {
             "title": "Beast Sense",
             "name": "beast-sense",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "ritual": "YES",
@@ -540,6 +569,7 @@
         {
             "title": "Bestow Curse",
             "name": "bestow-curse",
+            "source": "PHB",
             "level": "3",
             "school": "Necromancy",
             "time": "1 action",
@@ -560,6 +590,7 @@
         {
             "title": "Bigby's Hand",
             "name": "bigbys-hand",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -587,6 +618,7 @@
         {
             "title": "Blade Barrier",
             "name": "blade-barrier",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "1 action",
@@ -603,6 +635,7 @@
         {
             "title": "Blade Ward",
             "name": "blade-ward",
+            "source": "PHB",
             "level": "0",
             "school": "Abjuration",
             "time": "1 action",
@@ -615,6 +648,7 @@
         {
             "title": "Bless",
             "name": "bless",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -630,6 +664,7 @@
         {
             "title": "Blight",
             "name": "blight",
+            "source": "PHB",
             "level": "4",
             "school": "Necromancy",
             "time": "1 action",
@@ -648,6 +683,7 @@
         {
             "title": "Blinding Smite",
             "name": "blinding-smite",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -664,6 +700,7 @@
         {
             "title": "Blindness/Deafness",
             "name": "blindness/deafness",
+            "source": "PHB",
             "level": "2",
             "school": "Necromancy",
             "time": "1 action",
@@ -679,6 +716,7 @@
         {
             "title": "Blink",
             "name": "blink",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -695,6 +733,7 @@
         {
             "title": "Blur",
             "name": "blur",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "time": "1 action",
@@ -747,6 +786,7 @@
         {
             "title": "Branding Smite",
             "name": "branding-smite",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -763,6 +803,7 @@
         {
             "title": "Burning Hands",
             "name": "burning-hands",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -780,6 +821,7 @@
         {
             "title": "Call Lightning",
             "name": "call-lightning",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -798,6 +840,7 @@
         {
             "title": "Calm Emotions",
             "name": "calm-emotions",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "time": "1 action",
@@ -832,6 +875,7 @@
         {
             "title": "Chain Lightning",
             "name": "chain-lightning",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "1 action",
@@ -849,6 +893,7 @@
         {
             "title": "Charm Person",
             "name": "charm-person",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -864,6 +909,7 @@
         {
             "title": "Chill Touch",
             "name": "chill-touch",
+            "source": "PHB",
             "level": "0",
             "school": "Necromancy",
             "time": "1 action",
@@ -887,6 +933,7 @@
         {
             "title": "Chromatic Orb",
             "name": "chromatic-orb",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -907,6 +954,7 @@
         {
             "title": "Circle of Death",
             "name": "circle-of-death",
+            "source": "PHB",
             "level": "6",
             "school": "Necromancy",
             "time": "1 action",
@@ -923,6 +971,7 @@
         {
             "title": "Circle of Power",
             "name": "circle-of-power",
+            "source": "PHB",
             "level": "5",
             "school": "Abjuration",
             "time": "1 action",
@@ -935,6 +984,7 @@
         {
             "title": "Clairvoyance",
             "name": "clairvoyance",
+            "source": "PHB",
             "level": "3",
             "school": "Divination",
             "time": "10 minutes",
@@ -951,6 +1001,7 @@
         {
             "title": "Clone",
             "name": "clone",
+            "source": "PHB",
             "level": "8",
             "school": "Necromancy",
             "time": "1 hour",
@@ -966,6 +1017,7 @@
         {
             "title": "Cloud of Daggers",
             "name": "cloud-of-daggers",
+            "source": "PHB",
             "level": "2",
             "school": "Conjuration",
             "time": "1 action",
@@ -982,6 +1034,7 @@
         {
             "title": "Cloudkill",
             "name": "cloudkill",
+            "source": "PHB",
             "level": "5",
             "school": "Conjuration",
             "time": "1 action",
@@ -1000,6 +1053,7 @@
         {
             "title": "Color Spray",
             "name": "color-spray",
+            "source": "PHB",
             "level": "1",
             "school": "Illusion",
             "time": "1 action",
@@ -1017,6 +1071,7 @@
         {
             "title": "Command",
             "name": "command",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -1038,6 +1093,7 @@
         {
             "title": "Commune",
             "name": "commune",
+            "source": "PHB",
             "level": "5",
             "school": "Divination",
             "ritual": "YES",
@@ -1055,6 +1111,7 @@
         {
             "title": "Commune with Nature",
             "name": "commune-with-nature",
+            "source": "PHB",
             "level": "5",
             "school": "Divination",
             "ritual": "YES",
@@ -1072,6 +1129,7 @@
         {
             "title": "Compelled Duel",
             "name": "compelled-duel",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 bonus action",
@@ -1087,6 +1145,7 @@
         {
             "title": "Comprehend Languages",
             "name": "comprehend-languages",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "ritual": "YES",
@@ -1103,6 +1162,7 @@
         {
             "title": "Compulsion",
             "name": "compulsion",
+            "source": "PHB",
             "level": "4",
             "school": "Enchantment",
             "time": "1 action",
@@ -1118,6 +1178,7 @@
         {
             "title": "Cone of Cold",
             "name": "cone-of-cold",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -1135,6 +1196,7 @@
         {
             "title": "Confusion",
             "name": "confusion",
+            "source": "PHB",
             "level": "4",
             "school": "Enchantment",
             "time": "1 action",
@@ -1157,6 +1219,7 @@
         {
             "title": "Conjure Animals",
             "name": "conjure-animals",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -1178,6 +1241,7 @@
         {
             "title": "Conjure Barrage",
             "name": "conjure-barrage",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -1191,6 +1255,7 @@
         {
             "title": "Conjure Celestial",
             "name": "conjure-celestial",
+            "source": "PHB",
             "level": "7",
             "school": "Conjuration",
             "time": "1 minute",
@@ -1207,6 +1272,7 @@
         {
             "title": "Conjure Elemental",
             "name": "conjure-elemental",
+            "source": "PHB",
             "level": "5",
             "school": "Conjuration",
             "time": "1 minute",
@@ -1224,6 +1290,7 @@
         {
             "title": "Conjure Fey",
             "name": "conjure-fey",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "1 minute",
@@ -1241,6 +1308,7 @@
         {
             "title": "Conjure Minor Elementals",
             "name": "conjure-minor-elementals",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 minute",
@@ -1262,6 +1330,7 @@
         {
             "title": "Conjure Volley",
             "name": "conjure-volley",
+            "source": "PHB",
             "level": "5",
             "school": "Conjuration",
             "time": "1 action",
@@ -1275,6 +1344,7 @@
         {
             "title": "Conjure Woodland Beings",
             "name": "conjure-woodland-beings",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 action",
@@ -1295,6 +1365,7 @@
         {
             "title": "Contact Other Plane",
             "name": "contact-other-plane",
+            "source": "PHB",
             "level": "5",
             "school": "Divination",
             "ritual": "YES",
@@ -1312,6 +1383,7 @@
         {
             "title": "Contagion",
             "name": "contagion",
+            "source": "PHB",
             "level": "5",
             "school": "Necromancy",
             "time": "1 action",
@@ -1335,6 +1407,7 @@
         {
             "title": "Contingency",
             "name": "contingency",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "10 minutes",
@@ -1351,6 +1424,7 @@
         {
             "title": "Continual Flame",
             "name": "continual-flame",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -1384,6 +1458,7 @@
         {
             "title": "Control Water",
             "name": "control-water",
+            "source": "PHB",
             "level": "4",
             "school": "Transmutation",
             "time": "1 action",
@@ -1403,6 +1478,7 @@
         {
             "title": "Control Weather",
             "name": "control-weather",
+            "source": "PHB",
             "level": "8",
             "school": "Transmutation",
             "time": "10 minutes",
@@ -1458,6 +1534,7 @@
         {
             "title": "Cordon of Arrows",
             "name": "cordon-of-arrows",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -1475,6 +1552,7 @@
         {
             "title": "Counterspell",
             "name": "counterspell",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 reaction",
@@ -1513,6 +1591,7 @@
         {
             "title": "Create Food and Water",
             "name": "create-food-and-water",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -1525,6 +1604,7 @@
         {
             "title": "Create Undead",
             "name": "create-undead",
+            "source": "PHB",
             "level": "6",
             "school": "Necromancy",
             "time": "1 minute",
@@ -1542,6 +1622,7 @@
         {
             "title": "Create or Destroy Water",
             "name": "create-or-destroy-water",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "time": "1 action",
@@ -1559,6 +1640,7 @@
         {
             "title": "Creation",
             "name": "creation",
+            "source": "PHB",
             "level": "5",
             "school": "Illusion",
             "time": "1 minute",
@@ -1582,6 +1664,7 @@
         {
             "title": "Crown of Madness",
             "name": "crown-of-madness",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "time": "1 action",
@@ -1598,6 +1681,7 @@
         {
             "title": "Crusader's Mantle",
             "name": "crusaders-mantle",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -1611,6 +1695,7 @@
         {
             "title": "Cure Wounds",
             "name": "cure-wounds",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -1627,6 +1712,7 @@
         {
             "title": "Dancing Lights",
             "name": "dancing-lights",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -1642,6 +1728,7 @@
         {
             "title": "Darkness",
             "name": "darkness",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -1658,6 +1745,7 @@
         {
             "title": "Darkvision",
             "name": "darkvision",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -1670,6 +1758,7 @@
         {
             "title": "Daylight",
             "name": "daylight",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -1686,6 +1775,7 @@
         {
             "title": "Death Ward",
             "name": "death-ward",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "1 action",
@@ -1698,6 +1788,7 @@
         {
             "title": "Delayed Blast Fireball",
             "name": "delayed-blast-fireball",
+            "source": "PHB",
             "level": "7",
             "school": "Evocation",
             "time": "1 action",
@@ -1717,6 +1808,7 @@
         {
             "title": "Demiplane",
             "name": "demiplane",
+            "source": "PHB",
             "level": "8",
             "school": "Conjuration",
             "time": "1 action",
@@ -1732,6 +1824,7 @@
         {
             "title": "Destructive Wave",
             "name": "destructive-wave",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -1745,6 +1838,7 @@
         {
             "title": "Detect Evil and Good",
             "name": "detect-evil-and-good",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "time": "1 action",
@@ -1757,6 +1851,7 @@
         {
             "title": "Detect Magic",
             "name": "detect-magic",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "ritual": "YES",
@@ -1773,6 +1868,7 @@
         {
             "title": "Detect Poison and Disease",
             "name": "detect-poison-and-disease",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "time": "1 action",
@@ -1788,6 +1884,7 @@
         {
             "title": "Detect Thoughts",
             "name": "detect-thoughts",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "time": "1 action",
@@ -1806,6 +1903,7 @@
         {
             "title": "Dimension Door",
             "name": "dimension-door",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 action",
@@ -1823,6 +1921,7 @@
         {
             "title": "Disguise Self",
             "name": "disguise-self",
+            "source": "PHB",
             "level": "1",
             "school": "Illusion",
             "time": "1 action",
@@ -1839,6 +1938,7 @@
         {
             "title": "Disintegrate",
             "name": "disintegrate",
+            "source": "PHB",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -1858,6 +1958,7 @@
         {
             "title": "Dispel Evil and Good",
             "name": "dispel-evil-and-good",
+            "source": "PHB",
             "level": "5",
             "school": "Abjuration",
             "time": "1 action",
@@ -1875,6 +1976,7 @@
         {
             "title": "Dispel Magic",
             "name": "dispel-magic",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 action",
@@ -1890,6 +1992,7 @@
         {
             "title": "Dissonant Whispers",
             "name": "dissonant-whispers",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -1906,6 +2009,7 @@
         {
             "title": "Divination",
             "name": "divination",
+            "source": "PHB",
             "level": "4",
             "school": "Divination",
             "ritual": "YES",
@@ -1923,6 +2027,7 @@
         {
             "title": "Divine Favor",
             "name": "divine-favor",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -1935,6 +2040,7 @@
         {
             "title": "Divine Word",
             "name": "divine-word",
+            "source": "PHB",
             "level": "7",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -1954,6 +2060,7 @@
         {
             "title": "Dominate Beast",
             "name": "dominate-beast",
+            "source": "PHB",
             "level": "4",
             "school": "Enchantment",
             "time": "1 action",
@@ -1972,6 +2079,7 @@
         {
             "title": "Dominate Monster",
             "name": "dominate-monster",
+            "source": "PHB",
             "level": "8",
             "school": "Enchantment",
             "time": "1 action",
@@ -1990,6 +2098,7 @@
         {
             "title": "Dominate Person",
             "name": "dominate-person",
+            "source": "PHB",
             "level": "5",
             "school": "Enchantment",
             "time": "1 action",
@@ -2008,6 +2117,7 @@
         {
             "title": "Drawmij's Instant Summon",
             "name": "drawmijs-instant-summon",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "ritual": "YES",
@@ -2026,6 +2136,7 @@
         {
             "title": "Dream",
             "name": "dream",
+            "source": "PHB",
             "level": "5",
             "school": "Illusion",
             "time": "1 minute",
@@ -2044,6 +2155,7 @@
         {
             "title": "Druidcraft",
             "name": "druidcraft",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
@@ -2116,6 +2228,7 @@
         {
             "title": "Earthquake",
             "name": "earthquake",
+            "source": "PHB",
             "level": "8",
             "school": "Evocation",
             "time": "1 action",
@@ -2140,6 +2253,7 @@
         {
             "title": "Eldritch Blast",
             "name": "eldritch-blast",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -2178,6 +2292,7 @@
         {
             "title": "Elemental Weapon",
             "name": "elemental-weapon",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -2194,6 +2309,7 @@
         {
             "title": "Enhance Ability",
             "name": "enhance-ability",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -2215,6 +2331,7 @@
         {
             "title": "Enlarge/Reduce",
             "name": "enlarge/reduce",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -2232,6 +2349,7 @@
         {
             "title": "Ensnaring Strike",
             "name": "ensnaring-strike",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "time": "1 bonus action",
@@ -2249,6 +2367,7 @@
         {
             "title": "Entangle",
             "name": "entangle",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "time": "1 action",
@@ -2265,6 +2384,7 @@
         {
             "title": "Enthrall",
             "name": "enthrall",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "time": "1 action",
@@ -2295,6 +2415,7 @@
         {
             "title": "Etherealness",
             "name": "etherealness",
+            "source": "PHB",
             "level": "7",
             "school": "Transmutation",
             "time": "1 action",
@@ -2314,6 +2435,7 @@
         {
             "title": "Evard's Black Tentacles",
             "name": "evards-black-tentacles",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 action",
@@ -2331,6 +2453,7 @@
         {
             "title": "Expeditious Retreat",
             "name": "expeditious-retreat",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "time": "1 bonus action",
@@ -2343,6 +2466,7 @@
         {
             "title": "Eyebite",
             "name": "eyebite",
+            "source": "PHB",
             "level": "6",
             "school": "Necromancy",
             "time": "1 action",
@@ -2360,6 +2484,7 @@
         {
             "title": "Fabricate",
             "name": "fabricate",
+            "source": "PHB",
             "level": "4",
             "school": "Transmutation",
             "time": "10 minutes",
@@ -2376,6 +2501,7 @@
         {
             "title": "Faerie Fire",
             "name": "faerie-fire",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -2391,6 +2517,7 @@
         {
             "title": "False Life",
             "name": "false-life",
+            "source": "PHB",
             "level": "1",
             "school": "Necromancy",
             "time": "1 action",
@@ -2407,6 +2534,7 @@
         {
             "title": "Fear",
             "name": "fear",
+            "source": "PHB",
             "level": "3",
             "school": "Illusion",
             "time": "1 action",
@@ -2422,6 +2550,7 @@
         {
             "title": "Feather Fall",
             "name": "feather-fall",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "time": "1 reaction",
@@ -2434,6 +2563,7 @@
         {
             "title": "Feeblemind",
             "name": "feeblemind",
+            "source": "PHB",
             "level": "8",
             "school": "Enchantment",
             "time": "1 action",
@@ -2452,6 +2582,7 @@
         {
             "title": "Feign Death",
             "name": "feign-death",
+            "source": "PHB",
             "level": "3",
             "school": "Necromancy",
             "ritual": "YES",
@@ -2468,6 +2599,7 @@
         {
             "title": "Find Familiar",
             "name": "find-familiar",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "ritual": "YES",
@@ -2488,6 +2620,7 @@
         {
             "title": "Find Steed",
             "name": "find-steed",
+            "source": "PHB",
             "level": "2",
             "school": "Conjuration",
             "time": "10 minutes",
@@ -2506,6 +2639,7 @@
         {
             "title": "Find Traps",
             "name": "find-traps",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "time": "1 action",
@@ -2521,6 +2655,7 @@
         {
             "title": "Find the Path",
             "name": "find-the-path",
+            "source": "PHB",
             "level": "6",
             "school": "Divination",
             "time": "1 minute",
@@ -2536,6 +2671,7 @@
         {
             "title": "Finger of Death",
             "name": "finger-of-death",
+            "source": "PHB",
             "level": "7",
             "school": "Necromancy",
             "time": "1 action",
@@ -2552,6 +2688,7 @@
         {
             "title": "Fire Bolt",
             "name": "fire-bolt",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -2574,6 +2711,7 @@
         {
             "title": "Fire Shield",
             "name": "fire-shield",
+            "source": "PHB",
             "level": "4",
             "school": "Evocation",
             "time": "1 action",
@@ -2591,6 +2729,7 @@
         {
             "title": "Fire Storm",
             "name": "fire-storm",
+            "source": "PHB",
             "level": "7",
             "school": "Evocation",
             "time": "1 action",
@@ -2607,6 +2746,7 @@
         {
             "title": "Fireball",
             "name": "fireball",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -2642,6 +2782,7 @@
         {
             "title": "Flame Blade",
             "name": "flame-blade",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -2663,6 +2804,7 @@
         {
             "title": "Flame Strike",
             "name": "flame-strike",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -2679,6 +2821,7 @@
         {
             "title": "Flaming Sphere",
             "name": "flaming-sphere",
+            "source": "PHB",
             "level": "2",
             "school": "Conjuration",
             "time": "1 action",
@@ -2697,6 +2840,7 @@
         {
             "title": "Flesh to Stone",
             "name": "flesh-to-stone",
+            "source": "PHB",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -2714,6 +2858,7 @@
         {
             "title": "Fly",
             "name": "fly",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -2729,6 +2874,7 @@
         {
             "title": "Fog Cloud",
             "name": "fog-cloud",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "time": "1 action",
@@ -2744,6 +2890,7 @@
         {
             "title": "Forbiddance",
             "name": "forbiddance",
+            "source": "PHB",
             "level": "6",
             "school": "Abjuration",
             "ritual": "YES",
@@ -2763,6 +2910,7 @@
         {
             "title": "Forcecage",
             "name": "forcecage",
+            "source": "PHB",
             "level": "7",
             "school": "Evocation",
             "time": "1 action",
@@ -2782,6 +2930,7 @@
         {
             "title": "Foresight",
             "name": "foresight",
+            "source": "PHB",
             "level": "9",
             "school": "Divination",
             "time": "1 minute",
@@ -2797,6 +2946,7 @@
         {
             "title": "Freedom of Movement",
             "name": "freedom-of-movement",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "1 action",
@@ -2812,6 +2962,7 @@
         {
             "title": "Friends",
             "name": "friends",
+            "source": "PHB",
             "level": "0",
             "school": "Enchantment",
             "time": "1 action",
@@ -2847,6 +2998,7 @@
         {
             "title": "Gaseous Form",
             "name": "gaseous-form",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -2863,6 +3015,7 @@
         {
             "title": "Gate",
             "name": "gate",
+            "source": "PHB",
             "level": "9",
             "school": "Conjuration",
             "time": "1 action",
@@ -2880,6 +3033,7 @@
         {
             "title": "Geas",
             "name": "geas",
+            "source": "PHB",
             "level": "5",
             "school": "Enchantment",
             "time": "1 minute",
@@ -2898,6 +3052,7 @@
         {
             "title": "Gentle Repose",
             "name": "gentle-repose",
+            "source": "PHB",
             "level": "2",
             "school": "Necromancy",
             "ritual": "YES",
@@ -2914,6 +3069,7 @@
         {
             "title": "Giant Insect",
             "name": "giant-insect",
+            "source": "PHB",
             "level": "4",
             "school": "Transmutation",
             "time": "1 action",
@@ -2931,6 +3087,7 @@
         {
             "title": "Glibness",
             "name": "glibness",
+            "source": "PHB",
             "level": "8",
             "school": "Transmutation",
             "time": "1 action",
@@ -2943,6 +3100,7 @@
         {
             "title": "Globe of Invulnerability",
             "name": "globe-of-invulnerability",
+            "source": "PHB",
             "level": "6",
             "school": "Abjuration",
             "time": "1 action",
@@ -2959,6 +3117,7 @@
         {
             "title": "Glyph of Warding",
             "name": "glyph-of-warding",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 hour",
@@ -2981,6 +3140,7 @@
         {
             "title": "Goodberry",
             "name": "goodberry",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "time": "1 action",
@@ -2996,6 +3156,7 @@
         {
             "title": "Grasping Vine",
             "name": "grasping-vine",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 bonus action",
@@ -3011,6 +3172,7 @@
         {
             "title": "Grease",
             "name": "grease",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "time": "1 action",
@@ -3026,6 +3188,7 @@
         {
             "title": "Greater Invisibility",
             "name": "greater-invisibility",
+            "source": "PHB",
             "level": "4",
             "school": "Illusion",
             "time": "1 action",
@@ -3038,6 +3201,7 @@
         {
             "title": "Greater Restoration",
             "name": "greater-restoration",
+            "source": "PHB",
             "level": "5",
             "school": "Abjuration",
             "time": "1 action",
@@ -3077,6 +3241,7 @@
         {
             "title": "Guardian of Faith",
             "name": "guardian-of-faith",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 action",
@@ -3092,6 +3257,7 @@
         {
             "title": "Guards and Wards",
             "name": "guards-and-wards",
+            "source": "PHB",
             "level": "6",
             "school": "Abjuration",
             "time": "10 minutes",
@@ -3118,6 +3284,7 @@
         {
             "title": "Guidance",
             "name": "guidance",
+            "source": "PHB",
             "level": "0",
             "school": "Divination",
             "time": "1 action",
@@ -3131,6 +3298,7 @@
         {
             "title": "Guiding Bolt",
             "name": "guiding-bolt",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -3169,6 +3337,7 @@
         {
             "title": "Gust of Wind",
             "name": "gust-of-wind",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -3186,6 +3355,7 @@
         {
             "title": "Hail of Thorns",
             "name": "hail-of-thorns",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "time": "1 bonus action",
@@ -3202,6 +3372,7 @@
         {
             "title": "Hallow",
             "name": "hallow",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "24 hours",
@@ -3228,6 +3399,7 @@
         {
             "title": "Hallucinatory Terrain",
             "name": "hallucinatory-terrain",
+            "source": "PHB",
             "level": "4",
             "school": "Illusion",
             "time": "10 minutes",
@@ -3243,6 +3415,7 @@
         {
             "title": "Harm",
             "name": "harm",
+            "source": "PHB",
             "level": "6",
             "school": "Necromancy",
             "time": "1 action",
@@ -3256,6 +3429,7 @@
         {
             "title": "Haste",
             "name": "haste",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -3271,6 +3445,7 @@
         {
             "title": "Heal",
             "name": "heal",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "1 action",
@@ -3286,6 +3461,7 @@
         {
             "title": "Healing Word",
             "name": "healing-word",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -3302,6 +3478,7 @@
         {
             "title": "Heat Metal",
             "name": "heat-metal",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -3319,6 +3496,7 @@
         {
             "title": "Hellish Rebuke",
             "name": "hellish-rebuke",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 reaction",
@@ -3335,6 +3513,7 @@
         {
             "title": "Heroes' Feast",
             "name": "heroes-feast",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "10 minutes",
@@ -3351,6 +3530,7 @@
         {
             "title": "Heroism",
             "name": "heroism",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -3366,6 +3546,7 @@
         {
             "title": "Hex",
             "name": "hex",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 bonus action",
@@ -3383,6 +3564,7 @@
         {
             "title": "Hold Monster",
             "name": "hold-monster",
+            "source": "PHB",
             "level": "5",
             "school": "Enchantment",
             "time": "1 action",
@@ -3398,6 +3580,7 @@
         {
             "title": "Hold Person",
             "name": "hold-person",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "time": "1 action",
@@ -3413,6 +3596,7 @@
         {
             "title": "Holy Aura",
             "name": "holy-aura",
+            "source": "PHB",
             "level": "8",
             "school": "Abjuration",
             "time": "1 action",
@@ -3425,6 +3609,7 @@
         {
             "title": "Hunger of Hadar",
             "name": "hunger-of-hadar",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -3444,6 +3629,7 @@
         {
             "title": "Hunter's Mark",
             "name": "hunters-mark",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "time": "1 bonus action",
@@ -3459,6 +3645,7 @@
         {
             "title": "Hypnotic Pattern",
             "name": "hypnotic-pattern",
+            "source": "PHB",
             "level": "3",
             "school": "Illusion",
             "time": "1 action",
@@ -3495,6 +3682,7 @@
         {
             "title": "Ice Storm",
             "name": "ice-storm",
+            "source": "PHB",
             "level": "4",
             "school": "Evocation",
             "time": "1 action",
@@ -3512,6 +3700,7 @@
         {
             "title": "Identify",
             "name": "identify",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "ritual": "YES",
@@ -3528,6 +3717,7 @@
         {
             "title": "Illusory Script",
             "name": "illusory-script",
+            "source": "PHB",
             "level": "1",
             "school": "Illusion",
             "ritual": "YES",
@@ -3567,6 +3757,7 @@
         {
             "title": "Imprisonment",
             "name": "imprisonment",
+            "source": "PHB",
             "level": "9",
             "school": "Abjuration",
             "time": "1 minute",
@@ -3595,6 +3786,7 @@
         {
             "title": "Incendiary Cloud",
             "name": "incendiary-cloud",
+            "source": "PHB",
             "level": "8",
             "school": "Conjuration",
             "time": "1 action",
@@ -3612,6 +3804,7 @@
         {
             "title": "Inflict Wounds",
             "name": "inflict-wounds",
+            "source": "PHB",
             "level": "1",
             "school": "Necromancy",
             "time": "1 action",
@@ -3631,6 +3824,7 @@
         {
             "title": "Insect Plague",
             "name": "insect-plague",
+            "source": "PHB",
             "level": "5",
             "school": "Conjuration",
             "time": "1 action",
@@ -3727,6 +3921,7 @@
         {
             "title": "Invisibility",
             "name": "invisibility",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "time": "1 action",
@@ -3742,6 +3937,7 @@
         {
             "title": "Jump",
             "name": "jump",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "time": "1 action",
@@ -3754,6 +3950,7 @@
         {
             "title": "Knock",
             "name": "knock",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -3771,6 +3968,7 @@
         {
             "title": "Legend Lore",
             "name": "legend-lore",
+            "source": "PHB",
             "level": "5",
             "school": "Divination",
             "time": "10 minutes",
@@ -3786,6 +3984,7 @@
         {
             "title": "Leomund's Secret Chest",
             "name": "leomunds-secret-chest",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 action",
@@ -3803,6 +4002,7 @@
         {
             "title": "Leomund's Tiny Hut",
             "name": "leomunds-tiny-hut",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "ritual": "YES",
@@ -3820,6 +4020,7 @@
         {
             "title": "Lesser Restoration",
             "name": "lesser-restoration",
+            "source": "PHB",
             "level": "2",
             "school": "Abjuration",
             "time": "1 action",
@@ -3832,6 +4033,7 @@
         {
             "title": "Levitate",
             "name": "levitate",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -3848,6 +4050,7 @@
         {
             "title": "Light",
             "name": "light",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -3863,6 +4066,7 @@
         {
             "title": "Lightning Arrow",
             "name": "lightning-arrow",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 bonus action",
@@ -3881,6 +4085,7 @@
         {
             "title": "Lightning Bolt",
             "name": "lightning-bolt",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -3920,6 +4125,7 @@
         {
             "title": "Locate Animals or Plants",
             "name": "locate-animals-or-plants",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "ritual": "YES",
@@ -3933,6 +4139,7 @@
         {
             "title": "Locate Creature",
             "name": "locate-creature",
+            "source": "PHB",
             "level": "4",
             "school": "Divination",
             "time": "1 action",
@@ -3949,6 +4156,7 @@
         {
             "title": "Locate Object",
             "name": "locate-object",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "time": "1 action",
@@ -3965,6 +4173,7 @@
         {
             "title": "Longstrider",
             "name": "longstrider",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "time": "1 action",
@@ -3997,6 +4206,7 @@
         {
             "title": "Mage Armor",
             "name": "mage-armor",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "time": "1 action",
@@ -4010,6 +4220,7 @@
         {
             "title": "Mage Hand",
             "name": "mage-hand",
+            "source": "PHB",
             "level": "0",
             "school": "Conjuration",
             "time": "1 action",
@@ -4026,6 +4237,7 @@
         {
             "title": "Magic Circle",
             "name": "magic-circle",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 minute",
@@ -4046,6 +4258,7 @@
         {
             "title": "Magic Jar",
             "name": "magic-jar",
+            "source": "PHB",
             "level": "6",
             "school": "Necromancy",
             "time": "1 minute",
@@ -4066,6 +4279,7 @@
         {
             "title": "Magic Missile",
             "name": "magic-missile",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -4082,6 +4296,7 @@
         {
             "title": "Magic Mouth",
             "name": "magic-mouth",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "ritual": "YES",
@@ -4120,6 +4335,7 @@
         {
             "title": "Magic Weapon",
             "name": "magic-weapon",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 bonus action",
@@ -4135,6 +4351,7 @@
         {
             "title": "Major Image",
             "name": "major-image",
+            "source": "PHB",
             "level": "3",
             "school": "Illusion",
             "time": "1 action",
@@ -4152,6 +4369,7 @@
         {
             "title": "Mass Cure Wounds",
             "name": "mass-cure-wounds",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -4168,6 +4386,7 @@
         {
             "title": "Mass Heal",
             "name": "mass-heal",
+            "source": "PHB",
             "level": "9",
             "school": "Evocation",
             "time": "1 action",
@@ -4180,6 +4399,7 @@
         {
             "title": "Mass Healing Word",
             "name": "mass-healing-word",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -4196,6 +4416,7 @@
         {
             "title": "Mass Suggestion",
             "name": "mass-suggestion",
+            "source": "PHB",
             "level": "6",
             "school": "Enchantment",
             "time": "1 action",
@@ -4234,6 +4455,7 @@
         {
             "title": "Maze",
             "name": "maze",
+            "source": "PHB",
             "level": "8",
             "school": "Conjuration",
             "time": "1 action",
@@ -4250,6 +4472,7 @@
         {
             "title": "Meld into Stone",
             "name": "meld-into-stone",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "ritual": "YES",
@@ -4268,6 +4491,7 @@
         {
             "title": "Melf's Acid Arrow",
             "name": "melfs-acid-arrow",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -4306,6 +4530,7 @@
         {
             "title": "Mending",
             "name": "mending",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 minute",
@@ -4321,6 +4546,7 @@
         {
             "title": "Message",
             "name": "message",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
@@ -4336,6 +4562,7 @@
         {
             "title": "Meteor Swarm",
             "name": "meteor-swarm",
+            "source": "PHB",
             "level": "9",
             "school": "Evocation",
             "time": "1 action",
@@ -4352,6 +4579,7 @@
         {
             "title": "Mind Blank",
             "name": "mind-blank",
+            "source": "PHB",
             "level": "8",
             "school": "Abjuration",
             "time": "1 action",
@@ -4364,6 +4592,7 @@
         {
             "title": "Minor Illusion",
             "name": "minor-illusion",
+            "source": "PHB",
             "level": "0",
             "school": "Illusion",
             "time": "1 action",
@@ -4381,6 +4610,7 @@
         {
             "title": "Mirage Arcane",
             "name": "mirage-arcane",
+            "source": "PHB",
             "level": "7",
             "school": "Illusion",
             "time": "10 minutes",
@@ -4398,6 +4628,7 @@
         {
             "title": "Mirror Image",
             "name": "mirror-image",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "time": "1 action",
@@ -4420,6 +4651,7 @@
         {
             "title": "Mislead",
             "name": "mislead",
+            "source": "PHB",
             "level": "5",
             "school": "Illusion",
             "time": "1 action",
@@ -4435,6 +4667,7 @@
         {
             "title": "Misty Step",
             "name": "misty-step",
+            "source": "PHB",
             "level": "2",
             "school": "Conjuration",
             "time": "1 bonus action",
@@ -4447,6 +4680,7 @@
         {
             "title": "Modify Memory",
             "name": "modify-memory",
+            "source": "PHB",
             "level": "5",
             "school": "Enchantment",
             "time": "1 action",
@@ -4486,6 +4720,7 @@
         {
             "title": "Moonbeam",
             "name": "moonbeam",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -4505,6 +4740,7 @@
         {
             "title": "Mordenkainen's Faithful Hound",
             "name": "mordenkainens-faithful-hound",
+            "source": "PHB",
             "level": "4",
             "school": "Conjuration",
             "time": "1 action",
@@ -4525,6 +4761,7 @@
         {
             "title": "Mordenkainen's Magnificent Mansion",
             "name": "mordenkainens-magnificent-mansion",
+            "source": "PHB",
             "level": "7",
             "school": "Conjuration",
             "time": "1 minute",
@@ -4541,6 +4778,7 @@
         {
             "title": "Mordenkainen's Private Sanctum",
             "name": "mordenkainens-private-sanctum",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "10 minutes",
@@ -4564,6 +4802,7 @@
         {
             "title": "Mordenkainen's Sword",
             "name": "mordenkainens-sword",
+            "source": "PHB",
             "level": "7",
             "school": "Evocation",
             "time": "1 action",
@@ -4583,6 +4822,7 @@
         {
             "title": "Move Earth",
             "name": "move-earth",
+            "source": "PHB",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -4601,6 +4841,7 @@
         {
             "title": "Nondetection",
             "name": "nondetection",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 action",
@@ -4613,6 +4854,7 @@
         {
             "title": "Nystul's Magic Aura",
             "name": "nystuls-magic-aura",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "time": "1 action",
@@ -4630,6 +4872,7 @@
         {
             "title": "Otiluke's Freezing Sphere",
             "name": "otilukes-freezing-sphere",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "1 action",
@@ -4648,6 +4891,7 @@
         {
             "title": "Otiluke's Resilient Sphere",
             "name": "otilukes-resilient-sphere",
+            "source": "PHB",
             "level": "4",
             "school": "Evocation",
             "time": "1 action",
@@ -4665,6 +4909,7 @@
         {
             "title": "Otto's Irresistible Dance",
             "name": "ottos-irresistible-dance",
+            "source": "PHB",
             "level": "6",
             "school": "Enchantment",
             "time": "1 action",
@@ -4680,6 +4925,7 @@
         {
             "title": "Pass Without Trace",
             "name": "pass-without-trace",
+            "source": "PHB",
             "level": "2",
             "school": "Abjuration",
             "time": "1 action",
@@ -4692,6 +4938,7 @@
         {
             "title": "Passwall",
             "name": "passwall",
+            "source": "PHB",
             "level": "5",
             "school": "Transmutation",
             "time": "1 action",
@@ -4707,6 +4954,7 @@
         {
             "title": "Phantasmal Force",
             "name": "phantasmal-force",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "time": "1 action",
@@ -4726,6 +4974,7 @@
         {
             "title": "Phantasmal Killer",
             "name": "phantasmal-killer",
+            "source": "PHB",
             "level": "4",
             "school": "Illusion",
             "time": "1 action",
@@ -4742,6 +4991,7 @@
         {
             "title": "Phantom Steed",
             "name": "phantom-steed",
+            "source": "PHB",
             "level": "3",
             "school": "Illusion",
             "ritual": "YES",
@@ -4758,6 +5008,7 @@
         {
             "title": "Planar Ally",
             "name": "planar-ally",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "10 minutes",
@@ -4777,6 +5028,7 @@
         {
             "title": "Planar Binding",
             "name": "planar-binding",
+            "source": "PHB",
             "level": "5",
             "school": "Abjuration",
             "time": "1 hour",
@@ -4793,6 +5045,7 @@
         {
             "title": "Plane Shift",
             "name": "plane-shift",
+            "source": "PHB",
             "level": "7",
             "school": "Conjuration",
             "time": "1 action",
@@ -4810,6 +5063,7 @@
         {
             "title": "Plant Growth",
             "name": "plant-growth",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action or 8 hours",
@@ -4827,6 +5081,7 @@
         {
             "title": "Poison Spray",
             "name": "poison-spray",
+            "source": "PHB",
             "level": "0",
             "school": "Conjuration",
             "time": "1 action",
@@ -4848,6 +5103,7 @@
         {
             "title": "Polymorph",
             "name": "polymorph",
+            "source": "PHB",
             "level": "4",
             "school": "Transmutation",
             "time": "1 action",
@@ -4866,6 +5122,7 @@
         {
             "title": "Power Word Heal",
             "name": "power-word-heal",
+            "source": "PHB",
             "level": "9",
             "school": "Evocation",
             "time": "1 action",
@@ -4878,6 +5135,7 @@
         {
             "title": "Power Word Kill",
             "name": "power-word-kill",
+            "source": "PHB",
             "level": "9",
             "school": "Enchantment",
             "time": "1 action",
@@ -4890,6 +5148,7 @@
         {
             "title": "Power Word Stun",
             "name": "power-word-stun",
+            "source": "PHB",
             "level": "8",
             "school": "Enchantment",
             "time": "1 action",
@@ -4905,6 +5164,7 @@
         {
             "title": "Prayer of Healing",
             "name": "prayer-of-healing",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "10 minutes",
@@ -4921,6 +5181,7 @@
         {
             "title": "Prestidigitation",
             "name": "prestidigitation",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
@@ -4959,6 +5220,7 @@
         {
             "title": "Prismatic Spray",
             "name": "prismatic-spray",
+            "source": "PHB",
             "level": "7",
             "school": "Evocation",
             "time": "1 action",
@@ -4985,6 +5247,7 @@
         {
             "title": "Prismatic Wall",
             "name": "prismatic-wall",
+            "source": "PHB",
             "level": "9",
             "school": "Abjuration",
             "time": "1 action",
@@ -5010,6 +5273,7 @@
         {
             "title": "Produce Flame",
             "name": "produce-flame",
+            "source": "PHB",
             "level": "0",
             "school": "Conjuration",
             "time": "1 action",
@@ -5033,6 +5297,7 @@
         {
             "title": "Programmed Illusion",
             "name": "programmed-illusion",
+            "source": "PHB",
             "level": "6",
             "school": "Illusion",
             "time": "1 action",
@@ -5050,6 +5315,7 @@
         {
             "title": "Project Image",
             "name": "project-image",
+            "source": "PHB",
             "level": "7",
             "school": "Illusion",
             "time": "1 action",
@@ -5067,6 +5333,7 @@
         {
             "title": "Protection from Energy",
             "name": "protection-from-energy",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 action",
@@ -5079,6 +5346,7 @@
         {
             "title": "Protection from Evil and Good",
             "name": "protection from-evil-and-good",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "time": "1 action",
@@ -5094,6 +5362,7 @@
         {
             "title": "Protection from Poison",
             "name": "protection-from-poison",
+            "source": "PHB",
             "level": "2",
             "school": "Abjuration",
             "time": "1 action",
@@ -5109,6 +5378,7 @@
         {
             "title": "Purify Food and Drink",
             "name": "purify-food-and-drink",
+            "source": "PHB",
             "level": "1",
             "school": "Transmutation",
             "ritual": "YES",
@@ -5140,6 +5410,7 @@
         {
             "title": "Raise Dead",
             "name": "raise-dead",
+            "source": "PHB",
             "level": "5",
             "school": "Necromancy",
             "time": "1 hour",
@@ -5157,6 +5428,7 @@
         {
             "title": "Rary's Telepathic Bond",
             "name": "rarys-telepathic-bond",
+            "source": "PHB",
             "level": "5",
             "school": "Divination",
             "ritual": "YES",
@@ -5173,6 +5445,7 @@
         {
             "title": "Ray of Enfeeblement",
             "name": "ray-of-enfeeblement",
+            "source": "PHB",
             "level": "2",
             "school": "Necromancy",
             "time": "1 action",
@@ -5189,6 +5462,7 @@
         {
             "title": "Ray of Frost",
             "name": "ray-of-frost",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -5211,6 +5485,7 @@
         {
             "title": "Ray of Sickness",
             "name": "ray-of-sickness",
+            "source": "PHB",
             "level": "1",
             "school": "Necromancy",
             "time": "1 action",
@@ -5230,6 +5505,7 @@
         {
             "title": "Regenerate",
             "name": "regenerate",
+            "source": "PHB",
             "level": "7",
             "school": "Transmutation",
             "time": "1 minute",
@@ -5246,6 +5522,7 @@
         {
             "title": "Reincarnate",
             "name": "reincarnate",
+            "source": "PHB",
             "level": "5",
             "school": "Transmutation",
             "time": "1 hour",
@@ -5277,6 +5554,7 @@
         {
             "title": "Remove Curse",
             "name": "remove-curse",
+            "source": "PHB",
             "level": "3",
             "school": "Abjuration",
             "time": "1 action",
@@ -5289,6 +5567,7 @@
         {
             "title": "Resistance",
             "name": "resistance",
+            "source": "PHB",
             "level": "0",
             "school": "Abjuration",
             "time": "1 action",
@@ -5302,6 +5581,7 @@
         {
             "title": "Resurrection",
             "name": "resurrection",
+            "source": "PHB",
             "level": "7",
             "school": "Necromancy",
             "time": "1 hour",
@@ -5320,6 +5600,7 @@
         {
             "title": "Reverse Gravity",
             "name": "reverse-gravity",
+            "source": "PHB",
             "level": "7",
             "school": "Transmutation",
             "time": "1 action",
@@ -5336,6 +5617,7 @@
         {
             "title": "Revivify",
             "name": "revivify",
+            "source": "PHB",
             "level": "3",
             "school": "Necromancy",
             "time": "1 action",
@@ -5348,6 +5630,7 @@
         {
             "title": "Rope Trick",
             "name": "rope-trick",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -5365,6 +5648,7 @@
         {
             "title": "Sacred Flame",
             "name": "sacred-flame",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -5386,6 +5670,7 @@
         {
             "title": "Sanctuary",
             "name": "sanctuary",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "time": "1 bonus action",
@@ -5401,6 +5686,7 @@
         {
             "title": "Scorching Ray",
             "name": "scorching-ray",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -5421,6 +5707,7 @@
         {
             "title": "Scrying",
             "name": "scrying",
+            "source": "PHB",
             "level": "5",
             "school": "Divination",
             "time": "10 minutes",
@@ -5446,6 +5733,7 @@
         {
             "title": "Searing Smite",
             "name": "searing-smite",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -5462,6 +5750,7 @@
         {
             "title": "See Invisibility",
             "name": "see-invisibility",
+            "source": "PHB",
             "level": "2",
             "school": "Divination",
             "time": "1 action",
@@ -5474,6 +5763,7 @@
         {
             "title": "Seeming",
             "name": "seeming",
+            "source": "PHB",
             "level": "5",
             "school": "Illusion",
             "time": "1 action",
@@ -5491,6 +5781,7 @@
         {
             "title": "Sending",
             "name": "sending",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -5507,6 +5798,7 @@
         {
             "title": "Sequester",
             "name": "sequester",
+            "source": "PHB",
             "level": "7",
             "school": "Transmutation",
             "time": "1 action",
@@ -5544,6 +5836,7 @@
         {
             "title": "Shapechange",
             "name": "shapechange",
+            "source": "PHB",
             "level": "9",
             "school": "Transmutation",
             "time": "1 action",
@@ -5563,6 +5856,7 @@
         {
             "title": "Shatter",
             "name": "shatter",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -5579,6 +5873,7 @@
         {
             "title": "Shield",
             "name": "shield",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "time": "1 reaction",
@@ -5591,6 +5886,7 @@
         {
             "title": "Shield of Faith",
             "name": "shield-of-faith",
+            "source": "PHB",
             "level": "1",
             "school": "Abjuration",
             "time": "1 bonus action",
@@ -5603,6 +5899,7 @@
         {
             "title": "Shillelagh",
             "name": "shillelagh",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 bonus action",
@@ -5615,6 +5912,7 @@
         {
             "title": "Shocking Grasp",
             "name": "shocking-grasp",
+            "source": "PHB",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
@@ -5637,6 +5935,7 @@
         {
             "title": "Silence",
             "name": "silence",
+            "source": "PHB",
             "level": "2",
             "school": "Illusion",
             "ritual": "YES",
@@ -5650,6 +5949,7 @@
         {
             "title": "Silent Image",
             "name": "silent-image",
+            "source": "PHB",
             "level": "1",
             "school": "Illusion",
             "time": "1 action",
@@ -5666,6 +5966,7 @@
         {
             "title": "Simulacrum",
             "name": "simulacrum",
+            "source": "PHB",
             "level": "7",
             "school": "Illusion",
             "time": "12 hours",
@@ -5700,6 +6001,7 @@
         {
             "title": "Sleep",
             "name": "sleep",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -5718,6 +6020,7 @@
         {
             "title": "Sleet Storm",
             "name": "sleet-storm",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -5734,6 +6037,7 @@
         {
             "title": "Slow",
             "name": "slow",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -5769,6 +6073,7 @@
         {
             "title": "Spare the Dying",
             "name": "spare-the-dying",
+            "source": "PHB",
             "level": "0",
             "school": "Necromancy",
             "time": "1 action",
@@ -5781,6 +6086,7 @@
         {
             "title": "Speak with Animals",
             "name": "speak-with-animals",
+            "source": "PHB",
             "level": "1",
             "school": "Divination",
             "ritual": "YES",
@@ -5794,6 +6100,7 @@
         {
             "title": "Speak with Dead",
             "name": "speak-with-dead",
+            "source": "PHB",
             "level": "3",
             "school": "Necromancy",
             "time": "1 action",
@@ -5809,6 +6116,7 @@
         {
             "title": "Speak with Plants",
             "name": "speak-with-plants",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -5827,6 +6135,7 @@
         {
             "title": "Spider Climb",
             "name": "spider-climb",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -5839,6 +6148,7 @@
         {
             "title": "Spike Growth",
             "name": "spike-growth",
+            "source": "PHB",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -5855,6 +6165,7 @@
         {
             "title": "Spirit Guardians",
             "name": "spirit-guardians",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -5872,6 +6183,7 @@
         {
             "title": "Spiritual Weapon",
             "name": "spiritual-weapon",
+            "source": "PHB",
             "level": "2",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -5893,6 +6205,7 @@
         {
             "title": "Staggering Smite",
             "name": "staggering-smite",
+            "source": "PHB",
             "level": "4",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -5906,6 +6219,7 @@
         {
             "title": "Stinking Cloud",
             "name": "stinking-cloud",
+            "source": "PHB",
             "level": "3",
             "school": "Conjuration",
             "time": "1 action",
@@ -5922,6 +6236,7 @@
         {
             "title": "Stone Shape",
             "name": "stone-shape",
+            "source": "PHB",
             "level": "4",
             "school": "Transmutation",
             "time": "1 action",
@@ -5934,6 +6249,7 @@
         {
             "title": "Stoneskin",
             "name": "stoneskin",
+            "source": "PHB",
             "level": "4",
             "school": "Abjuration",
             "time": "1 action",
@@ -5970,6 +6286,7 @@
         {
             "title": "Storm of Vengeance",
             "name": "storm-of-vengeance",
+            "source": "PHB",
             "level": "9",
             "school": "Conjuration",
             "time": "1 action",
@@ -5994,6 +6311,7 @@
         {
             "title": "Suggestion",
             "name": "suggestion",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "time": "1 action",
@@ -6011,6 +6329,7 @@
         {
             "title": "Sunbeam",
             "name": "sunbeam",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "1 action",
@@ -6028,6 +6347,7 @@
         {
             "title": "Sunburst",
             "name": "sunburst",
+            "source": "PHB",
             "level": "8",
             "school": "Evocation",
             "time": "1 action",
@@ -6045,6 +6365,7 @@
         {
             "title": "Swift Quiver",
             "name": "swift-quiver",
+            "source": "PHB",
             "level": "5",
             "school": "Transmutation",
             "time": "1 bonus action",
@@ -6082,6 +6403,7 @@
         {
             "title": "Symbol",
             "name": "symbol",
+            "source": "PHB",
             "level": "7",
             "school": "Abjuration",
             "time": "1 minute",
@@ -6109,6 +6431,7 @@
         {
             "title": "Tasha's Hideous Laughter",
             "name": "tashas-hideous-laughter",
+            "source": "PHB",
             "level": "1",
             "school": "Enchantment",
             "time": "1 action",
@@ -6124,6 +6447,7 @@
         {
             "title": "Telekinesis",
             "name": "telekinesis",
+            "source": "PHB",
             "level": "5",
             "school": "Transmutation",
             "time": "1 action",
@@ -6144,6 +6468,7 @@
         {
             "title": "Telepathy",
             "name": "telepathy",
+            "source": "PHB",
             "level": "8",
             "school": "Evocation",
             "time": "1 action",
@@ -6159,6 +6484,7 @@
         {
             "title": "Teleport",
             "name": "teleport",
+            "source": "PHB",
             "level": "7",
             "school": "Conjuration",
             "time": "1 action",
@@ -6188,6 +6514,7 @@
         {
             "title": "Teleportation Circle",
             "name": "teleportation-circle",
+            "source": "PHB",
             "level": "5",
             "school": "Conjuration",
             "time": "1 minute",
@@ -6204,6 +6531,7 @@
         {
             "title": "Tenser's Floating Disk",
             "name": "tensers-floating-disk",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "ritual": "YES",
@@ -6221,6 +6549,7 @@
         {
             "title": "Thaumaturgy",
             "name": "thaumaturgy",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
@@ -6242,6 +6571,7 @@
         {
             "title": "Thorn Whip",
             "name": "thorn-whip",
+            "source": "PHB",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
@@ -6287,6 +6617,7 @@
         {
             "title": "Thunderous Smite",
             "name": "thunderous-smite",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -6300,6 +6631,7 @@
         {
             "title": "Thunderwave",
             "name": "thunderwave",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -6334,6 +6666,7 @@
         {
             "title": "Time Stop",
             "name": "time-stop",
+            "source": "PHB",
             "level": "9",
             "school": "Transmutation",
             "time": "1 action",
@@ -6350,6 +6683,7 @@
         {
             "title": "Tongues",
             "name": "tongues",
+            "source": "PHB",
             "level": "3",
             "school": "Divination",
             "time": "1 action",
@@ -6383,6 +6717,7 @@
         {
             "title": "Transport via Plants",
             "name": "transport-via-plants",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "1 action",
@@ -6395,6 +6730,7 @@
         {
             "title": "Tree Stride",
             "name": "tree-stride",
+            "source": "PHB",
             "level": "5",
             "school": "Conjuration",
             "time": "1 action",
@@ -6410,6 +6746,7 @@
         {
             "title": "True Polymorph",
             "name": "true-polymorph",
+            "source": "PHB",
             "level": "9",
             "school": "Transmutation",
             "time": "1 action",
@@ -6432,6 +6769,7 @@
         {
             "title": "True Resurrection",
             "name": "true-resurrection",
+            "source": "PHB",
             "level": "9",
             "school": "Necromancy",
             "time": "1 hour",
@@ -6448,6 +6786,7 @@
         {
             "title": "True Seeing",
             "name": "true-seeing",
+            "source": "PHB",
             "level": "6",
             "school": "Divination",
             "time": "1 action",
@@ -6460,6 +6799,7 @@
         {
             "title": "True Strike",
             "name": "true-strike",
+            "source": "PHB",
             "level": "0",
             "school": "Divination",
             "time": "1 action",
@@ -6472,6 +6812,7 @@
         {
             "title": "Tsunami",
             "name": "tsunami",
+            "source": "PHB",
             "level": "8",
             "school": "Conjuration",
             "time": "1 minute",
@@ -6497,6 +6838,7 @@
         {
             "title": "Unseen Servant",
             "name": "unseen-servant",
+            "source": "PHB",
             "level": "1",
             "school": "Conjuration",
             "ritual": "YES",
@@ -6514,6 +6856,7 @@
         {
             "title": "Vampiric Touch",
             "name": "vampiric-touch",
+            "source": "PHB",
             "level": "3",
             "school": "Necromancy",
             "time": "1 action",
@@ -6533,6 +6876,7 @@
         {
             "title": "Vicious Mockery",
             "name": "vicious-mockery",
+            "source": "PHB",
             "level": "0",
             "school": "Enchantment",
             "time": "1 action",
@@ -6575,6 +6919,7 @@
         {
             "title": "Wall of Fire",
             "name": "wall-of-fire",
+            "source": "PHB",
             "level": "4",
             "school": "Evocation",
             "time": "1 action",
@@ -6593,6 +6938,7 @@
         {
             "title": "Wall of Force",
             "name": "wall-of-force",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -6608,6 +6954,7 @@
         {
             "title": "Wall of Ice",
             "name": "wall-of-ice",
+            "source": "PHB",
             "level": "6",
             "school": "Evocation",
             "time": "1 action",
@@ -6645,6 +6992,7 @@
         {
             "title": "Wall of Stone",
             "name": "wall-of-stone",
+            "source": "PHB",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -6664,6 +7012,7 @@
         {
             "title": "Wall of Thorns",
             "name": "wall-of-thorns",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "1 action",
@@ -6699,6 +7048,7 @@
         {
             "title": "Warding Bond",
             "name": "warding-bond",
+            "source": "PHB",
             "level": "2",
             "school": "Abjuration",
             "time": "1 action",
@@ -6736,6 +7086,7 @@
         {
             "title": "Water Breathing",
             "name": "water-breathing",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "ritual": "YES",
@@ -6749,6 +7100,7 @@
         {
             "title": "Water Walk",
             "name": "water-walk",
+            "source": "PHB",
             "level": "3",
             "school": "Transmutation",
             "ritual": "YES",
@@ -6785,6 +7137,7 @@
         {
             "title": "Web",
             "name": "web",
+            "source": "PHB",
             "level": "2",
             "school": "Conjuration",
             "time": "1 action",
@@ -6804,6 +7157,7 @@
         {
             "title": "Weird",
             "name": "weird",
+            "source": "PHB",
             "level": "9",
             "school": "Illusion",
             "time": "1 action",
@@ -6840,6 +7194,7 @@
         {
             "title": "Wind Walk",
             "name": "wind-walk",
+            "source": "PHB",
             "level": "6",
             "school": "Transmutation",
             "time": "1 minute",
@@ -6855,6 +7210,7 @@
         {
             "title": "Wind Wall",
             "name": "wind-wall",
+            "source": "PHB",
             "level": "3",
             "school": "Evocation",
             "time": "1 action",
@@ -6872,6 +7228,7 @@
         {
             "title": "Wish",
             "name": "wish",
+            "source": "PHB",
             "level": "9",
             "school": "Conjuration",
             "time": "1 action",
@@ -6899,6 +7256,7 @@
         {
             "title": "Witch Bolt",
             "name": "witch-bolt",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -6915,6 +7273,7 @@
         {
             "title": "Word of Recall",
             "name": "word-of-recall",
+            "source": "PHB",
             "level": "6",
             "school": "Conjuration",
             "time": "1 action",
@@ -6930,6 +7289,7 @@
         {
             "title": "Wrathful Smite",
             "name": "wrathful-smite",
+            "source": "PHB",
             "level": "1",
             "school": "Evocation",
             "time": "1 bonus action",
@@ -6942,6 +7302,7 @@
         {
             "title": "Zone of Truth",
             "name": "zone-of-truth",
+            "source": "PHB",
             "level": "2",
             "school": "Enchantment",
             "time": "1 action",

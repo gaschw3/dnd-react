@@ -46,7 +46,7 @@ export class RaceList extends React.Component {
             return (
               <ListGroupItem
                 href={"/dnd-react/#/races/"+race.name}
-                className={this.props.active === race.name ? "active" : ""}
+                className={this.props.active === race.name ? "selected" : ""}
                 onClick={this.props.handleClick.bind(this, race.name)}>
                   <div className="row">
                     <div className="col-sm-7">{race.title}</div>

@@ -10,14 +10,15 @@ export class Spell extends React.Component {
   constructor(props) {
     super(props);
     this.state = { 
-      spell: "Feat",
-      image: "Feat",
+      spell: "Spells",
+      image: "Spells",
       json: json.spell
     };
     this.handleClick = this.handleClick.bind(this);
   }
 
   handleClick(name, e) {
+    window.location="/dnd-react/#/spells/"+name;
      this.setState({
         spell: name
     });
@@ -25,13 +26,15 @@ export class Spell extends React.Component {
 
   render() {
     return(
-      <div className="row">
+      <div>
         <JumbotronComponent title="Spells" description="spell.description" image={this.state.image}/>
-        <div className="col-1 spell">
-          <SpellList handleClick={this.handleClick} json={this.state.json} active={this.props.params.spellName}/>
-        </div>
-        <div className="col-sm-8 spell">
-          <SpellDetails json={this.state.json} spell={this.props.params.spellName} />
+        <div className="spell">
+          <div className="col-1">
+            <SpellList handleClick={this.handleClick} json={this.state.json} active={this.props.params.spellName}/>
+          </div>
+          <div className="col-1 spell-detail">
+            <SpellDetails json={this.state.json} spell={this.props.params.spellName} />
+          </div>
         </div>
       </div>
     );

@@ -2,30 +2,31 @@ import React from 'react';
 
 export class SpellDetails extends React.Component {
 
-  listicate(data){
-    return ( 
-      <p>listticate</p>
-    )
-  }
-
-  processFeat(data){
+  paragraphize(data){
     return (
-        <p>processSpell</p>
+        data.map(function(line) { return <p>{line}</p> })
     )
   }
 
   render() {
-    var currFeat =  this.props.json.find(function(item, index){
-      if (item.name === this.props.background)
+    var currSpell =  this.props.json.find(function(item, index){
+      if (item.name === this.props.spell)
         return 1;
     }, this);
 
-    if (currFeat) {
+    if (currSpell) {
       return(
         <div>
-          <div className="feat-features">
-          <h2 className="feat-title"><strong>{currFeat.title}</strong></h2>
-            {this.processFeat(currFeat)}
+          <div className="spell-details">
+            <h2 className="spell-title"><strong>{currSpell.title}</strong></h2>
+            {currSpell.source}
+            <p><em>{currSpell.level}th level {currSpell.school}</em></p>
+            <p><strong>Casting time: </strong>{currSpell.time}</p>
+            <p><strong>Range: </strong>{currSpell.range}</p>
+            <p><strong>Components: </strong>{currSpell.components}</p>
+            <p><strong>Duration: </strong>{currSpell.duration}</p>
+            <p>{this.paragraphize(currSpell.text)}</p>
+            <p><strong>Classes: </strong>{currSpell.classes}</p>
           </div>
         </div>
       );

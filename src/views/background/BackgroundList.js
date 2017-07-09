@@ -40,7 +40,7 @@ export class BackgroundList extends React.Component {
             return (
               <ListGroupItem
                 href={"/dnd-react/#/backgrounds/"+background.name}
-                className={this.props.active === background.name ? "active" : ""}
+                className={this.props.active === background.name ? "selected" : ""}
                 onClick={this.props.handleClick.bind(this, background.name, background.description)}>
                   {background.title}
               </ListGroupItem>

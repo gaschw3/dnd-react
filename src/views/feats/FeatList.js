@@ -40,7 +40,7 @@ export class FeatList extends React.Component {
             return (
               <ListGroupItem
                 href={"/dnd-react/#/feats/"+feat.name}
-                className={this.props.active === feat.name ? "active" : ""}
+                className={this.props.active === feat.name ? "selected" : ""}
                 onClick={this.props.handleClick.bind(this, feat.name)}>
                   {feat.title}
               </ListGroupItem>

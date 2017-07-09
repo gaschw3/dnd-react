@@ -1,31 +1,11 @@
-/* Sticky footer styles
--------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
-}
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 50px;
-  background-color: #f5f5f5;
-}
-
 .container {
   width: auto;
   max-width: 1200px;
   padding: 0 15px;
 }
-.container .text-muted {
-  margin: 20px 0;
+.carousel-caption {
+  padding-bottom:0px;
 }
-/*------------------------------------------*/
 
 body {
   padding-top: 70px;
@@ -36,7 +16,7 @@ ul {
 }
 
 .carousel-caption h1 {
-  font-size: 3em;
+  font-size: 2.8em;
   text-shadow:0 0 4px black;
 }
 .carousel-caption h3 {
@@ -58,7 +38,7 @@ ul {
     padding: 2px;
 }
 
-td.center, th {
+td.center, th.center {
   text-align:center;
 }
 
@@ -100,6 +80,23 @@ td.center, th {
   border-bottom: 1px solid darkblue;
 }
 
+.list-group-item.selected,
+.list-group-item.selected:hover,
+.list-group-item.selected:focus {
+  text-shadow: 0 -1px 0 #afd9ee;
+  background-image: -webkit-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
+  background-image: -o-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
+  background-image: linear-gradient(to bottom, #d9edf7 0%, #b9def0 100%);
+  background-repeat: repeat-x;
+  border-color: #a8cfe3;
+}
+.list-group-item.selected .badge,
+.list-group-item.selected:hover .badge,
+.list-group-item.selected:focus .badge {
+  text-shadow: none;
+}
+
+
 .background {
   padding: 15px;
 }
@@ -112,6 +109,24 @@ td.center, th {
   border-bottom: 2px solid darkblue;
 }
 .background-features {
+  background: #eee;
+  border-radius: 10px;
+  padding: 15px;
+  margin:10px;
+}
+
+.feat {
+  padding: 15px;
+}
+.feat-list {
+  max-height: 440px;
+  overflow-y: auto;
+}
+.feat-title {
+  margin-top:0px;
+  border-bottom: 2px solid darkblue;
+}
+.feat-features {
   background: #eee;
   border-radius: 10px;
   padding: 15px;
@@ -137,4 +152,46 @@ td.center, th {
   border-radius: 10px;
   padding: 15px;
   margin:10px;
+}
+
+.spell {
+  padding: 15px;
+  font-size: .8em;
+}
+.spell-list {
+  max-height: 400px;
+  overflow-y: auto;
+}
+.form-group {
+  margin-bottom: 0px;
+}
+.spell-padding {
+  padding: 0 0 0 0;
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+.reactable-header-sortable {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.reactable-header-sort-asc:after {
+  position: relative;
+  float: right;
+  top: 1px;
+  font-family: 'Glyphicons Halflings';
+  content: "\e151";
+}
+.reactable-header-sort-desc:after {
+  position: relative;
+  float: right;
+  top: 1px;
+  font-family: 'Glyphicons Halflings';
+  content: "\e152";
 }

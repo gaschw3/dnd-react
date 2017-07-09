@@ -25,7 +25,7 @@ export class Feat extends React.Component {
 
   render() {
     return(
-      <div className="row">
+      <div>
         <JumbotronComponent title="Feats" description="feat.description" image={this.state.image}/>
         <div className="col-sm-4 background">
           <FeatList handleClick={this.handleClick} json={this.state.json} active={this.props.params.featName}/>
