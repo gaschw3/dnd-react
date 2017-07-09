@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 // Import routing components
 import {Router, Route } from 'react-router';
 import { hashHistory } from 'react-router';
