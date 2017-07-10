@@ -417,7 +417,7 @@
             "components": "V",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Paladin, Warlock (Undying)",
-            "text": "Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can't be reduced. In addition, a non-hostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points."
+            "text": ["Life-preserving energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can't be reduced. In addition, a non-hostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points."]
         },
         {
             "title": "Aura of Purity",
@@ -430,7 +430,7 @@
             "components": "V",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Paladin",
-            "text": "Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions - blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned."
+            "text": ["Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each non-hostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions - blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned."]
         },
         {
             "title": "Aura of Vitality",
@@ -443,7 +443,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Paladin, Paladin (Crown)",
-            "text": "Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.",
+            "text": ["Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points."],
             "roll": "2d6"
         },
         {
@@ -489,7 +489,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Paladin",
-            "text": "The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 hit points of fewer, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the tart reappears in the space it left or in the nearest unoccupied space if that space is occupied.",
+            "text": ["The next time you hit a creature with a weapon attack before this spell ends, your weapon crackles with force, and the attack deals an extra 5d10 force damage to the target. Additionally, if this attack reduces the target to 50 hit points of fewer, you banish it. If the target is native to a different plane of existence than the one you're on, the target disappears, returning to its home plane. If the target is native to the plane you're on, the creature vanishes into a harmless demiplane. While there, the target is incapacitated. It remains there until the spell ends, at which point the tart reappears in the space it left or in the nearest unoccupied space if that space is occupied."],
             "roll": "5d10"
         },
         {
@@ -521,7 +521,7 @@
             "components": "V, S, M (a handful of oak bark)",
             "duration": "Concentration, up to 1 hour",
             "classes": "Cleric (Nature), Druid, Druid (Forest), Ranger",
-            "text": "You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing."
+            "text": ["You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing."]
         },
         {
             "title": "Beacon of Hope",
@@ -534,7 +534,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 1 minute",
             "classes": "Cleric, Cleric (Life), Paladin (Devotion)",
-            "text": "This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing."
+            "text": ["This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing."]
         },
         {
             "title": "Beast Bond",
@@ -564,7 +564,7 @@
             "components": "S",
             "duration": "Concentration, up to 1 hour",
             "classes": "Druid, Ranger",
-            "text": "You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses."
+            "text": ["You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses."]
         },
         {
             "title": "Bestow Curse",
@@ -643,7 +643,7 @@
             "components": "V, S",
             "duration": "1 round",
             "classes": "Bard, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)",
-            "text": "You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks."
+            "text": ["You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks."]
         },
         {
             "title": "Bless",
@@ -741,7 +741,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Druid (Desert), Sorcerer, Wizard, Rogue (Arcane Trickster), Artificer (UA)",
-            "text": "Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight."
+            "text": ["Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight."]
         },
         {
             "title": "Bones of the Earth",
@@ -979,7 +979,7 @@
             "components": "V",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Paladin, Paladin (Crown)",
-            "text": "Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on saving throws against spells and other magical effects. Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw."
+            "text": ["Divine energy radiates from you, distorting and diffusing magical energy within 30 feet of you. Until the spell ends, the sphere moves with you, centered on you. For the duration, each friendly creature in the area (including you) has advantage on saving throws against spells and other magical effects. Additionally, when an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw."]
         },
         {
             "title": "Clairvoyance",
@@ -1249,7 +1249,7 @@
             "components": "V, S, M (one piece of ammunition or a thrown weapon)",
             "duration": "Instantaneous",
             "classes": "Ranger",
-            "text": "You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity saving throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component.",
+            "text": ["You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the air to create a cone of identical weapons that shoot forward and then disappear. Each creature in a 60-foot cone must succeed on a Dexterity saving throw. A creature takes 3d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the weapon or ammunition used as a component."],
             "roll": "3d8"
         },
         {
@@ -1338,7 +1338,7 @@
             "components": "V, S, M (one piece of ammunition or one thrown weapon)",
             "duration": "Instantaneous",
             "classes": "Ranger",
-            "text": "You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmagical weapon into the air and choose a point within range. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear. Each creature in a 40-foot-radius. 20-foot-high cylinder centered on that point must make a Dexterity saving throw. A creature takes 8d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the ammunition or weapon.",
+            "text": ["You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmagical weapon into the air and choose a point within range. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear. Each creature in a 40-foot-radius. 20-foot-high cylinder centered on that point must make a Dexterity saving throw. A creature takes 8d8 damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the ammunition or weapon."],
             "roll": "8d8"
         },
         {
@@ -1432,7 +1432,7 @@
             "components": "V, S, M (ruby dust worth 50 gp, which the spell consumes)",
             "duration": "Until dispelled",
             "classes": "Cleric, Wizard, Fighter (Eldritch Knight), Artificer (UA)",
-            "text": "A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched."
+            "text": ["A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched."]
         },
         {
             "title": "Control Flames",
@@ -1599,7 +1599,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Cleric, Druid (Desert), Paladin",
-            "text": "You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad."
+            "text": ["You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad."]
         },
         {
             "title": "Create Undead",
@@ -1689,7 +1689,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Cleric (War), Paladin",
-            "text": "Holy power radiates from you in an aura with a 30-foot radius, awakening boldness in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each non-hostile creature in the aura (including you) deals an extra 1d4 radiant damage when it hits with a weapon attack.",
+            "text": ["Holy power radiates from you in an aura with a 30-foot radius, awakening boldness in friendly creatures. Until the spell ends, the aura moves with you, centered on you. While in the aura, each non-hostile creature in the aura (including you) deals an extra 1d4 radiant damage when it hits with a weapon attack."],
             "roll": "1d4"
         },
         {
@@ -1753,7 +1753,7 @@
             "components": "V, S, M (either a pinch of dried carrot or an agate)",
             "duration": "8 hours",
             "classes": "Druid, Ranger, Sorcerer, Wizard, Artificer (UA)",
-            "text": "You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet."
+            "text": ["You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet."]
         },
         {
             "title": "Daylight",
@@ -1783,7 +1783,7 @@
             "components": "V, S",
             "duration": "8 hours",
             "classes": "Cleric, Cleric (Death), Cleric (Life), Paladin, Warlock (Undying), Artificer (UA), Cleric (Grave)",
-            "text": "You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spells ends."
+            "text": ["You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spells ends."]
         },
         {
             "title": "Delayed Blast Fireball",
@@ -1832,7 +1832,7 @@
             "components": "V",
             "duration": "Instantaneous",
             "classes": "Cleric (Tempest), Paladin, Warlock (Hexblade)",
-            "text": "You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn't knocked prone.",
+            "text": ["You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn't knocked prone."],
             "roll": "5d6+5d6"
         },
         {
@@ -1846,7 +1846,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Cleric, Paladin",
-            "text": "For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place of object within 30 feet of you that has been magically consecrated or desecrated. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
+            "text": ["For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place of object within 30 feet of you that has been magically consecrated or desecrated. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."]
         },
         {
             "title": "Detect Magic (r)",
@@ -2035,7 +2035,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 1 minute",
             "classes": "Cleric (War), Paladin",
-            "text": "Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit."
+            "text": ["Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit."]
         },
         {
             "title": "Divine Word (b)",
@@ -2392,7 +2392,7 @@
             "components": "V, S",
             "duration": "1 minute",
             "classes": "Bard, Warlock",
-            "text": "You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak."
+            "text": ["You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak."]
         },
         {
             "title": "Erupting Earth",
@@ -2461,7 +2461,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Sorcerer, Warlock, Wizard, Artificer (UA), Paladin (Treachery)",
-            "text": "This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action."
+            "text": ["This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action."]
         },
         {
             "title": "Eyebite",
@@ -2558,7 +2558,7 @@
             "components": "V, M (a white feather or the heart of a hen)",
             "duration": "1 minute",
             "classes": "Bard, Sorcerer, Wizard, Warlock (Seeker)",
-            "text": "Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."
+            "text": ["Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature."]
         },
         {
             "title": "Feeblemind",
@@ -2970,7 +2970,7 @@
             "components": "S, M (a small amount of makeup applied to the face as this spell is cast)",
             "duration": "Concentration, up to 1 minute",
             "classes": "Bard, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)",
-            "text": "For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it."
+            "text": ["For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it."]
         },
         {
             "title": "Frostbite",
@@ -3095,7 +3095,7 @@
             "components": "V",
             "duration": "1 hour",
             "classes": "Bard, Warlock",
-            "text": "Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful."
+            "text": ["Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful."]
         },
         {
             "title": "Globe of Invulnerability",
@@ -3196,7 +3196,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 1 minute",
             "classes": "Bard, Druid (Underdark), Sorcerer, Warlock (Archfey), Wizard, Rogue (Arcane Trickster), Paladin (Treachery)",
-            "text": "You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person."
+            "text": ["You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person."]
         },
         {
             "title": "Greater Restoration",
@@ -3292,7 +3292,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 1 minute",
             "classes": "Cleric, Druid",
-            "text": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.",
+            "text": ["You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends."],
             "roll": "1d4"
         },
         {
@@ -3423,7 +3423,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Cleric",
-            "text": "You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.",
+            "text": ["You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes."],
             "roll": "14d6"
         },
         {
@@ -3604,7 +3604,7 @@
             "components": "V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)",
             "duration": "Concentration, up to 1 minute",
             "classes": "Cleric",
-            "text": "Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends."
+            "text": ["Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends."]
         },
         {
             "title": "Hunger of Hadar",
@@ -3945,7 +3945,7 @@
             "components": "V, S, M (a grasshopper's hind leg)",
             "duration": "1 minute",
             "classes": "Druid, Ranger, Sorcerer, Wizard, Artificer (UA), Warlock (Seeker)",
-            "text": "You touch a creature. The creature's jump distance is tripled until the spell ends."
+            "text": ["You touch a creature. The creature's jump distance is tripled until the spell ends."]
         },
         {
             "title": "Knock",
@@ -4028,7 +4028,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Bard, Cleric, Cleric (Life), Druid, Paladin, Paladin (Devotion), Ranger, Artificer (UA)",
-            "text": "You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned."
+            "text": ["You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned."]
         },
         {
             "title": "Levitate",
@@ -4134,7 +4134,7 @@
             "components": "V, S, M (a bit of fur from a bloodhound)",
             "duration": "Instantaneous",
             "classes": "Bard, Druid, Ranger",
-            "text": "Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present."
+            "text": ["Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present."]
         },
         {
             "title": "Locate Creature",
@@ -4214,7 +4214,7 @@
             "components": "V, S, M (a piece of cured leather)",
             "duration": "8 hours",
             "classes": "Sorcerer, Wizard, Fighter (Eldritch Knight)",
-            "text": "You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action.",
+            "text": ["You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends it if the target dons armor or if you dismiss the spell as an action."],
             "roll": "13+DEX"
         },
         {
@@ -4394,7 +4394,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Cleric",
-            "text": "A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs."
+            "text": ["A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs."]
         },
         {
             "title": "Mass Healing Word (b)",
@@ -4587,7 +4587,7 @@
             "components": "V, S",
             "duration": "24 hours",
             "classes": "Bard, Wizard",
-            "text": "Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target."
+            "text": ["Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target."]
         },
         {
             "title": "Minor Illusion",
@@ -4675,7 +4675,7 @@
             "components": "V",
             "duration": "Instantaneous",
             "classes": "Druid (Coast), Paladin (Ancients), Paladin (Vengeance), Sorcerer, Warlock, Wizard",
-            "text": "Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see."
+            "text": ["Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see."]
         },
         {
             "title": "Modify Memory",
@@ -4849,7 +4849,7 @@
             "components": "V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)",
             "duration": "8 hours",
             "classes": "Bard, Cleric (Knowledge), Ranger, Wizard, Fighter (Eldritch Knight)",
-            "text": "For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors."
+            "text": ["For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors."]
         },
         {
             "title": "Nystul's Magic Aura",
@@ -4933,7 +4933,7 @@
             "components": "V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)",
             "duration": "Concentration, up to 1 hour",
             "classes": "Cleric (Trickery), Druid, Druid (Grassland), Ranger",
-            "text": "A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage."
+            "text": ["A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by magical means. A creature that receives this bonus leaves behind no tracks or other traces of its passage."]
         },
         {
             "title": "Passwall",
@@ -5130,7 +5130,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Bard",
-            "text": "A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This spell has no effect on undead or constructs."
+            "text": ["A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This spell has no effect on undead or constructs."]
         },
         {
             "title": "Power Word Kill",
@@ -5143,7 +5143,7 @@
             "components": "V",
             "duration": "Instantaneous",
             "classes": "Bard, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster)",
-            "text": "You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect."
+            "text": ["You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect."]
         },
         {
             "title": "Power Word Stun",
@@ -5341,7 +5341,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 1 hour",
             "classes": "Cleric, Druid, Druid (Desert), Paladin (Ancients), Paladin (Vengeance), Ranger, Sorcerer, Wizard, Fighter (Eldritch Knight), Artificer (UA), Cleric (Forge), Cleric (Protection)",
-            "text": "For the duration, the willing creature you touch has resistance to one damage type of your choice - acid, cold, fire, lightning, or thunder."
+            "text": ["For the duration, the willing creature you touch has resistance to one damage type of your choice - acid, cold, fire, lightning, or thunder."]
         },
         {
             "title": "Protection from Evil and Good",
@@ -5387,7 +5387,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Cleric, Druid, Paladin",
-            "text": "All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease."
+            "text": ["All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease."]
         },
         {
             "title": "Pyrotechnics",
@@ -5562,7 +5562,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Cleric, Paladin, Warlock, Wizard, Fighter (Eldritch Knight)",
-            "text": "At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded."
+            "text": ["At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded."]
         },
         {
             "title": "Resistance",
@@ -5575,7 +5575,7 @@
             "components": "V, S, M (a miniature cloak)",
             "duration": "Concentration, up to 1 minute",
             "classes": "Cleric, Druid",
-            "text": "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends.",
+            "text": ["You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after the saving throw. The spell then ends."],
             "roll": "d4"
         },
         {
@@ -5625,7 +5625,7 @@
             "components": "V, S, M (diamonds worth 300 gp, which the spell consumes)",
             "duration": "Instantaneous",
             "classes": "Cleric, Cleric (Life), Paladin, Artificer (UA), Cleric (Grave)",
-            "text": "You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts."
+            "text": ["You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts."]
         },
         {
             "title": "Rope Trick",
@@ -5758,7 +5758,7 @@
             "components": "V, S, M (A pinch of Talc and a small sprinkling of powdered silver)",
             "duration": "1 hour",
             "classes": "Bard, Sorcerer, Wizard",
-            "text": "For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent."
+            "text": ["For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent."]
         },
         {
             "title": "Seeming",
@@ -5881,7 +5881,7 @@
             "components": "V, S",
             "duration": "1 round",
             "classes": "Sorcerer, Wizard, Fighter (Eldritch Knight), Cleric (Forge), Warlock (Hexblade)",
-            "text": "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile."
+            "text": ["An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile."]
         },
         {
             "title": "Shield of Faith (b)",
@@ -5894,7 +5894,7 @@
             "components": "V, S, M (a small parchment with a bit of holy text written on it)",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Cleric, Cleric (War), Paladin, Artificer (UA)",
-            "text": "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."
+            "text": ["A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."]
         },
         {
             "title": "Shillelagh (b)",
@@ -5907,7 +5907,7 @@
             "components": "V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)",
             "duration": "1 minute",
             "classes": "Druid",
-            "text": "The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon."
+            "text": ["The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon."]
         },
         {
             "title": "Shocking Grasp",
@@ -5944,7 +5944,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 10 minutes",
             "classes": "Bard, Cleric, Druid (Desert), Ranger, Warlock (Undying), Warlock (Raven Queen)",
-            "text": "For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there."
+            "text": ["For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there."]
         },
         {
             "title": "Silent Image",
@@ -6081,7 +6081,7 @@
             "components": "V, S",
             "duration": "Instantaneous",
             "classes": "Cleric",
-            "text": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs."
+            "text": ["You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs."]
         },
         {
             "title": "Speak with Animals (r)",
@@ -6095,7 +6095,7 @@
             "components": "V, S",
             "duration": "10 minutes",
             "classes": "Bard, Cleric (Nature), Druid, Paladin (Ancients), Ranger",
-            "text": "You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion."
+            "text": ["You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM's discretion."]
         },
         {
             "title": "Speak with Dead",
@@ -6143,7 +6143,7 @@
             "components": "V, S, M (a drop of bitumen and a spider)",
             "duration": "Concentration, up to 1 hour",
             "classes": "Druid (Forest), Druid (Mountain), Druid (Underdark), Sorcerer, Warlock, Wizard, Artificer (UA)",
-            "text": "Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed."
+            "text": ["Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed."]
         },
         {
             "title": "Spike Growth",
@@ -6213,7 +6213,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Paladin, Warlock (Hexblade), Sorcerer (Stone)",
-            "text": "The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom saving throw. On a failed save, it has disadvantage on attack rolls and ability checks, and can't take reactions, until the end of its next turn.",
+            "text": ["The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom saving throw. On a failed save, it has disadvantage on attack rolls and ability checks, and can't take reactions, until the end of its next turn."],
             "roll": "4d6"
         },
         {
@@ -6244,7 +6244,7 @@
             "components": "V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)",
             "duration": "Instantaneous",
             "classes": "Cleric, Druid, Druid (Mountain), Druid (Underdark), Wizard, Artificer (UA)",
-            "text": "You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible."
+            "text": ["You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible."]
         },
         {
             "title": "Stoneskin",
@@ -6257,7 +6257,7 @@
             "components": "V, S, M (diamond dust worth 100 gp, which the spell consumes)",
             "duration": "Concentration, up to 1 hour",
             "classes": "Cleric (War), Druid, Druid (Mountain), Paladin (Ancients), Ranger, Sorcerer, Wizard, Fighter (Eldritch Knight), Artificer (UA)",
-            "text": "This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage."
+            "text": ["This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage."]
         },
         {
             "title": "Storm Sphere",
@@ -6625,7 +6625,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Paladin, Sorcerer (Stone)",
-            "text": "The first time you hit with a melee weapon attack during this spell's duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.",
+            "text": ["The first time you hit with a melee weapon attack during this spell's duration, your weapon rings with thunder that is audible within 300 feet of you, and the attack deals an extra 2d6 thunder damage to the target. Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone."],
             "roll": "2d6"
         },
         {
@@ -6691,7 +6691,7 @@
             "components": "V, M (a small clay model of a ziggurat)",
             "duration": "1 hour",
             "classes": "Bard, Cleric, Sorcerer, Warlock, Wizard",
-            "text": "This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says."
+            "text": ["This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says."]
         },
         {
             "title": "Transmute Rock",
@@ -6725,7 +6725,7 @@
             "components": "V, S",
             "duration": "1 round",
             "classes": "Druid",
-            "text": "This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement."
+            "text": ["This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement."]
         },
         {
             "title": "Tree Stride",
@@ -6794,7 +6794,7 @@
             "components": "V, S, M (an ointment for the eyes that costs 25 gp, is made from mushroom powder, saffron, and fat, and is consumed by the spell)",
             "duration": "1 hour",
             "classes": "Bard, Cleric, Sorcerer, Warlock, Wizard",
-            "text": "This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet."
+            "text": ["This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet."]
         },
         {
             "title": "True Strike",
@@ -6807,7 +6807,7 @@
             "components": "S",
             "duration": "Concentration, up to 1 round",
             "classes": "Bard, Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight), Rogue (Arcane Trickster)",
-            "text": "You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended."
+            "text": ["You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended."]
         },
         {
             "title": "Tsunami",
@@ -7095,7 +7095,7 @@
             "components": "V, S, M (a short reed or piece of straw)",
             "duration": "24 hours",
             "classes": "Druid, Druid (Coast), Ranger, Sorcerer, Wizard, Artificer (UA)",
-            "text": "This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration."
+            "text": ["This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration."]
         },
         {
             "title": "Water Walk (r)",
@@ -7165,7 +7165,7 @@
             "components": "V, S",
             "duration": "Concentration, up to 1 minute",
             "classes": "Wizard, Rogue (Arcane Trickster)",
-            "text": "Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature.",
+            "text": ["Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 30-foot-radius sphere centered on a point of your choice within range must make a Wisdom saving throw. On a failed save, a creature becomes frightened for the duration. The illusion calls on the creature's deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature's turns, it must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends for that creature."],
             "roll": "4d10"
         },
         {
@@ -7297,7 +7297,7 @@
             "components": "V",
             "duration": "Concentration, up to 1 minute",
             "classes": "Paladin, Warlock (Hexblade), Sorcerer (Stone)",
-            "text": "The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell."
+            "text": ["The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra 1d6 psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be frightened of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell."]
         },
         {
             "title": "Zone of Truth",
