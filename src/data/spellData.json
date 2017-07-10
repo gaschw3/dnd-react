@@ -18,7 +18,7 @@
             "roll": "10d8"
         },
         {
-            "title": "Absorb Elements",
+            "title": "Absorb Elements (re)",
             "name": "absorb-elements",
             "source": "EEPC",
             "level": "1",
@@ -1550,7 +1550,7 @@
             "roll": "1d6"
         },
         {
-            "title": "Counterspell",
+            "title": "Counterspell (re)",
             "name": "counterspell",
             "source": "PHB",
             "level": "3",
@@ -2548,7 +2548,7 @@
             ]
         },
         {
-            "title": "Feather Fall",
+            "title": "Feather Fall (re)",
             "name": "feather-fall",
             "source": "PHB",
             "level": "1",
@@ -3494,7 +3494,7 @@
             "roll": "2d8"
         },
         {
-            "title": "Hellish Rebuke",
+            "title": "Hellish Rebuke (re)",
             "name": "hellish-rebuke",
             "source": "PHB",
             "level": "1",
@@ -5871,7 +5871,7 @@
             ]
         },
         {
-            "title": "Shield",
+            "title": "Shield (re)",
             "name": "shield",
             "source": "PHB",
             "level": "1",
