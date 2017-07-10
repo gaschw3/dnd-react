@@ -10,8 +10,8 @@ export class Feat extends React.Component {
   constructor(props) {
     super(props);
     this.state = { 
-      feat: "Feat",
-      image: "Feat",
+      feat: "Feats",
+      image: "Feats",
       json: json.feat
     };
     this.handleClick = this.handleClick.bind(this);
