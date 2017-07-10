@@ -98,7 +98,7 @@ export class SpellList extends React.Component {
           </FormGroup>
         </div>
       <div className="spell-list">
-        <Table className="table table-hover" sortable={true} id="table">
+        <Table className="table table-hover table-fixed" sortable={true}  itemsPerPage={10} pageButtonLimit={10} id="table">
           <Thead>
             <Th column="name" className="col-sm-4">
               <strong className="name-header">Spell Name</strong>
