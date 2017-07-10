@@ -11,7 +11,6 @@ export class SpellList extends React.Component {
       lvlFilterText: "",
       srcFilterText: "",
       classFilterText: ""
-
     };
 
     this.nameFilterChange = this.nameFilterChange.bind(this);

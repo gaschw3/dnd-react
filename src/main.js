@@ -11,6 +11,7 @@ import {Background} from './views/background/Background.js';
 import {Feat} from './views/feats/Feat.js';
 import {Spell} from './views/spells/Spell.js';
 import {Race} from './views/races/Race.js';
+import {Fairpoint} from './views/fairpoint/Fairpoint.js';
 
 
 class NotFound extends Component {
@@ -31,6 +32,7 @@ export default class Main extends React.Component {
                     <Route path="/feats/:featName" component={Feat}/>
                     <Route path="/spells/:spellName" component={Spell}/>
                     <Route path="/races/:raceId" component={Race}/>
+                    <Route path="/:area/:location" component={Fairpoint}/>
                     <Route path="*" component={NotFound}/>
             </Router>
         )
