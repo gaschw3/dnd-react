@@ -21,7 +21,7 @@ export class ClassLevels extends React.Component {
         return (
           <span>
             {index>0?", ":""}
-            <Scrollchor animate={{offset: -100, duration: 600}} to={feature.name}>
+            <Scrollchor animate={{offset: -100, duration: 600}} to={"#"+feature.name}>
               {feature.title}
             </Scrollchor>
           </span>

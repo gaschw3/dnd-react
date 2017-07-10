@@ -29,10 +29,10 @@ export class Race extends React.Component {
       <div>
         <JumbotronComponent title="Races" description="There are many varieties of exotic folk in the world. Your character’s race not only affects ability scores and racial powers, but also provides cues for building their story." image={this.state.image}/>
         <div className="col-sm-5 background">
-          <RaceList handleClick={this.handleClick} json={this.state.json} active={this.props.params.raceId}/>
+          <RaceList handleClick={this.handleClick} json={this.state.json} active={this.props.params.raceName}/>
         </div>
         <div className="col-sm-7 background">
-          <RaceFeatures json={this.state.json} race={this.props.params.raceId} />
+          <RaceFeatures json={this.state.json} race={this.props.params.raceName} />
         </div>
       </div>
     );

@@ -1,34 +1,39 @@
 {
-  "conditions": [
+  "condition": [
     {
-      "name": "Blinded",
+      "name": "blinded",
+      "title": "Blinded",
       "text": [
         "A blinded creature can’t see and automatically fails any ability check that requires sight.",
         "Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage."
       ]
     },
     {
-      "name": "Charmed",
+      "name": "charmed",
+      "title": "Charmed",
       "text": [
         "A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.",
         "The charmer has advantage on any ability check to interact socially with the creature."
       ]
     },
     {
-      "name": "Deafened",
+      "name": "deafened",
+      "title": "Deafened",
       "text": [
         "A deafened creature can't hear and automatically fails any ability check that requires hearing."
       ]
     },
     {
-      "name": "Frightened",
+      "name": "frightened",
+      "title": "Frightened",
       "text": [
         "A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.",
         "The creature can't willingly move closer to the source of its fear."
       ]
     },
     {
-      "name": "Grappled",
+      "name": "grappled",
+      "title": "Grappled",
       "text": [
         "A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
         "The condition ends if the grappler is incapacitated (see the condition).",
@@ -36,20 +41,23 @@
       ]
     },
     {
-      "name": "Incapacitated",
+      "name": "incapacitated",
+      "title": "Incapacitated",
       "text": [
         "An incapacitated creature can't take actions or reactions."
       ]
     },
     {
-      "name": "Invisible",
+      "name": "invisible",
+      "title": "Invisible",
       "text": [
         "An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.",
         "Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage."
       ]
     },
     {
-      "name": "Paralyzed",
+      "name": "paralyzed",
+      "title": "Paralyzed",
       "text": [
         "A paralyzed creature is incapacitated (see the condition) and can't move or speak.",
         "The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.",
@@ -57,7 +65,8 @@
       ]
     },
     {
-      "name": "Petrified",
+      "name": "petrified",
+      "title": "Petrified",
       "text": [
         "A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.",
         "The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.",
@@ -68,13 +77,15 @@
       ]
     },
     {
-      "name": "Poisoned",
+      "name": "poisoned",
+      "title": "Poisoned",
       "text": [
         "A poisoned creature has disadvantage on attack rolls and ability checks."
       ]
     },
     {
-      "name": "Prone",
+      "name": "prine",
+      "title": "Prone",
       "text": [
         "A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.",
         "The creature has disadvantage on attack rolls.",
@@ -82,7 +93,8 @@
       ]
     },
     {
-      "name": "Restrained",
+      "name": "restrained",
+      "title": "Restrained",
       "text": [
         "A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
         "Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.",
@@ -90,7 +102,8 @@
       ]
     },
     {
-      "name": "Stunned",
+      "name": "stunned",
+      "title": "Stunned",
       "text": [
         "A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.",
         "The creature automatically fails Strength and Dexterity saving throws.",
@@ -98,7 +111,8 @@
       ]
     },
     {
-      "name": "Unconscious",
+      "name": "unconsious",
+      "title": "Unconscious",
       "text": [
         "An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.",
         "The creature drops whatever it's holding and falls prone.",
@@ -108,7 +122,8 @@
       ]
     },
     {
-      "name": "Exhaustion",
+      "name": "exhaustion",
+      "title": "Exhaustion",
       "text": [
         "Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.",
         "1 - Disadvantage on ability checks",
