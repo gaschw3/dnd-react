@@ -26,7 +26,7 @@ export class Feat extends React.Component {
   render() {
     return(
       <div>
-        <JumbotronComponent title="Feats" description="feat.description" image={this.state.image}/>
+        <JumbotronComponent title="Feats" description="As characters grow and advance in levels they can choose to specialize in a certain talent or area of expertise to gain special capabilities. Feats embody training, experience, and abilities beyond those provided by class, race, or background." image={this.state.image}/>
         <div className="col-sm-4 background">
           <FeatList handleClick={this.handleClick} json={this.state.json} active={this.props.params.featName}/>
         </div>

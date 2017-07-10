@@ -21,7 +21,7 @@ export default class Classes extends Component {
     return (
       <div>
         <JumbotronComponent title="D&D 5e Classes" description="Browse available classes. You can also dig down to specific subclasses if you know what you're looking for. The URL should be usable for bookmarking and sharing." image="Classes"/>
-        <Grid>
+        <Grid bsClass="main">
           <Row>
             <Col>
               {classList}  

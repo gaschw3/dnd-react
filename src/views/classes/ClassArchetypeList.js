@@ -5,23 +5,22 @@ export class ClassArchetypeList extends React.Component {
   render() {
     var json = this.props.currClass;
     var jp = require('jsonpath');
-    var searchString = "$..features[?(@.subclass==\"subclass\")]";
+    var searchString = "$..features[?(@.filter==\"yes\")]";
 
     return (
-      <div className="col-sm-5">
       <div>
         <div className="archetypes">
         <ButtonToolbar>
             { 
               jp.query(json, searchString).map( (feature) => {
+                var active = (feature.name === this.props.currArchetype ? " disabled" : "")
                 return (
-                  <Button bsStyle="primary" href={"/dnd-react/#/classes/"+json.name.toLowerCase()+"/"+feature.name}>{feature.title}</Button>
+                  <div><Button bsStyle={"primary" + active} href={"/dnd-react/#/classes/"+json.name.toLowerCase()+"/"+feature.name}>{feature.title}</Button></div>
                 );
-              })
+              }, this)
             }  
         </ButtonToolbar>
         </div>
-      </div>
       </div>
     );
   }

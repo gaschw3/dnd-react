@@ -8,28 +8,30 @@ export default class Home extends Component {
       return (
         <div>
           <JumbotronComponent image="Main" title="EotCC D&D 5e Reference" description="This is a suite of tools pulled into a React app for use by intrepid adventurers and explorers. May or may not ever actually work." />
-          <Grid>
+          <Grid bsClass="main">
             <Row>
-              <Col sm={6}>
+              <Col sm={1} />
+              <Col sm={5}>
                 <h4><a href="/dnd-react/#/classes">Classes</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/backgrounds/undef">Backgrounds</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/races/undef">Races</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
-                <h4><a href="/dnd-react/#/feats/undef">Feats</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
+                <p>View page of classes and their descriptions in 5e. You can tell this section got made first because it is the most stupidly designed.</p>
+                <h4><a href="/dnd-react/#/backgrounds/acolyte">Backgrounds</a></h4>
+                <p>View all official backgrounds in D&D 5e, including those from supplement material.</p>
+                <h4><a href="/dnd-react/#/races/aarakocra">Races</a></h4>
+                <p>View entries for each of the races in D&D 5e, including subraces and variants.</p>
+                <h4><a href="/dnd-react/#/feats/acrobat">Feats</a></h4>
+                <p>View a list of the feats in D&D 5e, including those from Unearthed Arcana and supplements.</p>
               </Col>
-              <Col sm={6}>
-                <h4><a href="/dnd-react/#/spells/undef">Spells</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
+              <Col sm={5}>
+                <h4><a href="/dnd-react/#/spells/abi-dalzims-horrid-wilting">Spells</a></h4>
+                <p>View all the spells available in D&D 5e. The list can be easily searched and filtered, and the entries can be shared through the generated URL.</p>
                 <h4><a href="/dnd-react/#/items/undef">Items</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
+                <p>View a 404 page, because this isn't done.</p>
                 <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
+                <p>View a 404 page, because this isn't done.</p>
                 <h4><a href="/dnd-react/#/rules">Rules</a></h4>
-                <p>Blah blah blah, all the stuffs the same</p>
+                <p>View a 404 page, because this isn't done.</p>
               </Col>
+              <Col sm={1} />
             </Row>
           </Grid>
         </div>

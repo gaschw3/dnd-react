@@ -12,7 +12,7 @@ export const Archetype = ( {params} ) => {
   var jp = require('jsonpath');
   var searchClass = "$..class[?(@.id==\""+params.className+"\")]";
   var searchFeatures = "$..class[?(@.id==\""+params.className+"\")]..features[?(@.subclass==\"base\" || @.subclass==\""+params.classArchetype+"\")]";
-  var searchArchetype = "$..class[?(@.id==\""+params.className+"\")]..features[?(@.subclass==\"subclass\" && @.name==\""+params.classArchetype+"\")].title";
+  var searchArchetype = "$..class[?(@.id==\""+params.className+"\")]..features[?(@.filter==\"yes\" && @.name==\""+params.classArchetype+"\")].title";
   
   var currClass = jp.query(classes, searchClass);
   var currFeatures = jp.query(classes, searchFeatures);
@@ -24,11 +24,10 @@ export const Archetype = ( {params} ) => {
       <div className="row">
         <div className="col-sm-5">
           <ClassDetails currClass={currClass[0]} />
-          <ClassArchetypeList currClass={currClass[0]} />
+          <ClassArchetypeList currClass={currClass[0]} currArchetype={params.classArchetype}/>
         </div>
         <ClassLevels currClass={currClass[0]} />
       </div>
-      
       <ClassFeatures features={currFeatures} />
     </div>
   );

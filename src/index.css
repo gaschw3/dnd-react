@@ -10,7 +10,9 @@ ul {
   max-width: 1200px;
   padding: 0 15px;
 }
-
+.main {
+  padding: 15px 15px;
+}
 .reactable-header-sortable {
   position: relative;
   top: 1px;

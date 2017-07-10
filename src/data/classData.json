@@ -123,7 +123,8 @@
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "berserker",
           "name": "berserker",
           "title": "Primal Path: Path of the Berserker",
           "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
@@ -137,7 +138,8 @@
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "totem",
           "name": "totem",
           "title": "Primal Path: Path of the Totem Warrior",
           "text": "<div>The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.</div><div>Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.</div>"
@@ -158,7 +160,8 @@
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "storm",
           "name": "storm",
           "title": "Primal Path: Path of the Storm Herald (UA)",
           "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
@@ -172,10 +175,11 @@
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "zealot",
           "name": "zealot",
           "title": "Primal Path: Path of the Zealot (UA)",
-          "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
+          "text": "Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots—warriors who channel their rage into powerful displays of divine power."
         },
         {
           "level": 3,
@@ -533,31 +537,43 @@
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "lore",
           "name": "lore",
           "title": "Bard College: College of Lore",
           "text": "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. "
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "valor",
           "name": "valor",
           "title": "Bard College: College of Valor",
           "text": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old."
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "glamour",
           "name": "glamour",
           "title": "Bard College: College of Glamour (UA)",
           "text": "Bards of the College of Glamour mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others."
         },
         {
           "level": 3,
-          "subclass": "subclass",
+          "filter": "yes",
+          "subclass": "whispers",
           "name": "whispers",
           "title": "Bard College: College of Whispers (UA)",
           "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "spheres",
+          "name": "spheres",
+          "title": "Bard College: College of Spheres (HB)",
+          "text": "Bards of the College of Spheres are the scant few mad enough to reach for inspiration and discover that art isn't universal - it transcends universes and speaks to minds beyond mortal ken. They create works blashphemous, alien, and heretical while the abyss beyond offers its strange applause."
         },
         {
           "level": 3,
@@ -614,6 +630,20 @@
           "name": "whispers-words",
           "title": "College of Whispers: Venomous Words",
           "text": "If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. If the target succeeds on its save, the target has no hint that you tried to frighten it."
+        },
+        {
+          "level": 3,
+          "subclass": "spheres",
+          "name": "spheres-proficiencies",
+          "title": "College of Spheres: Eldritch Mind",
+          "text": "When you join the College of Whispers at 3rd level, your experience depecting and worshipping beings that defy mortal sanity grants you proficiency in the Arcana skill and Wisdom saving throws."
+        },
+        {
+          "level": 3,
+          "subclass": "spheres",
+          "name": "spheres-madness",
+          "title": "College of Spheres: Maestro of Madness",
+          "text": "Also at 3rd level, you learn how to use your minds alien nature to disorient, scare and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or  saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."
         },
         {
           "level": 4,
@@ -677,6 +707,13 @@
           "name": "whispers-mantle",
           "title": "College of Whispers: Mantle of Whispers",
           "text": "<p>At 6th level, you gain the ability to adopt a creature’s persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you’re Small), and you can have only one shadow captured at a time.</p><p>After you capture a creature’s shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature’s appearance for 1 hour or until you end this effect as a bonus action.</p><p>During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories.</p><p>Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</p><p>The disguise and the knowledge it grants disappears when this ability’s duration ends.</p>"
+        },
+        {
+          "level": 6,
+          "subclass": "spheres",
+          "name": "spheres-requiem",
+          "title": "College of Spheres: Sanity's Requiem",
+          "text": "<p>Beginning at 6th level, and creature that inflicts psychic damage or tries to read your thoughts or control your actions finds their mind recoiling from teh strange patterns of your own. They must make a save against your bard spell save DC or immediatelly roll on the short term madness table.<p><p>In addition, when you deal psychic damage to another creature you add your CHA modifier to the damage dealt and you add the spell Phantasmal Force to your list of known Bard spells.</p>"
         },
         {
           "level": 8,
@@ -768,6 +805,13 @@
           "name": "whispers-mantle",
           "title": "College of Whispers: Shadow Lore",
           "text": "<p>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.</p><p>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</p><p>If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it.</p><p>While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</p><p>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can’t use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "spheres",
+          "name": "spheres-aesthetic",
+          "title": "College of Spheres: Incomprehensible Aesthetic",
+          "text": "<p>At 14th level, your soul warps past the point of mortal ken. The artist becomes the subject and you can considered a humanoid aberration.</p><p>You may use your raction to offer a true glimpse of your hidden, horrid truth to a creature that targets you with an spell or weapon attack. They must immediately make a Wisdom save as if they had tried to read your thoughts and creatures who were unaware of your true nature are immediately frightened until the end of their next turn.</p><p>Fellow aberrations are charmed rather than frightened and you may allow them to automatically pass the Wisdom save.<p><p>You can use this feature up to 3 times per day and regain all expended uses on a long rest</p>"
         },
         {
           "level": 15,
@@ -820,15 +864,14 @@
       "hd": "8",
       "proficiencies": [
                      "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
-                     "<strong>Armor:</strong> light armor",
-                     "<strong>Weapons:</strong> simple weapons, hand crossbows, longswords, rapiers, shortswords",
-                     "<strong>Tools:</strong> three musical instruments of your choice",
-                     "<strong>Saving Throws:</strong> DEX, CHA",
-                     "<strong>Skills:</strong> Choose any three"
+                     "<strong>Armor:</strong> light armor, medium armor, shields",
+                     "<strong>Weapons:</strong> simple weapons",
+                     "<strong>Saving Throws:</strong> WIS, CHA",
+                     "<strong>Skills:</strong> Choose two from History, Insight, Medicine, Persuasion, and Religion"
                       ],
       "equipment": [
                      "You start with the following items, plus anything provided by your background.",
-                     "<ul><li>(a) a rapier, (b) a longsword, or (c) any simple weapon</li><li>(a) a diplomat's pack or (b) an entertainer's pack</li><li>(a) a lute or (b) any other musical instrument</li><li>Leather armor, and a dagger</li></ul>",
+                     "<ul><li>(a) a mace or (b) a warhammer (if proficient)</li><li>(a) scale mail, (b) leather armor, or (c) chain mail (if proficient)</li><li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li><li>(a) a priest's pack or (b) an explorer's pack</li><li>A shield and a holy symbol</li></ul>",
                      "Alternatively, you may start with 5d4 × 10 gp to buy your own equipment."
                    ],
       "leveltable": [
@@ -838,192 +881,406 @@
           "width": ["1", "1", "5", "1", "1"]
         },
         {
-          "data": ["1", "+2", "features","2","2","-","-","-","-","-","-","-","-"]
+          "data": ["1", "+2", "features","3","2","-","-","-","-","-","-","-","-"]
         },
         {
-          "data": ["2", "+2", "features","2","3","-","-","-","-","-","-","-","-"]
+          "data": ["2", "+2", "features","3","3","-","-","-","-","-","-","-","-"]
         },
         {
-          "data": ["3", "+2", "features","2","4","2","-","-","-","-","-","-","-"]
+          "data": ["3", "+2", "features","3","4","2","-","-","-","-","-","-","-"]
         },
         {
-          "data": ["4", "+2", "features","3","4","3","-","-","-","-","-","-","-"]
+          "data": ["4", "+2", "features","4","4","3","-","-","-","-","-","-","-"]
         },
         {
-          "data": ["5", "+3", "features","3","4","3","2","-","-","-","-","-","-"]
+          "data": ["5", "+3", "features","4","4","3","2","-","-","-","-","-","-"]
         },
         {
-          "data": ["6", "+3", "features","3","4","3","3","-","-","-","-","-","-"]
+          "data": ["6", "+3", "features","4","4","3","3","-","-","-","-","-","-"]
         },
         {
-          "data": ["7", "+3", "features","3","4","3","3","1","-","-","-","-","-"]
+          "data": ["7", "+3", "features","4","4","3","3","1","-","-","-","-","-"]
         },
         {
-          "data": ["8", "+3", "features","3","4","3","3","2","-","-","-","-","-"]
+          "data": ["8", "+3", "features","4","4","3","3","2","-","-","-","-","-"]
         },
         {
-          "data": ["9", "+4", "features","3","4","3","3","3","1","-","-","-","-"]
+          "data": ["9", "+4", "features","4","4","3","3","3","1","-","-","-","-"]
         },
         {
-          "data": ["10", "+4", "features","4","4","3","3","3","2","-","-","-","-"]
+          "data": ["10", "+4", "features","5","4","3","3","3","2","-","-","-","-"]
         },
         {
-          "data": ["11", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
+          "data": ["11", "+4", "features","5","4","3","3","3","2","1","-","-","-"]
         },
         {
-          "data": ["12", "+4", "features","4","4","3","3","3","2","1","-","-","-"]
+          "data": ["12", "+4", "features","5","4","3","3","3","2","1","-","-","-"]
         },
         {
-          "data": ["13", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
+          "data": ["13", "+5", "features","5","4","3","3","3","2","1","1","-","-"]
         },
         {
-          "data": ["14", "+5", "features","4","4","3","3","3","2","1","1","-","-"]
+          "data": ["14", "+5", "features","5","4","3","3","3","2","1","1","-","-"]
         },
         {
-          "data": ["15", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
+          "data": ["15", "+5", "features","5","4","3","3","3","2","1","1","1","-"]
         },
         {
-          "data": ["16", "+5", "features","4","4","3","3","3","2","1","1","1","-"]
+          "data": ["16", "+5", "features","5","4","3","3","3","2","1","1","1","-"]
         },
         {
-          "data": ["17", "+6", "features","4","4","3","3","3","2","1","1","1","1"]
+          "data": ["17", "+6", "features","5","4","3","3","3","2","1","1","1","1"]
         },
         {
-          "data": ["18", "+6", "features","4","4","3","3","3","3","1","1","1","1"]
+          "data": ["18", "+6", "features","5","4","3","3","3","3","1","1","1","1"]
         },
         {
-          "data": ["19", "+6", "features","4","4","3","3","3","3","2","1","1","1"]
+          "data": ["19", "+6", "features","5","4","3","3","3","3","2","1","1","1"]
         },
         {
-          "data": ["20", "+6", "features","4","4","3","3","3","3","2","2","1","1"]
+          "data": ["20", "+6", "features","5","4","3","3","3","3","2","2","1","1"]
         }
       ],
       "features" : [
         {
           "level": 1,
           "subclass": "base",
-          "name": "inspiration-1",
-          "title": "Bardic Inspiration",
-          "text": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.</p><p>Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>"
+          "name": "casting",
+          "title": "Spellcasting",
+          "text": "<p>As a conduit for divine power, you can cast cleric spells.</p><h5><strong>Cantrips</strong></h5><p>You know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels per the Cleric table.</p><h5><strong>Preparing and Casting Spells</strong></h5><p>The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p>You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.</p><p>You can change your list of prepared spells when you finish a long rest.</p><h5><strong>Spellcasting Ability</strong></h5><p>Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity.</p><ul><li>Spell save DC = 8 + proficiency + WIS</li><li>Spell attack modifier = proficiency + WIS</li></ul><h5><strong>Ritual Casting</strong></h5><p>You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p><h5><strong>Spellcasting Focus</strong></h5><p>You can use a holy symbol as a spellcasting focus for your cleric spells.</p>"
         },
         {
           "level": 1,
           "subclass": "base",
-          "name": "casting",
-          "title": "Spellcasting",
-          "text": "<p>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations.</p><h5><strong>Cantrips</strong></h5><p>You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels per the Bard table.</p><h5><strong>Spell Slots</strong></h5><p>The Bard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><h5><strong>Spells Known of 1st Level and Higher</strong></h5><p>You know four 1st-level spells of your choice from the bard spell list. You learn additional bard spells per the Bard table (usually 1 per level).</p><p>Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list.</p><h5><strong>Spellcasting Ability</strong></h5><p>Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration.</p><ul><li>Spell save DC = 8 + proficiency + CHA</li><li>Spell attack modifier = your proficiency bonus + your Charisma modifier</li></ul><h5><strong>Ritual Casting</strong></h5><p>You can cast any bard spell you know as a ritual if that spell has the ritual tag.</p><h5><strong>Spellcasting Focus</strong></h5><p>You can use a musical instrument (found in chapter 5) as a spellcasting focus for your bard spells.</p>"
+          "name": "domain-0",
+          "title": "Divine Domain",
+          "text": "<p>Choose one domain related to your deity; each domain is detailed in their own feature. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.</p><p>Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "arcana",
+          "name": "arcana",
+          "title": "Domain: Arcana",
+          "text": "<p>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - detect magic, magic missile</li><li>3rd - magic weapon, Nystul's magic aura</li><li>5th - dispel magic, magic circle</li><li>7th - arcane eye, Leomund's secret chest</li><li>9th - planar binding, teleportation circle</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "death",
+          "name": "death",
+          "title": "Domain: Death",
+          "text": "<p>The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Gods of Death are patrons of necromancers, death knights, liches, and vampires. THey can also embody murder, pain, disease, or poison.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - false life, ray of sickness</li><li>3rd - blindness/deafness, ray of enfeeblement</li><li>5th - animate dead, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, cloudkill</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "knowledge",
+          "name": "knowledge",
+          "title": "Domain: Knowledge",
+          "text": "<p>The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. </p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - command, identify</li><li>3rd - augury, suggestion</li><li>5th - nondetection, speak with dead</li><li>7th - arcane eye, confusion</li><li>9th - legend lore, scrying</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "life",
+          "name": "life",
+          "title": "Domain: Life",
+          "text": "<p>The Life domain focuses on the vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.</p><ul><li>1st - bless, cure wounds</li><li>3rd - lesser restoration, spiritual weapon</li><li>5th - beacon of hope, revivify</li><li>7th - death ward, guardian of faith</li><li>9th - mass cure wounds, raise dead</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "light",
+          "name": "light",
+          "title": "Domain: Light",
+          "text": "<p>Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.</p><ul><li>1st - burning hands, faerie fire</li><li>3rd - flaming sphere, scorching ray</li><li>5th - daylight, fireball</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, scrying</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "nature",
+          "name": "nature",
+          "title": "Domain: Nature",
+          "text": "<p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature but cleric act as champions who take a more active role in advancing the interests of a nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><ul><li>1st - animal friendship, speak with animals</li><li>3rd - barkskin, spike growth</li><li>5th - plant growth, wind wall</li><li>7th - dominate beast, grasping vine</li><li>9th - insect plague, tree stride</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "tempest",
+          "name": "tempest",
+          "title": "Domain: Tempest",
+          "text": "<p>Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><ul><li>1st - fog cloud, thunderwave</li><li>3rd - gust of wind, shatter</li><li>5th - call lightning, sleet storm</li><li>7th - control water, ice storm</li><li>9th - destructive wave, insect plague</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "trickery",
+          "name": "trickery",
+          "title": "Domain: Trickery (HB)",
+          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - counterspell, dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "war",
+          "name": "war",
+          "title": "Domain: War",
+          "text": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p><ul><li>1st - divine favor, shield of faith</li><li>3rd - magic weapon, spiritual weapon</li><li>5th - crusader's mantle, spirit guardians</li><li>7th - freedom of movement, stoneskin</li><li>9th - flame strike, hold monster</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "forge",
+          "name": "forge",
+          "title": "Domain: Forge (UA)",
+          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "grave",
+          "name": "grave",
+          "title": "Domain: Grave (UA)",
+          "text": "<p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures.</p><ul><li>1st - bane, false life</li><li>3rd - gentle repose, ray of enfeeblement</li><li>5th - revivify, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, raise dead</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "arcana",
+          "name": "arcana-initiate",
+          "title": "Arcana Domain: Arcane Initiate",
+          "text": "When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips."
+        },
+        {
+          "level": 1,
+          "subclass": "death",
+          "name": "death-proficiency",
+          "title": "Death Domain: Bonus Proficiency",
+          "text": "When the cleric chooses this domain at 1st level, he or she gains proficiency with martial weapons."
+        },
+        {
+          "level": 1,
+          "subclass": "death",
+          "name": "death-reaper",
+          "title": "Death Domain: Reaper",
+          "text": "At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other."
+        },
+        {
+          "level": 1,
+          "subclass": "knowledge",
+          "name": "arcana-blessings",
+          "title": "Knowledge Domain: Blessings of Knowledge",
+          "text": "<p>At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.</p><p>Your proficiency bonus is doubled for any ability check you make that uses either of those skills.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "life",
+          "name": "life-proficiency",
+          "title": "Life Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "life",
+          "name": "life-disciple",
+          "title": "Life Domain: Disciple of Life",
+          "text": "Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level."
+        },
+        {
+          "level": 1,
+          "subclass": "light",
+          "name": "light-cantrip",
+          "title": "Light Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain the light cantrip if you don't already know it."
+        },
+        {
+          "level": 1,
+          "subclass": "light",
+          "name": "light-flare",
+          "title": "Light Domain: Warding Flare",
+          "text": "<p>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "nature",
+          "name": "nature-proficiency",
+          "title": "Nature Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "nature",
+          "name": "nature-acolyte",
+          "title": "Nature Domain: Acolyte of Nature",
+          "text": "At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival."
+        },
+        {
+          "level": 1,
+          "subclass": "tempest",
+          "name": "tempest-proficiency",
+          "title": "Tempest Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "tempest",
+          "name": "tempest-acolyte",
+          "title": "Tempest Domain: Wrath of the Storm",
+          "text": "<p>Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "trickery",
+          "name": "trickery-proficiency",
+          "title": "Trickery Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with rapiers, shortswords, and hand crossbows."
+        },
+        {
+          "level": 1,
+          "subclass": "trickery",
+          "name": "trickery-blessing",
+          "title": "Trickery Domain: Blessing of the Trickster",
+          "text": "Starting when you choose this domain at 1st level, you can use your action to touch a willing creature to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again."
+        },
+        {
+          "level": 1,
+          "subclass": "war",
+          "name": "war-proficiency",
+          "title": "War Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "war",
+          "name": "war-priest",
+          "title": "War Domain: War Priest",
+          "text": "From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest."
+        },
+        {
+          "level": 1,
+          "subclass": "forge",
+          "name": "forge-proficiency",
+          "title": "Forge Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "forge",
+          "name": "forge-blessing",
+          "title": "Forge Domain: Blessing of the Forge",
+          "text": "<p>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "grave",
+          "name": "grave-proficiency",
+          "title": "Grave Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "grave",
+          "name": "grave-circle",
+          "title": "Grave Domain: Circle of Mortality",
+          "text": "At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action."
         },
         {
           "level": 2,
           "subclass": "base",
-          "name": "jackoftradees",
-          "title": "Jack of All Trades",
-          "text": "Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus."
+          "name": "channel-divinity-1",
+          "title": "Channel Divinity (1/rest)",
+          "text": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p>"
         },
         {
           "level": 2,
           "subclass": "base",
-          "name": "songofrest-1",
-          "title": "Song of Rest (d6)",
-          "text": "Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points."
+          "name": "channel-divinity-turn",
+          "title": "Channel Divinity: Turn Undead",
+          "text": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
         },
         {
-          "level": 3,
+          "level": 2,
           "subclass": "base",
-          "name": "college",
-          "title": "Bard College",
-          "text": "At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level."
+          "name": "domain-1",
+          "title": "Divine Domain Feature",
+          "text": "At 2nd level, you gain a feature from your Divine Domain."
         },
         {
-          "level": 3,
-          "subclass": "base",
-          "name": "expertise-1",
-          "title": "Expertise",
-          "text": "At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+          "level": 2,
+          "subclass": "arcana",
+          "name": "arcana-channel-divinity-abjure",
+          "title": "Arcana Channel Divinity: Arcane Abjuration",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures. As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p><p>After you reach 5th level, when a creature fails its saving throw against you Arcane Abjuration feature, the creature is banished for 1 minute if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as per the progressions of 'Channel Divinity: Destroy Undead'.</p>"
         },
         {
-          "level": 3,
-          "subclass": "lore",
-          "name": "lore-college",
-          "title": "Bard College: College of Lore",
-          "text": "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. "
+          "level": 2,
+          "subclass": "death",
+          "name": "death-channel-divinity-touch",
+          "title": "Death Channel Divinity: Touch of Death",
+          "text": "Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature's life force by touch. When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice his or her cleric level."
         },
         {
-          "level": 3,
-          "subclass": "valor",
-          "name": "valor-college",
-          "title": "Bard College: College of Valor",
-          "text": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old."
+          "level": 2,
+          "subclass": "knowledge",
+          "name": "knowledge-channel-divinity-ages",
+          "title": "Knowledge Channel Divinity: Knowledge of the Ages",
+          "text": "Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool."
         },
         {
-          "level": 3,
-          "subclass": "glamour",
-          "name": "glamour-college",
-          "title": "Bard College: College of Glamour (UA)",
-          "text": "Bards of the College of Glamour mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others."
+          "level": 2,
+          "subclass": "life",
+          "name": "life-channel-divinity-preserve",
+          "title": "Life Channel Divinity: Preserve Life",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>"
         },
         {
-          "level": 3,
-          "subclass": "whispers",
-          "name": "whispers-college",
-          "title": "Bard College: College of Whispers (UA)",
-          "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
+          "level": 2,
+          "subclass": "light",
+          "name": "light-channel-divinity-dawn",
+          "title": "Light Channel Divinity: Radiance of Dawn",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.</p><p>As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.</p>"
         },
         {
-          "level": 3,
-          "subclass": "lore",
-          "name": "lore-proficiencies",
-          "title": "College of Lore: Bonus Proficiencies",
-          "text": "When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice."
+          "level": 2,
+          "subclass": "nature",
+          "name": "nature-channel-divinity-charm",
+          "title": "Nature Channel Divinity: Charm Nature",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</p><p>As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.</p>"
         },
         {
-          "level": 3,
-          "subclass": "lore",
-          "name": "lore-cutting",
-          "title": "College of Lore: Cutting Words",
-          "text": "Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can't hear you or if it's immune to being charmed."
+          "level": 2,
+          "subclass": "tempest",
+          "name": "tempest-channel-divinity-wrath",
+          "title": "Tempest Channel Divinity: Destructive Wrath",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.</p><p>When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.</p>"
         },
         {
-          "level": 3,
-          "subclass": "valor",
-          "name": "valor-proficiencies",
-          "title": "College of Valor: Bonus Proficiencies",
-          "text": "When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
+          "level": 2,
+          "subclass": "trickery",
+          "name": "trickery-channel-divinity-duplicity",
+          "title": "Trickery Channel Divinity: Invoke Duplicity",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 10HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p>"
         },
         {
-          "level": 3,
-          "subclass": "valor",
-          "name": "valor-combat",
-          "title": "College of Valor: Combat Inspiration",
-          "text": "Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack."
+          "level": 2,
+          "subclass": "war",
+          "name": "war-channel-divinity-strike",
+          "title": "War Channel Divinity: Guided Strike",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy.</p><p>When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p>"
         },
         {
-          "level": 3,
-          "subclass": "glamour",
-          "name": "glamour-mantle",
-          "title": "College of Glamour: Mantle of Inspiration",
-          "text": "When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points. The temporary HP die increases along with your Inspiration die."
+          "level": 2,
+          "subclass": "forge",
+          "name": "forge-channel-divinity-artisan",
+          "title": "Forge Channel Divinity: Artisan's Blessing",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create simple items.</p><pStarting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.</p><p>The object can be worth no more than 100 gp, and as part of this ritual you must expend metals, such as coins or other finished items, with a value equal to the item you want to make. The item can be an exact duplicate of a nonmagical item, such as a copy of a key, if you possess the original during your short rest.</p>"
         },
         {
-          "level": 3,
-          "subclass": "glamour",
-          "name": "glamour-enthrall",
-          "title": "College of Glamour: Enthralling Performance",
-          "text": "Also at 3rd level, if you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. If a target succeeds on its save against this effect, the target has no hint that you tried to charm it."
-        },
-        {
-          "level": 3,
-          "subclass": "whispers",
-          "name": "whispers-blades",
-          "title": "College of Whispers: Venomous Blades",
-          "text": "When you join the College of Whispers at 3rd level, and when you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn. The venom damage die increases along with your Inspiration die."
-        },
-        {
-          "level": 3,
-          "subclass": "whispers",
-          "name": "whispers-words",
-          "title": "College of Whispers: Venomous Words",
-          "text": "If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. If the target succeeds on its save, the target has no hint that you tried to frighten it."
+          "level": 2,
+          "subclass": "grave",
+          "name": "grave-channel-divinity-path",
+          "title": "Grave Channel Divinity: Path to the Grave",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</p><p>As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack's damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends. If the creature has resistance or is immune to the damage, it instead loses its resistance or immunity against that spell or attack when it first applies damage.</p>"
         },
         {
           "level": 4,
@@ -1035,58 +1292,100 @@
         {
           "level": 5,
           "subclass": "base",
-          "name": "inspiration-2",
-          "title": "Bardic Inspiration (d8)",
-          "text": "At 5th level, your Bardic Inspiration die changes to a d8."
-        },
-        {
-          "level": 5,
-          "subclass": "base",
-          "name": "fontofinspiration",
-          "title": "Font of Inspiration",
-          "text": "Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest."
+          "name": "destroy-undead-half",
+          "title": "Destroy Undead (CR 1/2)",
+          "text": "Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
         },
         {
           "level": 6,
           "subclass": "base",
-          "name": "countercharm",
-          "title": "Countercharm",
-          "text": "At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required)."
+          "name": "channel-divinity-2",
+          "title": "Channel Divinity (2/rest)",
+          "text": "Beginning at 6th level, you can use your Channel Divinity twice between rests."
         },
         {
           "level": 6,
           "subclass": "base",
-          "name": "college-feature-1",
-          "title": "2nd College Feature",
-          "text": "At 6th level, you gain a feature from your Bard College."
+          "name": "domain-2",
+          "title": "Divine Domain Feature",
+          "text": "At 6nd level, you gain a feature from your Divine Domain."
         },
         {
           "level": 6,
-          "subclass": "lore",
-          "name": "lore-secrets",
-          "title": "College of Lore: Additional Magical Secrets",
-          "text": "At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know."
+          "subclass": "arcana",
+          "name": "arcana-spell-breaker",
+          "title": "Arcana Domain: Spell Breaker",
+          "text": "Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell."
         },
         {
           "level": 6,
-          "subclass": "valor",
-          "name": "valor-attack",
-          "title": "College of Valor: Extra Attack",
-          "text": "Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+          "subclass": "death",
+          "name": "death-inescapable",
+          "title": "Death Domain: Inescapable Destruction",
+          "text": "Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and Channel Divinity options ignores resistance to necrotic damage."
         },
         {
           "level": 6,
-          "subclass": "glamour",
-          "name": "glamour-majesty",
-          "title": "College of Glamour: Mantle of Majesty",
-          "text": "At 6th level, you gain the ability to cloak yourself in a fey magic once per day. As a bonus action, you take on an appearance of unearthly beauty for 1 minute. During this time, you can cast command as a bonus action on each of your turns, without using a spell slot. This effect lasts for 1 minute, and any creature charmed by you automatically fails its saving throw against the spell."
+          "subclass": "knowledge",
+          "name": "knowledge-channel-divinity-thoughts",
+          "title": "Knowledge Channel Divinity: Read Thoughts",
+          "text": "<p>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.</p><p>As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.</p><p>If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.</p><p>During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.</p>"
         },
         {
           "level": 6,
-          "subclass": "whispers",
-          "name": "whispers-mantle",
-          "title": "College of Whispers: Mantle of Whispers",
-          "text": "<p>At 6th level, you gain the ability to adopt a creature’s persona. When you slay a creature with an attack or a spell or a creature dies within 5 feet of you, you can magically capture its shadow using your reaction. You can capture only the shadow of a creature that is your creature type, such as humanoid, and your size (you can capture a Small or Medium shadow if you’re Small), and you can have only one shadow captured at a time.</p><p>After you capture a creature’s shadow, you can use your magic to weave it into a disguise that allows you to take on its appearance and gain access to its surface memories. As an action, you take on the creature’s appearance for 1 hour or until you end this effect as a bonus action.</p><p>During that hour, you gain access to all information that the creature would freely share with a casual acquaintance. Information includes general details on its background and personal life, but does not include secrets. The information is enough that you can pass yourself off as the creature by drawing on its memories.</p><p>Another creature can see through this disguise by making a Wisdom (Insight) check opposed by your Charisma (Deception) check, though you gain a +5 bonus to your check.</p><p>The disguise and the knowledge it grants disappears when this ability’s duration ends.</p>"
+          "subclass": "life",
+          "name": "life-blessed-healer",
+          "title": "Life Domain: Blessed Healer",
+          "text": "Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level."
+        },
+        {
+          "level": 6,
+          "subclass": "light",
+          "name": "light-improved-flare",
+          "title": "Light Domain: Improved Flare",
+          "text": "Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you."
+        },
+        {
+          "level": 6,
+          "subclass": "nature",
+          "name": "nature-dampen-elements",
+          "title": "Nature Domain: Dampen Elements",
+          "text": "Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage."
+        },
+        {
+          "level": 6,
+          "subclass": "tempest",
+          "name": "tempest-thunderbolt-strike",
+          "title": "Tempest Domain: Thunderbolt Strike",
+          "text": "At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you."
+        },
+        {
+          "level": 6,
+          "subclass": "trickery",
+          "name": "trickery-cloak-of-shadows",
+          "title": "Trickery Channel Divinity: Shrouded Invoke Duplicity",
+          "text": "Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Invisibility."
+        },
+        {
+          "level": 6,
+          "subclass": "war",
+          "name": "war-channel-divinity-strike",
+          "title": "War Channel Divinity: War God's Blessing",
+          "text": "At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
+        },
+        {
+          "level": 6,
+          "subclass": "forge",
+          "name": "forge-soul",
+          "title": "Forge Domain: Soul of the Forge",
+          "text": "<p>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</p><ul><li>You gain a +1 bonus to AC while you are wearing medium or heavy armor.</li><li>You gain resistance to fire damage.</li><li>When you hit a construct with an attack, you deal additional force damage to it equal to your cleric level.</li></ul>"
+        },
+        {
+          "level": 6,
+          "subclass": "grave",
+          "name": "grave-sentinel",
+          "title": "Grave Domain: Sentinel at Death's Door",
+          "text": "Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. Once you use this feature, you can't use it again until you finish a short or long rest."
         },
         {
           "level": 8,
@@ -1096,32 +1395,32 @@
           "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 9,
+          "level": 8,
           "subclass": "base",
-          "name": "songofrest-2",
-          "title": "Song of Rest (d8)",
-          "text": "At 9th level, the extra hit points gained from Song of Rest increases to 1d8."
+          "name": "destroy-undead-1",
+          "title": "Destroy Undead (CR 1)",
+          "text": "Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "spellcasting-and-strike",
+          "title": "Divine Conduit",
+          "text": "At 8th level, you receive two boons from your divine domain.</p><p>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8. The type of this damage is determined by your Divine Domain as follows:</p><ul><li>Arcana: force</li><li>Death: necrotic</li><li>Knowledge: psychic</li><li>Life: radiant</li><li>Light: radiant or fire</li><li>Nature: fire, cold, or lightning</li><li>Tempest: thunder</li><li>Trickery: acid</li><li>War: same as weapon</li><li>Forge: fire</li><li>Grave: necrotic</li></ul>"
         },
         {
           "level": 10,
           "subclass": "base",
-          "name": "inspiration-3",
-          "title": "Bardic Inspiration (d10)",
-          "text": "At 10th level, your Bardic Inspiration die changes to a d10."
+          "name": "divine-intervention",
+          "title": "Divine Intervention",
+          "text": "Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great. Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest."
         },
         {
-          "level": 10,
+          "level": 11,
           "subclass": "base",
-          "name": "expertise-2",
-          "title": "Expertise",
-          "text": "At 10th level, you can choose another two skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
-        },
-        {
-          "level": 10,
-          "subclass": "base",
-          "name": "secrets",
-          "title": "Magical Secrets",
-          "text": "By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+          "name": "destroy-undead-2",
+          "title": "Destroy Undead (CR 2)",
+          "text": "Starting at 11th level, when an undead of CR 2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
         },
         {
           "level": 12,
@@ -1131,60 +1430,11 @@
           "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 13,
-          "subclass": "base",
-          "name": "songofrest-3",
-          "title": "Song of Rest (d10)",
-          "text": "At 13th level, the extra hit points gained from Song of Rest increases to 1d10."
-        },
-        {
           "level": 14,
           "subclass": "base",
-          "name": "secrets",
-          "title": "Magical Secrets",
-          "text": "By 14th level choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
-        },
-        {
-          "level": 14,
-          "subclass": "base",
-          "name": "college-feature-2",
-          "title": "3nd College Feature",
-          "text": "At 14th level, you gain a feature from your Bard College."
-        },
-        {
-          "level": 14,
-          "subclass": "lore",
-          "name": "lore-skill",
-          "title": "College of Lore: Peerless Skill",
-          "text": "Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roil the die for the ability check, but before the DM tells you whether you succeed or fail."
-        },
-        {
-          "level": 14,
-          "subclass": "valor",
-          "name": "valor-battle",
-          "title": "College of Valor: Battle Magic",
-          "text": "At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action"
-        },
-        {
-          "level": 14,
-          "subclass": "glamour",
-          "name": "glamour-unbreakable",
-          "title": "College of Glamour: Unbreakable Majesty",
-          "text": "At 14th level, you gain an otherworldly aspect to your appearance that makes you look more fierce and lovely. In addition, once per day, you can cast Sanctuary on yourself. If a creature fails its saving throw against the spell, you also gain advantage on all Charisma checks against the creature for 1 minute, and it has disadvantage on any saving throw it makes against your spells on your next turn."
-        },
-        {
-          "level": 14,
-          "subclass": "whispers",
-          "name": "whispers-mantle",
-          "title": "College of Whispers: Shadow Lore",
-          "text": "<p>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.</p><p>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</p><p>If the target fails its saving throw, it is charmed by you for the next 8 hours or until you or your allies attack or damage it. It interprets the whispers as a description of its most mortifying secret. While you gain no knowledge of this secret, the target is convinced you know it.</p><p>While charmed in this way, the creature obeys your commands for fear that you will reveal its secret. It won’t risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</p><p>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can’t use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 15,
-          "subclass": "base",
-          "name": "inspiration-4",
-          "title": "Bardic Inspiration (d12)",
-          "text": "At 15th level, your Bardic Inspiration die changes to a d12."
+          "name": "destroy-undead-3",
+          "title": "Destroy Undead (CR 3)",
+          "text": "Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
         },
         {
           "level": 16,
@@ -1196,16 +1446,100 @@
         {
           "level": 17,
           "subclass": "base",
-          "name": "songofrest-4",
-          "title": "Song of Rest (d12)",
-          "text": "At 17th level, the extra hit points gained from Song of Rest increases to 1d12."
+          "name": "destroy-undead-4",
+          "title": "Destroy Undead (CR 4)",
+          "text": "Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 17,
+          "subclass": "base",
+          "name": "domain-3",
+          "title": "Divine Domain Feature",
+          "text": "At 17nd level, you gain a feature from your Divine Domain."
+        },
+                {
+          "level": 17,
+          "subclass": "arcana",
+          "name": "arcana-mastery",
+          "title": "Arcana Domain: Arcane Mastery",
+          "text": "At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you."
+        },
+        {
+          "level": 17,
+          "subclass": "death",
+          "name": "death-improved-reaper",
+          "title": "Death Domain: Improved Reaper",
+          "text": "Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target."
+        },
+        {
+          "level": 17,
+          "subclass": "knowledge",
+          "name": "knowledge-visions",
+          "title": "Knowledge Domain: Visions of the Past",
+          "text": "<p>Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p><p><strong>Object Reading:</strong> Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.</p><p><strong>Area Reading:</strong> As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.</p>"
+        },
+        {
+          "level": 17,
+          "subclass": "life",
+          "name": "life-supreme-healing",
+          "title": "Life Domain: Supreme Healing",
+          "text": "Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12."
+        },
+        {
+          "level": 17,
+          "subclass": "light",
+          "name": "light-corona",
+          "title": "Light Domain: Corona of Light",
+          "text": "Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage."
+        },
+        {
+          "level": 17,
+          "subclass": "nature",
+          "name": "nature-master",
+          "title": "Nature Domain: Master of Nature",
+          "text": "At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn."
+        },
+        {
+          "level": 17,
+          "subclass": "tempest",
+          "name": "tempest-stormborn",
+          "title": "Tempest Domain: Stormborn",
+          "text": "At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors."
+        },
+        {
+          "level": 17,
+          "subclass": "trickery",
+          "name": "trickery-cloak-of-shadows",
+          "title": "Trickery Channel Divinity: Improved Invoke Duplicity",
+          "text": "At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones."
+        },
+        {
+          "level": 17,
+          "subclass": "war",
+          "name": "war-avatar",
+          "title": "War Domain: Avatar of Battle",
+          "text": "At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
+        },
+        {
+          "level": 17,
+          "subclass": "forge",
+          "name": "forge-saint",
+          "title": "Forge Domain: Saint of FOrge and Fire",
+          "text": "At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks"
+        },
+        {
+          "level": 17,
+          "subclass": "grave",
+          "name": "grave-keeper",
+          "title": "Grave Domain: Keeper of Souls",
+          "text": "At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round."
         },
         {
           "level": 18,
           "subclass": "base",
-          "name": "secrets",
-          "title": "Magical Secrets",
-          "text": "At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+          "name": "channel-divinity-3",
+          "title": "Channel Divinity (3/rest)",
+          "text": "Beginning at 18th level, you can use your Channel Divinity three times between rests."
         },
         {
           "level": 19,
@@ -1217,9 +1551,9 @@
         {
           "level": 20,
           "subclass": "base",
-          "name": "superior-inspiration",
-          "title": "Superior Inspiration",
-          "text": "At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use."
+          "name": "divine-intervention-improvement",
+          "title": "Divine Intervention Improvement",
+          "text": "At 20th level, your call for intervention succeeds automatically, no roll required."
         }
       ]
     },

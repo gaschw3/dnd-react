@@ -27,7 +27,7 @@ export class Spell extends React.Component {
   render() {
     return(
       <div>
-        <JumbotronComponent title="Spells" description="spell.description" image={this.state.image}/>
+        <JumbotronComponent title="Spells" description="Some characters are able to shape and direct the invisible weave of magic suffusing the world. Created spells can be tools, weapons, and wards - they can deal damage or undo it, impose conditions, alter minds, and even restore life to the dead." image={this.state.image}/>
         <div className="spell">
           <div className="col-1">
             <SpellList handleClick={this.handleClick} json={this.state.json} active={this.props.params.spellName}/>

@@ -12,11 +12,11 @@ export default class App extends React.Component {
               You need to enable JavaScript to run this app.
             </noscript>
             <Navbar />
+            <Main />
           </div>
         );
     }
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.render(<Main />, document.getElementById('main'));
 

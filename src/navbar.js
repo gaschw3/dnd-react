@@ -16,11 +16,11 @@ export default class NavbarComponent extends React.Component {
           <Nav>
             <NavItem eventKey={1} href="#/rules">Rules</NavItem>
             <NavDropdown eventKey={2} title="Characters" id="basic-nav-dropdown">
-              <MenuItem href="#/races/undef" eventKey={2.1}>Races</MenuItem>
-              <MenuItem href="#/backgrounds/undef" eventKey={2.2}>Backgrounds</MenuItem>
+              <MenuItem href="#/races/aarakocra" eventKey={2.1}>Races</MenuItem>
+              <MenuItem href="#/backgrounds/acolyte" eventKey={2.2}>Backgrounds</MenuItem>
               <MenuItem href="#/classes"eventKey={2.3}>Classes</MenuItem>
-              <MenuItem href="#/spells/undef" eventKey={3.2}>Spells</MenuItem>
-              <MenuItem href="#/feats/undef" eventKey={3.3}>Feats</MenuItem>
+              <MenuItem href="#/spells/abi-dalzims-horrid-wilting" eventKey={3.2}>Spells</MenuItem>
+              <MenuItem href="#/feats/acrobat" eventKey={3.3}>Feats</MenuItem>
             </NavDropdown>
             <NavDropdown eventKey={4} title="DMs" id="basic-nav-dropdown">
               <MenuItem href="#/beastiary" eventKey={4.1}>Beastiary</MenuItem>

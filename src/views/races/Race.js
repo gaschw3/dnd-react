@@ -27,7 +27,7 @@ export class Race extends React.Component {
   render() {
     return(
       <div>
-        <JumbotronComponent title="Races" description="There are many varieties of exotic folk in the world. Your character’s background race not only affects ability scores and racial powers, but also provides cues for building their story." image={this.state.image}/>
+        <JumbotronComponent title="Races" description="There are many varieties of exotic folk in the world. Your character’s race not only affects ability scores and racial powers, but also provides cues for building their story." image={this.state.image}/>
         <div className="col-sm-5 background">
           <RaceList handleClick={this.handleClick} json={this.state.json} active={this.props.params.raceId}/>
         </div>
