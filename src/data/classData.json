@@ -636,14 +636,14 @@
           "subclass": "spheres",
           "name": "spheres-proficiencies",
           "title": "College of Spheres: Eldritch Mind",
-          "text": "When you join the College of Whispers at 3rd level, your experience depecting and worshipping beings that defy mortal sanity grants you proficiency in the Arcana skill and Wisdom saving throws."
+          "text": "When you join the College of Spheres at 3rd level, your experience depicting and worshipping beings that defy mortal sanity grants you proficiency in the Arcana skill and Wisdom saving throws."
         },
         {
           "level": 3,
           "subclass": "spheres",
           "name": "spheres-madness",
           "title": "College of Spheres: Maestro of Madness",
-          "text": "Also at 3rd level, you learn how to use your minds alien nature to disorient, scare and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or  saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."
+          "text": "Also at 3rd level, you learn how to use your mind's alien nature to disorient, scare, and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or  saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."
         },
         {
           "level": 4,
@@ -713,7 +713,7 @@
           "subclass": "spheres",
           "name": "spheres-requiem",
           "title": "College of Spheres: Sanity's Requiem",
-          "text": "<p>Beginning at 6th level, and creature that inflicts psychic damage or tries to read your thoughts or control your actions finds their mind recoiling from teh strange patterns of your own. They must make a save against your bard spell save DC or immediatelly roll on the short term madness table.<p><p>In addition, when you deal psychic damage to another creature you add your CHA modifier to the damage dealt and you add the spell Phantasmal Force to your list of known Bard spells.</p>"
+          "text": "<p>Beginning at 6th level, and creature that inflicts psychic damage or tries to read your thoughts or control your actions finds their mind recoiling from the strange patterns of your own. They must make a save against your bard spell save DC or immediatelly roll on the short term madness table.<p><p>In addition, when you deal psychic damage to another creature you add your CHA modifier to the damage dealt and you add the spell Phantasmal Force to your list of known Bard spells.</p>"
         },
         {
           "level": 8,
@@ -811,7 +811,7 @@
           "subclass": "spheres",
           "name": "spheres-aesthetic",
           "title": "College of Spheres: Incomprehensible Aesthetic",
-          "text": "<p>At 14th level, your soul warps past the point of mortal ken. The artist becomes the subject and you can considered a humanoid aberration.</p><p>You may use your raction to offer a true glimpse of your hidden, horrid truth to a creature that targets you with an spell or weapon attack. They must immediately make a Wisdom save as if they had tried to read your thoughts and creatures who were unaware of your true nature are immediately frightened until the end of their next turn.</p><p>Fellow aberrations are charmed rather than frightened and you may allow them to automatically pass the Wisdom save.<p><p>You can use this feature up to 3 times per day and regain all expended uses on a long rest</p>"
+          "text": "<p>At 14th level, your soul warps past the point of mortal understanding. The artist becomes the subject and you are considered a humanoid aberration.</p><p>You may use your raction to offer a true glimpse of your hidden self to a creature that targets you with an spell or weapon attack. They must immediately make a Wisdom save as if they had tried to read your thoughts. Creatures who were unaware of your true nature are also frightened until the end of their next turn.</p><p>Fellow aberrations are charmed rather than frightened and you may allow them to automatically pass the Wisdom save.<p><p>You can use this feature up to 3 times per day and regain all expended uses on a long rest</p>"
         },
         {
           "level": 15,
