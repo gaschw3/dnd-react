@@ -92,7 +92,7 @@
             ]
         },
         {
-            "title": "Alarm",
+            "title": "Alarm (r)",
             "name": "alarm",
             "source": "PHB",
             "level": "1",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "title": "Animal Messenger",
+            "title": "Animal Messenger (r)",
             "name": "animal-messenger",
             "source": "PHB",
             "level": "2",
@@ -385,7 +385,7 @@
             ]
         },
         {
-            "title": "Augury",
+            "title": "Augury (r)",
             "name": "augury",
             "source": "PHB",
             "level": "2",
@@ -479,7 +479,7 @@
             ]
         },
         {
-            "title": "Banishing Smite",
+            "title": "Banishing Smite (b)",
             "name": "banishing-smite",
             "source": "PHB",
             "level": "5",
@@ -553,7 +553,7 @@
             ]
         },
         {
-            "title": "Beast Sense",
+            "title": "Beast Sense (r)",
             "name": "beast-sense",
             "source": "PHB",
             "level": "2",
@@ -681,7 +681,7 @@
             "roll": "8d8"
         },
         {
-            "title": "Blinding Smite",
+            "title": "Blinding Smite (b)",
             "name": "blinding-smite",
             "source": "PHB",
             "level": "3",
@@ -784,7 +784,7 @@
             ]
         },
         {
-            "title": "Branding Smite",
+            "title": "Branding Smite (b)",
             "name": "branding-smite",
             "source": "PHB",
             "level": "2",
@@ -1091,7 +1091,7 @@
             ]
         },
         {
-            "title": "Commune",
+            "title": "Commune (r)",
             "name": "commune",
             "source": "PHB",
             "level": "5",
@@ -1109,7 +1109,7 @@
             ]
         },
         {
-            "title": "Commune with Nature",
+            "title": "Commune with Nature (r)",
             "name": "commune-with-nature",
             "source": "PHB",
             "level": "5",
@@ -1127,7 +1127,7 @@
             ]
         },
         {
-            "title": "Compelled Duel",
+            "title": "Compelled Duel (b)",
             "name": "compelled-duel",
             "source": "PHB",
             "level": "1",
@@ -1143,7 +1143,7 @@
             ]
         },
         {
-            "title": "Comprehend Languages",
+            "title": "Comprehend Languages (r)",
             "name": "comprehend-languages",
             "source": "PHB",
             "level": "1",
@@ -1363,7 +1363,7 @@
             ]
         },
         {
-            "title": "Contact Other Plane",
+            "title": "Contact Other Plane (r)",
             "name": "contact-other-plane",
             "source": "PHB",
             "level": "5",
@@ -1849,7 +1849,7 @@
             "text": "For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place of object within 30 feet of you that has been magically consecrated or desecrated. The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt."
         },
         {
-            "title": "Detect Magic",
+            "title": "Detect Magic (r)",
             "name": "detect-magic",
             "source": "PHB",
             "level": "1",
@@ -2007,7 +2007,7 @@
             "roll": "3d6"
         },
         {
-            "title": "Divination",
+            "title": "Divination (r)",
             "name": "divination",
             "source": "PHB",
             "level": "4",
@@ -2025,7 +2025,7 @@
             ]
         },
         {
-            "title": "Divine Favor",
+            "title": "Divine Favor (b)",
             "name": "divine-favor",
             "source": "PHB",
             "level": "1",
@@ -2038,7 +2038,7 @@
             "text": "Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal and extra 1d4 radiant damage on a hit."
         },
         {
-            "title": "Divine Word",
+            "title": "Divine Word (b)",
             "name": "divine-word",
             "source": "PHB",
             "level": "7",
@@ -2115,7 +2115,7 @@
             ]
         },
         {
-            "title": "Drawmij's Instant Summon",
+            "title": "Drawmij's Instant Summon (r)",
             "name": "drawmijs-instant-summon",
             "source": "PHB",
             "level": "6",
@@ -2347,7 +2347,7 @@
             ]
         },
         {
-            "title": "Ensnaring Strike",
+            "title": "Ensnaring Strike (b)",
             "name": "ensnaring-strike",
             "source": "PHB",
             "level": "1",
@@ -2451,7 +2451,7 @@
             "roll": "3d6"
         },
         {
-            "title": "Expeditious Retreat",
+            "title": "Expeditious Retreat (b)",
             "name": "expeditious-retreat",
             "source": "PHB",
             "level": "1",
@@ -2580,7 +2580,7 @@
             "roll": "4d6"
         },
         {
-            "title": "Feign Death",
+            "title": "Feign Death (r)",
             "name": "feign-death",
             "source": "PHB",
             "level": "3",
@@ -2597,7 +2597,7 @@
             ]
         },
         {
-            "title": "Find Familiar",
+            "title": "Find Familiar (r)",
             "name": "find-familiar",
             "source": "PHB",
             "level": "1",
@@ -2780,7 +2780,7 @@
             "roll": "1d6"
         },
         {
-            "title": "Flame Blade",
+            "title": "Flame Blade (b)",
             "name": "flame-blade",
             "source": "PHB",
             "level": "2",
@@ -2888,7 +2888,7 @@
             ]
         },
         {
-            "title": "Forbiddance",
+            "title": "Forbiddance (r)",
             "name": "forbiddance",
             "source": "PHB",
             "level": "6",
@@ -3050,7 +3050,7 @@
             "roll": "5d10"
         },
         {
-            "title": "Gentle Repose",
+            "title": "Gentle Repose (r)",
             "name": "gentle-repose",
             "source": "PHB",
             "level": "2",
@@ -3154,7 +3154,7 @@
             ]
         },
         {
-            "title": "Grasping Vine",
+            "title": "Grasping Vine (b)",
             "name": "grasping-vine",
             "source": "PHB",
             "level": "4",
@@ -3353,7 +3353,7 @@
             ]
         },
         {
-            "title": "Hail of Thorns",
+            "title": "Hail of Thorns (b)",
             "name": "hail-of-thorns",
             "source": "PHB",
             "level": "1",
@@ -3459,7 +3459,7 @@
             ]
         },
         {
-            "title": "Healing Word",
+            "title": "Healing Word (b)",
             "name": "healing-word",
             "source": "PHB",
             "level": "1",
@@ -3544,7 +3544,7 @@
             ]
         },
         {
-            "title": "Hex",
+            "title": "Hex (b)",
             "name": "hex",
             "source": "PHB",
             "level": "1",
@@ -3627,7 +3627,7 @@
             ]
         },
         {
-            "title": "Hunter's Mark",
+            "title": "Hunter's Mark (b)",
             "name": "hunters-mark",
             "source": "PHB",
             "level": "1",
@@ -3698,7 +3698,7 @@
             "roll": "2d8+4d6"
         },
         {
-            "title": "Identify",
+            "title": "Identify (r)",
             "name": "identify",
             "source": "PHB",
             "level": "1",
@@ -3715,7 +3715,7 @@
             ]
         },
         {
-            "title": "Illusory Script",
+            "title": "Illusory Script (r)",
             "name": "illusory-script",
             "source": "PHB",
             "level": "1",
@@ -4000,7 +4000,7 @@
             "roll": "d10"
         },
         {
-            "title": "Leomund's Tiny Hut",
+            "title": "Leomund's Tiny Hut (r)",
             "name": "leomunds-tiny-hut",
             "source": "PHB",
             "level": "3",
@@ -4064,7 +4064,7 @@
             ]
         },
         {
-            "title": "Lightning Arrow",
+            "title": "Lightning Arrow (b)",
             "name": "lightning-arrow",
             "source": "PHB",
             "level": "3",
@@ -4123,7 +4123,7 @@
             ]
         },
         {
-            "title": "Locate Animals or Plants",
+            "title": "Locate Animals or Plants (r)",
             "name": "locate-animals-or-plants",
             "source": "PHB",
             "level": "2",
@@ -4294,7 +4294,7 @@
             "roll": "1d4+1"
         },
         {
-            "title": "Magic Mouth",
+            "title": "Magic Mouth (r)",
             "name": "magic-mouth",
             "source": "PHB",
             "level": "2",
@@ -4312,7 +4312,7 @@
             ]
         },
         {
-            "title": "Magic Stone",
+            "title": "Magic Stone (b)",
             "name": "magic-stone",
             "source": "EEPC",
             "level": "0",
@@ -4333,7 +4333,7 @@
             ]
         },
         {
-            "title": "Magic Weapon",
+            "title": "Magic Weapon (b)",
             "name": "magic-weapon",
             "source": "PHB",
             "level": "2",
@@ -4397,7 +4397,7 @@
             "text": "A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs."
         },
         {
-            "title": "Mass Healing Word",
+            "title": "Mass Healing Word (b)",
             "name": "mass-healing-word",
             "source": "PHB",
             "level": "3",
@@ -4470,7 +4470,7 @@
             ]
         },
         {
-            "title": "Meld into Stone",
+            "title": "Meld into Stone (r)",
             "name": "meld-into-stone",
             "source": "PHB",
             "level": "3",
@@ -4665,7 +4665,7 @@
             ]
         },
         {
-            "title": "Misty Step",
+            "title": "Misty Step (b)",
             "name": "misty-step",
             "source": "PHB",
             "level": "2",
@@ -4989,7 +4989,7 @@
             "roll": "4d10"
         },
         {
-            "title": "Phantom Steed",
+            "title": "Phantom Steed (r)",
             "name": "phantom-steed",
             "source": "PHB",
             "level": "3",
@@ -5376,7 +5376,7 @@
             ]
         },
         {
-            "title": "Purify Food and Drink",
+            "title": "Purify Food and Drink (r)",
             "name": "purify-food-and-drink",
             "source": "PHB",
             "level": "1",
@@ -5426,7 +5426,7 @@
             ]
         },
         {
-            "title": "Rary's Telepathic Bond",
+            "title": "Rary's Telepathic Bond (r)",
             "name": "rarys-telepathic-bond",
             "source": "PHB",
             "level": "5",
@@ -5668,7 +5668,7 @@
             ]
         },
         {
-            "title": "Sanctuary",
+            "title": "Sanctuary (b)",
             "name": "sanctuary",
             "source": "PHB",
             "level": "1",
@@ -5731,7 +5731,7 @@
             ]
         },
         {
-            "title": "Searing Smite",
+            "title": "Searing Smite (b)",
             "name": "searing-smite",
             "source": "PHB",
             "level": "1",
@@ -5884,7 +5884,7 @@
             "text": "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile."
         },
         {
-            "title": "Shield of Faith",
+            "title": "Shield of Faith (b)",
             "name": "shield-of-faith",
             "source": "PHB",
             "level": "1",
@@ -5897,7 +5897,7 @@
             "text": "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."
         },
         {
-            "title": "Shillelagh",
+            "title": "Shillelagh (b)",
             "name": "shillelagh",
             "source": "PHB",
             "level": "0",
@@ -5933,7 +5933,7 @@
             ]
         },
         {
-            "title": "Silence",
+            "title": "Silence (r)",
             "name": "silence",
             "source": "PHB",
             "level": "2",
@@ -5982,7 +5982,7 @@
             ]
         },
         {
-            "title": "Skywrite",
+            "title": "Skywrite (r)",
             "name": "skywrite",
             "source": "EEPC",
             "level": "2",
@@ -6084,7 +6084,7 @@
             "text": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs."
         },
         {
-            "title": "Speak with Animals",
+            "title": "Speak with Animals (r)",
             "name": "speak-with-animals",
             "source": "PHB",
             "level": "1",
@@ -6181,7 +6181,7 @@
             "roll": "3d8"
         },
         {
-            "title": "Spiritual Weapon",
+            "title": "Spiritual Weapon (b)",
             "name": "spiritual-weapon",
             "source": "PHB",
             "level": "2",
@@ -6203,7 +6203,7 @@
             ]
         },
         {
-            "title": "Staggering Smite",
+            "title": "Staggering Smite (b)",
             "name": "staggering-smite",
             "source": "PHB",
             "level": "4",
@@ -6363,7 +6363,7 @@
             "roll": "12d6"
         },
         {
-            "title": "Swift Quiver",
+            "title": "Swift Quiver (b)",
             "name": "swift-quiver",
             "source": "PHB",
             "level": "5",
@@ -6529,7 +6529,7 @@
             ]
         },
         {
-            "title": "Tenser's Floating Disk",
+            "title": "Tenser's Floating Disk (r)",
             "name": "tensers-floating-disk",
             "source": "PHB",
             "level": "1",
@@ -6615,7 +6615,7 @@
             ]
         },
         {
-            "title": "Thunderous Smite",
+            "title": "Thunderous Smite (b)",
             "name": "thunderous-smite",
             "source": "PHB",
             "level": "1",
@@ -6836,7 +6836,7 @@
             ]
         },
         {
-            "title": "Unseen Servant",
+            "title": "Unseen Servant (r)",
             "name": "unseen-servant",
             "source": "PHB",
             "level": "1",
@@ -7084,7 +7084,7 @@
             ]
         },
         {
-            "title": "Water Breathing",
+            "title": "Water Breathing (r)",
             "name": "water-breathing",
             "source": "PHB",
             "level": "3",
@@ -7098,7 +7098,7 @@
             "text": "This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration."
         },
         {
-            "title": "Water Walk",
+            "title": "Water Walk (r)",
             "name": "water-walk",
             "source": "PHB",
             "level": "3",
@@ -7287,7 +7287,7 @@
             ]
         },
         {
-            "title": "Wrathful Smite",
+            "title": "Wrathful Smite (b)",
             "name": "wrathful-smite",
             "source": "PHB",
             "level": "1",
@@ -7331,7 +7331,7 @@
             ]
         },
         {
-            "title": "Ceremony",
+            "title": "Ceremony (r)",
             "name": "ceremony",
             "source": "UAStarterSpells",
             "level": "1",
@@ -7380,7 +7380,7 @@
             ]
         },
         {
-            "title": "Guiding Hand",
+            "title": "Guiding Hand (r)",
             "name": "guiding-hand",
             "source": "UAStarterSpells",
             "level": "1",
@@ -7512,7 +7512,7 @@
             ]
         },
         {
-            "title": "Sudden Awakening",
+            "title": "Sudden Awakening (b)",
             "name": "sudden-awakening",
             "source": "UAStarterSpells",
             "level": "1",
@@ -7574,7 +7574,7 @@
             ]
         },
         {
-            "title": "Wild Cunning",
+            "title": "Wild Cunning (r)",
             "name": "wild-cunning",
             "source": "UAStarterSpells",
             "level": "1",
@@ -7595,7 +7595,7 @@
             ]
         },
         {
-            "title": "Zephyr Strike",
+            "title": "Zephyr Strike (b)",
             "name": "zephyr-strike",
             "source": "UAStarterSpells",
             "level": "1",
