@@ -12,6 +12,7 @@ import {Feat} from './views/feats/Feat.js';
 import {Spell} from './views/spells/Spell.js';
 import {Race} from './views/races/Race.js';
 import {Condition} from './views/conditions/Condition.js';
+import {Item} from './views/items/Item.js';
 
 
 class NotFound extends Component {
@@ -33,6 +34,7 @@ export default class Main extends React.Component {
                     <Route path="/spells/:spellName" component={Spell}/>
                     <Route path="/races/:raceName" component={Race}/>
                     <Route path="/conditions/:conditionName" component={Condition}/>
+                    <Route path="/items/:itemName" component={Item}/>
                     <Route path="*" component={NotFound}/>
             </Router>
         )

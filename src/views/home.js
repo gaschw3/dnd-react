@@ -7,13 +7,13 @@ export default class Home extends Component {
     render(){
       return (
         <div>
-          <JumbotronComponent image="Main" title="EotCC D&D 5e Reference" description="This is a suite of tools pulled into a React app for use by intrepid adventurers and explorers. May or may not ever actually work." />
+          <JumbotronComponent image="Main" title="EotCC D&D 5e Reference" description="This is a suite of tools pulled into a React app for use by intrepid adventurers and explorers. Looking more and more like it will eventually work." />
           <Grid bsClass="main">
             <Row>
               <Col sm={1} />
               <Col sm={5}>
                 <h4><a href="/dnd-react/#/classes">Classes</a></h4>
-                <p>Reference page of 5e classes and their descriptions. You can tell this section got made first because it is the most stupidly designed.</p>
+                <p>Reference page of 5e classes (at least the ones I have created JSON for) and their descriptions. You can tell this section got made first because it is the most stupidly designed.</p>
                 <h4><a href="/dnd-react/#/backgrounds/acolyte">Backgrounds</a></h4>
                 <p>View all official backgrounds in D&D 5e, including those from supplement material.</p>
                 <h4><a href="/dnd-react/#/races/aarakocra">Races</a></h4>
@@ -27,7 +27,7 @@ export default class Home extends Component {
                 <h4><a href="/dnd-react/#/conditions/blinded">Conditions</a></h4>
                 <p>Quick-reference for all the conditions in D&D 5e.</p>
                 <h4><a href="/dnd-react/#/items/undef">Items</a></h4>
-                <p>View a 404 page, because this isn't done.</p>
+                <p>Table and details for most items in 5e. Doesn't include merchant fodder. Also doesn't really work right yet.</p>
                 <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
                 <p>View a 404 page, because this isn't done.</p>
                 <h4><a href="/dnd-react/#/rules">Rules</a></h4>

@@ -1560,7 +1560,7 @@
     {
       "name": "Druid",
       "id": "druid",
-      "description": "Arcane casters defined by their strong connection to nature and wildlife. They can use powers of the natural world to cast spells, summon allies, and even transform themselves in beasts.",
+      "description": "(UNFINISHED) Arcane casters defined by their strong connection to nature and wildlife. They can use powers of the natural world to cast spells, summon allies, and even transform themselves in beasts.",
       "hd": "8",
       "proficiencies": [
                      "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
@@ -1970,7 +1970,7 @@
     {
       "name": "Fighter",
       "id": "fighter",
-      "description": "Highly trained warriors defined by their martial prowess and battlefield command abilities. The hone their skills to stand head and shoulders above others on the field of battle.",
+      "description": "(UNFINSHED) Highly trained warriors defined by their martial prowess and battlefield command abilities. The hone their skills to stand head and shoulders above others on the field of battle.",
       "hd": "8",
       "proficiencies": [
                      "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
