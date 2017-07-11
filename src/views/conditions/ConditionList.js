@@ -28,7 +28,7 @@ export class ConditionList extends React.Component {
         <FormControl
           type="text"
           value={this.state.filterText}
-          placeholder="Filter Feats"
+          placeholder="Filter Conditions"
           onChange={this.filterChange}
         />
       </FormGroup>

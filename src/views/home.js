@@ -13,7 +13,7 @@ export default class Home extends Component {
               <Col sm={1} />
               <Col sm={5}>
                 <h4><a href="/dnd-react/#/classes">Classes</a></h4>
-                <p>View page of classes and their descriptions in 5e. You can tell this section got made first because it is the most stupidly designed.</p>
+                <p>Reference page of 5e classes and their descriptions. You can tell this section got made first because it is the most stupidly designed.</p>
                 <h4><a href="/dnd-react/#/backgrounds/acolyte">Backgrounds</a></h4>
                 <p>View all official backgrounds in D&D 5e, including those from supplement material.</p>
                 <h4><a href="/dnd-react/#/races/aarakocra">Races</a></h4>
@@ -23,7 +23,9 @@ export default class Home extends Component {
               </Col>
               <Col sm={5}>
                 <h4><a href="/dnd-react/#/spells/abi-dalzims-horrid-wilting">Spells</a></h4>
-                <p>View all the spells available in D&D 5e. The list can be easily searched and filtered, and the entries can be shared through the generated URL.</p>
+                <p>Table and details for all spells available in D&D 5e. The list can be easily searched and filtered, and the entries can be shared through the generated URL.</p>
+                <h4><a href="/dnd-react/#/conditions/blinded">Conditions</a></h4>
+                <p>Quick-reference for all the conditions in D&D 5e.</p>
                 <h4><a href="/dnd-react/#/items/undef">Items</a></h4>
                 <p>View a 404 page, because this isn't done.</p>
                 <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
