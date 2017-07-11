@@ -6597,6 +6597,7 @@
          "name": "potion-of-greater-healing",
          "type": "P",
          "weight": "0.5",
+         "value": "55gp",
          "rarity": "Uncommon",
          "text": [
             "You regain 4d4 + 4 hit points when you drink this potion.  The potion's red liquid glimmers when agitated."
@@ -6623,6 +6624,7 @@
          "name": "potion-of-healing",
          "type": "P",
          "weight": "0.5",
+         "value": "25gp",
          "rarity": "Common",
          "text": [
             "You regain 2d4 + 2 hit points when you drink this potion.  The potion's red liquid glimmers when agitated."
@@ -6798,6 +6800,7 @@
          "name": "potion-of-superior-healing",
          "type": "P",
          "weight": "0.5",
+         "value": "110gp",
          "rarity": "Rare",
          "text": [
             "You regain 8d4 + 8 hit points when you drink this potion.  The potion's red liquid glimmers when agitated."
@@ -6811,6 +6814,7 @@
          "name": "potion-of-supreme-healing",
          "type": "P",
          "weight": "0.5",
+         "value": "140gp",
          "rarity": "Very Rare",
          "text": [
             "You regain 10d4 + 20 hit points when you drink this potion.  The potion's red liquid glimmers when agitated."

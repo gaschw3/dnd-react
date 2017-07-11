@@ -8,7 +8,7 @@ export default class NavbarComponent extends React.Component {
       <Navbar inverse collapseOnSelect fixedTop>
         <Navbar.Header>
           <Navbar.Brand>
-            <a href="/">EotCC 5e</a>
+            <a href="#/">EotCC 5e</a>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
