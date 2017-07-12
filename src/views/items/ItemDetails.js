@@ -52,6 +52,7 @@ export class ItemDetails extends React.Component {
   formatItem(item) {
     var type = item.type;
     if (type === "A") return this.formatBasic(item, "Ammunition")
+    if (type === "AA") return this.formatBasic(item, "Armor Affix")
     if (type === "AT") return this.formatBasic(item, "Artisan Tool")
     if (type === "G") return this.formatBasic(item, "Adventuring Gear")
     if (type === "EXP") return this.formatBasic(item, "Explosive")
@@ -69,6 +70,7 @@ export class ItemDetails extends React.Component {
     if (type === "VEH") return this.formatBasic(item, "Vehicle")
     if (type === "WD") return this.formatBasic(item, "Wand")
     if (type === "W") return this.formatBasic(item, "Wondrous Item")
+    if (type === "WA") return this.formatBasic(item, "Weapon Affix")
     if (type === "GUN") return "Firearm"
     if (type === "HA") return "Heavy Armor"
     if (type === "LA") return "Light Armor"

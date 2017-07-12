@@ -21,111 +21,13 @@
          ]
       },
       {
-         "title": "Adamantine Armor",
-         "name": "adamantine-armor",
-         "type": "MA",
-         "weight": "20",
-         "ac": "14",
+         "title": "Adamantine",
+         "name": "adamantine",
+         "type": "AA",
+         "weight": "+10",
          "rarity": "Uncommon",
          "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Chain Mail",
-         "name": "adamantine-chain-mail",
-         "type": "HA",
-         "weight": "55",
-         "ac": "16",
-         "strength": "13",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Chain Shirt",
-         "name": "adamantine-chain-shirt",
-         "type": "MA",
-         "weight": "20",
-         "ac": "13",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Half Plate Armor",
-         "name": "adamantine-half-plate-armor",
-         "type": "MA",
-         "weight": "40",
-         "ac": "15",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Plate Armor",
-         "name": "adamantine-plate-armor",
-         "type": "HA",
-         "weight": "65",
-         "ac": "18",
-         "strength": "15",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Ring Mail",
-         "name": "adamantine-ring-mail",
-         "type": "HA",
-         "weight": "40",
-         "ac": "14",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Scale Mail",
-         "name": "adamantine-scale-mail",
-         "type": "MA",
-         "weight": "45",
-         "ac": "14",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Spiked Armor",
-         "name": "adamantine-spiked-armor",
-         "type": "MA",
-         "weight": "45",
-         "ac": "14",
-         "stealth": "YES",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
-         ]
-      },
-      {
-         "title": "Adamantine Splint Armor",
-         "name": "adamantine-splint-armor",
-         "type": "HA",
-         "weight": "60",
-         "ac": "17",
-         "strength": "15",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+            "Adamantine is a magical metal and is one of the hardest substances in existence. It can be crafted into any kind of metal armor. Armor crafted from adamantine will turn critical hits into regular hits."
          ]
       },
       {
@@ -266,6 +168,17 @@
          "roll": [
             "1d20+8",
             "2d6"
+         ]
+      },
+      {
+         "title": "Arboreal",
+         "name": "arboreal",
+         "type": "AA",
+         "weight": "+5",
+         "rarity": "Uncommon",
+         "text": [
+            "Arboreal armor is the dappled green over overgrown forests and is decorated with vines, hooks, and bark for climbing and hiding. It's crafted by naturists, forest dwelling races, and jungle communities.",
+            "It grants climbing speed equal to your walking speed. In addition, while in a forest you have advantage on Dexterity (Stealth) checks."
          ]
       },
       {
@@ -2874,6 +2787,21 @@
          ]
       },
       {
+         "title": "Figurine of Wondrous Power, Chester",
+         "name": "figurine of wondrous-power-chester",
+         "type": "W",
+         "rarity": "Rare",
+         "text": [
+            "A figurine of wondrous power is a statuette small enough to fit in a pocket. If you use an action to speak the command word the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.",
+            "The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.",
+            "The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.",
+            "Chester",
+            "This wood and iron statuette is of a chest with legs and a lolling tongue. It can be activated and deactivated as often as necessary but Chester himself is cowardly and reluctant to fight for any reason except self-defense.",
+            "While active, Chester will happily give and receive items like a Bag of Holding except Chester will not allow himself to overfill and will resist being put into some other extradimensional space.",
+            "If Chester is reduced to 0HP, he immediately reverts back to a figurine and spills all his contained items out onto the ground. If destroyed in this way he can't be used again for 12 hours."
+         ]
+      },
+      {
          "title": "Figurine of Wondrous Power, Ebony Fly",
          "name": "figurine of wondrous-power,-ebony-fly",
          "type": "W",
@@ -3595,79 +3523,6 @@
          ]
       },
       {
-         "title": "Greatsword of Life Stealing",
-         "name": "greatsword-of-life-stealing",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Greatsword of Sharpness",
-         "name": "greatsword-of-sharpness",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.",
-            "When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead.",
-            "In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Greatsword of Vengeance",
-         "name": "greatsword-of-vengeance",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Uncommon",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "Curse: This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.",
-            "In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.",
-            "You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Greatsword of Wounding",
-         "name": "greatsword-of-wounding",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
-            "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ],
-         "roll": [
-            "1d4"
-         ]
-      },
-      {
          "title": "Green Dragon Mask",
          "name": "green-dragon-mask",
          "type": "W",
@@ -4018,87 +3873,17 @@
          ]
       },
       {
-         "title": "Holy Avenger Greatsword",
-         "name": "holy-avenger-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
+         "title": "Holy Avenger",
+         "name": "holy-avenger",
+         "type": "WA",
+         "weight": "+1",
+         "attunement": "yes",
          "rarity": "Legendary",
          "text": [
             "Requires Attunement by a Paladin",
+            "This is a holy relic created in ancient times for a famous Child of Roland. It is a weapon of good and is specially designed to destroy evil and protect allies.",
             "You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.",
-            "While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Holy Avenger Longsword",
-         "name": "holy-avenger-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Legendary",
-         "text": [
-            "Requires Attunement by a Paladin",
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.",
-            "While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Holy Avenger Rapier",
-         "name": "holy-avenger-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Legendary",
-         "text": [
-            "Requires Attunement by a Paladin",
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.",
-            "While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Holy Avenger Scimitar",
-         "name": "holy-avenger-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Legendary",
-         "text": [
-            "Requires Attunement by a Paladin",
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.",
-            "While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Holy Avenger Shortsword",
-         "name": "holy-avenger-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Legendary",
-         "text": [
-            "Requires Attunement by a Paladin",
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.",
-            "While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
+            "While you hold the drawn weapon, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet."
          ]
       },
       {
@@ -5006,76 +4791,54 @@
          ]
       },
       {
-         "title": "Longsword of Life Stealing",
-         "name": "longsword-of-life-stealing",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
+         "title": "Life Stealing",
+         "name": "life-stealing",
+         "type": "WA",
+         "weight": "+0",
          "rarity": "Rare",
          "attunement": "yes",
         "text": [
-            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
+            "This weapon has a groove running down the blade or haft that channels blood and returns vitality to the wielder",
+            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points."
          ]
       },
       {
-         "title": "Longsword of Sharpness",
-         "name": "longsword-of-sharpness",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
+         "title": "Sharp",
+         "name": "sharp",
+         "weight": "+0",
+         "type": "WA",
          "rarity": "Very Rare",
          "attunement": "yes",
         "text": [
+            "While most weapons are sharp, this one is honed to a suicidal edge.",
             "When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.",
-            "When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead.",
-            "In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
+            "When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead."
          ]
       },
       {
-         "title": "Longsword of Vengeance",
-         "name": "longsword-of-vengeance",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
+         "title": "Vengeance",
+         "name": "vengeance",
+         "type": "WA",
+         "weight": "+0",
          "rarity": "Uncommon",
          "attunement": "yes",
         "text": [
             "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "Curse: This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.",
-            "In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.",
-            "You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
+            "Curse: This weapon is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.",
+            "In addition, while the weapon is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.",
+            "You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties."
          ]
       },
       {
-         "title": "Longsword of Wounding",
-         "name": "longsword-of-wounding",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
+         "title": "Wounding",
+         "name": "wounding",
+         "type": "WA",
+         "weight": "+0",
          "rarity": "Rare",
          "attunement": "yes",
         "text": [
             "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
-            "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ],
-         "roll": [
-            "1d4"
+            "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success."
          ]
       },
       {
@@ -5389,156 +5152,14 @@
          ]
       },
       {
-         "title": "Mariner's Breastplate",
-         "name": "mariners-breastplate",
-         "type": "MA",
-         "weight": "20",
-         "ac": "14",
+         "title": "Mariner's",
+         "name": "mariners",
+         "type": "AA",
+         "weight": "-5",
          "rarity": "Uncommon",
          "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Chain Mail",
-         "name": "mariners-chain-mail",
-         "type": "HA",
-         "weight": "55",
-         "ac": "16",
-         "strength": "13",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Chain Shirt",
-         "name": "mariners-chain-shirt",
-         "type": "MA",
-         "weight": "20",
-         "ac": "13",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Half Plate Armor",
-         "name": "mariners-half-plate-armor",
-         "type": "MA",
-         "weight": "40",
-         "ac": "15",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Hide Armor",
-         "name": "mariners-hide-armor",
-         "type": "MA",
-         "weight": "12",
-         "ac": "12",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Leather Armor",
-         "name": "mariners-leather-armor",
-         "type": "LA",
-         "weight": "10",
-         "ac": "11",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Padded Armor",
-         "name": "mariners-padded-armor",
-         "type": "LA",
-         "weight": "8",
-         "ac": "11",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Plate Armor",
-         "name": "mariners-plate-armor",
-         "type": "HA",
-         "weight": "65",
-         "ac": "18",
-         "strength": "15",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Ring Mail",
-         "name": "mariners-ring-mail",
-         "type": "HA",
-         "weight": "40",
-         "ac": "14",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Scale Mail",
-         "name": "mariners-scale-mail",
-         "type": "MA",
-         "weight": "45",
-         "ac": "14",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Spiked Armor",
-         "name": "mariners-spiked-armor",
-         "type": "MA",
-         "weight": "45",
-         "ac": "14",
-         "stealth": "YES",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Splint Armor",
-         "name": "mariners-splint-armor",
-         "type": "HA",
-         "weight": "60",
-         "ac": "17",
-         "strength": "15",
-         "stealth": "YES",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
-         ]
-      },
-      {
-         "title": "Mariner's Studded Leather Armor",
-         "name": "mariners-studded-leather-armor",
-         "type": "LA",
-         "weight": "13",
-         "ac": "12",
-         "rarity": "Uncommon",
-         "text": [
-            "While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
+            "Mariner's armor is decorated with fish and shell motifs and is crafted by pirates, seafaring races, and maritime communities.",
+            "It grants swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface."
          ]
       },
       {
@@ -5649,101 +5270,13 @@
          ]
       },
       {
-         "title": "Mithral Breastplate",
-         "name": "mithral-breastplate",
-         "type": "MA",
-         "weight": "20",
-         "ac": "14",
+         "title": "Mithril",
+         "name": "mithril",
+         "type": "AA",
+         "weight": "-10",
          "rarity": "Uncommon",
          "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Chain Mail",
-         "name": "mithral-chain-mail",
-         "type": "HA",
-         "weight": "55",
-         "ac": "16",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Chain Shirt",
-         "name": "mithral-chain-shirt",
-         "type": "MA",
-         "weight": "20",
-         "ac": "13",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Half Plate Armor",
-         "name": "mithral-half-plate-armor",
-         "type": "MA",
-         "weight": "40",
-         "ac": "15",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Plate Armor",
-         "name": "mithral-plate-armor",
-         "type": "HA",
-         "weight": "65",
-         "ac": "18",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Ring Mail",
-         "name": "mithral-ring-mail",
-         "type": "HA",
-         "weight": "40",
-         "ac": "14",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Scale Mail",
-         "name": "mithral-scale-mail",
-         "type": "MA",
-         "weight": "45",
-         "ac": "14",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Spiked Armor",
-         "name": "mithral-spiked-armor",
-         "type": "MA",
-         "weight": "45",
-         "ac": "14",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
-         ]
-      },
-      {
-         "title": "Mithral Splint Armor",
-         "name": "mithral-splint-armor",
-         "type": "HA",
-         "weight": "60",
-         "ac": "17",
-         "rarity": "Uncommon",
-         "text": [
-            "Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't."
+            "Mithril a magical metal that somehow lighter and stronger than steel. It can be crafted into any kind of metal armor. Armor crafted that will no longers imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement."
          ]
       },
       {
@@ -7020,58 +6553,6 @@
          ]
       },
       {
-         "title": "Rapier of Life Stealing",
-         "name": "rapier-of-life-stealing",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Rapier of Vengeance",
-         "name": "rapier-of-vengeance",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Uncommon",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "Curse: This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.",
-            "In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.",
-            "You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Rapier of Wounding",
-         "name": "rapier-of-wounding",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
-            "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ],
-         "roll": [
-            "1d4"
-         ]
-      },
-      {
          "title": "Rations (1 day)",
          "name": "rations-(1-day)",
          "type": "G",
@@ -7896,40 +7377,6 @@
          ]
       },
       {
-         "title": "Scimitar of Life Stealing",
-         "name": "scimitar-of-life-stealing",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Scimitar of Sharpness",
-         "name": "scimitar-of-sharpness",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.",
-            "When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead.",
-            "In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
          "title": "Scimitar of Speed",
          "name": "scimitar-of-speed",
          "type": "M,MARW",
@@ -7943,45 +7390,6 @@
             "You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.",
             "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
             "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Scimitar of Vengeance",
-         "name": "scimitar-of-vengeance",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Uncommon",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "Curse: This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.",
-            "In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.",
-            "You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Scimitar of Wounding",
-         "name": "scimitar-of-wounding",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
-            "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ],
-         "roll": [
-            "1d4"
          ]
       },
       {
@@ -8202,61 +7610,6 @@
          "text": [
             "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
             "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Shortsword of Life Stealing",
-         "name": "shortsword-of-life-stealing",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Shortsword of Vengeance",
-         "name": "shortsword-of-vengeance",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Uncommon",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "Curse: This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.",
-            "In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.",
-            "You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Shortsword of Wounding",
-         "name": "shortsword-of-wounding",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.",
-            "Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ],
-         "roll": [
-            "1d4"
          ]
       },
       {
@@ -9483,6 +8836,17 @@
          "weight": "4",
          "text": [
             "Source: Player's Handbook, page 150"
+         ]
+      },
+      {
+         "title": "Trap Detection Chicken",
+         "name": "trp-detection-chicken",
+         "type": "G",
+         "value": "2gp",
+         "weight": "3",
+         "text": [
+            "1 use",
+            "This chicken will activate any trap that it lands directly in or upon."
          ]
       },
       {
@@ -12104,6 +11468,137 @@
             "Sentience. Waythe is a sentient weapon of neutral good alignment, with an Intelligence of 12, a Wisdom of 2, and a Charisma of 14. It has hearing and darkvision out to a range of 120 feet.",
             "The weapon can speak and understand Giant and Common, and it can communicate telepathically with its wielder.",
             "Personality. This sword believes in freedom and allowing others to live as they see fit. It is protective of its friends, and wants to be friends with a like-minded wielder. (It takes only 1 minute for a good-aligned character to gain attunement with the sword.) Waythe is courageous to the point of foolhardiness, however, and vocally urges bold action. It is likely to come into conflict with an evil or a timid wielder."
+         ]
+      },
+      {
+         "title": "Marquis'",
+         "name": "marquis",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This was a magical weapon created for a noble person. It's is more elegant and beautiful than an everage weapon.",
+            "Once per day, when a Marquis' weapon critically hits you may cast Command on its target with the command word ‘grovel’, DC12"
+         ]
+      },
+      {
+         "title": "Shadow",
+         "name": "shadow",
+         "type": "WA",
+         "weight": "+0",
+         "rarity": "Uncommon",
+         "text": [
+            "This is a magical weapon created forged in, and with, darkness. Its colors are muted and it becomes harder to track when in areas with no light.",
+            "While in darkness, treat this as a +1 weapon."
+         ]
+      },
+      {
+         "title": "Mage Slayer",
+         "name": "mage-slayer",
+         "type": "WA",
+         "weight": "+0",
+         "rarity": "Uncommon",
+         "text": [
+            "This is a magical weapon created by an order dedicated to hunting down and killing wayward magic users.",
+            "This weapon ignores AC bonuses from spells like Shield and Mage Armor."
+         ]
+      },
+      {
+         "title": "Barbed",
+         "name": "barbed",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon is covered in tilted and demented looking bards that cause more damage but also make it harder to weild.",
+            "On a successful hit the user may choose to do an additional 1d4 peircing damage if they take the same amount themselves."
+         ]
+      },
+      {
+         "title": "Consecrated",
+         "name": "consecrated",
+         "type": "WA",
+         "weight": "+0",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon was created for or blessed by a holy crusader to destroy the undead. It constantly puts off a dim light.",
+            "A Consecrated weapons acts as a +1 weapons against undead and creatues killed by this weapon cannot be raised as undead."
+         ]
+      },
+      {
+         "title": "Billowing",
+         "name": "billowing",
+         "type": "WA",
+         "weight": "-1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon is decorated with sigils of lightning and storms and feels charged with electricity.",
+            "Stores a charge on a successful attack and can hold up to 8 charges. On a hit the bearer can expend all charges to deal that much lightning damage to the target"
+         ]
+      },
+      {
+         "title": "Desperate",
+         "name": "desperate",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This otherwise normal weapon features a lustrous pearl built into the hilt or handle.",
+            "The bearer may use an action to release a level 2 Cure Wounds on all creatures within 5 feet. Afterwards the weapon is destroyed and loses all magical properties."
+         ]
+      },
+      {
+         "title": "Ghost-touched",
+         "name": "ghost-touched",
+         "type": "WA",
+         "weight": "-2",
+         "rarity": "Uncommon",
+         "text": [
+            "This odd ethereal blade feels lighter than it should and wavers perceptibly when it is used.",
+            "Can attack targets in the Ethereal Plane and cast as a +1 weapon if it is weilded by a missing limb."
+         ]
+      },
+      {
+         "title": "Quicksilver",
+         "name": "quicksilver",
+         "type": "WA",
+         "weight": "-1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon appears to be constantly flowing underneath a bright silver outer shell.",
+            "The bearer may use a bonus action to reflow the weapon into any other simple or martial melee weapon. It always counts as slivered."
+         ]
+      },
+      {
+         "title": "Red Queen's",
+         "name": "red-queens",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon was created for the court of an insane queen in a far off land and is decorated with depictions of diamonds, hearts, and roses.",
+            "A ruby worth 30gp is in a rose shaped setting on the weapon. If the ruby is removed a new one grows during the next full moon."
+         ]
+      },
+      {
+         "title": "Sojourner's",
+         "name": "sojourners",
+         "type": "WA",
+         "weight": "+0",
+         "rarity": "Uncommon",
+         "text": [
+            "A poem, story, or map that describes a long-forgotten treasure that will make this weapon more powerful is etched on the surface of the weapon."
+         ]
+      },
+      {
+         "title": "Waterbourne",
+         "name": "waterbourne",
+         "type": "WA",
+         "weight": "-1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon is elegant and decorated with a sea, lake, or wind motif.",
+            "The weapon floats on water and grants the bearer advantage on checks to do with Swimming or Sailing"
          ]
       }
    ]
