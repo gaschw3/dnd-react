@@ -36,8 +36,15 @@
       "title": "Grappled",
       "text": [
         "A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.",
+        "A grappled creature can use its action to escape with a successful Strength (Athletics) or Dexterity (Acrobatics) check contested by the grapplers Strength (Athletics).",
         "The condition ends if the grappler is incapacitated (see the condition).",
-        "The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunder-wave spell."
+        "The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunder-wave spell.",
+        "<h4>Bonus rules for Grappling</h4>",
+        "A grapple can be performed as a \"special melee attack\", and if a character has multiple attack actions they may replace as many as they want with grapple attempts. Bonus action attacks cannot be replaced with grapple attempts. A grapple attempt is a contested Ability Check, not an Attack Roll.",
+        "The creature holding a grappled target can freely move the grappled creature at half normal speed.",
+        "A creature holding a grappled target can use it's free hand to make a melee attack or cast a spell.",
+        "If the creature holding a grappled target doesn't have a free hand it can still make an unarmed attack.",
+        "The creature holding a grappled targer can use the \"shove\" special melee action to push the grappled creature 5ft away or to push the grappled creature prone with another contested Strength (Athletics) check. An opponent shoved prone is still grappled."
       ]
     },
     {

@@ -471,7 +471,7 @@
          }
       },
       {
-         "title": "Grappler",
+         "title": "Grappler (+HB)",
          "name": "grappler",
          "source": "Player's Handbook",
          "prerequisite": "Strength 13 or higher",
@@ -479,19 +479,20 @@
             "description": "You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:",
             "benefits": [
                "You have advantage on attack rolls against a creature you are grappling.",
-               "You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends."
+               "(HB) Your Shove action becomes a 'Throw'. You can dump your enemy prone within 5ft of yourself and deal 1d4+STR bludgeoning damage. After being thrown the creature is still Grappled.",
+               "You can use a bonus action (original: an action) to try and pin a prone creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends."
             ]
          }
       },
       {
-         "title": "Great Weapon Master",
+         "title": "Great Weapon Master (+HB)",
          "name": "great-weapon-master",
          "source": "Player's Handbook",
          "text": {
             "description": "You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:",
             "benefits": [
                "On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.",
-               "Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage."
+               "Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a penalty to the attack roll equal to your proficiency bonus (original: -5). If the attack hits, you add double your proficiency bonus (original: +10) to the attack's damage."
             ]
          }
       },
@@ -762,15 +763,16 @@
          }
       },
       {
-         "title": "Sharpshooter",
+         "title": "Sharpshooter (+HB)",
          "name": "sharpshooter",
          "source": "Player's Handbook",
          "text": {
             "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:",
             "benefits": [
-               "Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.",
+               "(HB) The normal range for ranged weapons is tripled for weapons with which you are proficient",
                "Your ranged weapon attacks ignore half cover and three-quarters cover.",
-               "Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage."
+               "Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a penalty on the attack roll equal to your proficiency bonus (original: -5). If the attack hits, you add double your proficiency bonus (original: +10) to the attack's damage.",
+               "(removed original: attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.)"
             ]
          }
       },

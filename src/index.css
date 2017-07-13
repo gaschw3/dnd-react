@@ -98,7 +98,8 @@ ul {
   font-size:.8em;
 }
 .table-bard>tbody>tr>th,
-.table-cleric>tbody>tr>th {
+.table-cleric>tbody>tr>th,
+.table-druid>tbody>tr>th {
     padding: 2px;
 }
 td.center, th.center {
