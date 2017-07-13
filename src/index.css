@@ -139,9 +139,20 @@ td.center, th.center {
   margin-bottom: 5px;
   border-bottom: 1px solid #000;
 }
+.feature h5 {
+  padding-bottom: 2px;
+  margin-bottom: 2px;
+  color: #0000a7;
+}
+.pad-left {
+  padding-left: 5px;
+}
 .subclass h4 {
-  color: darkblue;
-  border-bottom: 1px solid darkblue;
+  color: #0000a7;
+  border-bottom: 1px solid #0000a7;
+}
+.subclass h5 {
+  color: #0000a7;
 }
 
 .list-group-item.selected,
@@ -163,7 +174,7 @@ td.center, th.center {
 }
 .background-title {
   margin-top:0px;
-  border-bottom: 2px solid darkblue;
+  border-bottom: 2px solid #0000a7;
 }
 .background-features {
   background: #eee;
@@ -181,7 +192,7 @@ td.center, th.center {
 }
 .feat-title {
   margin-top:0px;
-  border-bottom: 2px solid darkblue;
+  border-bottom: 2px solid #0000a7;
 }
 .feat-features {
   background: #eee;
@@ -202,7 +213,7 @@ td.center, th.center {
 }
 .race-title {
   margin-top:0px;
-  border-bottom: 2px solid darkblue;
+  border-bottom: 2px solid #0000a7;
 }
 .race-features {
   background: #eee;
@@ -228,7 +239,7 @@ td.center, th.center {
 }
 .spell-title {
   margin-top:0px;
-  border-bottom: 2px solid darkblue;
+  border-bottom: 2px solid #0000a7;
 }
 .spell-title h1,h2,h3,h4 {
   margin-top:0;
@@ -259,7 +270,7 @@ td.center, th.center {
 }
 .item-title {
   margin-top:0px;
-  border-bottom: 2px solid darkblue;
+  border-bottom: 2px solid #0000a7;
 }
 .item-title h1,h2,h3,h4 {
   margin-top:0;
