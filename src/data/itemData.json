@@ -758,7 +758,7 @@
          ]
       },
       {
-         "title": "Blackrazor",
+         "title": "Blackrazor (Greatsword)",
          "name": "blackrazor",
          "type": "M,MARW",
          "weight": "6",
@@ -2779,22 +2779,24 @@
          ]
       },
       {
-         "title": "Flametongue Longsword",
-         "name": "flametongue-longsword",
+         "title": "Flametongue (Longsword)",
+         "name": "flametongue",
          "type": "M,MARW",
-         "weight": "3",
+         "weight": "4",
          "dmg1": "1d8",
          "dmg2": "1d10",
          "dmgType": "S",
          "property": "V",
-         "rarity": "Rare",
+         "rarity": "Artifact",
          "attunement": "yes",
-        "text": [
-            "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ],
-         "roll": [
-            "2d6"
+         "text": [
+            "This perpetually burning sword is the Ur-example for all other flame weapons, there are many rumors about its creation and most alive today doubt of it's existance.",
+            "Flames constantly sheate the blade of this longsword but they will not burn anything against the weilder's wishes. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet.",
+            "Magic Weapon: Flametongue is a magic weapon that grants a +3 bonus to attack and damage rolls. It also deals an extra 2d6 fire damage to any target it hits. While attuned to the weapon you have immunity to fire damage and extreme heat.",
+            "Conjure Fire: If you are holding the sword, you can use your action to sweep the blade before youself and cast the spell Wall of Fire. You can't use this property again until the next dawn.",
+            "Lava Flow: You can use an action to touch the sword to an outflow of lava and cast the spell teleport from the sword as long as your intended destination is another exposed lava flow. You can't use this property again until Flametongue has spent a full day submerged in lava.",
+            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.",
+            "Destruction: Flametongue can only be destroyed when it's eternal flame is extinguished."
          ]
       },
       {
@@ -3128,6 +3130,7 @@
          "rarity": "Legendary",
          "dmgType": "S",
          "property": "H,2H",
+         "attunement": "yes",
          "text": [
             "This item requires attunement",
             "In the Year of the Icy Axe (123 DR), the frost giant lord Gurt fell to Uthgar Gardolfsson—leader of the folk who would become the Uthgardt barbarians—in a battle that marked the ascendance of humankind over the giants in the Dessarin Valley. Gurt’s greataxe was buried in Morgur’s Mound until it was unearthed and brought back to Waterdeep. After laying in the city’s vaults for decades, the axe was given to Harshnag, a frost giant adventurer, in recognition of his service to Waterdeep. Uthgardt barbarians recognize the weapon on sight and attack any giant that wields it.",
@@ -4404,7 +4407,7 @@
          ]
       },
       {
-         "title": "Luck Blade",
+         "title": "Luck Blade (Shortsword)",
          "name": "luck-blade",
          "type": "M,MARW",
          "weight": "2",
@@ -4779,7 +4782,7 @@
          ]
       },
       {
-         "title": "Moonblade",
+         "title": "Moonblade (Longsword)",
          "name": "moonblade",
          "type": "M,MARW",
          "weight": "3",
@@ -9002,7 +9005,7 @@
          ]
       },
       {
-         "title": "Wave",
+         "title": "Wave (Trident)",
          "name": "wave",
          "type": "M,MARW",
          "weight": "4",
@@ -9061,7 +9064,7 @@
          ]
       },
       {
-         "title": "Whelm",
+         "title": "Whelm (Warhammer)",
          "name": "whelm",
          "type": "M,MARW",
          "weight": "2",
@@ -10087,7 +10090,7 @@
          ]
       },
       {
-         "title": "Shatterspike",
+         "title": "Shatterspike (Longsword)",
          "name": "shatterspike",
          "type": "M,MARW",
          "weight": "3",
@@ -10103,7 +10106,7 @@
          ]
       },
       {
-         "title": "Spear of Backbiting",
+         "title": "Spear of Backbiting (Spear)",
          "name": "spear-of-backbiting",
          "type": "M,SIMW",
          "dmg1": "2d6",
@@ -10122,7 +10125,7 @@
          ]
       },
       {
-         "title": "Javelin of Backbiting",
+         "title": "Javelin of Backbiting (Javelin)",
          "name": "javelin-of-backbiting",
          "type": "M,SIMW",
          "dmg1": "2d6",
@@ -10166,7 +10169,7 @@
          ]
       },
       {
-         "title": "Waythe",
+         "title": "Waythe (Greatsword)",
          "name": "waythe",
          "type": "M,MARW",
          "weight": "6",
@@ -10186,6 +10189,22 @@
          ]
       },
       {
+         "title": "Snick (Rapier)",
+         "name": "snick",
+         "type": "M,MARW",
+         "weight": "3",
+         "dmg1": "1d8",
+         "dmgType": "P",
+         "property": "F",
+         "rarity": "Very Rare",
+         "text": [
+            "Weapon (rapier), very rare (requires attunement)",
+            "Snick is a unique rapier constructed by an assassin guilds Tinker. When not in use it appear to be a black leather cylinder, perhaps an oddly shaped case or pet toy. When a button on the cylinder is pressed by an attuned person a deadly sharp rapier telescopes out of the end.",
+            "When extended, Snick acts as a +1 rapier. Additionally, if a target is in melee range when you draw your weapon for the first time in each combat, you may choose to use your bonus action to make a melee attack at advantage.",
+            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
+         ]
+      },
+      {
          "title": "Hot Streak",
          "name": "hot-streak",
          "type": "W",
@@ -10196,6 +10215,19 @@
             "The monks of the Relentless Dragon practice a martial arts style that emphasizes unstoppable offense as the superior method of fighting. These hand wraps are worn by their finest warriors, manifesting their fiery ki to annihilate their enemies before there can be any retaliation.",
             "While wearing these handwraps, you gain a +1 bonus to damage rolls you make with unarmed strikes. Such attacks are considered magical.",
             "Each time you hit a hostile creature with an unarmed strike, you gain 1 flame charge. When you have 4 flame charges, your attacks deal an extra 1d4 fire damage. You can expend 12 charges to cast burning hands as a bonus action. You lose all charges when you take damage or if your turn ends without attacking a hostile creature."
+         ]
+      },
+      {
+         "title": "Sleeve of Daggers",
+         "name": "sleeve-of-daggers",
+         "type": "W",
+         "weight": "3",
+         "rarity": "Very Rare",
+         "attunement": "yes",
+         "text": [
+            "This item is a small band of navy fabric embroidered with gold inlay. It can be worn under a shirt or light armour (heavier armor will get in the way). It contains a tiny extradimensional space that can store three daggers, but nothing else. It will not be identified without a detect magic spell.",
+            "The user can draw a dagger from the sleeve merely by thinking about it, and can choose freely between the three daggers stored in the sleeve.",
+            "The sleeve will only exhibit its magical effects if the wearer is wearing light or no armour."
          ]
       },
       {
@@ -10356,7 +10388,7 @@
          ]
       },
       {
-         "title": "'o' Nine Tails",
+         "title": "o' Nine Tails",
          "name": "o-nine-tails",
          "type": "WA",
          "weight": "+0",
