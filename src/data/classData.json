@@ -96,28 +96,28 @@
         {
           "level": 1,
           "subclass": "base",
-          "name": "unarmoreddefense",
+          "name": "unarmored-defense",
           "title": "Unarmored Defense",
           "text": "While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit."
         },
         {
           "level": 2,
           "subclass": "base",
-          "name": "dangersense",
+          "name": "danger-sense",
           "title": "Danger Sense",
           "text": "At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated."
         },
         {
           "level": 2,
           "subclass": "base",
-          "name": "recklessattack",
+          "name": "reckless-attack",
           "title": "Reckless Attack",
           "text": "Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn."
         },
         {
           "level": 3,
           "subclass": "base",
-          "name": "primalpath",
+          "name": "primal-path",
           "title": "Primal Path",
           "text": "At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels."
         },
@@ -205,14 +205,14 @@
         {
           "level": 5,
           "subclass": "base",
-          "name": "extraattack",
+          "name": "extra-attack",
           "title": "Extra Attack",
           "text": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
         },
         {
           "level": 5,
           "subclass": "base",
-          "name": "fastmovement",
+          "name": "fast-movement",
           "title": "Fast Movement",
           "text": "Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor."
         },
@@ -254,7 +254,7 @@
         {
           "level": 7,
           "subclass": "base",
-          "name": "feralinstinct",
+          "name": "feral-instinct",
           "title": "Feral Instinct",
           "text": "You have advantage on initiative rolls. Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
         },
@@ -268,7 +268,7 @@
         {
           "level": 9,
           "subclass": "base",
-          "name": "brutalcritical-1",
+          "name": "brutal-critical-1",
           "title": "Brutal Critical (1)",
           "text": "<p>Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.</p><p>This increases to two additional dice at 13th level and three additional dice at 17th level.</p>"
         },
@@ -310,7 +310,7 @@
         {
           "level": 11,
           "subclass": "base",
-          "name": "relentlessrage",
+          "name": "relentless-rage",
           "title": "Relentless Rage",
           "text": "<p>Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.</p><p>Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.</p>"
         },
@@ -324,7 +324,7 @@
         {
           "level": 13,
           "subclass": "base",
-          "name": "brutalcritical-2",
+          "name": "brutal-critical-2",
           "title": "Brutal Critical (2)",
           "text": "At 13th level you roll two additional weapon damage dice when determining the extra damage for a critical hit with a melee attack."
         },
@@ -332,7 +332,7 @@
           "level": 14,
           "subclass": "base",
           "name": "pp-feature-4",
-          "title": "4rd Path Feature",
+          "title": "4th Path Feature",
           "text": "At 14th level, you gain a feature from your Primal Path."
         },
         {
@@ -366,7 +366,7 @@
         {
           "level": 15,
           "subclass": "base",
-          "name": "persistentrage",
+          "name": "persistent-rage",
           "title": "Persistent Rage",
           "text": "Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it."
         },
@@ -380,14 +380,14 @@
         {
           "level": 17,
           "subclass": "base",
-          "name": "brutalcritical-3",
+          "name": "brutal-critical-3",
           "title": "Brutal Critical (3)",
           "text": "At 17th level you roll three additional weapon damage dice when determining the extra damage for a critical hit with a melee attack."
         },
         {
           "level": 18,
           "subclass": "base",
-          "name": "indomitablemight",
+          "name": "indomitable-might",
           "title": "Indomitable Might",
           "text": "Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total."
         },
@@ -401,7 +401,7 @@
         {
           "level": 20,
           "subclass": "base",
-          "name": "primalchampion",
+          "name": "primal-champion",
           "title": "Primal Champion",
           "text": "At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24."
         }
@@ -510,14 +510,14 @@
         {
           "level": 2,
           "subclass": "base",
-          "name": "jackoftradees",
+          "name": "jack-of-all-tradees",
           "title": "Jack of All Trades",
           "text": "Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus."
         },
         {
           "level": 2,
           "subclass": "base",
-          "name": "songofrest-1",
+          "name": "song-of-rest-1",
           "title": "Song of Rest (d6)",
           "text": "Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points."
         },
@@ -573,7 +573,7 @@
           "subclass": "spheres",
           "name": "spheres",
           "title": "Bard College: College of Spheres (HB)",
-          "text": "Bards of the College of Spheres are the scant few mad enough to reach for inspiration and discover that art isn't universal - it transcends universes and speaks to minds beyond mortal ken. They create works blashphemous, alien, and heretical while the abyss beyond offers its strange applause."
+          "text": "Bards of the College of Spheres are the scant few mad enough to reach for inspiration and discover that art isn't universal - it transcends universes and speaks to minds beyond mortal ken. They create works blasphemous, alien, and heretical while the abyss beyond offers its strange applause."
         },
         {
           "level": 3,
@@ -662,7 +662,7 @@
         {
           "level": 5,
           "subclass": "base",
-          "name": "fontofinspiration",
+          "name": "font-of-inspiration",
           "title": "Font of Inspiration",
           "text": "Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest."
         },
@@ -713,7 +713,7 @@
           "subclass": "spheres",
           "name": "spheres-requiem",
           "title": "College of Spheres: Sanity's Requiem",
-          "text": "<p>Beginning at 6th level, and creature that inflicts psychic damage or tries to read your thoughts or control your actions finds their mind recoiling from the strange patterns of your own. They must make a save against your bard spell save DC or immediatelly roll on the short term madness table.<p><p>In addition, when you deal psychic damage to another creature you add your CHA modifier to the damage dealt and you add the spell Phantasmal Force to your list of known Bard spells.</p>"
+          "text": "<p>Beginning at 6th level, and creature that inflicts psychic damage or tries to read your thoughts or control your actions finds their mind recoiling from the strange patterns of your own. They must make a save against your bard spell save DC or immediately roll on the short term madness table.<p><p>In addition, when you deal psychic damage to another creature you add your CHA modifier to the damage dealt and you add the spell Phantasmal Force to your list of known Bard spells.</p>"
         },
         {
           "level": 8,
@@ -725,7 +725,7 @@
         {
           "level": 9,
           "subclass": "base",
-          "name": "songofrest-2",
+          "name": "song-of-rest-2",
           "title": "Song of Rest (d8)",
           "text": "At 9th level, the extra hit points gained from Song of Rest increases to 1d8."
         },
@@ -760,7 +760,7 @@
         {
           "level": 13,
           "subclass": "base",
-          "name": "songofrest-3",
+          "name": "song-of-rest-3",
           "title": "Song of Rest (d10)",
           "text": "At 13th level, the extra hit points gained from Song of Rest increases to 1d10."
         },
@@ -775,7 +775,7 @@
           "level": 14,
           "subclass": "base",
           "name": "college-feature-2",
-          "title": "3nd College Feature",
+          "title": "3rd College Feature",
           "text": "At 14th level, you gain a feature from your Bard College."
         },
         {
@@ -811,7 +811,7 @@
           "subclass": "spheres",
           "name": "spheres-aesthetic",
           "title": "College of Spheres: Incomprehensible Aesthetic",
-          "text": "<p>At 14th level, your soul warps past the point of mortal understanding. The artist becomes the subject and you are considered a humanoid aberration.</p><p>You may use your raction to offer a true glimpse of your hidden self to a creature that targets you with an spell or weapon attack. They must immediately make a Wisdom save as if they had tried to read your thoughts. Creatures who were unaware of your true nature are also frightened until the end of their next turn.</p><p>Fellow aberrations are charmed rather than frightened and you may allow them to automatically pass the Wisdom save.<p><p>You can use this feature up to 3 times per day and regain all expended uses on a long rest</p>"
+          "text": "<p>At 14th level, your soul warps past the point of mortal understanding. The artist becomes the subject and you are considered a humanoid aberration.</p><p>You may use your reaction to offer a true glimpse of your hidden self to a creature that targets you with an spell or weapon attack. They must immediately make a Wisdom save as if they had tried to read your thoughts. Creatures who were unaware of your true nature are also frightened until the end of their next turn.</p><p>Fellow aberrations are charmed rather than frightened and you may allow them to automatically pass the Wisdom save.<p><p>You can use this feature up to 3 times per day and regain all expended uses on a long rest</p>"
         },
         {
           "level": 15,
@@ -830,7 +830,7 @@
         {
           "level": 17,
           "subclass": "base",
-          "name": "songofrest-4",
+          "name": "song-of-rest-4",
           "title": "Song of Rest (d12)",
           "text": "At 17th level, the extra hit points gained from Song of Rest increases to 1d12."
         },
@@ -1034,7 +1034,7 @@
           "subclass": "forge",
           "name": "forge",
           "title": "Domain: Forge (UA)",
-          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
+          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
         },
         {
           "level": 1,
@@ -1308,7 +1308,7 @@
           "subclass": "base",
           "name": "domain-2",
           "title": "Divine Domain Feature",
-          "text": "At 6nd level, you gain a feature from your Divine Domain."
+          "text": "At 6th level, you gain a feature from your Divine Domain."
         },
         {
           "level": 6,
@@ -1455,7 +1455,7 @@
           "subclass": "base",
           "name": "domain-3",
           "title": "Divine Domain Feature",
-          "text": "At 17nd level, you gain a feature from your Divine Domain."
+          "text": "At 17th level, you gain a feature from your Divine Domain."
         },
                 {
           "level": 17,
@@ -1750,7 +1750,7 @@
           "subclass": "shepherd",
           "name": "shepherd-bond",
           "title": "Circle of the Shepherd: Spirit Bond",
-          "text": "<p>Starting at 2nd level, you gain the ability to call forth animal spirits and use them to influence the world around you. As a bonus action, you magically summon a Medium spirit to an unoccupied space you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around itIt counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents.</p><p>The spirit persists for 1 minute. As a bonus action, you can move the spirit up to 60 feet to a point you can see.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest</p><p>The nature of the spirit's aura depends on the type of spirit you choose to summon:</p><ul><li><strong>Bear:</strong> The bear spirit grants you and your allies its might and endurance. You and your allies who are in the aura when the spirit appears each gain temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.</li><li><strong>Hawk:</strong> The hawk spirit is a consummate hunter, marking your enemies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll.</li><li><strong>Unicorn:</strong> The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell with a spell slot that restores hit points to anyone inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.</li></ul>"
+          "text": "<p>Starting at 2nd level, you gain the ability to call forth animal spirits and use them to influence the world around you. As a bonus action, you magically summon a Medium spirit to an unoccupied space you can see within 60 feet of you. The spirit creates an aura in a 30-foot radius around it. It counts as neither a creature nor an object, though it has the spectral appearance of the creature it represents.</p><p>The spirit persists for 1 minute. As a bonus action, you can move the spirit up to 60 feet to a point you can see.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest</p><p>The nature of the spirit's aura depends on the type of spirit you choose to summon:</p><ul><li><strong>Bear:</strong> The bear spirit grants you and your allies its might and endurance. You and your allies who are in the aura when the spirit appears each gain temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.</li><li><strong>Hawk:</strong> The hawk spirit is a consummate hunter, marking your enemies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll.</li><li><strong>Unicorn:</strong> The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell with a spell slot that restores hit points to anyone inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.</li></ul>"
         },
         {
           "level": 2,
@@ -1803,9 +1803,9 @@
         },
         {
           "level": 6,
-          "subclass": "shepard",
-          "name": "shepard-summoner",
-          "title": "Circle of the Shephard: Mighty Summoner",
+          "subclass": "shepherd",
+          "name": "shepherd-summoner",
+          "title": "Circle of the Shepherd: Mighty Summoner",
           "text": "<p>At 6th level, you gain the ability to conjure forth powerful beasts and fey. Any beast or fey summoned or created by your spells gains two benefits:</p><ul><li>The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.</li<li>The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.</li></ul>"
         },
         {
@@ -1852,8 +1852,8 @@
         },
         {
           "level": 10,
-          "subclass": "shepard",
-          "name": "shepard-guardian",
+          "subclass": "shepherd",
+          "name": "shepherd-guardian",
           "title": "Circle of the Shephard: Guardian Spirit",
           "text": "At 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level."
         },     
@@ -1894,8 +1894,8 @@
         },
         {
           "level": 14,
-          "subclass": "shepard",
-          "name": "shepard-faithful",
+          "subclass": "shepherd",
+          "name": "shepherd-faithful",
           "title": "Circle of the Shephard: Faithful Summons",
           "text": "<p>Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of conjure animals as if it were cast with a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no concentration, or until you dismiss it (no action required).</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
         },     
@@ -2352,7 +2352,7 @@
           "subclass": "battlemaster",
           "name": "battlemaster-relentless",
           "title": "Battle Master: Relentless",
-          "text": "tarting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die."
+          "text": "Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die."
         },
         {
           "level": 15,
@@ -2450,7 +2450,7 @@
           "subclass": "arcane",
           "name": "arcane-arcane-shot-4",
           "title": "Arcane Archer: Extra Arcane Shot and Improved Shot",
-          "text": "At 18th level, you learn an additional Arcane Shot option and all known acrane shots do an additional 2d6 damage per the Arcane Shot options list."
+          "text": "At 18th level, you learn an additional Arcane Shot option and all known arcane shots do an additional 2d6 damage per the Arcane Shot options list."
         }, 
         {
           "level": 19,
@@ -2638,7 +2638,7 @@
           "subclass": "elements",
           "name": "elements-disciplines",
           "title": "Way of Four Elements: 3rd Level Disciplines",
-          "text": "<p>Starting at 3rd level, you can learn the following disciplines:</p><div class='row'><div class='col-sm-6'><h5>Effortless Step</h5><p class='pad-left'>The air around you works in unison with your movements, rising you up as you jump. Your jump height and distance are doubled (quadrupled with Step of the Wind) and you gain advantage on Strength (Athletics) checks related to jumping. </p><h5>Enduring Mountain Stance</h5><p class='pad-left'>Your body and mind becomes as rigid and unyielding as the ground below you. Your ki roots your feet into the ground and you become immovable. When you use the Dodge action, you cannot be moved, pushed, grappled, frightened, or knocked prone against your will until the start of your next turn, even if magically compelled to do so. You must be standing on the ground to use this ability.</p> <h5>Fangs of the Fire Snake</h5><p class='pad-left'>Your arms and legs become enveloped in roaring gouts of flame. When you make an unarmed attack on your turn, you can choose to strike out tendrils of flames which stretch out beyond your normal reach. Your reach increases by 5 feet for that attack, and it deals fire damage instead of bludgeoning damage. If the attack hits you can spend 1 ki point to deal an extra 1d10 fire damage.</p> <h5>Fang of the Frost Wolf</h5><p class='pad-left'>You summon a shard of razor-sharp ice and fling it at your foe. You can spend 1 ki point to cast ice knife.</p> <h5>Fist of Four Thunders</h5><p class='pad-left'>You slam your fists together in front of you, causing a thunderous boom that blows away everything around you. You can spend 1 ki point to cast thunderwave. </p><h5>Golden Snake’s Icy Path</h5><p class='pad-left'>Whenever you take the Dash action, until the end of your turn for any movement you make along a surface you can leave a trail of slippery ice. This ice counts as difficult terrain and lasts until the start of your next turn.</p></div><div class='col-sm-6'><h5>Fist of Unbroken Air</h5><p class='pad-left'>You summon a swirling wind and concentrate it around your fist. When you make an unarmed attack on your turn, you can choose to strike out condensed bursts of air which stretch out beyond your normal reach. Your reach increases by 10 feet for that attack. If the attack hits you can spend 1 ki point to force the target to make a Strength saving throw or be pushed back 10 feet and be knocked prone. </p><h5>Rumbling Badger</h5><p class='pad-left'>You shake the ground, causing a tremor that knocks over your foes. You can spend 1 ki point to cast earth tremor. </p> <h5>Rush of the Gale Spirits</h5><p class='pad-left'>You send a blast of air outward with a thrust of your open palm. You can spend 2 ki points to cast gust of wind.</p><h5>Shape the Raincloud</h5><p class='pad-left'>You can spend 1 ki point to cast create or destroy water.</p><h5>Sweeping Cinder Strike</h5><p class='pad-left'>With a wide sweeping gesture, you summon forth a barrage of hot cinders. You can spend 1 ki point to cast burning hands.</p><h5>Water Whip</h5><p class='pad-left'>You summon a long, rubbery whip of pure water that you grip by one end. You can spend 1 ki point as a bonus action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes bludgeoning damage equal to your Martial Arts die + WIS, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don’t pull it or knock it prone. You can’t use Water Whip and cas a spell during the same turn.</p></div></div>"
+          "text": "<p>Starting at 3rd level, you can learn the following disciplines:</p><div class='row'><div class='col-sm-6'><h5>Effortless Step</h5><p class='pad-left'>The air around you works in unison with your movements, rising you up as you jump. Your jump height and distance are doubled (quadrupled with Step of the Wind) and you gain advantage on Strength (Athletics) checks related to jumping. </p><h5>Enduring Mountain Stance</h5><p class='pad-left'>Your body and mind becomes as rigid and unyielding as the ground below you. Your ki roots your feet into the ground and you become immovable. When you use the Dodge action, you cannot be moved, pushed, grappled, frightened, or knocked prone against your will until the start of your next turn, even if magically compelled to do so. You must be standing on the ground to use this ability.</p> <h5>Fangs of the Fire Snake</h5><p class='pad-left'>Your arms and legs become enveloped in roaring gouts of flame. When you make an unarmed attack on your turn, you can choose to strike out tendrils of flames which stretch out beyond your normal reach. Your reach increases by 5 feet for that attack, and it deals fire damage instead of bludgeoning damage. If the attack hits you can spend 1 ki point to deal an extra 1d10 fire damage.</p> <h5>Fang of the Frost Wolf</h5><p class='pad-left'>You summon a shard of razor-sharp ice and fling it at your foe. You can spend 1 ki point to cast ice knife.</p> <h5>Fist of Four Thunders</h5><p class='pad-left'>You slam your fists together in front of you, causing a thunderous boom that blows away everything around you. You can spend 1 ki point to cast thunderwave. </p><h5>Golden Snake’s Icy Path</h5><p class='pad-left'>Whenever you take the Dash action, until the end of your turn for any movement you make along a surface you can leave a trail of slippery ice. This ice counts as difficult terrain and lasts until the start of your next turn.</p></div><div class='col-sm-6'><h5>Fist of Unbroken Air</h5><p class='pad-left'>You summon a swirling wind and concentrate it around your fist. When you make an unarmed attack on your turn, you can choose to strike out condensed bursts of air which stretch out beyond your normal reach. Your reach increases by 10 feet for that attack. If the attack hits you can spend 1 ki point to force the target to make a Strength saving throw or be pushed back 10 feet and be knocked prone. </p><h5>Rumbling Badger</h5><p class='pad-left'>You shake the ground, causing a tremor that knocks over your foes. You can spend 1 ki point to cast earth tremor. </p> <h5>Rush of the Gale Spirits</h5><p class='pad-left'>You send a blast of air outward with a thrust of your open palm. You can spend 2 ki points to cast gust of wind.</p><h5>Shape the Raincloud</h5><p class='pad-left'>You can spend 1 ki point to cast create or destroy water.</p><h5>Sweeping Cinder Strike</h5><p class='pad-left'>With a wide sweeping gesture, you summon forth a barrage of hot cinders. You can spend 1 ki point to cast burning hands.</p><h5>Water Whip</h5><p class='pad-left'>You summon a long, rubbery whip of pure water that you grip by one end. You can spend 1 ki point as a bonus action to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes bludgeoning damage equal to your Martial Arts die + WIS, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don’t pull it or knock it prone. You can’t use Water Whip and cast a spell during the same turn.</p></div></div>"
         },
         {
           "level": 3,
@@ -2928,7 +2928,7 @@
           "subclass": "elements",
           "name": "elements-avatar",
           "title": "Way of Four Elements: Avatar of Elements",
-          "text": "<p>Also at 17th level, you learn to display ultimate master of the elements. You can spend 7 ki points as an action and have the elements of earth, fire, air, and water form a protective sphere around your body gaining the following benefits for one minute:</p><ul><li>You have resistance to bludgeoning, peircing, slashing, cold, fire, lightning, and thunder damage</li><li>You have a burrow fly and swim speed equal to you movement speed</li></ul><p>You can also use any of the following abilities as a bonus action:</p><ul><li>You create a small earthquake on the ground in a 15-foot radius around you. Each creature in the area must make a Dexterity save or take 1d6 bludgeoning damage and fall prone.</li><li>You blast a 15 foot long and 5 foot wide gout of fire in a direction you choose. Each creature in the line must make a Dexterity. Those creatures take 3d6 fire damage on a failed save or half as much on a successful one.</li><li>You create a 10-foot sphere of swirling wind centered on a point you can see within 60 feet. Each creature in the area must make a Constitution saving throw. A creature take 1d10 bludgeoning damage on a failed throw or half as much on a successful one. If a large or smaller creature fails the save, that creature is also pushed 10 feet away from the center of the cube.</li><li>You create a 15-foot cone of ice shards extending from your hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature take 2d6 cold damage on a failed save, or half as much on a successful one. A creature that fails it's save also has its speed halved until the start of your next turn.</li></ul>"
+          "text": "<p>Also at 17th level, you learn to display ultimate master of the elements. You can spend 7 ki points as an action and have the elements of earth, fire, air, and water form a protective sphere around your body gaining the following benefits for one minute:</p><ul><li>You have resistance to bludgeoning, piercing, slashing, cold, fire, lightning, and thunder damage</li><li>You have a burrow fly and swim speed equal to you movement speed</li></ul><p>You can also use any of the following abilities as a bonus action:</p><ul><li>You create a small earthquake on the ground in a 15-foot radius around you. Each creature in the area must make a Dexterity save or take 1d6 bludgeoning damage and fall prone.</li><li>You blast a 15 foot long and 5 foot wide gout of fire in a direction you choose. Each creature in the line must make a Dexterity. Those creatures take 3d6 fire damage on a failed save or half as much on a successful one.</li><li>You create a 10-foot sphere of swirling wind centered on a point you can see within 60 feet. Each creature in the area must make a Constitution saving throw. A creature take 1d10 bludgeoning damage on a failed throw or half as much on a successful one. If a large or smaller creature fails the save, that creature is also pushed 10 feet away from the center of the cube.</li><li>You create a 15-foot cone of ice shards extending from your hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature take 2d6 cold damage on a failed save, or half as much on a successful one. A creature that fails it's save also has its speed halved until the start of your next turn.</li></ul>"
         },
         {
           "level": 17,
