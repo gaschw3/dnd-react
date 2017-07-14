@@ -27,7 +27,7 @@ export class Item extends React.Component {
   render() {
     return(
       <div>
-        <JumbotronComponent title="Items" description="Items.description" image={this.state.image}/>
+        <JumbotronComponent title="Items" description="What're you buyin', Stranger?" image={this.state.image}/>
         <div className="item">
           <ItemList handleClick={this.handleClick} json={this.state.json} active={this.props.params.itemName}/>
           <ItemDetails json={this.state.json} item={this.props.params.itemName} />
