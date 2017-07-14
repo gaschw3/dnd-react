@@ -24,29 +24,52 @@ export class ItemDetails extends React.Component {
       )
   }
 
-  parsedamagetype(damagetype) {
-    if (damagetype === "B") return "bludgeoning"
-    if (damagetype === "P") return "piercing"
-    if (damagetype === "S") return "slashing"
-    if (damagetype === "N") return "necrotic"
-    if (damagetype === "R") return "radiant"
-    return false;
+  formatArmor(item, type) {
+    var dex = ""
+    if (item.type === "LA")
+      dex = " + DEX"
+    if (item.type === "MA")
+      dex = " + DEX (max 2)"
+    return(
+      <div className="row item-details">
+        <div className="row item-title">
+          <div className="col-xs-12"><h2>{item.title}</h2></div>
+          <div className="col-xs-12"><em>{type}{item.rarity ? ", "+item.rarity : ""} {item.attunement ? "(requires attunement)" : "" }</em></div>
+          <div className="col-xs-6">{item.value ? item.value+", " : "" } {item.weight ? item.weight+" lbs." : "" }</div>
+          <div className="col-xs-6"><span className="pull-right">AC {item.ac + dex}</span></div>
+        </div>
+        <div className="item-features">
+          {this.paragraphize(item.text)}
+        </div>
+      </div>
+      )
   }
 
-  parseproperty(property) {
-    if (property === "A") return "ammunition"
-    if (property === "LD") return "loading"
-    if (property === "L") return "light"
-    if (property === "F") return "finesse"
-    if (property === "T") return "thrown"
-    if (property === "H") return "heavy"
-    if (property === "R") return "reach"
-    if (property === "2H") return "two-handed"
-    if (property === "V") return "versatile"
-    if (property === "S") return "special"
-    if (property === "RLD") return "reload"
-    if (property === "BF") return "burst fire"
-    return "n/a"
+  formatWeapon(item, type) {
+    return(
+      <div className="row item-details">
+        <div className="row item-title">
+          <div className="col-xs-12"><h2>{item.title}</h2></div>
+          <div className="col-xs-12"><em>{type}{item.rarity ? ", "+item.rarity : ""} {item.attunement ? "(requires attunement)" : "" }</em></div>
+          <div className="col-xs-4">{item.value ? item.value+", " : "" } {item.weight ? item.weight+" lbs." : "" }</div>
+          <div className="col-xs-8"><span className="pull-right">{item.dmg1+this.parseDamage(item.dmgType)}{item.dmg2 ? " - versatile ("+item.dmg2+")" : ""}</span></div>
+          <div className="col-xs-4">{item.property ? "Props: "+item.property : ""}</div>
+          <div className="col-xs-8"><span className="pull-right">{item.range ?"Range: "+item.range : ""}</span></div>
+        </div>
+        <div className="item-features">
+          {this.paragraphize(item.text)}
+        </div>
+      </div>
+      )
+  }
+
+  parseDamage(damagetype) {
+    if (damagetype === "B") return " bludgeoning"
+    if (damagetype === "P") return " piercing"
+    if (damagetype === "S") return " slashing"
+    if (damagetype === "N") return " necrotic"
+    if (damagetype === "R") return " radiant"
+    return "";
   }
 
   formatItem(item) {
@@ -61,6 +84,7 @@ export class ItemDetails extends React.Component {
     if (type === "MNT") return this.formatBasic(item, "Mount")
     if (type === "P") return this.formatBasic(item, "Potion")
     if (type === "RG") return this.formatBasic(item, "Ring")
+    if (type === "RD") return this.formatBasic(item, "Rod")
     if (type === "SC") return this.formatBasic(item, "Scroll")
     if (type === "S") return this.formatBasic(item, "Shield")
     if (type === "SCF") return this.formatBasic(item, "Spellcasting Focus")
@@ -71,17 +95,16 @@ export class ItemDetails extends React.Component {
     if (type === "WD") return this.formatBasic(item, "Wand")
     if (type === "W") return this.formatBasic(item, "Wondrous Item")
     if (type === "WA") return this.formatBasic(item, "Weapon Affix")
-    if (type === "GUN") return "Firearm"
-    if (type === "HA") return "Heavy Armor"
-    if (type === "LA") return "Light Armor"
-    if (type === "MARW") return "Martial Weapon"
-    if (type === "MA") return "Medium Armor"
-    if (type === "M") return "Melee Weapon"
-    if (type === "R") return "Ranged Weapon"
-    if (type === "RD") return "Rod"
-    if (type === "SIMW") return "Simple Weapon"
-    if (type === "ST") return "Staff"
-    return "n/a"
+    if (type === "LA") return this.formatArmor(item, "Light Armor")
+    if (type === "MA") return this.formatArmor(item, "Medium Armor")
+    if (type === "HA") return this.formatArmor(item, "Heavy Armor")
+    if (type === "M,MARW") return this.formatWeapon(item, "Melee Martial Weapon")
+    if (type === "M,SIMW") return this.formatWeapon(item, "Melee Simple Weapon")
+    if (type === "R,MARW") return this.formatWeapon(item, "Ranged Martial Weapon")
+    if (type === "R,SIMW") return this.formatWeapon(item, "Ranged Simple Weapon")
+    if (type === "GUN") return this.formatWeapon(item, "Ranged Firearm")
+    if (type === "ST,M,SIMW") return this.formatWeapon(item, "Staff, Melee Simple Weapon")
+    return "Broken item, report this to Grant"
   }
 
   render() {

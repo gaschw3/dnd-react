@@ -40,7 +40,6 @@ export class ItemList extends React.Component {
 
   filtered(item) {
     var rarity = item.rarity ? item.rarity : "None";
-    console.log(item.title, item.type, rarity);
     if (item.title.toLowerCase().indexOf(this.getNameFilterText().toLowerCase()) !== -1)
       if (item.type.toLowerCase().indexOf(this.getTypeFilterText().toLowerCase()) !== -1)
         if (rarity.toLowerCase().indexOf(this.getRarityFilterText().toLowerCase()) !== -1)
@@ -94,7 +93,7 @@ export class ItemList extends React.Component {
               </Th>
             </Thead>
             {
-              this.state.json.map( (item) => {
+              this.state.json.map( (item, i) => {
                 if (this.filtered(item))
                   return (
                     <Tr 

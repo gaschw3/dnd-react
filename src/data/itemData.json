@@ -2094,90 +2094,6 @@
          ]
       },
       {
-         "title": "Defender Greatsword",
-         "name": "defender-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
-            "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Defender Longsword",
-         "name": "defender-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
-            "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Defender Rapier",
-         "name": "defender-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
-            "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Defender Scimitar",
-         "name": "defender-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
-            "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Defender Shortsword",
-         "name": "defender-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
-            "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
          "title": "Demon Armor",
          "name": "demon-armor",
          "type": "HA",
@@ -2310,85 +2226,6 @@
          ],
          "roll": [
             "6d8"
-         ]
-      },
-      {
-         "title": "Dragon Slayer Greatsword",
-         "name": "dragon-slayer-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Dragon Slayer Longsword",
-         "name": "dragon-slayer-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Dragon Slayer Rapier",
-         "name": "dragon-slayer-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Dragon Slayer Scimitar",
-         "name": "dragon-slayer-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Dragon Slayer Shortsword",
-         "name": "dragon-slayer-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
          ]
       },
       {
@@ -2942,27 +2779,8 @@
          ]
       },
       {
-         "title": "Flame Tongue Greatsword",
-         "name": "flame-tongue-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ],
-         "roll": [
-            "2d6"
-         ]
-      },
-      {
-         "title": "Flame Tongue Longsword",
-         "name": "flame-tongue-longsword",
+         "title": "Flametongue Longsword",
+         "name": "flametongue-longsword",
          "type": "M,MARW",
          "weight": "3",
          "dmg1": "1d8",
@@ -2974,62 +2792,6 @@
         "text": [
             "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
             "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ],
-         "roll": [
-            "2d6"
-         ]
-      },
-      {
-         "title": "Flame Tongue Rapier",
-         "name": "flame-tongue-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ],
-         "roll": [
-            "2d6"
-         ]
-      },
-      {
-         "title": "Flame Tongue Scimitar",
-         "name": "flame-tongue-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ],
-         "roll": [
-            "2d6"
-         ]
-      },
-      {
-         "title": "Flame Tongue Shortsword",
-         "name": "flame-tongue-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Rare",
-         "attunement": "yes",
-        "text": [
-            "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
          ],
          "roll": [
             "2d6"
@@ -3103,89 +2865,6 @@
          ]
       },
       {
-         "title": "Frost Brand Longsword",
-         "name": "frost-brand-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.",
-            "In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
-            "When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ],
-         "roll": [
-            "1d6"
-         ]
-      },
-      {
-         "title": "Frost Brand Rapier",
-         "name": "frost-brand-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.",
-            "In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
-            "When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ],
-         "roll": [
-            "1d6"
-         ]
-      },
-      {
-         "title": "Frost Brand Scimitar",
-         "name": "frost-brand-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.",
-            "In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
-            "When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ],
-         "roll": [
-            "1d6"
-         ]
-      },
-      {
-         "title": "Frost Brand Shortsword",
-         "name": "frost-brand-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.",
-            "In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
-            "When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ],
-         "roll": [
-            "1d6"
-         ]
-      },
-      {
          "title": "Gauntlets of Ogre Power",
          "name": "gauntlets-of-ogre-power",
          "type": "W",
@@ -3236,138 +2915,6 @@
          ],
          "roll": [
             "1d3"
-         ]
-      },
-      {
-         "title": "Giant Slayer Battleaxe",
-         "name": "giant-slayer-battleaxe",
-         "type": "M,MARW",
-         "weight": "4",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Giant Slayer Greataxe",
-         "name": "giant-slayer-greataxe",
-         "type": "M,MARW",
-         "weight": "7",
-         "dmg1": "1d12",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Giant Slayer Greatsword",
-         "name": "giant-slayer-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Giant Slayer Handaxe",
-         "name": "giant-slayer-handaxe",
-         "type": "M,SIMW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "L,T",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Giant Slayer Longsword",
-         "name": "giant-slayer-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Giant Slayer Rapier",
-         "name": "giant-slayer-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Giant Slayer Scimitar",
-         "name": "giant-slayer-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Giant Slayer Shortsword",
-         "name": "giant-slayer-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Rare",
-         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon.",
-            "When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ],
-         "roll": [
-            "2d6"
          ]
       },
       {
@@ -4857,79 +4404,8 @@
          ]
       },
       {
-         "title": "Luck Blade Greatsword",
-         "name": "luck-blade-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.",
-            "Luck: If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.",
-            "Wish: The sword has 1d4 - 1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Luck Blade Longsword",
-         "name": "luck-blade-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.",
-            "Luck: If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.",
-            "Wish: The sword has 1d4 - 1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Luck Blade Rapier",
-         "name": "luck-blade-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.",
-            "Luck: If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.",
-            "Wish: The sword has 1d4 - 1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Luck Blade Scimitar",
-         "name": "luck-blade-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Legendary",
-         "attunement": "yes",
-        "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.",
-            "Luck: If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.",
-            "Wish: The sword has 1d4 - 1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Luck Blade Shortsword",
-         "name": "luck-blade-shortsword",
+         "title": "Luck Blade",
+         "name": "luck-blade",
          "type": "M,MARW",
          "weight": "2",
          "dmg1": "1d6",
@@ -4938,9 +4414,10 @@
          "rarity": "Legendary",
          "attunement": "yes",
         "text": [
-            "You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.",
+            "Many weapons through the ages have been called 'Lucky', but only this vibrantly colored shortsword decorated with ancient symbols of fate and wyrd has the power to grant a wishes to the weilder.",
+            "You gain a +2 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +2 bonus to saving throws.",
             "Luck: If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.",
-            "Wish: The sword has 1d4 - 1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.",
+            "Wish: The sword holds the ability to make 1 wish. While holding it, you can use an action to cast the wish spell from it. This property can't be used again until is lies outside all night beneat a full silver moon",
             "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
             "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
          ]
@@ -5426,96 +4903,13 @@
          "type": "R,MARW",
          "value": "1gp",
          "weight": "3",
+         "damage": "no damage",
          "property": "S,T",
          "range": "5/15",
          "text": [
             "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
             "Special: A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.",
             "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Nine Lives Stealer Greatsword",
-         "name": "nine-lives-stealer-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-            "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Nine Lives Stealer Longsword",
-         "name": "nine-lives-stealer-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-            "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Nine Lives Stealer Rapier",
-         "name": "nine-lives-stealer-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-            "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Nine Lives Stealer Scimitar",
-         "name": "nine-lives-stealer-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-            "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Nine Lives Stealer Shortsword",
-         "name": "nine-lives-stealer-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Very Rare",
-         "attunement": "yes",
-        "text": [
-            "You gain a +2 bonus to attack and damage rolls made with this magic weapon.",
-            "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
          ]
       },
       {
@@ -8008,6 +7402,10 @@
          "title": "Spider Staff",
          "name": "spider-staff",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "6",
          "attunement": "yes",
         "text": [
@@ -8070,13 +7468,18 @@
          "value": "5gp",
          "weight": "4",
          "text": [
-            "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost."
+            "An arcane focus is a special item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus, using it in place of any material component which does not list a cost.",
+            "This staff can be used as a regular quarterstaff in an emergency"
          ]
       },
       {
          "title": "Staff of Charming",
          "name": "staff-of-charming",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Rare",
          "text": [
@@ -8106,6 +7509,10 @@
          "title": "Staff of Fire",
          "name": "staff-of-fire",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Very Rare",
          "text": [
@@ -8122,6 +7529,10 @@
          "title": "Staff of Frost",
          "name": "staff-of-frost",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Very Rare",
          "text": [
@@ -8138,6 +7549,10 @@
          "title": "Staff of Healing",
          "name": "staff-of-healing",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Rare",
          "text": [
@@ -8153,6 +7568,10 @@
          "title": "Staff of Power",
          "name": "staff-of-power",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Very Rare",
          "text": [
@@ -8173,6 +7592,10 @@
          "title": "Staff of Striking",
          "name": "staff-of-striking",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Very Rare",
          "attunement": "yes",
@@ -8191,6 +7614,10 @@
          "title": "Staff of Swarming Insects",
          "name": "staff-of-swarming-insects",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Rare",
          "text": [
@@ -8207,6 +7634,10 @@
          "title": "Staff of Thunder and Lightning",
          "name": "staff of-thunder-and-lightning",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Very Rare",
          "attunement": "yes",
@@ -8228,6 +7659,10 @@
          "title": "Staff of Withering",
          "name": "staff-of-withering",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Rare",
          "text": [
@@ -8244,6 +7679,10 @@
          "title": "Staff of the Adder",
          "name": "staff-of-the-adder",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Uncommon",
          "text": [
@@ -8261,6 +7700,10 @@
          "title": "Staff of the Magi",
          "name": "staff-of-the-magi",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Legendary",
          "text": [
@@ -8282,6 +7725,10 @@
          "title": "Staff of the Python",
          "name": "staff-of-the-python",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Uncommon",
          "text": [
@@ -8295,6 +7742,10 @@
          "title": "Staff of the Woodlands",
          "name": "staff-of-the-woodlands",
          "type": "ST,M,SIMW",
+         "dmg1": "1d6",
+         "dmg2": "1d8",
+         "dmgType": "B",
+         "property": "V",
          "weight": "4",
          "rarity": "Rare",
          "text": [
@@ -9140,574 +8591,6 @@
          ]
       },
       {
-         "title": "Vicious Battleaxe",
-         "name": "vicious-battleaxe",
-         "type": "M,MARW",
-         "weight": "4",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Vicious Blowgun",
-         "name": "vicious-blowgun",
-         "type": "R,MARW",
-         "weight": "1",
-         "dmg1": "1",
-         "dmgType": "P",
-         "property": "A,LD",
-         "range": "25/100",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Loading: Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range"
-         ]
-      },
-      {
-         "title": "Vicious Club",
-         "name": "vicious-club",
-         "type": "M,SIMW",
-         "weight": "2",
-         "dmg1": "1d4",
-         "dmgType": "B",
-         "property": "L",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Vicious Dagger",
-         "name": "vicious-dagger",
-         "type": "M,SIMW",
-         "weight": "1",
-         "dmg1": "1d4",
-         "dmgType": "P",
-         "property": "F,L,T",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Vicious Dart",
-         "name": "vicious-dart",
-         "type": "R,SIMW",
-         "weight": "0.25",
-         "dmg1": "1d4",
-         "dmgType": "P",
-         "property": "F,T",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Vicious Flail",
-         "name": "vicious-flail",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "B",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage."
-         ]
-      },
-      {
-         "title": "Vicious Glaive",
-         "name": "vicious-glaive",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "1d10",
-         "dmgType": "S",
-         "property": "H,R,2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Reach: This weapon adds 5 feet to your reach when you attack with it.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Greataxe",
-         "name": "vicious-greataxe",
-         "type": "M,MARW",
-         "weight": "7",
-         "dmg1": "1d12",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Greatclub",
-         "name": "vicious-greatclub",
-         "type": "M,SIMW",
-         "weight": "10",
-         "dmg1": "1d8",
-         "dmgType": "B",
-         "property": "2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Greatsword",
-         "name": "vicious-greatsword",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "2d6",
-         "dmgType": "S",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Halberd",
-         "name": "vicious-halberd",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "1d10",
-         "dmgType": "S",
-         "property": "H,R,2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Reach: This weapon adds 5 feet to your reach when you attack with it.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Hand Crossbow",
-         "name": "vicious-hand-crossbow",
-         "type": "R,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "A,L,LD",
-         "range": "30/120",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
-            "Loading: Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range"
-         ]
-      },
-      {
-         "title": "Vicious Handaxe",
-         "name": "vicious-handaxe",
-         "type": "M,SIMW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "L,T",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Vicious Heavy Crossbow",
-         "name": "vicious-heavy-crossbow",
-         "type": "R,MARW",
-         "weight": "18",
-         "dmg1": "1d10",
-         "dmgType": "P",
-         "property": "A,H,LD,2H",
-         "range": "100/400",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Loading: Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Javelin",
-         "name": "vicious-javelin",
-         "type": "M,SIMW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "T",
-         "range": "30/120",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Vicious Lance",
-         "name": "vicious-lance",
-         "type": "M,MARW",
-         "weight": "6",
-         "dmg1": "1d12",
-         "dmgType": "P",
-         "property": "R,S",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Reach: This weapon adds 5 feet to your reach when you attack with it."
-         ]
-      },
-      {
-         "title": "Vicious Light Crossbow",
-         "name": "vicious-light-crossbow",
-         "type": "R,SIMW",
-         "weight": "5",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "A,LD,2H",
-         "range": "80/320",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Loading: Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Light Hammer",
-         "name": "vicious-light-hammer",
-         "type": "M,SIMW",
-         "weight": "2",
-         "dmg1": "1d4",
-         "dmgType": "B",
-         "property": "L,T",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property."
-         ]
-      },
-      {
-         "title": "Vicious Longbow",
-         "name": "vicious-longbow",
-         "type": "R,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "A,H,2H",
-         "range": "150/600",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Longsword",
-         "name": "vicious-longsword",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "S",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Vicious Mace",
-         "name": "vicious-mace",
-         "type": "M,SIMW",
-         "weight": "4",
-         "dmg1": "1d6",
-         "dmgType": "B",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage."
-         ]
-      },
-      {
-         "title": "Vicious Maul",
-         "name": "vicious-maul",
-         "type": "M,MARW",
-         "weight": "10",
-         "dmg1": "2d6",
-         "dmg2": "2d6",
-         "dmgType": "B",
-         "property": "H,2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Morningstar",
-         "name": "vicious-morningstar",
-         "type": "M,MARW",
-         "weight": "4",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage."
-         ]
-      },
-      {
-         "title": "Vicious Pike",
-         "name": "vicious-pike",
-         "type": "M",
-         "weight": "18",
-         "dmg1": "1d10",
-         "dmgType": "P",
-         "property": "H,R,2H",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.",
-            "Reach: This weapon adds 5 feet to your reach when you attack with it.",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Quarterstaff",
-         "name": "vicious-quarterstaff",
-         "type": "M,SIMW",
-         "weight": "4",
-         "dmg1": "1d6",
-         "dmg2": "1d8",
-         "dmgType": "B",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Vicious Rapier",
-         "name": "vicious-rapier",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "property": "F",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls."
-         ]
-      },
-      {
-         "title": "Vicious Scimitar",
-         "name": "vicious-scimitar",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmgType": "S",
-         "property": "F,L",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Vicious Shortbow",
-         "name": "vicious-shortbow",
-         "type": "R,SIMW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "A,2H",
-         "range": "80/320",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Two-Handed: This weapon requires two hands to use."
-         ]
-      },
-      {
-         "title": "Vicious Shortsword",
-         "name": "vicious-shortsword",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d6",
-         "dmgType": "P",
-         "property": "F,L",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Vicious Sickle",
-         "name": "vicious-sickle",
-         "type": "M,SIMW",
-         "weight": "2",
-         "dmg1": "1d4",
-         "dmgType": "S",
-         "property": "L",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons."
-         ]
-      },
-      {
-         "title": "Vicious Sling",
-         "name": "vicious-sling",
-         "type": "R,SIMW",
-         "weight": "0",
-         "dmg1": "1d4",
-         "dmgType": "B",
-         "property": "A",
-         "range": "30/120",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range"
-         ]
-      },
-      {
-         "title": "Vicious Spear",
-         "name": "vicious-spear",
-         "type": "M,SIMW",
-         "weight": "3",
-         "dmg1": "1d6",
-         "dmg2": "1d8",
-         "dmgType": "P",
-         "property": "T,V",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Vicious Trident",
-         "name": "vicious-trident",
-         "type": "M,MARW",
-         "weight": "4",
-         "dmg1": "1d6",
-         "dmg2": "1d8",
-         "dmgType": "P",
-         "property": "T,V",
-         "range": "20/60",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range",
-            "Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Vicious War Pick",
-         "name": "vicious-war-pick",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmgType": "P",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage."
-         ]
-      },
-      {
-         "title": "Vicious Warhammer",
-         "name": "vicious-warhammer",
-         "type": "M,MARW",
-         "weight": "2",
-         "dmg1": "1d8",
-         "dmg2": "1d10",
-         "dmgType": "B",
-         "property": "V",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 bludgeoning damage.",
-            "Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack."
-         ]
-      },
-      {
-         "title": "Vicious Whip",
-         "name": "vicious-whip",
-         "type": "M,MARW",
-         "weight": "3",
-         "dmg1": "1d4",
-         "dmgType": "S",
-         "property": "F,R",
-         "rarity": "Rare",
-         "text": [
-            "When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.",
-            "Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.",
-            "Reach: This weapon adds 5 feet to your reach when you attack with it."
-         ]
-      },
-      {
          "title": "Viol",
          "name": "viol",
          "type": "INS",
@@ -10339,7 +9222,8 @@
          "value": "5gp",
          "weight": "4",
          "text": [
-            "A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost."
+            "A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.",
+            "This staff can be used as a regular quarterstaff in an emergency"
          ]
       },
       {
@@ -10385,34 +9269,9 @@
          ]
       },
       {
-         "title": "Hacking Tools",
-         "name": "hacking-tools",
-         "type": "T",
-         "text": [
-            "This kit contains the hardware and software necessary to allow access into most computer systems and electronic devices. Proficiency with hacking tools lets you add your proficiency bonus to any Intelligence checks you make to connect to or make use of a computer system or electronic device. The kit fits snugly in a backpack or toolbox. "
-         ]
-      },
-      {
-         "title": "Pistol",
-         "name": "pistol",
-         "type": "GUN,MARW",
-         "value": "250gp",
-         "weight": "3",
-         "dmg1": "1d10",
-         "dmgType": "P",
-         "property": "A,LD",
-         "range": "30/90",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Loading: Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range."
-         ]
-      },
-      {
          "title": "Musket",
          "name": "musket",
-         "type": "GUN,MARW",
+         "type": "GUN",
          "value": "500gp",
          "weight": "10",
          "dmg1": "1d12",
@@ -10447,35 +9306,9 @@
          ]
       },
       {
-         "title": "Energy Cell",
-         "name": "energy-cell",
-         "type": "A",
-         "weight": "0.3125",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use."
-         ]
-      },
-      {
-         "title": "Automatic Pistol",
-         "name": "automatic-pistol",
-         "type": "GUN,MARW",
-         "weight": "3",
-         "dmg1": "2d6",
-         "dmgType": "P",
-         "property": "A,RLD",
-         "range": "50/150",
-         "reload": "15",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
-            "Reload: A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
-         ]
-      },
-      {
          "title": "Revolver",
          "name": "revolver",
-         "type": "GUN,MARW",
+         "type": "GUN",
          "weight": "3",
          "dmg1": "2d8",
          "dmgType": "P",
@@ -10490,101 +9323,15 @@
          ]
       },
       {
-         "title": "Hunting Rifle",
-         "name": "hunting-rifle",
-         "type": "GUN,MARW",
+         "title": "Rifle",
+         "name": "rifle",
+         "type": "GUN",
          "weight": "8",
          "dmg1": "2d10",
          "dmgType": "P",
          "property": "A,RLD,2H",
          "range": "80/240",
          "reload": "5",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
-            "Reload: A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
-         ]
-      },
-      {
-         "title": "Automatic Rifle",
-         "name": "automatic-rifle",
-         "type": "GUN,MARW",
-         "weight": "8",
-         "dmg1": "2d8",
-         "dmgType": "P",
-         "property": "A,BF,RLD,2H",
-         "range": "80/240",
-         "reload": "30",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
-            "Burst Fire: A weapon that has the burst fire property can make a single-target attack, or it can spray a 10-foot-cube area within normal range with shots. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the weapon's normal damage. This aciton uses ten pieces of ammunition.",
-            "Reload: A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
-         ]
-      },
-      {
-         "title": "Shotgun",
-         "name": "shotgun",
-         "type": "GUN,MARW",
-         "weight": "7",
-         "dmg1": "2d8",
-         "dmgType": "P",
-         "property": "A,RLD,2H",
-         "range": "30/90",
-         "reload": "2",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
-            "Reload: A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
-         ]
-      },
-      {
-         "title": "Laser Pistol",
-         "name": "laser-pistol",
-         "type": "GUN,MARW",
-         "weight": "2",
-         "dmg1": "3d6",
-         "dmgType": "R",
-         "property": "A,RLD",
-         "range": "30/120",
-         "reload": "50",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
-            "Reload: A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
-         ]
-      },
-      {
-         "title": "Antimatter Rifle",
-         "name": "antimatter-rifle",
-         "type": "GUN,MARW",
-         "weight": "10",
-         "dmg1": "6d8",
-         "dmgType": "N",
-         "property": "A,RLD,2H",
-         "range": "120/360",
-         "reload": "2",
-         "text": [
-            "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
-            "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
-            "Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.",
-            "Reload: A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice)."
-         ]
-      },
-      {
-         "title": "Laser Rifle",
-         "name": "laser-rifle",
-         "type": "GUN,MARW",
-         "weight": "7",
-         "dmg1": "3d8",
-         "dmgType": "R",
-         "property": "A,RLD,2H",
-         "range": "100/300",
-         "reload": "30",
          "text": [
             "Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. The ammunitition of a firearm is destroyed upon use.",
             "If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see \"Improvised Weapons\" later in the section). A sling must be loaded to deal any damage when used in this way.",
@@ -10637,38 +9384,6 @@
           "As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.",
           "A character can bind sticks of dynamite together so they explode at the same time. Each additional stick increases the damage by 1d6 (to a maximum of 10d6) and the burst radius by 5 feet (to a maximum of 20 feet).",
           "Dynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.",
-          "Source: Dungeon Master's Guide, page 268"
-        ]
-      },
-      {
-        "title": "Fragmentation-Grenade",
-        "name": "fragmentation-grenade",
-        "type": "EXP",
-        "weight": "1",
-        "text": [
-          "As an action, a character can throw a grenade at a point up to 60 feet away.  With a grenade launcher, the character can propel the grenade up to 120 feet away.",
-          "Each creature with 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking 5d6 piercing damage on a failed save, or half as much damage on a successful one.",
-          "Source: Dungeon Master's Guide, page 268"
-        ]
-      },
-      {
-        "title": "Smoke-Grenade",
-        "name": "smoke-grenade",
-        "type": "EXP",
-        "weight": "2",
-        "text": [
-          "As an action, a character can throw a grenade at a point up to 60 feet away.  With a grenade launcher, the character can propel the grenade up to 120 feet away.",
-          "One round after a smoke grenade, lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) desperses it in 1 round.",
-          "Source: Dungeon Master's Guide, page 268"
-        ]
-      },
-      {
-        "title": "Grenade-Launcher",
-        "name": "grenade-launcher",
-        "type": "EXP",
-        "weight": "7",
-        "text": [
-          "As an action, a character can throw a grenade at a point up to 60 feet away.  With a grenade launcher, the character can propel the grenade up to 120 feet away.",
           "Source: Dungeon Master's Guide, page 268"
         ]
       },
@@ -11561,6 +10276,63 @@
          ]
       },
       {
+         "title": "Defender",
+         "name": "defender",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "You gain a +3 bonus to attack and damage rolls made with this magic weapon.",
+            "The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it."
+         ]
+      },
+      {
+         "title": "Dragon Slayer",
+         "name": "dragon-slayer",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon was crafted for the ancient Arget Order of dragon riders to combat Chromatic Dragons, though it will happily spill the blood of any dragonkin.",
+            "When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, 'dragon' refers to any creature with the dragon type, including dragon turtles and wyverns. Dragonborn have very little real dragon blood remaining but will also take an extra 1d6 damage from this weapon."
+         ]
+      },
+      {
+         "title": "Flame Tongued",
+         "name": "flame-tongued",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon is decorated with a flame motif and always feels warm to the touch.",
+            "You can use a bonus action to speak this magic sword' command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword."
+         ]
+      },
+      {
+         "title": "Frostfang",
+         "name": "frostfang",
+         "type": "WA",
+         "weight": "+1",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon was partially constructed from the tooth, claw, or scales of a famous white dragon that controled the Worldspine until it was killed by a group of adventurers.",
+            "When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.",
+            "In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+            "When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour."
+         ]
+      },
+      {
+         "title": "Giant Slayer",
+         "name": "giant-slayer",
+         "type": "WA",
+         "weight": "+2",
+         "rarity": "Uncommon",
+         "text": [
+            "This weapon was carved from an old magical ore by Dwarves engaged in a constant war with giantkind.",
+            "When you hit a giant with this weapon, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, 'giant' refers to any creature with the giant type, including ettins and trolls. Though Firbolgs and Goliaths have little giant blood left, they will also take an extra 1d6 damage from this weapon."
+         ]
+      },
+      {
          "title": "Ghost-touched",
          "name": "ghost-touched",
          "type": "WA",
@@ -11569,6 +10341,29 @@
          "text": [
             "This odd ethereal blade feels lighter than it should and wavers perceptibly when it is used.",
             "Can attack targets in the Ethereal Plane and cast as a +1 weapon if it is weilded by a missing limb."
+         ]
+      },
+      {
+         "title": "Lucky",
+         "name": "Lucky",
+         "type": "WA",
+         "weight": "+0",
+         "attunement": "yes",
+         "rarity": "Very Rare",
+         "text": [
+            "Though fairly normal in appearance this weapon nevertheless seems to always be in the right place to catch an opponents blow or slip through a crack in defenses.",
+            "If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn."
+         ]
+      },
+      {
+         "title": "'o' Nine Tails",
+         "name": "o-nine-tails",
+         "type": "WA",
+         "weight": "+0",
+         "attunement": "yes",
+         "rarity": "Rare",
+         "text": [
+            "The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property."
          ]
       },
       {
@@ -11601,6 +10396,16 @@
          "rarity": "Uncommon",
          "text": [
             "A poem, story, or map that describes a long-forgotten treasure that will make this weapon more powerful is etched on the surface of the weapon."
+         ]
+      },
+      {
+         "title": "Vicious",
+         "name": "vicious",
+         "type": "WA",
+         "weight": "+0",
+         "rarity": "Rare",
+         "text": [
+            "When you roll a 20 with this magic weapon, the target takes an extra 7 piercing damage."
          ]
       },
       {
