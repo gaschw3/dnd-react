@@ -6,7 +6,7 @@ ul {
   margin: 5px 0 5px 0;
 }
 .container {
-  width: auto;
+  width: auto !important;
   max-width: 1200px;
   padding: 0 15px;
 }
