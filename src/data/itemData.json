@@ -10210,11 +10210,25 @@
          "type": "W",
          "weight": "2",
          "rarity": "Legendary",
+         "attunement": "yes",
          "text": [
             "Requires attunement by a monk",
             "The monks of the Relentless Dragon practice a martial arts style that emphasizes unstoppable offense as the superior method of fighting. These hand wraps are worn by their finest warriors, manifesting their fiery ki to annihilate their enemies before there can be any retaliation.",
             "While wearing these handwraps, you gain a +1 bonus to damage rolls you make with unarmed strikes. Such attacks are considered magical.",
             "Each time you hit a hostile creature with an unarmed strike, you gain 1 flame charge. When you have 4 flame charges, your attacks deal an extra 1d4 fire damage. You can expend 12 charges to cast burning hands as a bonus action. You lose all charges when you take damage or if your turn ends without attacking a hostile creature."
+         ]
+      },
+      {
+         "title": "Deck of the Remembrancer",
+         "name": "deck-of-the-remembrancer",
+         "type": "W",
+         "weight": "1",
+         "rarity": "Rare",
+         "attunement": "yes",
+         "text": [
+            "Requires attunement by a Wizard.",
+            "This set of magical flash cards improves a Wizards ability to recall spells.",
+            "When preparing your spells for the day, you may prepare one additional spell. In addition, once per day, during a short rest, you can replace one of your prepared spells with another spell of 6th level or lower."
          ]
       },
       {
