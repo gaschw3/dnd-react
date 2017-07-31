@@ -4000,250 +4000,89 @@
           "level": 1,
           "subclass": "base",
           "name": "casting",
-          "title": "Spellcasting",
-          "text": "<p>As a conduit for divine power, you can cast cleric spells.</p><h5>Cantrips</h5><p>You know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels per the Cleric table.</p><h5>Preparing and Casting Spells</h5><p class='pad-left'>The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p class='pad-left'>You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.</p><p class='pad-left'>You can change your list of prepared spells when you finish a long rest.</p><h5>Spellcasting Ability</h5><p class='pad-left'>Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity.</p><ul><li>Spell save DC = 8 + proficiency + WIS</li><li>Spell attack modifier = proficiency + WIS</li></ul><h5>Ritual Casting</h5><p class='pad-left'>You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p><h5>Spellcasting Focus</h5><p class='pad-left'>You can use a holy symbol as a spellcasting focus for your cleric spells.</p>"
+          "title": "Pact Magic",
+          "text": "<p>Your arcane research and the magic bestowed on you by your patron have given you facility with spells.</p><h5>Cantrips</h5><p>You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.</p><h5>Spell Slots</h5><p class='pad-left'>TThe Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.</p><h5>Spells Known of 1st Level and Higher</h5><p class='pad-left'>At 1st level, you know two 1st-level spells of your choice from the warlock spell list.You learn a new warlock spell every time you gain a level from 2 through 9, as well as at level 19. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level.<p class='pad-left'>Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.</p><h5>Spellcasting Ability</h5><p class='pad-left'>Charisma is your spellcasting ability for your warlock spells. The power of your spells comes from your patron and pact.</p><ul><li>Spell save DC = 8 + proficiency + CHA</li><li>Spell attack modifier = proficiency + CHA</li></ul><h5>Ritual Casting</h5><p class='pad-left'>You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p><h5>Spellcasting Focus</h5><p class='pad-left'>You can use an arcane focus as a spellcasting focus for your warlock spells.</p>"
         },
         {
           "level": 1,
           "subclass": "base",
-          "name": "domain-0",
-          "title": "Divine Domain",
-          "text": "<p>Choose one domain related to your deity; each domain is detailed in their own feature. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.</p><p>Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</p>"
+          "name": "pact",
+          "title": "Otherworldly Patron",
+          "text": "At 1st level, you have struck a bargain with an otherworldly being of your choice from below. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level."
         },
         {
           "level": 1,
           "filter": "yes",
-          "subclass": "arcana",
-          "name": "arcana",
-          "title": "Domain: Arcana",
-          "text": "<p>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - detect magic, magic missile</li><li>3rd - magic weapon, Nystul's magic aura</li><li>5th - dispel magic, magic circle</li><li>7th - arcane eye, Leomund's secret chest</li><li>9th - planar binding, teleportation circle</li></ul>"
+          "subclass": "fey",
+          "name": "fey",
+          "title": "Patron: The Archfey",
+          "text": "<p>Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.</p><p>The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - faerie fire, sleep</li><li>3rd - calm emotions, phantasmal force</li><li>5th - blink, plant growth</li><li>7th - dominate beast, greater invisibility</li><li>9th - dominate person, seeming</li></ul>"
         },
         {
           "level": 1,
           "filter": "yes",
-          "subclass": "death",
-          "name": "death",
-          "title": "Domain: Death",
-          "text": "<p>The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Gods of Death are patrons of necromancers, death knights, liches, and vampires. THey can also embody murder, pain, disease, or poison.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - false life, ray of sickness</li><li>3rd - blindness/deafness, ray of enfeeblement</li><li>5th - animate dead, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, cloudkill</li></ul>"
+          "subclass": "fiend",
+          "name": "fiend",
+          "title": "Patron: The Fiend",
+          "text": "<p>You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Mephisto, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.</p><p>The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - burning hands, command</li><li>3rd - blindness/deafness, scorching ray</li><li>5th - fireball, stinking cloud</li><li>7th - fire shield, wall of fire</li><li>9th - flame strike, hallow</li></ul>"
         },
         {
           "level": 1,
           "filter": "yes",
-          "subclass": "knowledge",
-          "name": "knowledge",
-          "title": "Domain: Knowledge",
-          "text": "<p>The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. </p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - command, identify</li><li>3rd - augury, suggestion</li><li>5th - nondetection, speak with dead</li><li>7th - arcane eye, confusion</li><li>9th - legend lore, scrying</li></ul>"
+          "subclass": "goo",
+          "name": "goo",
+          "title": "Patron: The Great Old One",
+          "text": "<p>Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Yidhra, the Dream-Mother; and other unfathomable beings.</p><p>The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - dissonant whispers, Tasha's hideous laughter</li><li>3rd - detect thoughts, phantasmal force</li><li>5th - clairvoyance, sending</li><li>7th - dominate beast, evard's black tentacles</li><li>9th - dominate person, telekinesis</li></ul>"
         },
         {
           "level": 1,
           "filter": "yes",
-          "subclass": "life",
-          "name": "life",
-          "title": "Domain: Life",
-          "text": "<p>The Life domain focuses on the vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.</p><ul><li>1st - bless, cure wounds</li><li>3rd - lesser restoration, spiritual weapon</li><li>5th - beacon of hope, revivify</li><li>7th - death ward, guardian of faith</li><li>9th - mass cure wounds, raise dead</li></ul>"
+          "subclass": "celestial",
+          "name": "celestial",
+          "title": "Patron: The Celestial (UA)",
+          "text": "<p>Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, or unicorn or to another entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.</p><p>The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - burning hands, cure wounds</li><li>3rd - flaming sphere, lesser restoration</li><li>5th - daylight, revivify</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, greater restoration</li></ul>"
         },
         {
           "level": 1,
-          "filter": "yes",
-          "subclass": "light",
-          "name": "light",
-          "title": "Domain: Light",
-          "text": "<p>Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.</p><ul><li>1st - burning hands, faerie fire</li><li>3rd - flaming sphere, scorching ray</li><li>5th - daylight, fireball</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, scrying</li></ul>"
+          "subclass": "fey",
+          "name": "fey-presence",
+          "title": "The Archfey: Fey Presence",
+          "text": "<p>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
         },
         {
           "level": 1,
-          "filter": "yes",
-          "subclass": "nature",
-          "name": "nature",
-          "title": "Domain: Nature",
-          "text": "<p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature but cleric act as champions who take a more active role in advancing the interests of a nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><ul><li>1st - animal friendship, speak with animals</li><li>3rd - barkskin, spike growth</li><li>5th - plant growth, wind wall</li><li>7th - dominate beast, grasping vine</li><li>9th - insect plague, tree stride</li></ul>"
+          "subclass": "fiend",
+          "name": "fiend-dark-ones-blessing",
+          "title": "The Fiend: Dark One's Blessing",
+          "text": "Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1)."
         },
         {
           "level": 1,
-          "filter": "yes",
-          "subclass": "tempest",
-          "name": "tempest",
-          "title": "Domain: Tempest",
-          "text": "<p>Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><ul><li>1st - fog cloud, thunderwave</li><li>3rd - gust of wind, shatter</li><li>5th - call lightning, sleet storm</li><li>7th - control water, ice storm</li><li>9th - destructive wave, insect plague</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "trickery",
-          "name": "trickery",
-          "title": "Domain: Trickery (HB)",
-          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - counterspell, dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "war",
-          "name": "war",
-          "title": "Domain: War",
-          "text": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p><ul><li>1st - divine favor, shield of faith</li><li>3rd - magic weapon, spiritual weapon</li><li>5th - crusader's mantle, spirit guardians</li><li>7th - freedom of movement, stoneskin</li><li>9th - flame strike, hold monster</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "forge",
-          "name": "forge",
-          "title": "Domain: Forge (UA)",
-          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "grave",
-          "name": "grave",
-          "title": "Domain: Grave (UA)",
-          "text": "<p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures.</p><ul><li>1st - bane, false life</li><li>3rd - gentle repose, ray of enfeeblement</li><li>5th - revivify, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, raise dead</li></ul>"
-        },
-        {
-          "level": 1,
-          "subclass": "arcana",
-          "name": "arcana-initiate",
-          "title": "Arcana Domain: Arcane Initiate",
-          "text": "When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips."
-        },
-        {
-          "level": 1,
-          "subclass": "death",
-          "name": "death-proficiency",
-          "title": "Death Domain: Bonus Proficiency",
-          "text": "When the cleric chooses this domain at 1st level, he or she gains proficiency with martial weapons."
-        },
-        {
-          "level": 1,
-          "subclass": "death",
-          "name": "death-reaper",
-          "title": "Death Domain: Reaper",
+          "subclass": "goo",
+          "name": "goo-awakened-mind",
+          "title": "The Great Old One: Awakened Mind",
           "text": "At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other."
         },
         {
           "level": 1,
-          "subclass": "knowledge",
-          "name": "arcana-blessings",
-          "title": "Knowledge Domain: Blessings of Knowledge",
-          "text": "<p>At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.</p><p>Your proficiency bonus is doubled for any ability check you make that uses either of those skills.</p>"
+          "subclass": "celestial",
+          "name": "celestial-cantrips",
+          "title": "The Celestial: Bonus Cantrips",
+          "text": "At 1st level, you learn the sacred flame and light cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known."
         },
         {
           "level": 1,
-          "subclass": "life",
-          "name": "life-proficiency",
+          "subclass": "celestial",
+          "name": "celestial-healing-light",
           "title": "Life Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
-        },
-        {
-          "level": 1,
-          "subclass": "life",
-          "name": "life-disciple",
-          "title": "Life Domain: Disciple of Life",
-          "text": "Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level."
-        },
-        {
-          "level": 1,
-          "subclass": "light",
-          "name": "light-cantrip",
-          "title": "Light Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain the light cantrip if you don't already know it."
-        },
-        {
-          "level": 1,
-          "subclass": "light",
-          "name": "light-flare",
-          "title": "Light Domain: Warding Flare",
-          "text": "<p>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
-        },
-        {
-          "level": 1,
-          "subclass": "nature",
-          "name": "nature-proficiency",
-          "title": "Nature Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
-        },
-        {
-          "level": 1,
-          "subclass": "nature",
-          "name": "nature-acolyte",
-          "title": "Nature Domain: Acolyte of Nature",
-          "text": "At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival."
-        },
-        {
-          "level": 1,
-          "subclass": "tempest",
-          "name": "tempest-proficiency",
-          "title": "Tempest Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor."
-        },
-        {
-          "level": 1,
-          "subclass": "tempest",
-          "name": "tempest-acolyte",
-          "title": "Tempest Domain: Wrath of the Storm",
-          "text": "<p>Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
-        },
-        {
-          "level": 1,
-          "subclass": "trickery",
-          "name": "trickery-proficiency",
-          "title": "Trickery Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with rapiers, shortswords, and hand crossbows."
-        },
-        {
-          "level": 1,
-          "subclass": "trickery",
-          "name": "trickery-blessing",
-          "title": "Trickery Domain: Blessing of the Trickster",
-          "text": "Starting when you choose this domain at 1st level, you can use your action to touch a willing creature to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again."
-        },
-        {
-          "level": 1,
-          "subclass": "war",
-          "name": "war-proficiency",
-          "title": "War Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor."
-        },
-        {
-          "level": 1,
-          "subclass": "war",
-          "name": "war-priest",
-          "title": "War Domain: War Priest",
-          "text": "From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest."
-        },
-        {
-          "level": 1,
-          "subclass": "forge",
-          "name": "forge-proficiency",
-          "title": "Forge Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
-        },
-        {
-          "level": 1,
-          "subclass": "forge",
-          "name": "forge-blessing",
-          "title": "Forge Domain: Blessing of the Forge",
-          "text": "<p>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 1,
-          "subclass": "grave",
-          "name": "grave-proficiency",
-          "title": "Grave Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
-        },
-        {
-          "level": 1,
-          "subclass": "grave",
-          "name": "grave-circle",
-          "title": "Grave Domain: Circle of Mortality",
-          "text": "At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action."
+          "text": "<p>At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.</p><p>As a bonus action, you can touch a creature and heal it, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.</p><p>Your pool regains all expended dice when you finish a long rest.</p>"
         },
         {
           "level": 2,
           "subclass": "base",
-          "name": "channel-divinity-1",
-          "title": "Channel Divinity (1/rest)",
-          "text": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p>"
+          "name": "eldritch-invocations",
+          "title": "Eldritch Invocations",
+          "text": "<p>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. At 2nd level, you gain two eldritch invocations from below. When you gain certain warlock levels, you gain additional invocations of your choice.</p><p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level. A level prerequisite in an invocation refers to warlock level, not character level.</p><div class='row'><div class='col-sm-6'><h5><strong>All Warlocks</strong></h5><h5>Eldritch Invocation: Agonizing Blast</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.</p><h5>Eldritch Invocation: Eldritch Spear</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>When you cast eldritch blast, its range is 300 feet.</p><h5>Eldritch Invocation: Repelling Blast</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.</p><h5>Eldritch Invocation: Armor of Shadows</h5><p class='pad-left'>You can cast mage armor on yourself at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Beast Speech</h5><p class='pad-left'>You can cast speak with animals at will, without expending a spell slot.</p><h5>Eldritch Invocation: Beguiling Influence</h5><p class='pad-left'>You gain proficiency in the Deception and Persuasion skills.</p><h5>Eldritch Invocation: Devil's Sight</h5><p class='pad-left'>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p><h5>Eldritch Invocation: Eldritch Sight</h5><p class='pad-left'>You can cast detect magic at will, without expending a spell slot.</p><h5>Eldritch Invocation: Eyes of the Rune Keeper</h5><p class='pad-left'>You can read all writing.</p><h5>Eldritch Invocation: Fiendish Vigor</h5><p class='pad-left'>You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Gaze of Two Minds</h5><p class='pad-left'>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</p><h5>Eldritch Invocation: Mask of Many Faces</h5><p class='pad-left'>You can cast disguise self at will, without expending a spell slot.</p><h5>Eldritch Invocation: Misty Visions</h5><p class='pad-left'>You can cast silent image at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Thief of Five Fates</h5><p class='pad-left'>You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Mire the Mind</h5><p class='pad-left'><em>Prerequisite: 5th level</em></p><p class='pad-left'>You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: One with Shadows</h5><p class='pad-left'><em>Prerequisite: 5th level</em></p><p class='pad-left'>When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.</p><h5>Eldritch Invocation: Signs of Ill Omen</h5><p class='pad-left'><em>Prerequisite: 5th level</em></p><p class='pad-left'>You can cast bestow curse once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Bewitching Whispers</h5><p class='pad-left'><em>Prerequisite: 7th level</em></p><p class='pad-left'>You can cast compulsion once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Dreadful Word</h5><p class='pad-left'><em>Prerequisite: 7th level</em></p><p class='pad-left'>You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Sculptor of Flesh</h5><p class='pad-left'><em>Prerequisite: 7th level</em></p><p class='pad-left'>You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Ascendant Step</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast levitate on yourself at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Minions of Chaos</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Otherworldly Leap</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast jump on yourself at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Whispers of the Grave</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast speak with dead at will, without expending a spell slot.</p><h5>Eldritch Invocation: Lifedrinker</h5><p class='pad-left'><em>Prerequisite: 12th level</em></p><p class='pad-left'>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum of 1).</p><h5>Eldritch Invocation: Master of Myriad Forms</h5><p class='pad-left'><em>Prerequisite: 15th level</em></p><p class='pad-left'>You can cast alter self at will, without expending a spell slot.</p><h5>Eldritch Invocation: Witch Sight</h5><p class='pad-left'><em>Prerequisite: 15th level</em></p><p class='pad-left'>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p><h5>Eldritch Invocation: Visions of Distant Realms</h5><p class='pad-left'><em>Prerequisite: 15th level</em></p><p class='pad-left'>You can cast arcane eye at will, without expending a spell slot.</p></div><div class='col-sm-6'><h5><strong>Pact Based</strong></h5><h5>Eldritch Invocation: Thirsting Blade</h5><p class='pad-left'><em>Prerequisite: 5th level, Pact of the Blade feature</em></p><p class='pad-left'>You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.</p><h5>Eldritch Invocation: Book of Ancient Secrets</h5><p class='pad-left'><em>Prerequisite: Pact of the Tome feature</em></p><p class='pad-left'>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.</p><p class='pad-left'>On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</p><h5>Eldritch Invocation: Voice of the Chain Master</h5><p class='pad-left'><em>Prerequisite: Pact of the Chain feature</em></p><p class='pad-left'>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p></div><div class='col-sm-6'><h5><strong>UA or HB Pact Based</strong></h5><h5>Eldritch Invocation: Chains of Carceri</h5><p class='pad-left'><em>Prerequisite: 15th level, Pact of the Chain feature</em></p><p class='pad-left'>You can cast hold monster at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p><h5>Eldritch Invocation: Frost Lance (UA)</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</p><h5>Eldritch Invocation: Improved Pact Weapon (UA)</h5><p class='pad-left'><em>Prerequisite: Pact of the Blade feature</em></p><p class='pad-left'>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells. In addition, the weapon counts as a magic weapon with a +1 bonus to its attack and damage rolls, unless it is already a magic weapon that you transformed into your pact weapon.</p><h5>Eldritch Invocation: Eldritch Smite (UA)</h5><p class='pad-left'><em>Prerequisite: 5th level, Pact of the Blade feature</em></p><p class='pad-left'>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot.</p><h5>Eldritch Invocation: Aspect of the Moon (UA)</h5><p class='pad-left'><em>Prerequisite: Pact of the Tome feature, Archfey patron</em></p><p class='pad-left'>You have gained the Maiden of the Moon's favor. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</p><h5>Eldritch Invocation: Grasp of Hadar (UA)</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip, Great Old One patron</em></p><p class='pad-left'>Once on each of your turns when you hit a creature with your eldritch blast cantrip, you can move that creature in a straight line 10 feet closer to yourself.</p><h5>Eldritch Invocation: Ranna's Lidless Eye (UA)</h5><p class='pad-left'><em>Prerequisite: Pact of the Tome feature, Great Old One patron</em></p><p class='pad-left'>Ranna's soft purple-blue light is no longer able to lull you to dreams. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</p><h5>Eldritch Invocation: Gaze of Saraneth (UA)</h5><p class='pad-left'><em>Prerequisite: 7th level, Great Old One patron</em></p><p class='pad-left'>You gain the piercing gaze of the blue star Saraneth. As an action, you can see through solid objects to a range of 30 feet until the end of the current turn. During that time, you perceive objects as ghostly, transparent images.</p><h5>Eldritch Invocation: Tomb of Levistus (UA)</h5><p class='pad-left'><em>Prerequisite: 5th level, Fiend patron</em></p><p class='pad-left'>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. You also gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects all end when the ice melts. Once you use this invocation, you can't use it again until you finish a short or long rest.</p><h5>Eldritch Invocation: Cloak of Baal (UA)</h5><p class='pad-left'><em>Prerequisite: 5th level, Fiend patron</em></p><p class='pad-left'>As a bonus action, you can conjure a swarm of buzzing flies around you. The swarm includes your space, extends 5 feet from you in every direction, and is blocked by total cover. It lasts until you're incapacitated or you dismiss it with a bonus action. The swarm grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. In addition, a creature that starts its turn within 5 feet of you takes poison damage equal to your Charisma modifier. Once you use this invocation, you can't use it again until you finish a short or long rest.</p></div></div>"
         },
         {
           "level": 2,
