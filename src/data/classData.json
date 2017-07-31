@@ -3110,8 +3110,8 @@
         {
           "level": 3,
           "subclass": "base",
-          "name": "sacred-oath",
-          "title": "Sacred Oath",
+          "name": "channel-divinity",
+          "title": "Channel Divinity",
           "text": "<p>Your oath allows you to channel divine energy to fuel magical effects. Each Channel Divinity option provided by your oath explains how to use it.</p><p>When you use your Channel Divinity, you choose which option to use. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your paladin spell save DC.</p>"
         },
         {
@@ -3193,7 +3193,7 @@
           "subclass": "crown",
           "name": "crown",
           "title": "Sacred Oath: Oath of the Crown",
-          "text": "<p>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</p><h5>Tenets of the Crown</h5><p>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Law.</strong> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p><p class='pad-left'><strong>Loyalty.</strong> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p><p class='pad-left'><strong>Courage.</strong> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p><p class='pad-left'><strong>Responsibility.</strong> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p><p><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - command, compelled duel</li><li>5th - warding bond, zone of truth</li><li>9th - aura of vitality, spirit guardians</li><li>13th - banishment, guardian of faith</li><li>17th - circle of power, geas</li></ul>"
+          "text": "<p>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</p><h5>Tenets of the Crown</h5><p>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Law.</strong> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p><p class='pad-left'><strong>Loyalty.</strong> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p><p class='pad-left'><strong>Courage.</strong> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p><p class='pad-left'><strong>Responsibility.</strong> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p><p class='pad-left'><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - command, compelled duel</li><li>5th - warding bond, zone of truth</li><li>9th - aura of vitality, spirit guardians</li><li>13th - banishment, guardian of faith</li><li>17th - circle of power, geas</li></ul>"
         },
         {
           "level": 3,
@@ -4085,95 +4085,11 @@
           "text": "<p>In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability. At 2nd level, you gain two eldritch invocations from below. When you gain certain warlock levels, you gain additional invocations of your choice.</p><p>Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level. A level prerequisite in an invocation refers to warlock level, not character level.</p><div class='row'><div class='col-sm-6'><h5><strong>All Warlocks</strong></h5><h5>Eldritch Invocation: Agonizing Blast</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.</p><h5>Eldritch Invocation: Eldritch Spear</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>When you cast eldritch blast, its range is 300 feet.</p><h5>Eldritch Invocation: Repelling Blast</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.</p><h5>Eldritch Invocation: Armor of Shadows</h5><p class='pad-left'>You can cast mage armor on yourself at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Beast Speech</h5><p class='pad-left'>You can cast speak with animals at will, without expending a spell slot.</p><h5>Eldritch Invocation: Beguiling Influence</h5><p class='pad-left'>You gain proficiency in the Deception and Persuasion skills.</p><h5>Eldritch Invocation: Devil's Sight</h5><p class='pad-left'>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p><h5>Eldritch Invocation: Eldritch Sight</h5><p class='pad-left'>You can cast detect magic at will, without expending a spell slot.</p><h5>Eldritch Invocation: Eyes of the Rune Keeper</h5><p class='pad-left'>You can read all writing.</p><h5>Eldritch Invocation: Fiendish Vigor</h5><p class='pad-left'>You can cast false life on yourself at will as a 1st-level spell, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Gaze of Two Minds</h5><p class='pad-left'>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</p><h5>Eldritch Invocation: Mask of Many Faces</h5><p class='pad-left'>You can cast disguise self at will, without expending a spell slot.</p><h5>Eldritch Invocation: Misty Visions</h5><p class='pad-left'>You can cast silent image at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Thief of Five Fates</h5><p class='pad-left'>You can cast bane once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Mire the Mind</h5><p class='pad-left'><em>Prerequisite: 5th level</em></p><p class='pad-left'>You can cast slow once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: One with Shadows</h5><p class='pad-left'><em>Prerequisite: 5th level</em></p><p class='pad-left'>When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.</p><h5>Eldritch Invocation: Signs of Ill Omen</h5><p class='pad-left'><em>Prerequisite: 5th level</em></p><p class='pad-left'>You can cast bestow curse once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Bewitching Whispers</h5><p class='pad-left'><em>Prerequisite: 7th level</em></p><p class='pad-left'>You can cast compulsion once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Dreadful Word</h5><p class='pad-left'><em>Prerequisite: 7th level</em></p><p class='pad-left'>You can cast confusion once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Sculptor of Flesh</h5><p class='pad-left'><em>Prerequisite: 7th level</em></p><p class='pad-left'>You can cast polymorph once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Ascendant Step</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast levitate on yourself at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Minions of Chaos</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast conjure elemental once using a warlock spell slot. You can't do so again until you finish a long rest.</p><h5>Eldritch Invocation: Otherworldly Leap</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast jump on yourself at will, without expending a spell slot or material components.</p><h5>Eldritch Invocation: Whispers of the Grave</h5><p class='pad-left'><em>Prerequisite: 9th level</em></p><p class='pad-left'>You can cast speak with dead at will, without expending a spell slot.</p><h5>Eldritch Invocation: Lifedrinker</h5><p class='pad-left'><em>Prerequisite: 12th level</em></p><p class='pad-left'>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum of 1).</p><h5>Eldritch Invocation: Master of Myriad Forms</h5><p class='pad-left'><em>Prerequisite: 15th level</em></p><p class='pad-left'>You can cast alter self at will, without expending a spell slot.</p><h5>Eldritch Invocation: Witch Sight</h5><p class='pad-left'><em>Prerequisite: 15th level</em></p><p class='pad-left'>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p><h5>Eldritch Invocation: Visions of Distant Realms</h5><p class='pad-left'><em>Prerequisite: 15th level</em></p><p class='pad-left'>You can cast arcane eye at will, without expending a spell slot.</p></div><div class='col-sm-6'><h5><strong>Pact Based</strong></h5><h5>Eldritch Invocation: Thirsting Blade</h5><p class='pad-left'><em>Prerequisite: 5th level, Pact of the Blade feature</em></p><p class='pad-left'>You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.</p><h5>Eldritch Invocation: Book of Ancient Secrets</h5><p class='pad-left'><em>Prerequisite: Pact of the Tome feature</em></p><p class='pad-left'>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.</p><p class='pad-left'>On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</p><h5>Eldritch Invocation: Voice of the Chain Master</h5><p class='pad-left'><em>Prerequisite: Pact of the Chain feature</em></p><p class='pad-left'>You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p></div><div class='col-sm-6'><h5><strong>UA or HB Pact Based</strong></h5><h5>Eldritch Invocation: Chains of Carceri</h5><p class='pad-left'><em>Prerequisite: 15th level, Pact of the Chain feature</em></p><p class='pad-left'>You can cast hold monster at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p><h5>Eldritch Invocation: Frost Lance (UA)</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip</em></p><p class='pad-left'>Once on each of your turns when you hit a creature with your eldritch blast, you can reduce that creature's speed by 10 feet until the end of your next turn.</p><h5>Eldritch Invocation: Improved Pact Weapon (UA)</h5><p class='pad-left'><em>Prerequisite: Pact of the Blade feature</em></p><p class='pad-left'>You can use any weapon you summon with your Pact of the Blade feature as a spellcasting focus for your warlock spells. In addition, the weapon counts as a magic weapon with a +1 bonus to its attack and damage rolls, unless it is already a magic weapon that you transformed into your pact weapon.</p><h5>Eldritch Invocation: Eldritch Smite (UA)</h5><p class='pad-left'><em>Prerequisite: 5th level, Pact of the Blade feature</em></p><p class='pad-left'>Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra 1d8 force damage to the target, plus another 1d8 per level of the spell slot.</p><h5>Eldritch Invocation: Aspect of the Moon (UA)</h5><p class='pad-left'><em>Prerequisite: Pact of the Tome feature, Archfey patron</em></p><p class='pad-left'>You have gained the Maiden of the Moon's favor. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</p><h5>Eldritch Invocation: Grasp of Hadar (UA)</h5><p class='pad-left'><em>Prerequisite: eldritch blast cantrip, Great Old One patron</em></p><p class='pad-left'>Once on each of your turns when you hit a creature with your eldritch blast cantrip, you can move that creature in a straight line 10 feet closer to yourself.</p><h5>Eldritch Invocation: Ranna's Lidless Eye (UA)</h5><p class='pad-left'><em>Prerequisite: Pact of the Tome feature, Great Old One patron</em></p><p class='pad-left'>Ranna's soft purple-blue light is no longer able to lull you to dreams. You no longer need to sleep and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.</p><h5>Eldritch Invocation: Gaze of Saraneth (UA)</h5><p class='pad-left'><em>Prerequisite: 7th level, Great Old One patron</em></p><p class='pad-left'>You gain the piercing gaze of the blue star Saraneth. As an action, you can see through solid objects to a range of 30 feet until the end of the current turn. During that time, you perceive objects as ghostly, transparent images.</p><h5>Eldritch Invocation: Tomb of Levistus (UA)</h5><p class='pad-left'><em>Prerequisite: 5th level, Fiend patron</em></p><p class='pad-left'>As a reaction when you take damage, you can entomb yourself in ice, which melts away at the end of your next turn. You gain 10 temporary hit points per warlock level, which take as much of the triggering damage as possible. You also gain vulnerability to fire damage, your speed is reduced to 0, and you are incapacitated. These effects all end when the ice melts. Once you use this invocation, you can't use it again until you finish a short or long rest.</p><h5>Eldritch Invocation: Cloak of Baal (UA)</h5><p class='pad-left'><em>Prerequisite: 5th level, Fiend patron</em></p><p class='pad-left'>As a bonus action, you can conjure a swarm of buzzing flies around you. The swarm includes your space, extends 5 feet from you in every direction, and is blocked by total cover. It lasts until you're incapacitated or you dismiss it with a bonus action. The swarm grants you advantage on Charisma (Intimidation) checks but disadvantage on all other Charisma checks. In addition, a creature that starts its turn within 5 feet of you takes poison damage equal to your Charisma modifier. Once you use this invocation, you can't use it again until you finish a short or long rest.</p></div></div>"
         },
         {
-          "level": 2,
-          "subclass": "base",
-          "name": "channel-divinity-turn",
-          "title": "Channel Divinity: Turn Undead",
-          "text": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "base",
-          "name": "domain-1",
-          "title": "Divine Domain Feature",
-          "text": "At 2nd level, you gain a feature from your Divine Domain."
-        },
-        {
-          "level": 2,
-          "subclass": "arcana",
-          "name": "arcana-channel-divinity-abjure",
-          "title": "Arcana Channel Divinity: Arcane Abjuration",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures. As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p><p>After you reach 5th level, when a creature fails its saving throw against you Arcane Abjuration feature, the creature is banished for 1 minute if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as per the progressions of 'Channel Divinity: Destroy Undead'.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "death",
-          "name": "death-channel-divinity-touch",
-          "title": "Death Channel Divinity: Touch of Death",
-          "text": "Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature's life force by touch. When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice his or her cleric level."
-        },
-        {
-          "level": 2,
-          "subclass": "knowledge",
-          "name": "knowledge-channel-divinity-ages",
-          "title": "Knowledge Channel Divinity: Knowledge of the Ages",
-          "text": "Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool."
-        },
-        {
-          "level": 2,
-          "subclass": "life",
-          "name": "life-channel-divinity-preserve",
-          "title": "Life Channel Divinity: Preserve Life",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "light",
-          "name": "light-channel-divinity-dawn",
-          "title": "Light Channel Divinity: Radiance of Dawn",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.</p><p>As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "nature",
-          "name": "nature-channel-divinity-charm",
-          "title": "Nature Channel Divinity: Charm Nature",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</p><p>As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "tempest",
-          "name": "tempest-channel-divinity-wrath",
-          "title": "Tempest Channel Divinity: Destructive Wrath",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.</p><p>When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "trickery",
-          "name": "trickery-channel-divinity-duplicity",
-          "title": "Trickery Channel Divinity: Invoke Duplicity",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 10HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "war",
-          "name": "war-channel-divinity-strike",
-          "title": "War Channel Divinity: Guided Strike",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy.</p><p>When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "forge",
-          "name": "forge-channel-divinity-artisan",
-          "title": "Forge Channel Divinity: Artisan's Blessing",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create simple items.</p><pStarting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.</p><p>The object can be worth no more than 100 gp, and as part of this ritual you must expend metals, such as coins or other finished items, with a value equal to the item you want to make. The item can be an exact duplicate of a nonmagical item, such as a copy of a key, if you possess the original during your short rest.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "grave",
-          "name": "grave-channel-divinity-path",
-          "title": "Grave Channel Divinity: Path to the Grave",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</p><p>As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack's damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends. If the creature has resistance or is immune to the damage, it instead loses its resistance or immunity against that spell or attack when it first applies damage.</p>"
+          "level": 3,
+          "subclass": "bsdr",
+          "name": "pact-boon",
+          "title": "Pact Boon",
+          "text": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p><h5>Pact Boon: Pact of the Chain</h5><p>You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</p><p>When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.</p><p>Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.</p><h5>Pact Boon: Pact of the Blade</h5><p>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p><p>Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</p><p>You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</p><h5>Pact Boon: Pact of the Tome</h5><p>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</p>"
         },
         {
           "level": 4,
@@ -4183,102 +4099,39 @@
           "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 5,
-          "subclass": "base",
-          "name": "destroy-undead-half",
-          "title": "Destroy Undead (CR 1/2)",
-          "text": "Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
-        },
-        {
           "level": 6,
           "subclass": "base",
-          "name": "channel-divinity-2",
-          "title": "Channel Divinity (2/rest)",
-          "text": "Beginning at 6th level, you can use your Channel Divinity twice between rests."
+          "name": "pact-1",
+          "title": "Otherworldly Patron Feature",
+          "text": "At 6th level, you gain a feature granted by your Otherworldly Patron."
         },
         {
           "level": 6,
-          "subclass": "base",
-          "name": "domain-2",
-          "title": "Divine Domain Feature",
-          "text": "At 6th level, you gain a feature from your Divine Domain."
+          "subclass": "fey",
+          "name": "fey-escape",
+          "title": "The Archfey: Misty Escape",
+          "text": "Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn invisible and teleport up to 60 feet to an unoccupied space you can see. You remain invisible until the start of your next turn or until you attack or cast a spell. Once you use this feature, you can't use it again until you finish a short or long rest."
         },
         {
           "level": 6,
-          "subclass": "arcana",
-          "name": "arcana-spell-breaker",
-          "title": "Arcana Domain: Spell Breaker",
-          "text": "Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell."
+          "subclass": "fiend",
+          "name": "fiend-dark-ones-luck",
+          "title": "The Fiend: Dark One's Luck",
+          "text": "Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur. Once you use this feature, you can't use it again until you finish a short or long rest."
         },
         {
           "level": 6,
-          "subclass": "death",
-          "name": "death-inescapable",
-          "title": "Death Domain: Inescapable Destruction",
-          "text": "Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and Channel Divinity options ignores resistance to necrotic damage."
+          "subclass": "goo",
+          "name": "goo-entrophic-ward",
+          "title": "The Great Old One: Entrophic Ward",
+          "text": "At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest."
         },
         {
           "level": 6,
-          "subclass": "knowledge",
-          "name": "knowledge-channel-divinity-thoughts",
-          "title": "Knowledge Channel Divinity: Read Thoughts",
-          "text": "<p>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.</p><p>As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.</p><p>If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.</p><p>During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.</p>"
-        },
-        {
-          "level": 6,
-          "subclass": "life",
-          "name": "life-blessed-healer",
-          "title": "Life Domain: Blessed Healer",
-          "text": "Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level."
-        },
-        {
-          "level": 6,
-          "subclass": "light",
-          "name": "light-improved-flare",
-          "title": "Light Domain: Improved Flare",
-          "text": "Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you."
-        },
-        {
-          "level": 6,
-          "subclass": "nature",
-          "name": "nature-dampen-elements",
-          "title": "Nature Domain: Dampen Elements",
-          "text": "Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage."
-        },
-        {
-          "level": 6,
-          "subclass": "tempest",
-          "name": "tempest-thunderbolt-strike",
-          "title": "Tempest Domain: Thunderbolt Strike",
-          "text": "At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you."
-        },
-        {
-          "level": 6,
-          "subclass": "trickery",
-          "name": "trickery-cloak-of-shadows",
-          "title": "Trickery Channel Divinity: Shrouded Invoke Duplicity",
-          "text": "Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Invisibility."
-        },
-        {
-          "level": 6,
-          "subclass": "war",
-          "name": "war-channel-divinity-strike",
-          "title": "War Channel Divinity: War God's Blessing",
-          "text": "At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
-        },
-        {
-          "level": 6,
-          "subclass": "forge",
-          "name": "forge-soul",
-          "title": "Forge Domain: Soul of the Forge",
-          "text": "<p>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</p><ul><li>You gain a +1 bonus to AC while you are wearing medium or heavy armor.</li><li>You gain resistance to fire damage.</li><li>When you hit a construct with an attack, you deal additional force damage to it equal to your cleric level.</li></ul>"
-        },
-        {
-          "level": 6,
-          "subclass": "grave",
-          "name": "grave-sentinel",
-          "title": "Grave Domain: Sentinel at Death's Door",
-          "text": "Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. Once you use this feature, you can't use it again until you finish a short or long rest."
+          "subclass": "celestial",
+          "name": "celestial-radiant-soul",
+          "title": "The Celestial: Radiant Soul",
+          "text": "Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you add your Charisma modifier to that damage against one target of your choice."
         },
         {
           "level": 8,
@@ -4295,25 +4148,46 @@
           "text": "Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
         },
         {
-          "level": 8,
+          "level": 10,
           "subclass": "base",
-          "name": "spellcasting-and-strike",
-          "title": "Divine Conduit",
-          "text": "At 8th level, you receive two boons from your divine domain.</p><p>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8. The type of this damage is determined by your Divine Domain as follows:</p><ul><li>Arcana: force</li><li>Death: necrotic</li><li>Knowledge: psychic</li><li>Life: radiant</li><li>Light: radiant or fire</li><li>Nature: fire, cold, or lightning</li><li>Tempest: thunder</li><li>Trickery: acid</li><li>War: same as weapon</li><li>Forge: fire</li><li>Grave: necrotic</li></ul>"
+          "name": "pact-2",
+          "title": "Otherworldly Patron Feature",
+          "text": "At 10th level, you gain a feature granted by your Otherworldly Patron."
         },
         {
           "level": 10,
-          "subclass": "base",
-          "name": "divine-intervention",
-          "title": "Divine Intervention",
-          "text": "Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great. Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest."
+          "subclass": "fey",
+          "name": "fey-beguiling-defense",
+          "title": "The Archfey: Beguiling Defense",
+          "text": "Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being charmed, and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be charmed by you for 1 minute or until the creature takes any damage."
+        },
+        {
+          "level": 10,
+          "subclass": "fiend",
+          "name": "fiend-fiendish-resilience",
+          "title": "The Fiend: Fiendish Resilience",
+          "text": "Starting at 10th level, you can choose one damage type when you finish a short or long rest. You gain resistance to that damage type until you choose a different one with this feature. Damage from magical weapons or silver weapons ignores this resistance."
+        },
+        {
+          "level": 10,
+          "subclass": "goo",
+          "name": "goo-thought-shield",
+          "title": "The Great Old One: Thought Shield",
+          "text": "Starting at 10th level, your thoughts can't be read by telepathy or other means unless you allow it. You also have resistance to psychic damage, and whenever a creature deals psychic damage to you, that creature takes the same amount of damage that you do."
+        },
+        {
+          "level": 10,
+          "subclass": "celestial",
+          "name": "celestial-celestial-resilience",
+          "title": "The Celestial: Celestial Resilience",
+          "text": "Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier."
         },
         {
           "level": 11,
           "subclass": "base",
-          "name": "destroy-undead-2",
-          "title": "Destroy Undead (CR 2)",
-          "text": "Starting at 11th level, when an undead of CR 2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+          "name": "mystic-arcanum-1",
+          "title": "Mystic Arcanum (6th level)",
+          "text": "<p>At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p><p>At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.</p>"
         },
         {
           "level": 12,
@@ -4323,11 +4197,53 @@
           "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
+          "level": 13,
+          "subclass": "base",
+          "name": "mystic-arcanum-2",
+          "title": "Mystic Arcanum (7th level)",
+          "text": "<p>At 13th level, your patron bestows upon you a magical secret called an arcanum. Choose one 7th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p>"
+        },
+        {
           "level": 14,
           "subclass": "base",
-          "name": "destroy-undead-3",
-          "title": "Destroy Undead (CR 3)",
-          "text": "Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+          "name": "pact-3",
+          "title": "Otherworldly Patron Feature",
+          "text": "At 14th level, you gain a feature granted by your Otherworldly Patron."
+        },
+        {
+          "level": 14,
+          "subclass": "fey",
+          "name": "fey-dark-delirium",
+          "title": "The Archfey: Dark Delirium",
+          "text": "<p>Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is charmed or frightened by you (your choice) for 1 minute or until your concentration is broken (as if you are concentrating on a spell). This effect ends early if the creature takes any damage.</p><p>Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.</p><p>You must finish a short or long rest before you can use this feature again.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "fiend",
+          "name": "fiend-hurl-through-hell",
+          "title": "The Fiend: Hurl Through Hell",
+          "text": "<p>Starting at 14th level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.</p><p>At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "goo",
+          "name": "goo-create-thrall",
+          "title": "The Great Old One: Create Thrall",
+          "text": "<p>At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an incapacitated humanoid. That creature is then charmed by you until a remove curse spell is cast on it, the charmed condition is removed from it, or you use this feature again.</p><p>You can communicate telepathically with the charmed creature as long as the two of you are on the same plane of existence.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "celestial",
+          "name": "celestial-healing-light",
+          "title": "The Celestial: Healing Light",
+          "text": "<p>Starting at 14th level, the radiant energy you channel allows you to overcome grievous injuries. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up, if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 15,
+          "subclass": "base",
+          "name": "mystic-arcanum-3",
+          "title": "Mystic Arcanum (8th level)",
+          "text": "<p>At 15th level, your patron bestows upon you a magical secret called an arcanum. Choose one 8th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p>"
         },
         {
           "level": 16,
@@ -4339,100 +4255,9 @@
         {
           "level": 17,
           "subclass": "base",
-          "name": "destroy-undead-4",
-          "title": "Destroy Undead (CR 4)",
-          "text": "Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
-        },
-        {
-          "level": 17,
-          "subclass": "base",
-          "name": "domain-3",
-          "title": "Divine Domain Feature",
-          "text": "At 17th level, you gain a feature from your Divine Domain."
-        },
-                {
-          "level": 17,
-          "subclass": "arcana",
-          "name": "arcana-mastery",
-          "title": "Arcana Domain: Arcane Mastery",
-          "text": "At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you."
-        },
-        {
-          "level": 17,
-          "subclass": "death",
-          "name": "death-improved-reaper",
-          "title": "Death Domain: Improved Reaper",
-          "text": "Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target."
-        },
-        {
-          "level": 17,
-          "subclass": "knowledge",
-          "name": "knowledge-visions",
-          "title": "Knowledge Domain: Visions of the Past",
-          "text": "<p>Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p><p><strong>Object Reading:</strong> Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.</p><p><strong>Area Reading:</strong> As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.</p>"
-        },
-        {
-          "level": 17,
-          "subclass": "life",
-          "name": "life-supreme-healing",
-          "title": "Life Domain: Supreme Healing",
-          "text": "Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12."
-        },
-        {
-          "level": 17,
-          "subclass": "light",
-          "name": "light-corona",
-          "title": "Light Domain: Corona of Light",
-          "text": "Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage."
-        },
-        {
-          "level": 17,
-          "subclass": "nature",
-          "name": "nature-master",
-          "title": "Nature Domain: Master of Nature",
-          "text": "At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn."
-        },
-        {
-          "level": 17,
-          "subclass": "tempest",
-          "name": "tempest-stormborn",
-          "title": "Tempest Domain: Stormborn",
-          "text": "At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors."
-        },
-        {
-          "level": 17,
-          "subclass": "trickery",
-          "name": "trickery-cloak-of-shadows",
-          "title": "Trickery Channel Divinity: Improved Invoke Duplicity",
-          "text": "At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones."
-        },
-        {
-          "level": 17,
-          "subclass": "war",
-          "name": "war-avatar",
-          "title": "War Domain: Avatar of Battle",
-          "text": "At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
-        },
-        {
-          "level": 17,
-          "subclass": "forge",
-          "name": "forge-saint",
-          "title": "Forge Domain: Saint of FOrge and Fire",
-          "text": "At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks"
-        },
-        {
-          "level": 17,
-          "subclass": "grave",
-          "name": "grave-keeper",
-          "title": "Grave Domain: Keeper of Souls",
-          "text": "At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round."
-        },
-        {
-          "level": 18,
-          "subclass": "base",
-          "name": "channel-divinity-3",
-          "title": "Channel Divinity (3/rest)",
-          "text": "Beginning at 18th level, you can use your Channel Divinity three times between rests."
+          "name": "mystic-arcanum-4",
+          "title": "Mystic Arcanum (9th level)",
+          "text": "<p>At 17th level, your patron bestows upon you a magical secret called an arcanum. Choose one 9th-level spell from the warlock spell list as this arcanum.</p><p>You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.</p>"
         },
         {
           "level": 19,
@@ -4444,9 +4269,9 @@
         {
           "level": 20,
           "subclass": "base",
-          "name": "divine-intervention-improvement",
-          "title": "Divine Intervention Improvement",
-          "text": "At 20th level, your call for intervention succeeds automatically, no roll required."
+          "name": "eldritch-master",
+          "title": "Eldritch Master",
+          "text": "At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots. You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature. Once you regain spell slots with this feature, you must finish a long rest before you can do so again."
         }
       ]
     }
