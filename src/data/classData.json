@@ -3127,7 +3127,7 @@
           "subclass": "ancients",
           "name": "ancients",
           "title": "Sacred Oath: Oath of the Ancients",
-          "text": "<p>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</p><h5>Tenets of the Ancients</h5><p class='pad-left'>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</p><p class='pad-left'><strong>Kindle the Light.</strong> Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</p><p class='pad-left'><strong>Shelter the Light.</strong> Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</p><p class='pad-left'><strong>Preserve Your Own Light.</strong> Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</p><p class='pad-left'><strong>Be the Light.</strong> Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - ensnaring strike, speak with animals</li><li>5th - moonbeam, misty step</li><li>9th - plant growth, protection from energy</li><li>13th - ice storm, stoneskin</li><li>17th - commune with nature, tree stride</li></ul>"
+          "text": "<p>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</p><h5>Tenets of the Ancients</h5><p>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</p><p class='pad-left'><strong>Kindle the Light.</strong> Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</p><p class='pad-left'><strong>Shelter the Light.</strong> Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</p><p class='pad-left'><strong>Preserve Your Own Light.</strong> Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</p><p class='pad-left'><strong>Be the Light.</strong> Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - ensnaring strike, speak with animals</li><li>5th - moonbeam, misty step</li><li>9th - plant growth, protection from energy</li><li>13th - ice storm, stoneskin</li><li>17th - commune with nature, tree stride</li></ul>"
         },
         {
           "level": 3,
@@ -3149,7 +3149,7 @@
           "subclass": "devotion",
           "name": "devotion",
           "title": "Sacred Oath: Oath of Devotion",
-          "text": "<p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><h5>Tenets of Devotion</h5><p class='pad-left'>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><p class='pad-left'><strong>Honesty.</strong> Don’t lie or cheat. Let your word be your promise.</p><p class='pad-left'><strong>Courage.</strong> Never fear to act, though caution is wise.</p><p class='pad-left'><strong>Compassion.</strong> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p><p class='pad-left'><strong>Honor.</strong> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p><p class='pad-left'><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - protection from evil and good, sanctuary</li><li>5th - lesser restoration, zone of truth</li><li>9th - beacon of hope, dispel magic</li><li>13th - freedom of movement, guardian of faith</li><li>17th - commune, flame strike</li></ul>"
+          "text": "<p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><h5>Tenets of Devotion</h5><p>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><p class='pad-left'><strong>Honesty.</strong> Don’t lie or cheat. Let your word be your promise.</p><p class='pad-left'><strong>Courage.</strong> Never fear to act, though caution is wise.</p><p class='pad-left'><strong>Compassion.</strong> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p><p class='pad-left'><strong>Honor.</strong> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p><p class='pad-left'><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - protection from evil and good, sanctuary</li><li>5th - lesser restoration, zone of truth</li><li>9th - beacon of hope, dispel magic</li><li>13th - freedom of movement, guardian of faith</li><li>17th - commune, flame strike</li></ul>"
         },
         {
           "level": 3,
@@ -3171,7 +3171,7 @@
           "subclass": "vengeance",
           "name": "vengeance",
           "title": "Sacred Oath: Oath of Vengeance",
-          "text": "<p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside - at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><h5>Tenets of Vengeance</h5><p class='pad-left'>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><p class='pad-left'><strong>Fight the Greater Evil.</strong> Faced with a choice of fighting my sworn foes or combating a lesser evil. I choose the greater evil.</p><p class='pad-left'><strong>No Mercy for the Wicked.</strong> Ordinary foes might win my mercy, but my sworn enemies do not.</p><p class='pad-left'><strong>By Any Means Necessary.</strong> My qualms can't get in the way of exterminating my foes.</p><p class='pad-left'><strong>Restitution.</strong> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - bane, hunter's mark</li><li>5th - hold person, misty step</li><li>9th - haste, protection from energy</li><li>13th - banishment, dimension door</li><li>17th - hold monster, scrying</li></ul>"
+          "text": "<p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside - at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><h5>Tenets of Vengeance</h5><p>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><p class='pad-left'><strong>Fight the Greater Evil.</strong> Faced with a choice of fighting my sworn foes or combating a lesser evil. I choose the greater evil.</p><p class='pad-left'><strong>No Mercy for the Wicked.</strong> Ordinary foes might win my mercy, but my sworn enemies do not.</p><p class='pad-left'><strong>By Any Means Necessary.</strong> My qualms can't get in the way of exterminating my foes.</p><p class='pad-left'><strong>Restitution.</strong> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - bane, hunter's mark</li><li>5th - hold person, misty step</li><li>9th - haste, protection from energy</li><li>13th - banishment, dimension door</li><li>17th - hold monster, scrying</li></ul>"
         },
         {
           "level": 3,
@@ -3193,7 +3193,7 @@
           "subclass": "crown",
           "name": "crown",
           "title": "Sacred Oath: Oath of the Crown",
-          "text": "<p>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</p><h5>Tenets of the Crown</h5><p class='pad-left'>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Law.</strong> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p><p class='pad-left'><strong>Loyalty.</strong> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p><p class='pad-left'><strong>Courage.</strong> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p><p class='pad-left'><strong>Responsibility.</strong> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p><p><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - command, compelled duel</li><li>5th - warding bond, zone of truth</li><li>9th - aura of vitality, spirit guardians</li><li>13th - banishment, guardian of faith</li><li>17th - circle of power, geas</li></ul>"
+          "text": "<p>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</p><h5>Tenets of the Crown</h5><p>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Law.</strong> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p><p class='pad-left'><strong>Loyalty.</strong> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p><p class='pad-left'><strong>Courage.</strong> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p><p class='pad-left'><strong>Responsibility.</strong> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p><p><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - command, compelled duel</li><li>5th - warding bond, zone of truth</li><li>9th - aura of vitality, spirit guardians</li><li>13th - banishment, guardian of faith</li><li>17th - circle of power, geas</li></ul>"
         },
         {
           "level": 3,
@@ -3237,7 +3237,7 @@
           "subclass": "madness",
           "name": "madness",
           "title": "Sacred Oath: Oath of Madness (HB)",
-          "text": "<p>The Oath of Madness is consiously taken by warriors who serve otherworldly entities and quest to release them into the meterial plane, but many others unintentionally convert. Some were trying to prevent otherworldly incursion. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many of those who found themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consiousness.</p><h5>Tenets of Madness</h5><p class='pad-left'>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Spread the Word.</strong> Sanity is a curse, and you must take every effort to unburden the afflicted. </p><p class='pad-left'><strong>Write the Books.</strong> There is no point only saying things -- spoken words die as soon as they're un-listened. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Respect the Messengers.</strong> Those touched with madness are truly blessed. You are the sworn protector of the mad, the wild, and the forgotten -- do not allow them to come to harm.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible. Others always need more ways in.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - hallucinatory terrain, confusion</li><li>17th - contact other plane, dream</li></ul>"
+          "text": "<p>The Oath of Madness is consiously taken by warriors who serve otherworldly entities and quest to release them into the meterial plane, but many others unintentionally convert. Some were trying to prevent otherworldly incursion. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many of those who found themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consiousness.</p><h5>Tenets of Madness</h5><p>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Spread the Word.</strong> Sanity is a curse, and you must take every effort to unburden the afflicted. </p><p class='pad-left'><strong>Write the Books.</strong> There is no point only saying things -- spoken words die as soon as they're un-listened. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Respect the Messengers.</strong> Those touched with madness are truly blessed. You are the sworn protector of the mad, the wild, and the forgotten -- do not allow them to come to harm.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible. Others always need more ways in.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - hallucinatory terrain, confusion</li><li>17th - contact other plane, dream</li></ul>"
         },
         {
           "level": 3,
@@ -3394,7 +3394,7 @@
           "text": "Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned."
         },
         {
-          "level": 7,
+          "level": 15,
           "subclass": "oathbreaker",
           "name": "oathbreaker-supernatural-resistance",
           "title": "Oathbreaker: Supernatural Resistance",
@@ -3601,148 +3601,97 @@
         {
           "level": 3,
           "subclass": "base",
-          "name": "sacred-oath",
-          "title": "Sacred Oath",
+          "name": "ranger-conclave",
+          "title": "Ranger Conclave",
           "text": "At 3rd level, you choose to emulate the ideals and training of a ranger conclave detailed below. Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level."
         },
         {
           "level": 3,
-          "subclass": "base",
-          "name": "sacred-oath",
-          "title": "Sacred Oath",
-          "text": "<p>When you reach 3rd level, you swear the oath that binds you as a paladin forever. Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you choose the Oath of Devotion, the Oath of the Ancients, the Oath of the Crown, or the Oath of Vengeance, all detailed at the end of the class description.</p><p>Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.</p>"
+          "filter": "yes",
+          "subclass": "beast",
+          "name": "beast",
+          "title": "Ranger Conclave: Beast Conclave",
+          "text": "Many rangers are more at home in the wilds than in civilization, to the point where animals consider them kin. Rangers of the Beast Conclave develop a close bond with a beast, then further strengthen that bond through the use of magic."
+        },
+        {
+          "level": 3,
+          "subclass": "beast",
+          "name": "beast-companion",
+          "title": "Beast Conclave: Animal Companion",
+          "text": "<p>At 3rd level, you learn to use your magic to create a powerful bond with a creature of the natural world.</p><p>With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select you companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area.</p><p>At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion's Bond ability. You can have only one animal companion at a time.</p><p>If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion's spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.</p><p>If you use this ability to return a former animal companion to life while you have a current animal companion, your current companion leaves you and is replaced by the restored companion.</p>"
+        },
+        {
+          "level": 3,
+          "subclass": "beast",
+          "name": "beast-companion-bond",
+          "title": "Beast Conclave: Companion's Bond",
+          "text": "<p>Your animal companion gains a variety of benefits while it is linked to you.</p><p>The animal companion loses its Multiattack action, if it has one.</p><p>The companion obeys your commands as best it can. It acts on your initiative, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your companion acts on its own.</p><p>When using your Natural Explorer feature, you and your animal companion can both move stealthily at a normal pace.</p><p>Your animal companion has abilities and game statistics determined in part by your level. Your companion uses your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, an animal companion also adds its proficiency bonus to its AC and to its damage rolls.</p><p>Your animal companion gains proficiency in two skills of your choice. It also becomes proficient with all saving throws.</p><p>For each level you gain after 3rd, your animal companion gains an additional hit die and increases its hit points accordingly</p><p>Whenever you gain the Ability Score Improvement class feature, your companion's abilities also improve. Your companion can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your companion can't increase an ability score above 20 using this feature unless its description specifies otherwise.</p><p>Your companion shares your alignment, and has a personality of your choice. Your companion shares your ideal, and its bond is always, 'The ranger who travels with me is a beloved companion for whom I would gladly give my life.'</p><p>Your animal companion gains the benefits of your Favored Enemy feature, and of your Greater Favored Enemy feature when you gain that feature at 6th level. It uses the favored enemies you selected for those features.</p>"
         },
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "ancients",
-          "name": "ancients",
-          "title": "Sacred Oath: Oath of the Ancients",
-          "text": "<p>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</p><h5>Tenets of the Ancients</h5><p class='pad-left'>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</p><p class='pad-left'><strong>Kindle the Light.</strong> Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</p><p class='pad-left'><strong>Shelter the Light.</strong> Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</p><p class='pad-left'><strong>Preserve Your Own Light.</strong> Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</p><p class='pad-left'><strong>Be the Light.</strong> Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - ensnaring strike, speak with animals</li><li>5th - moonbeam, misty step</li><li>9th - plant growth, protection from energy</li><li>13th - ice storm, stoneskin</li><li>17th - commune with nature, tree stride</li></ul>"
+          "subclass": "hunter",
+          "name": "hunter",
+          "title": "Ranger Conclave: Hunter",
+          "text": "Some rangers seek to master weapons to better protect civilization from the terrors of the wilderness. Members of the Hunter Conclave learn specialized fighting techniques for use against the most dire threats, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons."
         },
         {
           "level": 3,
-          "subclass": "ancients",
-          "name": "ancients-channel-1",
-          "title": "Oath of the Ancients Channel Divinity: Nature's Wrath",
-          "text": "You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish."
-        },
-        {
-          "level": 3,
-          "subclass": "ancients",
-          "name": "ancients-channel-2",
-          "title": "Oath of the Ancients Channel Divinity: Turn the Faithless",
-          "text": "<p>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p><p>If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</p>"
+          "subclass": "hunter",
+          "name": "hunter-hunters-prey",
+          "title": "Hunter: Hunter's Prey",
+          "text": "<p>At 3rd level, you gain one of the following features of your choice: Colossus Slayer, Giant Killer, or Horde Breaker.</p><ul><li>Colossus Slayer:Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</li><li>Giant Killer:When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</li><li>Horde Breaker: Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</li></ul>"
         },
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "devotion",
-          "name": "devotion",
-          "title": "Sacred Oath: Oath of Devotion",
-          "text": "<p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><h5>Tenets of Devotion</h5><p class='pad-left'>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><p class='pad-left'><strong>Honesty.</strong> Don’t lie or cheat. Let your word be your promise.</p><p class='pad-left'><strong>Courage.</strong> Never fear to act, though caution is wise.</p><p class='pad-left'><strong>Compassion.</strong> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p><p class='pad-left'><strong>Honor.</strong> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p><p class='pad-left'><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - protection from evil and good, sanctuary</li><li>5th - lesser restoration, zone of truth</li><li>9th - beacon of hope, dispel magic</li><li>13th - freedom of movement, guardian of faith</li><li>17th - commune, flame strike</li></ul>"
+          "subclass": "stalker",
+          "name": "stalker",
+          "title": "Ranger Conclave: Deep Stalker (UA)",
+          "text": "Most folk descend into the depths of the Underdark only under the most pressing conditions, undertaking some desperate quest or following the promise of vast riches. All too often, evil festers beneath the earth unnoticed, and rangers of the Deep Stalker Conclave strive to uncover and defeat such threats before they can reach the surface."
         },
         {
           "level": 3,
-          "subclass": "devotion",
-          "name": "devotion-channel-1",
-          "title": "Oath of Devotion Channel Divinity: Sacred Weapon",
-          "text": "<p>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</p>"
+          "subclass": "stalker",
+          "name": "stalker-magic",
+          "title": "Deep Stalker: Deep Stalker Magic",
+          "text": "<p>At 3rd level, you have darkvision out to a range of 90 feet. If you already have darkvision, you increase its range by 30 feet. You also learn an additional spell when you reach certain levels in this class, as shown below. Once you gain a deep stalker spell, it counts as a ranger spell for you but doesn't count against the number of rangers spells you know.</p><ul><li>3rd - disguise self</li><li>5th - rope trick</li><li>9th - glyph of warding</li><li>13th - greater invisibility</li><li>17th - seeming</li></ul>"
         },
         {
           "level": 3,
-          "subclass": "devotion",
-          "name": "devotion-channel-2",
-          "title": "Oath of Devotion Channel Divinity: Turn the Unholy",
-          "text": "<p>As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
-        },
-        {
-          "level": 3,
-          "filter": "yes",
-          "subclass": "vengeance",
-          "name": "vengeance",
-          "title": "Sacred Oath: Oath of Vengeance",
-          "text": "<p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside - at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><h5>Tenets of Vengeance</h5><p class='pad-left'>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><p class='pad-left'><strong>Fight the Greater Evil.</strong> Faced with a choice of fighting my sworn foes or combating a lesser evil. I choose the greater evil.</p><p class='pad-left'><strong>No Mercy for the Wicked.</strong> Ordinary foes might win my mercy, but my sworn enemies do not.</p><p class='pad-left'><strong>By Any Means Necessary.</strong> My qualms can't get in the way of exterminating my foes.</p><p class='pad-left'><strong>Restitution.</strong> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p><h5>Oath Spells</h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - bane, hunter's mark</li><li>5th - hold person, misty step</li><li>9th - haste, protection from energy</li><li>13th - banishment, dimension door</li><li>17th - hold monster, scrying</li></ul>"
-        },
-        {
-          "level": 3,
-          "subclass": "vengeance",
-          "name": "vengeance-channel-1",
-          "title": "Oath of Vengeance Channel Divinity: Sacred Weapon",
-          "text": "<p>As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being frightened. Fiends and undead have disadvantage on this saving throw.</p><p>On a failed save, the creature is frightened for 1 minute or until it takes any damage. While frightened, the creature's speed is 0, and it can't benefit from any bonus to its speed.</p><p>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</p>"
-        },
-        {
-          "level": 3,
-          "subclass": "vengeance",
-          "name": "vengeance-channel-2",
-          "title": "Oath of Vengeance Channel Divinity: Vow of Enmity",
-          "text": "As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious."
+          "subclass": "stalker",
+          "name": "stalker-underdark-scout",
+          "title": "Deep Stalker: Underdark Scout",
+          "text": "At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed and if you use the attack action on that turn, you can make one additional attack. You are also adept at evading creatures that rely on darkvision. Such creatures gain no benefit when attempting to detect you in dark and dim conditions. Additionally, when the DM determines if you can hide from a creature, that creature gains no benefit from its darkvision."
         },
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "crown",
-          "name": "crown",
-          "title": "Sacred Oath: Oath of the Crown",
-          "text": "<p>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</p><h5>Tenets of the Crown</h5><p class='pad-left'>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Law.</strong> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p><p class='pad-left'><strong>Loyalty.</strong> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p><p class='pad-left'><strong>Courage.</strong> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p><p class='pad-left'><strong>Responsibility.</strong> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p><p><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - command, compelled duel</li><li>5th - warding bond, zone of truth</li><li>9th - aura of vitality, spirit guardians</li><li>13th - banishment, guardian of faith</li><li>17th - circle of power, geas</li></ul>"
+          "subclass": "horizon",
+          "name": "horizon",
+          "title": "Ranger Conclave: Horizon Walker (UA)",
+          "text": "Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats."
         },
         {
           "level": 3,
-          "subclass": "crown",
-          "name": "crown-channel-1",
-          "title": "Oath of the Crown Channel Divinity: Champion Challenge",
-          "text": "You issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is moved more than 30 feet away from you."
+          "subclass": "horizon",
+          "name": "horizon-magic",
+          "title": "Horizon Walker: Planar Magic",
+          "text": "<p>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown below. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.</p><ul><li>3rd - protection from good and evil</li><li>5th - alter self</li><li>9th - protection from energy</li><li>13th - banishment</li><li>17th - teleportation circle</li></ul>"
         },
         {
           "level": 3,
-          "subclass": "crown",
-          "name": "crown-channel-2",
-          "title": "Oath of the Crown Channel Divinity: Turn the Tide",
-          "text": "As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points."
+          "subclass": "horizon",
+          "name": "horizon-planar-warrior",
+          "title": "Horizon Walker: Planar Warrior",
+          "text": "<p>At 3rd level, you learn to draw on the energy of the planes to augment your attacks.</p><p>As a bonus action, choose one creature you can see within 30 feet of you. Until the end of this turn, your attacks against that creature ignore its damage resistances, and the next time you hit it on this turn, it takes an additional 1d6 force damage.</p>"
         },
         {
           "level": 3,
-          "filter": "yes",
-          "subclass": "oathbreaker",
-          "name": "oathbreaker",
-          "title": "Oathbreaker",
-          "text": "<p>An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart has been extinguished. Only darkness remains.</p><p>A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - hellish rebuke, inflict wounds</li><li>5th - crown of madness, darkness</li><li>9th - animate dead, bestow curse</li><li>13th - blight, confusion</li><li>17th - contagion, dominate person</li></ul>"
-        },
-        {
-          "level": 3,
-          "subclass": "oathbreaker",
-          "name": "oathbreaker-channel-1",
-          "title": "Oathbreaker Channel Divinity: Control Undead",
-          "text": "As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin's commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect."
-        },
-        {
-          "level": 3,
-          "subclass": "oathbreaker",
-          "name": "oathbreaker-channel-2",
-          "title": "Oathbreaker Channel Divinity: Dreadful Aspect",
-          "text": "As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it."
-        },
-        {
-          "level": 3,
-          "filter": "yes",
-          "subclass": "madness",
-          "name": "madness",
-          "title": "Sacred Oath: Oath of Madness (HB)",
-          "text": "<p>The Oath of Madness is consiously taken by warriors who serve otherworldly entities and quest to release them into the meterial plane, but many others unintentionally convert. Some were trying to prevent otherworldly incursion. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many of those who found themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consiousness.</p><h5>Tenets of Madness</h5><p class='pad-left'>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Spread the Word.</strong> Sanity is a curse, and you must take every effort to unburden the afflicted. </p><p class='pad-left'><strong>Write the Books.</strong> There is no point only saying things -- spoken words die as soon as they're un-listened. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Respect the Messengers.</strong> Those touched with madness are truly blessed. You are the sworn protector of the mad, the wild, and the forgotten -- do not allow them to come to harm.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible. Others always need more ways in.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - hallucinatory terrain, confusion</li><li>17th - contact other plane, dream</li></ul>"
-        },
-        {
-          "level": 3,
-          "subclass": "madness",
-          "name": "madness-channel-1",
-          "title": "Oath of Madness Channel Divinity: Instill Madness",
-          "text": "You can use your Channel Divinity to force others to echo your insane mind. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Charisma saving throw. On a failed save, the creatures become incapacitated and spend the duration screaming, laughing, or weeping. This madness lasts for 1 minute or until the creature takes damage. The creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success."
-        },
-        {
-          "level": 3,
-          "subclass": "madness",
-          "name": "madness-channel-2",
-          "title": "Oath of Madness Channel Divinity: Eldritch Grasp",
-          "text": "You can use your Channel Divinity to invoke otherworldy forces to ensnare a foe. As an action, you can cause a milky purple tentacle to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the tentacle, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the tentacle retreats."
+          "subclass": "horizon",
+          "name": "horizon-portal-lore",
+          "title": "Horizon Walker: Portal Lore",
+          "text": "<p>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn't reveal them.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.</p>"
         },
         {
           "level": 4,
@@ -3754,65 +3703,79 @@
         {
           "level": 5,
           "subclass": "base",
-          "name": "extra-attack",
-          "title": "Extra Attack",
+          "name": "ranger-conclave-1",
+          "title": "Ranger Conclave Feature",
+          "text": "At 5th level, you gain a feature granted to you by your Ranger Conclave."
+        },
+        {
+          "level": 5,
+          "subclass": "beast",
+          "name": "beast-attack",
+          "title": "Beast Conclave: Coordinated Attack",
+          "text": "Beginning at 5th level, you and your animal companion form a more potent fighting force. When you use the Attack action on your turn, if your companion can see you, it can use its reaction to make a melee attack."
+        },
+        {
+          "level": 5,
+          "subclass": "hunter",
+          "name": "hunter-attack",
+          "title": "Hunter Conclave: Extra Attack",
+          "text": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        },
+        {
+          "level": 5,
+          "subclass": "stalker",
+          "name": "stalker-attack",
+          "title": "Deep Stalker: Extra Attack",
+          "text": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        },
+        {
+          "level": 5,
+          "subclass": "horizon",
+          "name": "horizon-attack",
+          "title": "Horizon Walker: Extra Attack",
           "text": "Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
         },
         {
           "level": 6,
           "subclass": "base",
-          "name": "aura-of-protection",
-          "title": "Aura of Protection",
-          "text": "Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus. At 18th level, the range of this aura increases to 30 feet."
+          "name": "greater-favored-enemy",
+          "title": "Greater Favored Enemy",
+          "text": "<p>At 6th level, you are ready to hunt even deadlier game. Choose a type of greater favored enemy: aberrations, celestials, constructs, dragons, elementals, fiends, or giants. You gain all the benefits against this chosen enemy that you normally gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.</p><p>Additionally, you have advantage on saving throws against the spells and abilities used by a greater favored enemy.</p>"
         },
         {
           "level": 7,
           "subclass": "base",
-          "name": "oath-1",
-          "title": "Sacred Oath feature",
-          "text": "At 7th level, you gain a feature granted to you by your Sacred Oath."
+          "name": "ranger-conclave-2",
+          "title": "Ranger Conclave Feature",
+          "text": "At 7th level, you gain a feature granted to you by your Ranger Conclave."
         },
         {
           "level": 7,
-          "subclass": "ancients",
-          "name": "ancients-aura",
-          "title": "Oath of the Ancients: Aura of Warding",
-          "text": "Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells. At 18th level, the range of this aura increases to 30 feet."
+          "subclass": "beast",
+          "name": "beast-defense",
+          "title": "Beast Conclave: Beast's Defense",
+          "text": "At 7th level, while your companion can see you, it has advantage on all saving throws."
         },
         {
           "level": 7,
-          "subclass": "devotion",
-          "name": "devotion-aura",
-          "title": "Oath of Devotion: Aura of Devotion",
-          "text": "Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious. At 18th level, the range of this aura increases to 30 feet."
+          "subclass": "hunter",
+          "name": "hunter-defensive-tactics",
+          "title": "Hunter Conclave: Defensive Tactics",
+          "text": "<p>At 7th level, you gain one of the following features of your choice: Escape the Horde, Multiattack Defense, or Steel Will.</p><ul><li>Escape the Horde: Opportunity attacks against you are made with disadvantage.</li><li>Multiattack Defense: When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.</li><li>Steel Will: You have advantage on saving throws against being frightened.</li></ul>"
         },
         {
           "level": 7,
-          "subclass": "vengeance",
-          "name": "vengeance-relentless-avenger",
-          "title": "Oath of Vengeance: Relentless Avenger",
-          "text": "By 7th level, your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks."
+          "subclass": "stalker",
+          "name": "stalker-iron-mind",
+          "title": "Deep Stalker: Iron Mind",
+          "text": "At 7th level, you gain proficiency in Wisdom saving throws."
         },
         {
           "level": 7,
-          "subclass": "crown",
-          "name": "crown-divine-allegiance",
-          "title": "Oath of the Crown: Divine Allegiance",
-          "text": "Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way."
-        },
-        {
-          "level": 7,
-          "subclass": "oathbreaker",
-          "name": "oathbreaker-aura",
-          "title": "Oathbreaker: Aura of Hate",
-          "text": "Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin's Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time. At 18th level, the range of this aura increases to 30 feet."
-        },
-        {
-          "level": 7,
-          "subclass": "madness",
-          "name": "madness-aura",
-          "title": "Oath of Madness: Gravatic Aura",
-          "text": "At 7th level, you learn how to manipulate geometries to point towards yourself more than they have any right too. Hostile creatures within 10 feet treat that area as difficult terrain as long as they are trying to move away from you. At 18th level, the range of this aura increases to 30 feet."
+          "subclass": "horizon",
+          "name": "horizon-ethereal-step",
+          "title": "Horizon Walker: Ethereal Step",
+          "text": "At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest."
         },
         {
           "level": 8,
@@ -3822,18 +3785,53 @@
           "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
+          "level": 8,
+          "subclass": "base",
+          "name": "fleet-of-foot",
+          "title": "Fleet of Foot",
+          "text": "Beginning at 8th level, you can use the Dash action as a bonus action on your turn.."
+        },
+        {
           "level": 10,
           "subclass": "base",
-          "name": "aura-of-courage",
-          "title": "Aura of Courage",
-          "text": "Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious. At 18th level, the range of this aura increases to 30 feet."
+          "name": "hide-in-plain-sight",
+          "title": "Hide in Plain Sight",
+          "text": "<p>Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes.</p><p>When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.</p><p>If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</p>"
         },
         {
           "level": 11,
           "subclass": "base",
-          "name": "improved-divine-smite",
-          "title": "Improved Divine Smite",
-          "text": "By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your Divine Smite."
+          "name": "ranger-conclave-3",
+          "title": "Ranger Conclave Feature",
+          "text": "At 11th level, you gain a feature granted to you by your Ranger Conclave."
+        },
+        {
+          "level": 11,
+          "subclass": "beast",
+          "name": "beast-storm-of-claw-and-fangs",
+          "title": "Beast Conclave: Storm of Claw and Fangs",
+          "text": "At 11th level, your companion can use its action to make a melee attack against each creature of its choice within 5 feet of it, with a separate attack roll for each target."
+        },
+        {
+          "level": 11,
+          "subclass": "hunter",
+          "name": "hunter-multiattack",
+          "title": "Hunter Conclave: Multiattack",
+          "text": "<p>At 11th level, you gain one of the following features of your choice: Volley or Whirlwind Attack.</p><ul><li>Volley: You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.</li><li>Whirlwind Attack: You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.</li></ul>"
+        },
+        {
+          "level": 11,
+          "subclass": "stalker",
+          "name": "stalker-flurry",
+          "title": "Deep Stalker: Stalker's Flurry",
+          "text": "Starting at 11th level, once on each of your turns when you miss with an attack, you can make another attack. You can gain one additional attack during your turn with this ability."
+        },
+        {
+          "level": 11,
+          "subclass": "horizon",
+          "name": "horizon-distnt-strike",
+          "title": "Horizon Walker: Distant Strike",
+          "text": "<p>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation.</p><p>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</p>"
         },
         {
           "level": 12,
@@ -3845,58 +3843,44 @@
         {
           "level": 14,
           "subclass": "base",
-          "name": "cleansing-touch",
-          "title": "Cleansing Touch",
-          "text": "<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.</p>"
+          "name": "vanish",
+          "title": "Vanish",
+          "text": "Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by nonmagical means, unless you choose to leave a trail."
         },
         {
           "level": 15,
           "subclass": "base",
-          "name": "oath-2",
-          "title": "Sacred Oath Feature",
-          "text": "At 15th level, you gain a feature granted to you by your Sacred Oath."
+          "name": "ranger-conclave-4",
+          "title": "Ranger Conclave Feature",
+          "text": "At 15th level, you gain a feature granted to you by your Ranger Conclave."
         },
         {
           "level": 15,
-          "subclass": "ancients",
-          "name": "ancients-aura",
-          "title": "Oath of the Ancients: Undying Sentinel",
-          "text": "<p>Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.</p><p>Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.</p>"
+          "subclass": "beast",
+          "name": "beast-superior-defense",
+          "title": "Beast Conclave: Superior Beast's Defense",
+          "text": "At 15th level, whenever an attacker that your companion can see hits it with an attack, it can use its reaction to halve the attack's damage against it."
         },
         {
           "level": 15,
-          "subclass": "devotion",
-          "name": "devotion-purity-of-spirit",
-          "title": "Oath of Devotion: Purity of Spirit",
-          "text": "Beginning at 15th level, you are always under the effects of a protection from evil and good spell."
+          "subclass": "hunter",
+          "name": "hunter-superior-defense",
+          "title": "Hunter Conclave: Multiattack",
+          "text": "<p>At 15th level, you gain one of the following features of your choice: Evasion, Stand Against the Tide, or Uncanny Dodge.</p><ul><li>Evasion: When you are subjected to an effect, such as a red dragon's fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.</li><li>Stand Against the Tide: When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</li><li>Uncanny Dodge: When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</li></ul>"
         },
         {
           "level": 15,
-          "subclass": "vengeance",
-          "name": "vengeance-soul-of-vengeance",
-          "title": "Oath of Vengeance: Soul of Vengeance",
-          "text": "Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range."
+          "subclass": "stalker",
+          "name": "stalker-dodge",
+          "title": "Deep Stalker: Stalker's Dodge",
+          "text": "At 15th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined."
         },
         {
           "level": 15,
-          "subclass": "crown",
-          "name": "crown-unyielding-spirit",
-          "title": "Oath of the Crown: Unyielding Spirit",
-          "text": "Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned."
-        },
-        {
-          "level": 7,
-          "subclass": "oathbreaker",
-          "name": "oathbreaker-supernatural-resistance",
-          "title": "Oathbreaker: Supernatural Resistance",
-          "text": "At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
-        },
-        {
-          "level": 15,
-          "subclass": "madness",
-          "name": "madness-untouchable-mind",
-          "title": "Oath of Madness: Untouchable Mind",
-          "text": "Starting at 15th level, your mind becomes so warped and strange thay you have resistance to psychic damage and advantage on saving throws against effects that would read your thoughts or control your actions."
+          "subclass": "horizon",
+          "name": "horizon-spectral-defense",
+          "title": "Horizon Walker: Spectral Defense",
+          "text": "At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm."
         },
         {
           "level": 16,
@@ -3908,9 +3892,9 @@
         {
           "level": 18,
           "subclass": "base",
-          "name": "aura-improvements",
-          "title": "Aura Improvements",
-          "text": "At 18th level, the range of all your Auras increase to 30 feet. This includes the base Aura of Protections as well as auras from the following Oaths: Ancients, Devotion, Oathbreaker, and Madness."
+          "name": "feral-senses",
+          "title": "Feral Senses",
+          "text": "At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened."
         },
         {
           "level": 19,
@@ -3922,53 +3906,710 @@
         {
           "level": 20,
           "subclass": "base",
-          "name": "oath-3",
-          "title": "Sacred Oath Feature",
-          "text": "At 20th level, you gain a feature granted to you by your Sacred Oath."
+          "name": "foe-slayer",
+          "title": "Foe Slayer",
+          "text": "At 20th level, you become an unparalleled hunter. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied."
+        }
+      ]
+    },
+    {
+      "name": "Warlock",
+      "id": "warlock",
+      "description": "Arcane casters defined by their pact with a powerful patron. Warlocks use unique powers granted by their pact to cause damage, control the battlefield, and further their patrons aims on the material plane.",
+      "hd": "8",
+      "proficiencies": [
+                     "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
+                     "<strong>Armor:</strong> light armor",
+                     "<strong>Weapons:</strong> simple weapons",
+                     "<strong>Saving Throws:</strong> WIS, CHA",
+                     "<strong>Skills:</strong> Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion"
+                      ],
+      "equipment": [
+                     "You start with the following items, plus anything provided by your background.",
+                     "<ul><li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li><li>(a) a component pouch or (b) an arcane focus</li><li>(a) a scholar's pack or (b) a dungeoneer's pack</li><li>Leather armor, any simple weapon, and two daggers</li></ul>",
+                     "Alternatively, you may start with 4d4 × 10 gp to buy your own equipment."
+                   ],
+      "leveltable": [
+        { 
+          "columns": 8,
+          "data": ["Level", "Proficiency", "Features", "Cantrips", "Spells", "Slots", "Level","Invocations"]
+        },
+        {
+          "data": ["1", "+2", "features","2","2","1","1st","-"]
+        },
+        {
+          "data": ["2", "+2", "features","2","3","2","1st","2"]
+        },
+        {
+          "data": ["3", "+2", "features","2","4","2","2nd","2"]
+        },
+        {
+          "data": ["4", "+2", "features","3","5","2","2nd","2"]
+        },
+        {
+          "data": ["5", "+3", "features","3","6","2","3rd","3"]
+        },
+        {
+          "data": ["6", "+3", "features","3","7","2","3rd","3"]
+        },
+        {
+          "data": ["7", "+3", "features","3","8","2","4th","4"]
+        },
+        {
+          "data": ["8", "+3", "features","3","9","2","4th","4"]
+        },
+        {
+          "data": ["9", "+4", "features","3","10","2","5th","5"]
+        },
+        {
+          "data": ["10", "+4", "features","4","10","2","5th","5"]
+        },
+        {
+          "data": ["11", "+4", "features","4","11","3","5th","5"]
+        },
+        {
+          "data": ["12", "+4", "features","4","11","3","5th","6"]
+        },
+        {
+          "data": ["13", "+5", "features","4","12","3","5th","6"]
+        },
+        {
+          "data": ["14", "+5", "features","4","12","3","5th","6"]
+        },
+        {
+          "data": ["15", "+5", "features","4","13","3","5th","7"]
+        },
+        {
+          "data": ["16", "+5", "features","4","13","3","5th","7"]
+        },
+        {
+          "data": ["17", "+6", "features","4","14","4","5th","7"]
+        },
+        {
+          "data": ["18", "+6", "features","4","14","4","5th","8"]
+        },
+        {
+          "data": ["19", "+6", "features","4","15","4","5th","8"]
+        },
+        {
+          "data": ["20", "+6", "features","4","15","4","5th","8"]
+        }
+      ],
+      "features" : [
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "casting",
+          "title": "Spellcasting",
+          "text": "<p>As a conduit for divine power, you can cast cleric spells.</p><h5>Cantrips</h5><p>You know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels per the Cleric table.</p><h5>Preparing and Casting Spells</h5><p class='pad-left'>The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p class='pad-left'>You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.</p><p class='pad-left'>You can change your list of prepared spells when you finish a long rest.</p><h5>Spellcasting Ability</h5><p class='pad-left'>Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity.</p><ul><li>Spell save DC = 8 + proficiency + WIS</li><li>Spell attack modifier = proficiency + WIS</li></ul><h5>Ritual Casting</h5><p class='pad-left'>You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p><h5>Spellcasting Focus</h5><p class='pad-left'>You can use a holy symbol as a spellcasting focus for your cleric spells.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "domain-0",
+          "title": "Divine Domain",
+          "text": "<p>Choose one domain related to your deity; each domain is detailed in their own feature. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.</p><p>Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "arcana",
+          "name": "arcana",
+          "title": "Domain: Arcana",
+          "text": "<p>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - detect magic, magic missile</li><li>3rd - magic weapon, Nystul's magic aura</li><li>5th - dispel magic, magic circle</li><li>7th - arcane eye, Leomund's secret chest</li><li>9th - planar binding, teleportation circle</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "death",
+          "name": "death",
+          "title": "Domain: Death",
+          "text": "<p>The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Gods of Death are patrons of necromancers, death knights, liches, and vampires. THey can also embody murder, pain, disease, or poison.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - false life, ray of sickness</li><li>3rd - blindness/deafness, ray of enfeeblement</li><li>5th - animate dead, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, cloudkill</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "knowledge",
+          "name": "knowledge",
+          "title": "Domain: Knowledge",
+          "text": "<p>The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. </p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - command, identify</li><li>3rd - augury, suggestion</li><li>5th - nondetection, speak with dead</li><li>7th - arcane eye, confusion</li><li>9th - legend lore, scrying</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "life",
+          "name": "life",
+          "title": "Domain: Life",
+          "text": "<p>The Life domain focuses on the vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.</p><ul><li>1st - bless, cure wounds</li><li>3rd - lesser restoration, spiritual weapon</li><li>5th - beacon of hope, revivify</li><li>7th - death ward, guardian of faith</li><li>9th - mass cure wounds, raise dead</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "light",
+          "name": "light",
+          "title": "Domain: Light",
+          "text": "<p>Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.</p><ul><li>1st - burning hands, faerie fire</li><li>3rd - flaming sphere, scorching ray</li><li>5th - daylight, fireball</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, scrying</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "nature",
+          "name": "nature",
+          "title": "Domain: Nature",
+          "text": "<p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature but cleric act as champions who take a more active role in advancing the interests of a nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><ul><li>1st - animal friendship, speak with animals</li><li>3rd - barkskin, spike growth</li><li>5th - plant growth, wind wall</li><li>7th - dominate beast, grasping vine</li><li>9th - insect plague, tree stride</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "tempest",
+          "name": "tempest",
+          "title": "Domain: Tempest",
+          "text": "<p>Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><ul><li>1st - fog cloud, thunderwave</li><li>3rd - gust of wind, shatter</li><li>5th - call lightning, sleet storm</li><li>7th - control water, ice storm</li><li>9th - destructive wave, insect plague</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "trickery",
+          "name": "trickery",
+          "title": "Domain: Trickery (HB)",
+          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - counterspell, dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "war",
+          "name": "war",
+          "title": "Domain: War",
+          "text": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p><ul><li>1st - divine favor, shield of faith</li><li>3rd - magic weapon, spiritual weapon</li><li>5th - crusader's mantle, spirit guardians</li><li>7th - freedom of movement, stoneskin</li><li>9th - flame strike, hold monster</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "forge",
+          "name": "forge",
+          "title": "Domain: Forge (UA)",
+          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "grave",
+          "name": "grave",
+          "title": "Domain: Grave (UA)",
+          "text": "<p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures.</p><ul><li>1st - bane, false life</li><li>3rd - gentle repose, ray of enfeeblement</li><li>5th - revivify, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, raise dead</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "arcana",
+          "name": "arcana-initiate",
+          "title": "Arcana Domain: Arcane Initiate",
+          "text": "When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips."
+        },
+        {
+          "level": 1,
+          "subclass": "death",
+          "name": "death-proficiency",
+          "title": "Death Domain: Bonus Proficiency",
+          "text": "When the cleric chooses this domain at 1st level, he or she gains proficiency with martial weapons."
+        },
+        {
+          "level": 1,
+          "subclass": "death",
+          "name": "death-reaper",
+          "title": "Death Domain: Reaper",
+          "text": "At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other."
+        },
+        {
+          "level": 1,
+          "subclass": "knowledge",
+          "name": "arcana-blessings",
+          "title": "Knowledge Domain: Blessings of Knowledge",
+          "text": "<p>At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.</p><p>Your proficiency bonus is doubled for any ability check you make that uses either of those skills.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "life",
+          "name": "life-proficiency",
+          "title": "Life Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "life",
+          "name": "life-disciple",
+          "title": "Life Domain: Disciple of Life",
+          "text": "Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level."
+        },
+        {
+          "level": 1,
+          "subclass": "light",
+          "name": "light-cantrip",
+          "title": "Light Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain the light cantrip if you don't already know it."
+        },
+        {
+          "level": 1,
+          "subclass": "light",
+          "name": "light-flare",
+          "title": "Light Domain: Warding Flare",
+          "text": "<p>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "nature",
+          "name": "nature-proficiency",
+          "title": "Nature Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "nature",
+          "name": "nature-acolyte",
+          "title": "Nature Domain: Acolyte of Nature",
+          "text": "At 1st level, you learn one druid cantrip of your choice. You also gain proficiency in one of the following skills of your choice: Animal Handling, Nature, or Survival."
+        },
+        {
+          "level": 1,
+          "subclass": "tempest",
+          "name": "tempest-proficiency",
+          "title": "Tempest Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "tempest",
+          "name": "tempest-acolyte",
+          "title": "Tempest Domain: Wrath of the Storm",
+          "text": "<p>Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "trickery",
+          "name": "trickery-proficiency",
+          "title": "Trickery Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with rapiers, shortswords, and hand crossbows."
+        },
+        {
+          "level": 1,
+          "subclass": "trickery",
+          "name": "trickery-blessing",
+          "title": "Trickery Domain: Blessing of the Trickster",
+          "text": "Starting when you choose this domain at 1st level, you can use your action to touch a willing creature to give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again."
+        },
+        {
+          "level": 1,
+          "subclass": "war",
+          "name": "war-proficiency",
+          "title": "War Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with martial weapons and heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "war",
+          "name": "war-priest",
+          "title": "War Domain: War Priest",
+          "text": "From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the Attack action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest."
+        },
+        {
+          "level": 1,
+          "subclass": "forge",
+          "name": "forge-proficiency",
+          "title": "Forge Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "forge",
+          "name": "forge-blessing",
+          "title": "Forge Domain: Blessing of the Forge",
+          "text": "<p>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "grave",
+          "name": "grave-proficiency",
+          "title": "Grave Domain: Bonus Proficiency",
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+        },
+        {
+          "level": 1,
+          "subclass": "grave",
+          "name": "grave-circle",
+          "title": "Grave Domain: Circle of Mortality",
+          "text": "At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action."
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "channel-divinity-1",
+          "title": "Channel Divinity (1/rest)",
+          "text": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "channel-divinity-turn",
+          "title": "Channel Divinity: Turn Undead",
+          "text": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "domain-1",
+          "title": "Divine Domain Feature",
+          "text": "At 2nd level, you gain a feature from your Divine Domain."
+        },
+        {
+          "level": 2,
+          "subclass": "arcana",
+          "name": "arcana-channel-divinity-abjure",
+          "title": "Arcana Channel Divinity: Arcane Abjuration",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures. As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p><p>After you reach 5th level, when a creature fails its saving throw against you Arcane Abjuration feature, the creature is banished for 1 minute if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as per the progressions of 'Channel Divinity: Destroy Undead'.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "death",
+          "name": "death-channel-divinity-touch",
+          "title": "Death Channel Divinity: Touch of Death",
+          "text": "Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature's life force by touch. When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice his or her cleric level."
+        },
+        {
+          "level": 2,
+          "subclass": "knowledge",
+          "name": "knowledge-channel-divinity-ages",
+          "title": "Knowledge Channel Divinity: Knowledge of the Ages",
+          "text": "Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool."
+        },
+        {
+          "level": 2,
+          "subclass": "life",
+          "name": "life-channel-divinity-preserve",
+          "title": "Life Channel Divinity: Preserve Life",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "light",
+          "name": "light-channel-divinity-dawn",
+          "title": "Light Channel Divinity: Radiance of Dawn",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.</p><p>As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "nature",
+          "name": "nature-channel-divinity-charm",
+          "title": "Nature Channel Divinity: Charm Nature",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</p><p>As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "tempest",
+          "name": "tempest-channel-divinity-wrath",
+          "title": "Tempest Channel Divinity: Destructive Wrath",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.</p><p>When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "trickery",
+          "name": "trickery-channel-divinity-duplicity",
+          "title": "Trickery Channel Divinity: Invoke Duplicity",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 10HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "war",
+          "name": "war-channel-divinity-strike",
+          "title": "War Channel Divinity: Guided Strike",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy.</p><p>When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "forge",
+          "name": "forge-channel-divinity-artisan",
+          "title": "Forge Channel Divinity: Artisan's Blessing",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create simple items.</p><pStarting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.</p><p>The object can be worth no more than 100 gp, and as part of this ritual you must expend metals, such as coins or other finished items, with a value equal to the item you want to make. The item can be an exact duplicate of a nonmagical item, such as a copy of a key, if you possess the original during your short rest.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "grave",
+          "name": "grave-channel-divinity-path",
+          "title": "Grave Channel Divinity: Path to the Grave",
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</p><p>As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack's damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends. If the creature has resistance or is immune to the damage, it instead loses its resistance or immunity against that spell or attack when it first applies damage.</p>"
+        },
+        {
+          "level": 4,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "destroy-undead-half",
+          "title": "Destroy Undead (CR 1/2)",
+          "text": "Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "channel-divinity-2",
+          "title": "Channel Divinity (2/rest)",
+          "text": "Beginning at 6th level, you can use your Channel Divinity twice between rests."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "domain-2",
+          "title": "Divine Domain Feature",
+          "text": "At 6th level, you gain a feature from your Divine Domain."
+        },
+        {
+          "level": 6,
+          "subclass": "arcana",
+          "name": "arcana-spell-breaker",
+          "title": "Arcana Domain: Spell Breaker",
+          "text": "Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell."
+        },
+        {
+          "level": 6,
+          "subclass": "death",
+          "name": "death-inescapable",
+          "title": "Death Domain: Inescapable Destruction",
+          "text": "Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and Channel Divinity options ignores resistance to necrotic damage."
+        },
+        {
+          "level": 6,
+          "subclass": "knowledge",
+          "name": "knowledge-channel-divinity-thoughts",
+          "title": "Knowledge Channel Divinity: Read Thoughts",
+          "text": "<p>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.</p><p>As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.</p><p>If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.</p><p>During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.</p>"
+        },
+        {
+          "level": 6,
+          "subclass": "life",
+          "name": "life-blessed-healer",
+          "title": "Life Domain: Blessed Healer",
+          "text": "Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level."
+        },
+        {
+          "level": 6,
+          "subclass": "light",
+          "name": "light-improved-flare",
+          "title": "Light Domain: Improved Flare",
+          "text": "Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you."
+        },
+        {
+          "level": 6,
+          "subclass": "nature",
+          "name": "nature-dampen-elements",
+          "title": "Nature Domain: Dampen Elements",
+          "text": "Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage."
+        },
+        {
+          "level": 6,
+          "subclass": "tempest",
+          "name": "tempest-thunderbolt-strike",
+          "title": "Tempest Domain: Thunderbolt Strike",
+          "text": "At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you."
+        },
+        {
+          "level": 6,
+          "subclass": "trickery",
+          "name": "trickery-cloak-of-shadows",
+          "title": "Trickery Channel Divinity: Shrouded Invoke Duplicity",
+          "text": "Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Invisibility."
+        },
+        {
+          "level": 6,
+          "subclass": "war",
+          "name": "war-channel-divinity-strike",
+          "title": "War Channel Divinity: War God's Blessing",
+          "text": "At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
+        },
+        {
+          "level": 6,
+          "subclass": "forge",
+          "name": "forge-soul",
+          "title": "Forge Domain: Soul of the Forge",
+          "text": "<p>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</p><ul><li>You gain a +1 bonus to AC while you are wearing medium or heavy armor.</li><li>You gain resistance to fire damage.</li><li>When you hit a construct with an attack, you deal additional force damage to it equal to your cleric level.</li></ul>"
+        },
+        {
+          "level": 6,
+          "subclass": "grave",
+          "name": "grave-sentinel",
+          "title": "Grave Domain: Sentinel at Death's Door",
+          "text": "Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. Once you use this feature, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "destroy-undead-1",
+          "title": "Destroy Undead (CR 1)",
+          "text": "Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "spellcasting-and-strike",
+          "title": "Divine Conduit",
+          "text": "At 8th level, you receive two boons from your divine domain.</p><p>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8. The type of this damage is determined by your Divine Domain as follows:</p><ul><li>Arcana: force</li><li>Death: necrotic</li><li>Knowledge: psychic</li><li>Life: radiant</li><li>Light: radiant or fire</li><li>Nature: fire, cold, or lightning</li><li>Tempest: thunder</li><li>Trickery: acid</li><li>War: same as weapon</li><li>Forge: fire</li><li>Grave: necrotic</li></ul>"
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "divine-intervention",
+          "title": "Divine Intervention",
+          "text": "Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great. Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest."
+        },
+        {
+          "level": 11,
+          "subclass": "base",
+          "name": "destroy-undead-2",
+          "title": "Destroy Undead (CR 2)",
+          "text": "Starting at 11th level, when an undead of CR 2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 12,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "destroy-undead-3",
+          "title": "Destroy Undead (CR 3)",
+          "text": "Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 16,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 17,
+          "subclass": "base",
+          "name": "destroy-undead-4",
+          "title": "Destroy Undead (CR 4)",
+          "text": "Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+        },
+        {
+          "level": 17,
+          "subclass": "base",
+          "name": "domain-3",
+          "title": "Divine Domain Feature",
+          "text": "At 17th level, you gain a feature from your Divine Domain."
+        },
+                {
+          "level": 17,
+          "subclass": "arcana",
+          "name": "arcana-mastery",
+          "title": "Arcana Domain: Arcane Mastery",
+          "text": "At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you."
+        },
+        {
+          "level": 17,
+          "subclass": "death",
+          "name": "death-improved-reaper",
+          "title": "Death Domain: Improved Reaper",
+          "text": "Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target."
+        },
+        {
+          "level": 17,
+          "subclass": "knowledge",
+          "name": "knowledge-visions",
+          "title": "Knowledge Domain: Visions of the Past",
+          "text": "<p>Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p><p><strong>Object Reading:</strong> Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.</p><p><strong>Area Reading:</strong> As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.</p>"
+        },
+        {
+          "level": 17,
+          "subclass": "life",
+          "name": "life-supreme-healing",
+          "title": "Life Domain: Supreme Healing",
+          "text": "Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12."
+        },
+        {
+          "level": 17,
+          "subclass": "light",
+          "name": "light-corona",
+          "title": "Light Domain: Corona of Light",
+          "text": "Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage."
+        },
+        {
+          "level": 17,
+          "subclass": "nature",
+          "name": "nature-master",
+          "title": "Nature Domain: Master of Nature",
+          "text": "At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn."
+        },
+        {
+          "level": 17,
+          "subclass": "tempest",
+          "name": "tempest-stormborn",
+          "title": "Tempest Domain: Stormborn",
+          "text": "At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors."
+        },
+        {
+          "level": 17,
+          "subclass": "trickery",
+          "name": "trickery-cloak-of-shadows",
+          "title": "Trickery Channel Divinity: Improved Invoke Duplicity",
+          "text": "At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones."
+        },
+        {
+          "level": 17,
+          "subclass": "war",
+          "name": "war-avatar",
+          "title": "War Domain: Avatar of Battle",
+          "text": "At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
+        },
+        {
+          "level": 17,
+          "subclass": "forge",
+          "name": "forge-saint",
+          "title": "Forge Domain: Saint of FOrge and Fire",
+          "text": "At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks"
+        },
+        {
+          "level": 17,
+          "subclass": "grave",
+          "name": "grave-keeper",
+          "title": "Grave Domain: Keeper of Souls",
+          "text": "At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round."
+        },
+        {
+          "level": 18,
+          "subclass": "base",
+          "name": "channel-divinity-3",
+          "title": "Channel Divinity (3/rest)",
+          "text": "Beginning at 18th level, you can use your Channel Divinity three times between rests."
+        },
+        {
+          "level": 19,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
           "level": 20,
-          "subclass": "ancients",
-          "name": "ancients-elder-champion",
-          "title": "Oath of the Ancients: Undying Sentinel",
-          "text": "<p>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</p><ul><li>At the start of each of your turns, you regain 10 hit points.</li><li>Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action instead.</li><li>Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 20,
-          "subclass": "devotion",
-          "name": "devotion-purity-of-spirit",
-          "title": "Oath of Devotion: Holy Nimbus",
-          "text": "<p>At 20th level, you can assume the form of an ancient force of light and good. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</p><ul><li>Bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</li><li>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</li><li>You have advantage on saving throws against spells cast by fiends or undead.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 20,
-          "subclass": "vengeance",
-          "name": "vengeance-avenging-angel",
-          "title": "Oath of Vengeance: Avenging Angel",
-          "text": "<p>At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:</p><ul><li>Wings sprout from your back and grant you a flying speed of 60 feet.</li><li>You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become frightened of you for 1 minute or until it takes any damage. Attack rolls against the frightened creature have advantage.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 20,
-          "subclass": "crown",
-          "name": "crown-exalted-champion",
-          "title": "Oath of the Crown: Exalted Champion",
-          "text": "<p>At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:</p><ul><li>You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</li><li>Your allies have advantage on death saving throws while within 30 feet of you.</li><li>You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.</li></ul><p>This effect ends early if you are incapacitated or die. Once you use this feature, you can't use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 20,
-          "subclass": "oathbreaker",
-          "name": "oathbreaker-dread-lord",
-          "title": "Oathbreaker: Dread Lord",
-          "text": "<p>At 20th level, you can assume the form of a menacing dread lord. You can use your action to gain the following benefits for 1 minute:</p><ul><li>A 30 ft. aura reduces any bright light in a 30-foot radius around you to dim light.</li><li>Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage.</li><li>The paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.</li><li>While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 + the paladin's Charisma modifier.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
-        },
-        {
-          "level": 20,
-          "subclass": "madness",
-          "name": "madness-untouchable-mind",
-          "title": "Oath of Madness: Emissary of the Spheres",
-          "text": "<p>At 20th level, you can alter your form to appear as an avater of abherration. You can use your action to gain the following benefits for 1 minute:</p><ul><li>Enemy creatures within 10 feet of you have disadvantage on Wisdom and Charisma saving throws against your paladin spells or Channel Divinity options.</li><li>If a creature damages you on its turn, it must succeed on a Strength or Dexterity saving throw (its choice) or it is retrained by an otherworldly tentacle</li><li>As a bonus action on each of your turns you can use your control of geometries of teleport 10ft. to any location you can see.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+          "subclass": "base",
+          "name": "divine-intervention-improvement",
+          "title": "Divine Intervention Improvement",
+          "text": "At 20th level, your call for intervention succeeds automatically, no roll required."
         }
       ]
     }
-  ]               
+  ]
 }
