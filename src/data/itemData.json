@@ -2624,7 +2624,7 @@
          ]
       },
       {
-         "title": "Figurine of Wondrous Power, Chester",
+         "title": "Figurine of Wondrous Power, Chester (HB)",
          "name": "figurine of wondrous-power-chester",
          "type": "W",
          "rarity": "Rare",
@@ -10189,7 +10189,23 @@
          ]
       },
       {
-         "title": "Snick (Rapier)",
+         "title": "Little Red Hood (Cloak) (HB)",
+         "name": "little-red-hood",
+         "type": "W",
+         "weight": "1",
+         "rarity": "Very Rare",
+         "attunement": "yes",
+         "source": "HB",
+         "text": [
+            "Wondrous item, very rare (requires attunement)",
+            "This looks like a simple red cloak but the size suggests it was made for a child. Inside the hood a magic circle is sewn into the lining with vivid blue thread. The circle is divided into 8 segments, the last of which looks to be sewn with a different pattern. This cloak holds 8 charges, each represented by a segment within the hood of the cloak.Each short rest the cloak regains up to 1 charge, and each long rest the cloak regains up to 7 charges.",
+            "Over the River: As a bonus action you can expend a charge to cast Misty Step, but instead of a silvery mist you are surrounded by a small flurry of autumn leaves.",
+            "Through The Woods: As an action if you are in wild unsettled territory, you can expend all 8 charges and choose a plane of existence or teleportation circle on another place of existence (if you know the sigil sequence of that circle) and travel to that location. As you pick athelocation a small tree with red leaves and pale smooth bark shoots from the ground, rapidly encasing you before you disappear from sight within its foliage. The tree remains where you once were, forever growing in the plane you left.",
+            "Curse: This cloak never regains the 8th charge by resting, it is only able to regain the unique 8th charge by killing a creature to protect an innocent in danger and dripping the cloak with its blood."
+         ]
+      },
+      {
+         "title": "Snick (Rapier) (HB)",
          "name": "snick",
          "type": "M,MARW",
          "weight": "3",
@@ -10197,6 +10213,7 @@
          "dmgType": "P",
          "property": "F",
          "rarity": "Very Rare",
+         "attunement": "yes",
          "text": [
             "Weapon (rapier), very rare (requires attunement)",
             "Snick is a unique rapier constructed by an assassin guilds Tinker. When not in use it appear to be a black leather cylinder, perhaps an oddly shaped case or pet toy. When a button on the cylinder is pressed by an attuned person a deadly sharp rapier telescopes out of the end.",
@@ -10205,7 +10222,7 @@
          ]
       },
       {
-         "title": "Hot Streak",
+         "title": "Hot Streak (HB)",
          "name": "hot-streak",
          "type": "W",
          "weight": "2",
@@ -10219,7 +10236,7 @@
          ]
       },
       {
-         "title": "Deck of the Remembrancer",
+         "title": "Deck of the Remembrancer (HB)",
          "name": "deck-of-the-remembrancer",
          "type": "W",
          "weight": "1",
@@ -10232,7 +10249,7 @@
          ]
       },
       {
-         "title": "Sleeve of Daggers",
+         "title": "Sleeve of Daggers (HB)",
          "name": "sleeve-of-daggers",
          "type": "W",
          "weight": "3",
