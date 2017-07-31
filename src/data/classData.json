@@ -3124,105 +3124,134 @@
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "champion",
-          "name": "champion",
-          "title": "Martial Archetype: Champion",
-          "text": "The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows."
+          "subclass": "ancients",
+          "name": "ancients",
+          "title": "Sacred Oath: Oath of the Ancients",
+          "text": "<p>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light in the world.</p><h5>Tenets of the Ancients</h5><p class='pad-left'>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</p><p class='pad-left'><strong>Kindle the Light.</strong> Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</p><p class='pad-left'><strong>Shelter the Light.</strong> Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</p><p class='pad-left'><strong>Preserve Your Own Light.</strong> Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</p><p class='pad-left'><strong>Be the Light.</strong> Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</p><h5>Oath Spells<h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - ensnaring strike, speak with animals</li><li>5th - moonbeam, misty step</li><li>9th - plant growth, protection from energy</li><li>13th - ice storm, stoneskin</li><li>17th - commune with nature, tree stride</li></ul>"
         },
         {
           "level": 3,
-          "subclass": "champion",
-          "name": "champion-critical",
-          "title": "Champion: Improved Critical",
-          "text": "Beginning when you choose this archetype at 3rd level, your weapon attacks score a critical hit on a roll of 19 or 20."
+          "subclass": "ancients",
+          "name": "ancients-channel-1",
+          "title": "Oath of the Ancients Channel Divinity: Nature's Wrath",
+          "text": "You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish."
         },
         {
           "level": 3,
-          "filter": "yes",
-          "subclass": "battlemaster",
-          "name": "battlemaster",
-          "title": "Martial Archetype: Battle Master",
-          "text": "Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge."
-        },
-        {
-          "level": 3,
-          "subclass": "battlemaster",
-          "name": "battlemaster-student",
-          "title": "Battle Master: Student of War",
-          "text": "At 3rd level, you gain proficiency with one type of artisan's tools of your choice."
-        },
-        {
-          "level": 3,
-          "subclass": "battlemaster",
-          "name": "battlemaster-superiority",
-          "title": "Battle Master: Combat Superiority",
-          "text": "<p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice. You learn three maneuvers of your choice, which are listed below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.</p><p>You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p><h5>Superiority Dice</h5><p>You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p><p>You gain another superiority die at 7th level and one more at 15th level.</p><div class='row'><div class='col-sm-6'><h5>Maneuver: Commander's Strike</h5><p class='pad-left'>When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack's damage roll.</p><h5>Maneuver: Disarming Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.</p><h5>Maneuver: Distracting Strike</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack's damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.</p><h5>Maneuver: Evasive Footwork</h5><p class='pad-left'>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</p><h5>Maneuver: Feinting Attack</h5><p class='pad-left'>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll this turn against that creature. If that attack hits, add the superiority die to the attack's damage roll.</p><h5>Maneuver: Goading Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.</p><h5>Maneuver: Lunging Attack</h5><p class='pad-left'>When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack's damage roll.</p><h5>Maneuver: Maneuvering Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.</p></div><div class='col-sm-6'><h5>Maneuver: Menacing Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.</p><h5>Maneuver: Parry</h5><p class='pad-left'>When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.</p><h5>Maneuver: Precision Attack</h5><p class='pad-left'>When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</p><h5>Maneuver: Pushing Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.</p><h5>Maneuver: Rally</h5><p class='pad-left'>On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.</p><h5>Maneuver: Riposte</h5><p class='pad-left'>When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.</p><h5>Maneuver: Sweeping Attack</h5><p class='pad-left'>When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.</p><h5>Maneuver: Trip Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.</p></div></div>"
+          "subclass": "ancients",
+          "name": "ancients-channel-2",
+          "title": "Oath of the Ancients Channel Divinity: Turn the Faithless",
+          "text": "<p>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p><p>If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</p>"
         },
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "cavalier",
-          "name": "cavalier",
-          "title": "Martial Archetype: Cavalier",
-          "text": "The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Drawn to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure."
+          "subclass": "devotion",
+          "name": "devotion",
+          "title": "Sacred Oath: Oath of Devotion",
+          "text": "<p>The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.</p><h5>Tenets of Devotion</h5><p class='pad-left'>Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.</p><p class='pad-left'><strong>Honesty.</strong> Don’t lie or cheat. Let your word be your promise.</p><p class='pad-left'><strong>Courage.</strong> Never fear to act, though caution is wise.</p><p class='pad-left'><strong>Compassion.</strong> Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.</p><p class='pad-left'><strong>Honor.</strong> Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.</p><p class='pad-left'><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells<h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - protection from evil and good, sanctuary</li><li>5th - lesser restoration, zone of truth</li><li>9th - beacon of hope, dispel magic</li><li>13th - freedom of movement, guardian of faith</li><li>17th - commune, flame strike</li></ul>"
         },
         {
           "level": 3,
-          "subclass": "cavalier",
-          "name": "cavalier-superiority",
-          "title": "Cavalier: Combat Superiority",
-          "text": "<p>When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice. You learn four maneuvers, which are listed below. You can use more than one maneuver per turn, but only one per attack.</p><h5>Superiority Dice</h5><p>You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.</p><p>You gain another superiority die at 7th level and one more at 15th level.</p><div class='row'><div class='col-sm-6'><h5>Maneuver: Control Mount</h5><p class='pad-left'>When you make a Wisdom (Animal Handling) check to influence a creature that you or an ally is riding, you can expend one superiority die, roll it, and add the number rolled to the check. You can do this before or after rolling the d20, but before applying the results of the check.</p><h5>Maneuver: Trip Attack</h5><p class='pad-left'>When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. Roll the die, and add it to the attack's damage roll. If the target is Large or smaller, it must also succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone.</p></div><div class-'col-sm-6'><h5>Maneuver: Precision Attack</h5><p class='pad-left'>When you make a weapon attack against a creature, you can expend one superiority die, roll it, and add it to the attack roll. You can use this ability before or after rolling the d20, but before any of the effects of the attack are applied.</p><h5>Maneuver: Warding Maneuver</h5><p class='pad-left'>If you or a creature within 5 feet of you is hit by an attack, you can expend one superiority die as a reaction if you're wielding a weapon or a shield. Roll the die, and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.</p></div></div>"
+          "subclass": "devotion",
+          "name": "devotion-channel-1",
+          "title": "Oath of Devotion Channel Divinity: Sacred Weapon",
+          "text": "<p>As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration.</p><p>You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.</p>"
         },
         {
           "level": 3,
-          "subclass": "cavalier",
-          "name": "cavalier-born-to-the-saddle",
-          "title": "Cavalier: Born to the Saddle",
-          "text": "Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated. Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed."
-        },
-        {
-          "level": 3,
-          "filter": "yes",
-          "subclass": "eldritch",
-          "name": "eldritch",
-          "title": "Martial Archetype: Eldritch Knight",
-          "text": "The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook."
-        },
-        {
-          "level": 3,
-          "subclass": "eldritch",
-          "name": "eldritch-bond",
-          "title": "Eldritch Knight: Weapon Bond",
-          "text": "<p>At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond.</p><p>Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.</p><p>You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.</p>"
-        },
-        {
-          "level": 3,
-          "subclass": "eldritch",
-          "name": "eldritch-casting",
-          "title": "Eldritch Knight: Spellcasting",
-          "text": "<p>When you reach 3rd level, you augment your martial prowess with the ability to cast spells.</p><h5>Cantrips</h5><p class='pad-left'>You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.</p><h5>Preparing and Casting Spells</h5><p class='pad-left'>The Fighter table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><p class='pad-left'>You know three 1st-level wizard spells of your choice, two of which you must choose from the abjuration and evocation spells on the wizard spell list.</p><p class='pad-left'>The Spells Known column of the Eldritch Knight Spellcasting table shows when you learn more wizard spells of 1st level or higher. Each of these spells must be an abjuration or evocation spell of your choice, and must be of a level for which you have spell slots.</p><p class='pad-left'>The spells you learn at 8th, 14th, and 20th level can come from any school of magic.</p><p class='pad-left'>Whenever you gain a level in this class, you can replace one of the wizard spells you know with another spell of your choice from the wizard spell list. The new spell must be of a level for which you have spell slots, and it must be an abjuration or evocation spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.</p><h5>Spellcasting Ability</h5><p class='pad-left'>Intelligence is your spellcasting ability for your Eldritch Knight spells since you learn your spells through study and memorization</p><ul><li>Spell save DC = 8 + proficiency + INT</li><li>Spell attack modifier = proficiency + INT</li></ul>"
+          "subclass": "devotion",
+          "name": "devotion-channel-2",
+          "title": "Oath of Devotion Channel Divinity: Turn the Unholy",
+          "text": "<p>As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
         },
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "arcane",
-          "name": "arcane",
-          "title": "Martial Archetype: Arcane Archer",
-          "text": "An Arcane Archer studies a unique method of archery that weaves magic into attacks to produce supernatural effects. These techniques are the favorite of a variety of expert marksmen, including elite elven sentinels, dwarven gnoll hunters, and a number of well-known mercenaries. Requiring both a mastery of ranged combat and an understanding of the arcane arts, Arcane Archers stand out as versatile and effective sharpshooters."
+          "subclass": "vengeance",
+          "name": "vengeance",
+          "title": "Sacred Oath: Oath of Vengeance",
+          "text": "<p>The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside - at times like these, paladins arise and swear an Oath of Vengeance to set right that which has gone wrong. To these paladins—sometimes called avengers or dark knights—their own purity is not as important as delivering justice.</p><h5>Tenets of Vengeance</h5><p class='pad-left'>The tenets of the Oath of Vengeance vary by paladin, but all the tenets revolve around punishing wrongdoers by any means necessary. Paladins who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the paladins are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.</p><p class='pad-left'><strong>Fight the Greater Evil.</strong> Faced with a choice of fighting my sworn foes or combating a lesser evil. I choose the greater evil.</p><p class='pad-left'><strong>No Mercy for the Wicked.</strong> Ordinary foes might win my mercy, but my sworn enemies do not.</p><p class='pad-left'><strong>By Any Means Necessary.</strong> My qualms can't get in the way of exterminating my foes.</p><p class='pad-left'><strong>Restitution.</strong> If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds.</p><h5>Oath Spells<h5><p class='pad-left'>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - bane, hunter's mark</li><li>5th - hold person, misty step</li><li>9th - haste, protection from energy</li><li>13th - banishment, dimension door</li><li>17th - hold monster, scrying</li></ul>"
         },
         {
           "level": 3,
-          "subclass": "arcane",
-          "name": "arcane-lore",
-          "title": "Arcane Archer: Lore",
-          "text": "At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this martial tradition. You gain proficiency Arcana, Nature, or Perception."
+          "subclass": "vengeance",
+          "name": "vengeance-channel-1",
+          "title": "Oath of Vengeance Channel Divinity: Sacred Weapon",
+          "text": "<p>As an action, you present your holy symbol and speak a prayer of denunciation, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature must make a Wisdom saving throw, unless it is immune to being frightened. Fiends and undead have disadvantage on this saving throw.</p><p>On a failed save, the creature is frightened for 1 minute or until it takes any damage. While frightened, the creature's speed is 0, and it can't benefit from any bonus to its speed.</p><p>On a successful save, the creature's speed is halved for 1 minute or until the creature takes any damage.</p>"
         },
         {
           "level": 3,
-          "subclass": "arcane",
-          "name": "arcane-lore",
-          "title": "Arcane Archer: Arcane Shot",
-          "text": "<p>At 3rd level, you learn to infuse ammunition with magic. Whenever you fire a non-magical piece of ammunition from a ranged weapon it beomces magical and is able to overcome resistance and immunity to nonmagical attacks. The magic fades from the ammunition immediately after you hit or miss a targer.</p><p>When you gain this feature, you learn two Arcane Shot options from below. You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.</p><p>Once per turn when you fire a magic shot from a ranged weapon as part of the Attack action, you can apply one of your Arcane Shot options to it. You decide to use the option when the shot hits, unless the option doesn't involve an attack roll. You have a number of uses of this ability equal to your Intelligence, and you regain all expended uses of it when you finish a short or long rest.</p><div class='row'><div class='col-sm-6'><h5>Banishing Shot</h5><p class='pad-left'>You use abjuration magic to try to temporarily banish your target to a harmless location in the Feywild. If the shot hits a creature, the target must also succeed on a Charisma saving throw or be banished. While banished in this way, its speed is 0, and it is incapacitated. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.</p><p class='pad-left'>After you reach 18th level in this class, a target also takes 1d8 force damage when the shot hits it.</p><h5>Brute Bane Shot</h5><p class='pad-left'>You weave necromantic magic into your shot. If your shot hits a creature, the target takes an extra 1d8 necrotic damage and must make a Constitution saving throw. On a failed save, the damage of the target's attacks is halved until the next turn.</p><p class='pad-left'>The necrotic damage increases to 2d8 when you reach 18th level with this class.</p><h5>Piercing Shot</h5><p class='pad-left'>You use transmutation magic to transform your shot into an ethereal dart that passes through its targets. You use transmutation magic to give your shot an ethereal quality. When you use this option, you don't make an attack roll for the attack. Instead, the shot fires forward in a line that is 1 foot wide and 30 feet long, before disappearing. The shot passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw. On a failed save, a target takes damage as if it were hit by the shot, plus an extra 1d8 piercing damage. On a successful save, a target takes half as much damage.</p><p class='pad-left'>The piercing damage increases to 2d8 when you reach 18th level in this class.</p><h5>Grasping Shot</h5><p class='pad-left'>When this shot strikes its target, conjuration magic creates grasping, thorny brambles that wrap around the target. If the shot hits a creature, the target takes an extra 1d8 poison damage, its speed is reduced by 10 feet, and it takes 1d8 slashing damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful Strength (Athletics) check against your Arcane Shot save DC. Otherwise, the brambles last for 1 minute or until you use this option again.</p><p class='pad-left'>The poison and slashing damage both increase to 2d8 when you reach 18th level in this class.</p></div><div class-'col-sm-6'><h5>Charming Shot</h5><p class='pad-left'>Your enchantment magic causes this shot to temporarily beguile its target. Choose one of your allies within 30 feet of the target. If the shot hits a creature, the target takes an extra 1d8 psychic damage, and it must succeed on a Wisdom saving throw or be charmed by that ally until the start of your next turn. This effect ends early if the chosen ally deals any damage to the target.</p><p class='pad-left'>The psychic damage increases to 2d8 when you reach 18th level in this class.</p><h5>Bursting Shot</h5><p class='pad-left'>You imbue your shot with a blast of force energy drawn from the school of evocation. If the shot hits a creature, the target and each creature within 10 feet of it takes 1d8 force damage.</p><p class='pad-left'>The force damage increases to 2d8 when you reach 18th level in this class.</p><h5>Seeking Shot</h5><p class='pad-left'>Using divination magic, you grant your shot the ability to seek out your target, allowing the shot to curve and twist its path in search of its prey. When you use this option, you don't make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The shot flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon's range and there is a path large enough for the shot to travel to the target, the target must make a Dexterity saving throw. On a failed save, it takes damage as if it were hit by the shot, plus an extra 1d8 piercing damage, and you learn the target's current location. On a successful save, the target takes half as much damage, and you don't learn its location.</p><p class='pad-left'>The piercing damage increases to 2d8 when you reach 18th level in this class.</p><h5>Shadow Shot</h5><p class='pad-left'>You weave illusion magic into your shot, causing it to occlude your foe's vision with grasping shadows. If the shot hits a creature, the target takes an extra 1d8 psychic damage, and it must succeed on a Wisdom saving throw or be unable to see anything farther than 5 feet away until the start of your next turn.</p><p class='pad-left'>The psychic damage increases to 2d8 when you reach 18th level in this class..</p></div></div>"
+          "subclass": "vengeance",
+          "name": "vengeance-channel-2",
+          "title": "Oath of Vengeance Channel Divinity: Vow of Enmity",
+          "text": "As a bonus action, you can utter a vow of enmity against a creature you can see within 10 feet of you, using your Channel Divinity. You gain advantage on attack rolls against the creature for 1 minute or until it drops to 0 hit points or falls unconscious."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "crown",
+          "name": "crown",
+          "title": "Sacred Oath: Oath of the Crown",
+          "text": "<p>The Oath of the Crown is sworn to the ideals of civilization, be it the spirit of a nation, fealty to a sovereign, or service to a deity of law and rulership. The paladins who swear this oath dedicate themselves to serving society and, in particular, the laws that hold society together. These paladins are the watchful guardians on the walls, standing against the chaotic tides of barbarism that threaten to tear down all that civilization has built, and are commonly known as guardians, exemplars, or sentinels. Often, paladins who swear this oath are members of an order of knighthood in service to a nation or sovereign, and undergo their oath as part of their admission to the order's ranks.</p><h5>Tenets of the Crown</h5><p class='pad-left'>The tenets of the Oath of the Crown are often set by the sovereign to which their oath is sworn, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Law.</strong> The law is paramount. It is the mortar that holds the stones of civilization together, and it must be respected.</p><p class='pad-left'><strong>Loyalty.</strong> Your word is your bond. Without loyalty, oaths and laws are meaningless.</p><p class='pad-left'><strong>Courage.</strong> You must be willing to do what needs to be done for the sake of order, even in the face of overwhelming odds. If you don't act, then who will?</p><p class='pad-left'><strong>Responsibility.</strong> You must deal with the consequences of your actions, and you are responsible for fulfilling your duties and obligations.</p><p><strong>Duty.</strong> Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.</p><h5>Oath Spells<h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - command, compelled duel</li><li>5th - warding bond, zone of truth</li><li>9th - aura of vitality, spirit guardians</li><li>13th - banishment, guardian of faith</li><li>17th - circle of power, geas</li></ul>"
+        },
+        {
+          "level": 3,
+          "subclass": "crown",
+          "name": "crown-channel-1",
+          "title": "Oath of the Crown Channel Divinity: Champion Challenge",
+          "text": "You issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a Wisdom saving throw. On a failed save, a creature can't willingly move more than 30 feet away from you. This effect ends on the creature if you are incapacitated or die or if the creature is moved more than 30 feet away from you."
+        },
+        {
+          "level": 3,
+          "subclass": "crown",
+          "name": "crown-channel-2",
+          "title": "Oath of the Crown Channel Divinity: Turn the Tide",
+          "text": "As a bonus action, you can bolster injured creatures with your Channel Divinity. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1) if it has no more than half of its hit points."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "oathbreaker",
+          "name": "oathbreaker",
+          "title": "Oathbreaker",
+          "text": "<p>An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some dark ambition or serve an evil power. Whatever light burned in the paladin's heart has been extinguished. Only darkness remains.</p><p>A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.</p><h5>Oath Spells<h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - hellish rebuke, inflict wounds</li><li>5th - crown of madness, darkness</li><li>9th - animate dead, bestow curse</li><li>13th - blight, confusion</li><li>17th - contagion, dominate person</li></ul>"
+        },
+        {
+          "level": 3,
+          "subclass": "oathbreaker",
+          "name": "oathbreaker-channel-1",
+          "title": "Oathbreaker Channel Divinity: Control Undead",
+          "text": "As an action, the paladin targets one undead creature he or she can see within 30 feet of him or her. The target must make a Wisdom saving throw. On a failed save, the target must obey the paladin's commands for the next 24 hours, or until the paladin uses this Channel Divinity option again. An undead whose challenge rating is equal to or greater than the paladin's level is immune to this effect."
+        },
+        {
+          "level": 3,
+          "subclass": "oathbreaker",
+          "name": "oathbreaker-channel-2",
+          "title": "Oathbreaker Channel Divinity: Dreadful Aspect",
+          "text": "As an action, the paladin channels the darkest emotions and focuses them into a burst of magical menace. Each creature of the paladin's choice within 30 feet of the paladin must make a Wisdom saving throw if it can see the paladin. On a failed save, the target is frightened of the paladin for 1 minute. If a creature frightened by this effect ends its turn more than 30 feet away from the paladin, it can attempt another Wisdom saving throw to end the effect on it."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "madness",
+          "name": "madness",
+          "title": "Sacred Oath: Oath of Madness (HB)",
+          "text": "<p>The Oath of Madness is consiously taken by warriors who serve otherworldly entities and quest to release them into the meterial plane, but many others unintentionally convert. Some were trying to prevent otherworldly incursion. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many of those who found themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consiousness.</p><h5>Tenets of Madness</h5><p class='pad-left'>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Spread the Word.</strong> Sanity is a curse, and you must take every effort to unburden the afflicted. </p><p class='pad-left'><strong>Write the Books.</strong> There is no point only saying things -- spoken words die as soon as they're un-listened. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Respect the Messengers.</strong> Those touched with madness are truly blessed. You are the sworn protector of the mad, the wild, and the forgotten -- do not allow them to come to harm.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible. Others always need more ways in.</p><h5>Oath Spells<h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - hallucinatory terrain, confusion</li><li>17th - contact other plane, dream</li></ul>"
+        },
+        {
+          "level": 3,
+          "subclass": "madness",
+          "name": "madness-channel-1",
+          "title": "Oath of Madness Channel Divinity: Instill Madness",
+          "text": "You can use your Channel Divinity to force others to echo your insane mind. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Charisma saving throw. On a failed save, the creatures become incapacitated and spend the duration screaming, laughing, or weeping. This madness lasts for 1 minute or until the creature takes damage. The creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success."
+        },
+        {
+          "level": 3,
+          "subclass": "madness",
+          "name": "madness-channel-2",
+          "title": "Oath of Madness Channel Divinity: Eldritch Grasp",
+          "text": "You can use your Channel Divinity to invoke otherworldy forces to ensnare a foe. As an action, you can cause a milky purple tentacle to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the tentacle, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the tentacle retreats."
         },
         {
           "level": 4,
@@ -3241,65 +3270,58 @@
         {
           "level": 6,
           "subclass": "base",
-          "name": "asi",
-          "title": "Ability Score Increase",
-          "text": "When you reach 6th level you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+          "name": "aura-of-protection",
+          "title": "Aura of Protection",
+          "text": "Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus. At 18th level, the range of this aura increases to 30 feet."
         },
         {
           "level": 7,
           "subclass": "base",
-          "name": "archetype-1",
-          "title": "Martial Archetype Feature",
-          "text": "At 7th level, you gain a feature from your Martial Archetype."
+          "name": "oath-1",
+          "title": "Sacred Oath feature",
+          "text": "At 7th level, you gain a feature granted to you by your Sacred Oath."
         },
         {
           "level": 7,
-          "subclass": "champion",
-          "name": "champion-critical",
-          "title": "Champion: Remarkable Athlete",
-          "text": "Starting at 7th level, you can add half your proficiency bonus (round up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus. In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier."
+          "subclass": "ancients",
+          "name": "ancients-aura",
+          "title": "Oath of the Ancients: Aura of Warding",
+          "text": "Beginning at 7th level, ancient magic lies so heavily upon you that it forms an eldritch ward. You and friendly creatures within 10 feet of you have resistance to damage from spells. At 18th level, the range of this aura increases to 30 feet."
         },
         {
           "level": 7,
-          "subclass": "battlemaster",
-          "name": "battlemaster-additional-1",
-          "title": "Battle Master: Additional Maneuvers and Superiority",
-          "text": "At 7th level, you learn two additional maneuvers of your choice and another superiority die."
+          "subclass": "devotion",
+          "name": "devotion-aura",
+          "title": "Oath of Devotion: Aura of Devotion",
+          "text": "Starting at 7th level, you and friendly creatures within 10 feet of you can't be charmed while you are conscious. At 18th level, the range of this aura increases to 30 feet."
         },
         {
           "level": 7,
-          "subclass": "battlemaster",
-          "name": "battlemaster-know-your-enemy",
-          "title": "Battle Master: Know Your Enemy",
-          "text": "If you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice: STR, DEX, CON, AC, Current HP, total class levels (if any), total fighter level (if any)"
+          "subclass": "vengeance",
+          "name": "vengeance-relentless-avenger",
+          "title": "Oath of Vengeance: Relentless Avenger",
+          "text": "By 7th level, your supernatural focus helps you close off a foe's retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn't provoke opportunity attacks."
         },
         {
           "level": 7,
-          "subclass": "cavalier",
-          "name": "cavalier-charger",
-          "title": "Cavalier: Ferocious Charger",
-          "text": "At 7th level, you gain additional benefits when you use your Trip Attack maneuver. You can expend up to two superiority dice on it, adding both dice to the damage roll. When you spend two dice in this way, the target has disadvantage on its Strength saving throw to avoid being knocked prone."
+          "subclass": "crown",
+          "name": "crown-divine-allegiance",
+          "title": "Oath of the Crown: Divine Allegiance",
+          "text": "Starting at 7th level, when a creature within 5 feet of you takes damage, you can use your reaction to magically substitute your own health for that of the target creature, causing that creature not to take the damage. Instead, you take the damage. This damage to you can't be reduced or prevented in any way."
         },
         {
           "level": 7,
-          "subclass": "eldritch",
-          "name": "eldritch-war-magic",
-          "title": "Eldritch Knight: War Magic",
-          "text": "Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action."
+          "subclass": "oathbreaker",
+          "name": "oathbreaker-aura",
+          "title": "Oathbreaker: Aura of Hate",
+          "text": "Starting at 7th level, the paladin, as well any fiends and undead within 10 feet of the paladin, gains a bonus to melee weapon damage rolls equal to the paladin's Charisma modifier (minimum of +1). A creature can benefit from this feature from only one paladin at a time. At 18th level, the range of this aura increases to 30 feet."
         },
         {
           "level": 7,
-          "subclass": "arcane",
-          "name": "arcane-curving-shot",
-          "title": "Arcane Archer: Curving Shot",
-          "text": "At 7th level, you learn how to direct an errant shot toward a new target. When you make an attack roll with a magic shot and miss, you can use a bonus action to reroll the attack roll against a different target within 30 feet of the original target."
-        },
-        {
-          "level": 7,
-          "subclass": "arcane",
-          "name": "arcane-arcane-shot-1",
-          "title": "Arcane Archer: Extra Arcane Shot",
-          "text": "At 7th level, you learn an additional Arcane Shot option."
+          "subclass": "madness",
+          "name": "madness-aura",
+          "title": "Oath of Madness: Gravatic Aura",
+          "text": "At 7th level, you learn how to manipulate geometries to point towards yourself more than they have any right too. Hostile creatures within 10 feet treat that area as difficult terrain as long as they are trying to move away from you. At 18th level, the range of this aura increases to 30 feet."
         },
         {
           "level": 8,
@@ -3309,81 +3331,18 @@
           "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 9,
-          "subclass": "base",
-          "name": "indomitable",
-          "title": "Indomitable",
-          "text": "Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level."
-        },
-        {
           "level": 10,
           "subclass": "base",
-          "name": "archetype-2",
-          "title": "Martial Archetype Feature",
-          "text": "At 10th level, you gain a feature from your Martial Archetype."
+          "name": "aura-of-courage",
+          "title": "Aura of Courage",
+          "text": "Starting at 10th level, you and friendly creatures within 10 feet of you can't be frightened while you are conscious. At 18th level, the range of this aura increases to 30 feet."
         },
-        {
-          "level": 10,
-          "subclass": "champion",
-          "name": "champion-additional-style",
-          "title": "Champion: Additional Fighting Style",
-          "text": "At 10th level, you can choose a second option from the Fighting Style class feature."
-        },
-        {
-          "level": 10,
-          "subclass": "battlemaster",
-          "name": "battlemaster-additional-2",
-          "title": "Battle Master: Additional Maneuvers",
-          "text": "At 10th level, you learn two additional maneuvers of your choice"
-        },
-        {
-          "level": 10,
-          "subclass": "battlemaster",
-          "name": "battlemaster-superiority-1",
-          "title": "Battle Master: Improved Combat SUperiority (d10)",
-          "text": "At 10th level, your superiority dice turn into d10s."
-        },
-        {
-          "level": 10,
-          "subclass": "cavalier",
-          "name": "cavalier-superiority-1",
-          "title": "Cavalier: Improved Combat SUperiority (d10)",
-          "text": "At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s."
-        },
-        {
-          "level": 10,
-          "subclass": "eldritch",
-          "name": "eldritch-cantrip-1",
-          "title": "Eldritch Knight: Additional Cantrip",
-          "text": "You learn an additional wizard cantrip of your choice at 10th level."
-        },
-        {
-          "level": 10,
-          "subclass": "eldritch",
-          "name": "eldritch-strike",
-          "title": "Eldritch Knight: Eldritch Strike",
-          "text": "At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn."
-        },
-        {
-          "level": 10,
-          "subclass": "arcane",
-          "name": "arcane-arcane-shot-2",
-          "title": "Arcane Archer: Extra Arcane Shot",
-          "text": "At 10th level, you learn an additional Arcane Shot option."
-        }, 
-        {
-          "level": 10,
-          "subclass": "arcane",
-          "name": "arcane-forceful-shot",
-          "title": "Arcane Archer: Forceful Shot",
-          "text": "At 10th level, when you hit a target with an Arcane Shot you can spend an additional use of Arcane Shot to knock the tharget prone."
-        }, 
         {
           "level": 11,
           "subclass": "base",
-          "name": "extra-attack-2",
-          "title": "Extra Attack (2)",
-          "text": "At 11th level, you can attack three times whenever you take the Attack action on your turn."
+          "name": "improved-divine-smite",
+          "title": "Improved Divine Smite",
+          "text": "By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 radiant damage. If you also use your Divine Smite with an attack, you add this damage to the extra damage of your Divine Smite."
         },
         {
           "level": 12,
@@ -3393,82 +3352,61 @@
           "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 13,
-          "subclass": "base",
-          "name": "indomitable-2",
-          "title": "Indomitable (2)",
-          "text": "At 13th level, you can use Indomitable twice between long rests."
-        },
-        {
           "level": 14,
           "subclass": "base",
-          "name": "asi",
-          "title": "Ability Score Increase",
-          "text": "When you reach 14th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+          "name": "cleansing-touch",
+          "title": "Cleansing Touch",
+          "text": "<p>Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain expended uses when you finish a long rest.</p>"
         },
         {
           "level": 15,
           "subclass": "base",
-          "name": "archetype-2",
-          "title": "Martial Archetype Feature",
-          "text": "At 15th level, you gain a feature from your Martial Archetype."
+          "name": "oath-2",
+          "title": "Sacred Oath Feature",
+          "text": "At 15th level, you gain a feature granted to you by your Sacred Oath."
         },
         {
           "level": 15,
-          "subclass": "champion",
-          "name": "champion-superior-critical",
-          "title": "Champion: Superior Critical",
-          "text": "Starting at 15th level, your weapon attacks score a critical hit on a roll of 18-20."
+          "subclass": "ancients",
+          "name": "ancients-aura",
+          "title": "Oath of the Ancients: Undying Sentinel",
+          "text": "<p>Starting at 15th level, when you are reduced to 0 hit points and are not killed outright, you can choose to drop to 1 hit point instead. Once you use this ability, you can't use it again until you finish a long rest.</p><p>Additionally, you suffer none of the drawbacks of old age, and you can't be aged magically.</p>"
         },
         {
           "level": 15,
-          "subclass": "battlemaster",
-          "name": "battlemaster-additional-3",
-          "title": "Battle Master: Additional Maneuvers and Superiority",
-          "text": "At 15th level, you learn two additional maneuvers of your choice and gain another superiority die."
+          "subclass": "devotion",
+          "name": "devotion-purity-of-spirit",
+          "title": "Oath of Devotion: Purity of Spirit",
+          "text": "Beginning at 15th level, you are always under the effects of a protection from evil and good spell."
         },
         {
           "level": 15,
-          "subclass": "battlemaster",
-          "name": "battlemaster-relentless",
-          "title": "Battle Master: Relentless",
-          "text": "Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die."
+          "subclass": "vengeance",
+          "name": "vengeance-soul-of-vengeance",
+          "title": "Oath of Vengeance: Soul of Vengeance",
+          "text": "Starting at 15th level, the authority with which you speak your Vow of Enmity gives you greater power over your foe. When a creature under the effect of your Vow of Enmity makes an attack, you can use your reaction to make a melee weapon attack against that creature if it is within range."
         },
         {
           "level": 15,
-          "subclass": "cavalier",
-          "name": "cavalier-additional-3",
-          "title": "Cavalier: Additional Maneuvers and Superiority",
-          "text": "At 15th level, you learn two additional maneuvers of your choice and gain another superiority die."
+          "subclass": "crown",
+          "name": "crown-unyielding-spirit",
+          "title": "Oath of the Crown: Unyielding Spirit",
+          "text": "Starting at 15th level, you have advantage on saving throws to avoid becoming paralyzed or stunned."
+        },
+        {
+          "level": 7,
+          "subclass": "oathbreaker",
+          "name": "oathbreaker-supernatural-resistance",
+          "title": "Oathbreaker: Supernatural Resistance",
+          "text": "At 15th level, the paladin gains resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
         },
         {
           "level": 15,
-          "subclass": "cavalier",
-          "name": "cavalier-relentless",
-          "title": "Cavalier: Relentless",
-          "text": "tarting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die."
+          "subclass": "madness",
+          "name": "madness-untouchable-mind",
+          "title": "Oath of Madness: Untouchable Mind",
+          "text": "Starting at 15th level, your mind becomes so warped and strange thay you have resistance to psychic damage and advantage on saving throws against effects that would read your thoughts or control your actions."
         },
-        {
-          "level": 15,
-          "subclass": "eldritch",
-          "name": "eldritch-charge",
-          "title": "Eldritch Knight: Arcane Charge",
-          "text": "At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action."
-        },
-        {
-          "level": 15,
-          "subclass": "arcane",
-          "name": "arcane-ever-ready",
-          "title": "Arcane Archer: Ever-Ready Shot",
-          "text": "<p>Starting at 15th level, your magical marksmanship is ever available to you when you need it most. When you roll initiative you regain one use of Arcane Shot.</p><p>Additionally, you can conjure 30 pieces of ammunition as a bonus action, which disappear after 1 minute. The ammunition appears in your quiver or equivalent container</p>"
-        }, 
-        {
-          "level": 15,
-          "subclass": "arcane",
-          "name": "arcane-arcane-shot-3",
-          "title": "Arcane Archer: Extra Arcane Shot",
-          "text": "At 15th level, you learn an additional Arcane Shot option."
-        }, 
         {
           "level": 16,
           "subclass": "base",
@@ -3477,61 +3415,12 @@
           "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 17,
-          "subclass": "base",
-          "name": "action-surge-2",
-          "title": "Action Surge (2)",
-          "text": "At 17th level, you can use Action Surge twice before a rest, but only once on the same turn."
-        },
-        {
-          "level": 17,
-          "subclass": "base",
-          "name": "indomitable-2",
-          "title": "Indomitable (3)",
-          "text": "At 17th level, you can use Indomitable three times between long rests."
-        },
-        {
           "level": 18,
           "subclass": "base",
-          "name": "archetype-3",
-          "title": "Martial Archetype Feature",
-          "text": "At 18th level, you gain a feature from your Martial Archetype."
+          "name": "aura-improvements",
+          "title": "Aura Improvements",
+          "text": "At 18th level, the range of all your Auras increase to 30 feet. This includes the base Aura of Protections as well as auras from the following Oaths: Ancients, Devotion, Oathbreaker, and Madness."
         },
-        {
-          "level": 18,
-          "subclass": "champion",
-          "name": "champion-survivor",
-          "title": "Champion: Survivor",
-          "text": "At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points."
-        },
-        {
-          "level": 18,
-          "subclass": "battlemaster",
-          "name": "battlemaster-improved-superiority-2",
-          "title": "Battle Master: Improved Combat Superiority (d12)",
-          "text": "At 18th level, your superiority dice turn into d12s."
-        },
-        {
-          "level": 18,
-          "subclass": "cavalier",
-          "name": "cavalier-improved-superiority-2",
-          "title": "Cavalier: Improved Combat Superiority (d12)",
-          "text": "At 18th level, your superiority dice turn into d12s."
-        },
-        {
-          "level": 18,
-          "subclass": "eldritch",
-          "name": "eldritch-improved-war",
-          "title": "Eldritch Knight: Improved War Magic",
-          "text": "Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action."
-        },
-        {
-          "level": 18,
-          "subclass": "arcane",
-          "name": "arcane-arcane-shot-4",
-          "title": "Arcane Archer: Extra Arcane Shot and Improved Shot",
-          "text": "At 18th level, you learn an additional Arcane Shot option and all known arcane shots do an additional 1d8 damage per the Arcane Shot options list."
-        }, 
         {
           "level": 19,
           "subclass": "base",
@@ -3542,9 +3431,51 @@
         {
           "level": 20,
           "subclass": "base",
-          "name": "extra-attack-3",
-          "title": "Extra Attack (3)",
-          "text": "At 20th level, you can attack four times whenever you take the Attack action on your turn."
+          "name": "oath-3",
+          "title": "Sacred Oath Feature",
+          "text": "At 20th level, you gain a feature granted to you by your Sacred Oath."
+        },
+        {
+          "level": 20,
+          "subclass": "ancients",
+          "name": "ancients-elder-champion",
+          "title": "Oath of the Ancients: Undying Sentinel",
+          "text": "<p>At 20th level, you can assume the form of an ancient force of nature, taking on an appearance you choose. For example, your skin might turn green or take on a bark-like texture, your hair might become leafy or mosslike, or you might sprout antlers or a lion-like mane. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</p><ul><li>At the start of each of your turns, you regain 10 hit points.</li><li>Whenever you cast a paladin spell that has a casting time of 1 action, you can cast it using your bonus action instead.</li><li>Enemy creatures within 10 feet of you have disadvantage on saving throws against your paladin spells and Channel Divinity options.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 20,
+          "subclass": "devotion",
+          "name": "devotion-purity-of-spirit",
+          "title": "Oath of Devotion: Holy Nimbus",
+          "text": "<p>At 20th level, you can assume the form of an ancient force of light and good. Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:</p><ul><li>Bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.</li><li>Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.</li><li>You have advantage on saving throws against spells cast by fiends or undead.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 20,
+          "subclass": "vengeance",
+          "name": "vengeance-avenging-angel",
+          "title": "Oath of Vengeance: Avenging Angel",
+          "text": "<p>At 20th level, you can assume the form of an angelic avenger. Using your action, you undergo a transformation. For 1 hour, you gain the following benefits:</p><ul><li>Wings sprout from your back and grant you a flying speed of 60 feet.</li><li>You emanate an aura of menace in a 30-foot radius. The first time any enemy creature enters the aura or starts its turn there during a battle, the creature must succeed on a Wisdom saving throw or become frightened of you for 1 minute or until it takes any damage. Attack rolls against the frightened creature have advantage.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 20,
+          "subclass": "crown",
+          "name": "crown-exalted-champion",
+          "title": "Oath of the Crown: Exalted Champion",
+          "text": "<p>At 20th level, your presence on the field of battle is an inspiration to those dedicated to your cause. You can use your action to gain the following benefits for 1 hour:</p><ul><li>You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</li><li>Your allies have advantage on death saving throws while within 30 feet of you.</li><li>You have advantage on Wisdom saving throws, as do your allies within 30 feet of you.</li></ul><p>This effect ends early if you are incapacitated or die. Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 20,
+          "subclass": "oathbreaker",
+          "name": "oathbreaker-dread-lord",
+          "title": "Oathbreaker: Dread Lord",
+          "text": "<p>At 20th level, you can assume the form of a menacing dread lord. You can use your action to gain the following benefits for 1 minute:</p><ul><li>A 30 ft. aura reduces any bright light in a 30-foot radius around you to dim light.</li><li>Whenever an enemy that is frightened by the paladin starts its turn in the aura, it takes 4d10 psychic damage.</li><li>The paladin and creatures he or she chooses in the aura are draped in deeper shadow. Creatures that rely on sight have disadvantage on attack rolls against creatures draped in this shadow.</li><li>While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to 3d10 + the paladin's Charisma modifier.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 20,
+          "subclass": "madness",
+          "name": "madness-untouchable-mind",
+          "title": "Oath of Madness: Emissary of the Spheres",
+          "text": "<p>At 20th level, you can alter your form to appear as an avater of abherration. You can use your action to gain the following benefits for 1 minute:</p><ul><li>Enemy creatures within 10 feet of you have disadvantage on Wisdom and Charisma saving throws against your paladin spells or Channel Divinity options.</li><li>If a creature damages you on its turn, it must succeed on a Strength or Dexterity saving throw (its choice) or it is retrained by an otherworldly tentacle</li><li>As a bonus action on each of your turns you can use your control of geometries of teleport 10ft. to any location you can see.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
         }
       ]
     }
