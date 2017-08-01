@@ -23,7 +23,7 @@ export default class NavbarComponent extends React.Component {
               <MenuItem href="#/feats/acrobat" eventKey={3.3}>Feats</MenuItem>
             </NavDropdown>
             <NavDropdown eventKey={4} title="DMs" id="basic-nav-dropdown">
-              <MenuItem href="#/beastiary" eventKey={4.1}>Beastiary</MenuItem>
+              <MenuItem href="#/beastiary/undef" eventKey={4.1}>Beastiary</MenuItem>
               <MenuItem href="#/items" eventKey={4.2}>Items</MenuItem>
               <MenuItem href="#/conditions/blinded" eventKey={3.1}>Conditions</MenuItem>
             </NavDropdown>

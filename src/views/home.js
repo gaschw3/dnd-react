@@ -29,7 +29,7 @@ export default class Home extends Component {
                 <h4><a href="/dnd-react/#/items/undef">Items</a></h4>
                 <p>Table and details for most items in 5e. Doesn't include merchant fodder. Also doesn't really work right yet.</p>
                 <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
-                <p>View a 404 page, because this isn't done.</p>
+                <p>Table and details for lots of monsters in D&D 5e. Still broken; you can use the table, but don't click on a row.</p>
                 <h4><a href="/dnd-react/#/rules">Rules</a></h4>
                 <p>View a 404 page, because this isn't done.</p>
               </Col>
