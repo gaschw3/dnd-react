@@ -1,3 +1,4 @@
+/* eslint no-eval: 0 */
 import React from 'react';
 import { Table, Th, Tr, Td, Thead } from 'reactable'
 import { FormGroup, FormControl } from  'react-bootstrap';

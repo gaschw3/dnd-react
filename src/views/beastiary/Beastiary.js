@@ -39,5 +39,4 @@ export class Beastiary extends React.Component {
       </div>
     );
   }
-
 }

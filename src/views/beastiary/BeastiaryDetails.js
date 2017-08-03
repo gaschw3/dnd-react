@@ -1,5 +1,4 @@
 import React from 'react';
-import {Row, Col} from  'react-bootstrap';
 
 export class BeastiaryDetails extends React.Component {
 
@@ -9,17 +8,35 @@ export class BeastiaryDetails extends React.Component {
     )
   }
 
-  formatSpellLvl(lvl, school){
-    if (lvl === "0")
-      return school + " Cantrip";
-    if (lvl === "1")
-      return lvl + "st level " + school;
-    if (lvl === "2")
-      return lvl + "nd level " + school;
-    if (lvl === "3")
-      return lvl + "rd level " + school;
+  formatBeastSize(size){
+    if (size === "S")
+      return "Small";
+    if (size === "M")
+      return "Medium";
+    if (size === "L")
+      return "Large";
+    if (size === "H")
+      return "Huge";
     else
-      return lvl + "th level " + school;
+      return "Other";
+  }
+
+  printIfExists(header, data){
+    if (data)
+      return(
+        <div className="col-sm-6">
+          <strong>{header}</strong> {data}
+        </div>
+      )
+    else
+      return "";
+  }
+
+  getStatMod(stat){
+    var sign = "+"
+    var mod = Math.floor((parseInt(stat, 10) - 10)/2);
+    (mod >= 0) ? sign = "+" : sign = "";
+    return sign+mod;
   }
 
   render() {
@@ -31,34 +48,94 @@ export class BeastiaryDetails extends React.Component {
 
     if (currBeastiary) {
       return(
-        <div>
-          <div className="beastiary-details">
-            <div className="beastiary-title">
-              <Row>
-                <Col xs={8}>
-                  <h2><strong>{currBeastiary.title}</strong></h2>
-                </Col>
-                <Col xs={4}>
-                  <h3 className="pull-right">{currBeastiary.source}</h3>
-                </Col>
-              </Row>
-              <Row>
-                <Col xs={4}>
-                  <h4 className="pull-left"><em>{this.formatSpellLvl(currBeastiary.level, currBeastiary.school)}</em></h4>
-                </Col>
-              </Row>
-            </div>
-            <div className="beastiary-stats">
-              <Row>
-                <Col sm={6}><strong>Casting time: </strong>{currBeastiary.time}</Col>
-                <Col sm={6}><strong>Range: </strong>{currBeastiary.range}</Col>
-                <Col sm={6}><strong>Components: </strong>{currBeastiary.components}</Col>
-                <Col sm={6}><strong>Duration: </strong>{currBeastiary.duration}</Col>
-              </Row>
-            </div>
-            <div className="beastiary-features">
-              <p>{this.paragraphize(currBeastiary.text)}</p>
-              <p><strong>Classes: </strong>{currBeastiary.classes}</p>
+        <div className="col-1 beastiary-detail">
+          <div>
+            <div className="beastiary-details">
+              <div className="beastiary-title">
+                <div className="row">
+                  <div className="col-xs-8">
+                    <h2><strong>{currBeastiary.name}</strong></h2>
+                  </div>
+                  <div className="col-xs-4">
+                    <h3 className="pull-right">{currBeastiary.source}</h3>
+                  </div>
+                </div>
+                <div className="row">
+                  <div className="col-xs-12"><h4 className="pull-left"><em>{this.formatBeastSize(currBeastiary.size)} {currBeastiary.type}</em></h4></div>
+                  <div className="col-xs-12"><h4><em>{currBeastiary.alignment}</em></h4></div>
+                </div>
+              </div>
+              <div className="beastiary-title">
+                <div className="row">
+                  <div className="col-sm-6">
+                    <strong>AC</strong> {currBeastiary.ac}
+                  </div>
+                  <div className="col-sm-6">
+                    <strong>HP</strong> {currBeastiary.hp}
+                  </div>
+                  <div className="col-sm-12">
+                    <strong>Spd</strong> {currBeastiary.speed}
+                  </div>
+                </div>
+              </div>
+              <div className="beastiary-title">
+                <div className="row">
+                  <div className="col-xs-2 text-center">
+                    <strong>STR</strong>
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    <strong>DEX</strong>
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    <strong>CON</strong>
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    <strong>INT</strong>
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    <strong>WIS</strong>
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    <strong>CHA</strong>
+                  </div>
+                </div>
+                <div className="row">
+                  <div className="col-xs-2 text-center">
+                    {currBeastiary.str} ({this.getStatMod(currBeastiary.str)})
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    {currBeastiary.dex} ({this.getStatMod(currBeastiary.dex)})
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    {currBeastiary.con} ({this.getStatMod(currBeastiary.con)})
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    {currBeastiary.int} ({this.getStatMod(currBeastiary.int)})
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    {currBeastiary.wis} ({this.getStatMod(currBeastiary.wis)})
+                  </div>
+                  <div className="col-xs-2 text-center">
+                    {currBeastiary.cha} ({this.getStatMod(currBeastiary.cha)})
+                  </div>
+                </div>
+              </div>
+              <div className="beastiary-title">
+                <div className="row">
+                  {this.printIfExists("Skills:", currBeastiary.skills)}
+                  {this.printIfExists("Saves: ", currBeastiary.saves)}
+                  {this.printIfExists("Senses: ", currBeastiary.senses)}
+                  {this.printIfExists("Languages: ", currBeastiary.languages)}
+                  {this.printIfExists("Immune: ", currBeastiary.immune)}
+                  {this.printIfExists("Vuln: ", currBeastiary.vulnerable)}
+                  {this.printIfExists("Resist: ",currBeastiary.resist)}
+                  {this.printIfExists("Cond Immune: ",currBeastiary.condiImmune)}
+                  {this.printIfExists("CR: ",currBeastiary.cr)}
+                </div>
+              </div>
+              <div className="beastiary-features">
+                <p><strong>Special Features.</strong>blah blah blah this is a special feature or whatever.</p>
+              </div>
             </div>
           </div>
         </div>
