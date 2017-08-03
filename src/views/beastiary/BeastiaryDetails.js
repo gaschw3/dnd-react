@@ -32,6 +32,24 @@ export class BeastiaryDetails extends React.Component {
       return "";
   }
 
+  getActions(header, data){
+    if (data)
+      return(
+        <div className="beastiary-title">
+          <h4>{header}</h4>
+          {
+            data.map(function(action) { 
+              return (
+                <p><strong>{action.name}</strong>{this.paragraphize(action.text)}</p>
+              )
+            }, this)
+          }                
+        </div>
+      )
+    else
+      return "";
+  }
+
   getStatMod(stat){
     var sign = "+"
     var mod = Math.floor((parseInt(stat, 10) - 10)/2);
@@ -133,9 +151,10 @@ export class BeastiaryDetails extends React.Component {
                   {this.printIfExists("CR: ",currBeastiary.cr)}
                 </div>
               </div>
-              <div className="beastiary-features">
-                <p><strong>Special Features.</strong>blah blah blah this is a special feature or whatever.</p>
-              </div>
+              { this.getActions("Special Abilities", currBeastiary.trait) }
+              { this.getActions("Actions", currBeastiary.action) }
+              { this.getActions("Reactions", currBeastiary.reaction) }
+              { this.getActions("Legendary Actions", currBeastiary.legendary) }
             </div>
           </div>
         </div>
