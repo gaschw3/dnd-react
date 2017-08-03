@@ -4,11 +4,13 @@ export class BeastiaryDetails extends React.Component {
 
   paragraphize(data){
     return (
-        data.map(function(line) { return <p>{line}</p> })
+        data.map(function(line) { return <p className='pad-left'>{line}</p> })
     )
   }
 
   formatBeastSize(size){
+    if (size === "T")
+      return "Tiny";
     if (size === "S")
       return "Small";
     if (size === "M")
@@ -17,6 +19,8 @@ export class BeastiaryDetails extends React.Component {
       return "Large";
     if (size === "H")
       return "Huge";
+    if (size === "G")
+      return "Gargantuan";
     else
       return "Other";
   }
