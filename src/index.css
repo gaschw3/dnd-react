@@ -100,7 +100,10 @@ ul {
 .table-bard>tbody>tr>th,
 .table-cleric>tbody>tr>th,
 .table-druid>tbody>tr>th,
-.table-warlock>tbody>tr>th {
+.table-warlock>tbody>tr>th,
+.table-rogue>tbody>tr>th,
+.table-wizard>tbody>tr>th,
+.table-sorcerer>tbody>tr>th {
     padding: 2px;
 }
 td.center, th.center {
