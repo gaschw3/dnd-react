@@ -3234,24 +3234,24 @@
         {
           "level": 3,
           "filter": "yes",
-          "subclass": "madness",
-          "name": "madness",
-          "title": "Sacred Oath: Oath of Madness (HB)",
-          "text": "<p>The Oath of Madness is consiously taken by warriors who serve otherworldly entities and quest to release them into the meterial plane, but many others unintentionally convert. Some were trying to prevent otherworldly incursion. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many of those who found themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consiousness.</p><h5>Tenets of Madness</h5><p>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Spread the Word.</strong> Sanity is a curse, and you must take every effort to unburden the afflicted. </p><p class='pad-left'><strong>Write the Books.</strong> There is no point only saying things -- spoken words die as soon as they're un-listened. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Respect the Messengers.</strong> Those touched with madness are truly blessed. You are the sworn protector of the mad, the wild, and the forgotten -- do not allow them to come to harm.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible. Others always need more ways in.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - hallucinatory terrain, confusion</li><li>17th - contact other plane, dream</li></ul>"
+          "subclass": "spheres",
+          "name": "spheres",
+          "title": "Sacred Oath: Oath of Spheres (HB)",
+          "text": "<pThe Oath of Spheres is sometimes taken by warriors who serve otherworldly entities and quest to release them into the material plane, but other adherents are incidental devotees. Some were trying to prevent otherworldly incursion and lost their way. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many who find themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consciousness found in the ever-widening gyre of the stars</p><h5>Tenets of Madness</h5><p>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Whisper the Truths.</strong> Normalcy is a curse. You must find hidden knowledge and share its truths to unburden the afflicted.</p><p class='pad-left'><strong>Write the Books.</strong> There is no point only speaking -- spoken word exists for mere seconds. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Assist the Envoys.</strong> Those touched with madness have seen the patterns in the stars. You are the protector of the mad, wild, and forgotten; do not allow them to be harmed.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible so that you might look to the stars -- and so that the stars might look back.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - dimension door, confusion</li><li>17th - telekinesis, dream</li></ul>"
         },
         {
           "level": 3,
-          "subclass": "madness",
-          "name": "madness-channel-1",
-          "title": "Oath of Madness Channel Divinity: Instill Madness",
-          "text": "You can use your Channel Divinity to force others to echo your insane mind. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Charisma saving throw. On a failed save, the creatures become incapacitated and spend the duration screaming, laughing, or weeping. This madness lasts for 1 minute or until the creature takes damage. The creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success."
+          "subclass": "spheres",
+          "name": "spheres-channel-1",
+          "title": "Oath of Spheres Channel Divinity: Ihbar's Void",
+          "text": "<p>You can use your channel divinity to open a rift to the darkness between the stars. As an action you can create a 15-foot radius sphere of magical darkness centered on a point within 20ft that lasts for 1 minute. The void emits soft murmuring voices and distant tinkling music. Your vision is unaffected by the darkness created in this way but other creatures are blinded within the area.</p><p>Any creature other than yourself that spends the full minute within the Void must make a Wisdom save or roll on the long-term madness table.</p>"
         },
         {
           "level": 3,
-          "subclass": "madness",
-          "name": "madness-channel-2",
-          "title": "Oath of Madness Channel Divinity: Eldritch Grasp",
-          "text": "You can use your Channel Divinity to invoke otherworldy forces to ensnare a foe. As an action, you can cause a milky purple tentacle to spring up and reach for a creature within 10 feet of you that you can see. The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the tentacle, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the tentacle retreats."
+          "subclass": "spheres",
+          "name": "spheres-channel-2",
+          "title": "Oath of Spheres Channel Divinity: Khirad's Gaze",
+          "text": "<p>As an action, you can open your mind and reveal it’s eldritch nature to an enemy, using your Channel Divinity. Choose one creature within 50 feet of you that you can see and that can see you. That creature must succeed on a Wisdom saving throw.</p><p>On a failed save the creature is frightened and its speed is set to zero while it laughs, cries, or gibbers uncontrollably for 1 minute. On a successful save the creature’s speed is halved for 1 minute. Either effect ends whenever the creature takes damage from any source.</p>"
         },
         {
           "level": 4,
@@ -3318,10 +3318,10 @@
         },
         {
           "level": 7,
-          "subclass": "madness",
-          "name": "madness-aura",
-          "title": "Oath of Madness: Gravatic Aura",
-          "text": "At 7th level, you learn how to manipulate geometries to point towards yourself more than they have any right too. Hostile creatures within 10 feet treat that area as difficult terrain as long as they are trying to move away from you. At 18th level, the range of this aura increases to 30 feet."
+          "subclass": "spheres",
+          "name": "spheres-aura",
+          "title": "Oath of Spheres: Acamar's Beckoning",
+          "text": "At 7th level, your knowledge of forbidden geometries imparts the ability to create a small but powerful gravity well around yourself. Creatures of your choice moving away from you treat the area within 10 feet of you as difficult terrain. At 18th level, the range of this aura increases to 30 feet. Additionally, you can choose up to three tiny objects and concentrate to hold them in orbit around yourself."
         },
         {
           "level": 8,
@@ -3402,10 +3402,10 @@
         },
         {
           "level": 15,
-          "subclass": "madness",
-          "name": "madness-untouchable-mind",
-          "title": "Oath of Madness: Untouchable Mind",
-          "text": "Starting at 15th level, your mind becomes so warped and strange thay you have resistance to psychic damage and advantage on saving throws against effects that would read your thoughts or control your actions."
+          "subclass": "spheres",
+          "name": "spheres-untouchable-mind",
+          "title": "Oath of Spheres: Unknowable Mind",
+          "text": "Starting at 15th level, your mind becomes so warped and strange that you have resistance to psychic damage and advantage on saving throws against effects that would read your thoughts or control your actions."
         },
         {
           "level": 16,
@@ -3472,10 +3472,10 @@
         },
         {
           "level": 20,
-          "subclass": "madness",
-          "name": "madness-untouchable-mind",
-          "title": "Oath of Madness: Emissary of the Spheres",
-          "text": "<p>At 20th level, you can alter your form to appear as an avater of abherration. You can use your action to gain the following benefits for 1 minute:</p><ul><li>Enemy creatures within 10 feet of you have disadvantage on Wisdom and Charisma saving throws against your paladin spells or Channel Divinity options.</li><li>If a creature damages you on its turn, it must succeed on a Strength or Dexterity saving throw (its choice) or it is retrained by an otherworldly tentacle</li><li>As a bonus action on each of your turns you can use your control of geometries of teleport 10ft. to any location you can see.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+          "subclass": "spheres",
+          "name": "spheres-untouchable-mind",
+          "title": "Oath of Spheres: Emissary of the Spheres",
+          "text": "<p>At 20th level, you can assume the form of a tentacled otherworldly horror. You can use your action to gain the following benefits for 1 minute:</p><ul><li>Enemy creatures within 10 feet of you have disadvantage on Intelligence, Wisdom, and Charisma saving throws against your paladin spells and Channel Divinity Options.</li><li>If a creature damages you on its turn, you may use your reaction to channel your Insane Regard without expending a use of your Channel Divinity.</li><li>As a bonus action on each of your turns you can use your control of geometries of teleport 10ft. to any location you can see.</li></ul><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
         }
       ]
     },
