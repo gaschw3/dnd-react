@@ -4933,8 +4933,8 @@
         {
           "level": 2,
           "subclass": "base",
-          "name": "arcane-recovery",
-          "title": "Arcane Recovery",
+          "name": "arcane-tradition",
+          "title": "Arcane tradition",
           "text": "When you reach 2nd level, you choose an arcane tradition from below that shapes your practice of magic. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level."
         },
         {
@@ -4947,11 +4947,39 @@
         },
         {
           "level": 2,
+          "subclass": "abjuration",
+          "name": "abjuration-savant",
+          "title": "Abjuration: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an abjuration spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "abjuration",
+          "name": "abjuration-arcane-ward",
+          "title": "Abjuration: Arcane Ward",
+          "text": "<p>Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell of 1st level or higher, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your wizard level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage.</p><p>While the ward has 0 hit points, it can't absorb damage, but its magic remains. Whenever you cast an abjuration spell of 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.</p><p>Once you create the ward, you can't create it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 2,
           "filter": "yes",
           "subclass": "bladesinger",
           "name": "bladesinger",
           "title": "Tradition: Bladesinger",
           "text": "Bladesingers are elves who bravely defend their people and lands. They are elf wizards who master a school of sword fighting grounded in a tradition of arcane magic. In combat, a bladesinger uses a series of intricate, elegant maneuvers that fend off harm and allow the bladesinger to channel magic into devastating attacks and a cunning defense."
+        },
+        {
+          "level": 2,
+          "subclass": "bladesinger",
+          "name": "bladesinger-savant",
+          "title": "Bladesinger: Training in War and Song",
+          "text": "When you adopt this tradition at 2nd level, you gain proficiency with light armor, and you gain proficiency with one type of one-handed melee weapon of your choice. You also gain proficiency in the Performance skill if you don't already have it."
+        },
+        {
+          "level": 2,
+          "subclass": "bladesinger",
+          "name": "bladesinger-improved-minor-illusion",
+          "title": "Bladesinger: Bladesong",
+          "text": "<p>Starting at 2nd level, you can invoke a secret elven magic called the Bladesong, provided you aren't wearing medium or heavy armor or using a shield. It graces you with supernatural speed, agility, and focus.</p><p>You can use a bonus action to start the Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no action required).</p><p>While your bladesong is active, you gain the following benefits:</p><ul><li>You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).</li><li>Your walking speed increases by 10 feet.</li><li>You have advantage on Dexterity (Acrobatics) checks.</li><li>You gain a bonus to any Constitution saving throws you make to maintain concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).</li></ul><p>You can use this feature twice. You regain all expended uses of it when you finish a short or long rest.</p>"
         },
         {
           "level": 2,
@@ -4963,11 +4991,39 @@
         },
         {
           "level": 2,
+          "subclass": "conjuration",
+          "name": "conjuration-savant",
+          "title": "Conjuration: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "conjuration",
+          "name": "conjuration-minor",
+          "title": "Conjuration: Minor Conjuration",
+          "text": "Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet. The object disappears after 1 hour, when you use this feature again, or if it takes any damage."
+        },
+        {
+          "level": 2,
           "filter": "yes",
           "subclass": "divination",
           "name": "divination",
           "title": "Tradition: Divination",
           "text": "The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight."
+        },
+        {
+          "level": 2,
+          "subclass": "divination",
+          "name": "divination-savant",
+          "title": "Divination: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy a divination spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "divination",
+          "name": "divination-portent",
+          "title": "Divination: Portent",
+          "text": "Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls."
         },
         {
           "level": 2,
@@ -4979,11 +5035,39 @@
         },
         {
           "level": 2,
+          "subclass": "enchantment",
+          "name": "enchantment-savant",
+          "title": "Enchantment: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an enchantment spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "enchantment",
+          "name": "enchantment-hypnotic-gaze",
+          "title": "Enchantment: Hypnotic Gaze",
+          "text": "<p>Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be charmed by you until the end of your next turn. The charmed creature's speed drops to 0, and the creature is incapacitated and visibly dazed.</p><p>On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.</p><p>Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can't use this feature on that creature again until you finish a long rest.</p>"
+        },
+        {
+          "level": 2,
           "filter": "yes",
           "subclass": "evocation",
           "name": "evocation",
           "title": "Tradition: Evocation",
           "text": "You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants."
+        },
+        {
+          "level": 2,
+          "subclass": "evocation",
+          "name": "evocation-savant",
+          "title": "Evocation: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "evocation",
+          "name": "evocation-sculpt-spells",
+          "title": "Evocation: Sculpt Spells",
+          "text": "Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save."
         },
         {
           "level": 2,
@@ -4995,11 +5079,39 @@
         },
         {
           "level": 2,
+          "subclass": "illusion",
+          "name": "illusion-savant",
+          "title": "Illusion: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an illusion spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "illusion",
+          "name": "illusion-improved-minor-illusion",
+          "title": "Illusion: Improved Minor Illusion",
+          "text": "When you choose this school at 2nd level, you learn the minor illusion cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known. When you cast minor illusion, you can create both a sound and an image with a single casting of the spell."
+        },
+        {
+          "level": 2,
           "filter": "yes",
           "subclass": "transmutation",
           "name": "transmutation",
           "title": "Tradition: Transmutation",
           "text": "<p>You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality's forge.</p><p>Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "transmutation",
+          "name": "transmutation-savant",
+          "title": "Transmutation: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy a transmutation spell into your spellbook is halved."
+        },
+        {
+          "level": 2,
+          "subclass": "transmutation",
+          "name": "transmutation-minor-alchemy",
+          "title": "Transmutation: Minor Alchemy",
+          "text": "Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance."
         },
         {
           "level": 2,
@@ -5009,104 +5121,19 @@
           "title": "Tradition: Necromancy",
           "text": "<p>The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.</p><p>Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.</p>"
         },
-
         {
           "level": 2,
-          "subclass": "base",
-          "name": "channel-divinity-1",
-          "title": "Channel Divinity (1/rest)",
-          "text": "<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p><p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p>"
+          "subclass": "necromancy",
+          "name": "necromancy-savant",
+          "title": "Necromancy: Savant",
+          "text": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy a necromancy spell into your spellbook is halved."
         },
         {
           "level": 2,
-          "subclass": "base",
-          "name": "channel-divinity-turn",
-          "title": "Channel Divinity: Turn Undead",
-          "text": "<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "base",
-          "name": "domain-1",
-          "title": "Divine Domain Feature",
-          "text": "At 2nd level, you gain a feature from your Divine Domain."
-        },
-        {
-          "level": 2,
-          "subclass": "arcana",
-          "name": "arcana-channel-divinity-abjure",
-          "title": "Arcana Channel Divinity: Arcane Abjuration",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly creatures. As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p><p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p><p>After you reach 5th level, when a creature fails its saving throw against you Arcane Abjuration feature, the creature is banished for 1 minute if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as per the progressions of 'Channel Divinity: Destroy Undead'.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "death",
-          "name": "death-channel-divinity-touch",
-          "title": "Death Channel Divinity: Touch of Death",
-          "text": "Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature's life force by touch. When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice his or her cleric level."
-        },
-        {
-          "level": 2,
-          "subclass": "knowledge",
-          "name": "knowledge-channel-divinity-ages",
-          "title": "Knowledge Channel Divinity: Knowledge of the Ages",
-          "text": "Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool."
-        },
-        {
-          "level": 2,
-          "subclass": "life",
-          "name": "life-channel-divinity-preserve",
-          "title": "Life Channel Divinity: Preserve Life",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p><p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "light",
-          "name": "light-channel-divinity-dawn",
-          "title": "Light Channel Divinity: Radiance of Dawn",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to harness sunlight, banishing darkness and dealing radiant damage to your foes.</p><p>As an action, you present your holy symbol, and any magical darkness within 30 feet of you is dispelled. Additionally, each hostile creature within 30 feet of you must make a Constitution saving throw. A creature takes radiant damage equal to 2d10 + your cleric level on a failed saving throw, and half as much damage on a successful one. A creature that has total cover from you is not affected.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "nature",
-          "name": "nature-channel-divinity-charm",
-          "title": "Nature Channel Divinity: Charm Nature",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.</p><p>As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "tempest",
-          "name": "tempest-channel-divinity-wrath",
-          "title": "Tempest Channel Divinity: Destructive Wrath",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to wield the power of the storm with unchecked ferocity.</p><p>When you roll lightning or thunder damage, you can use your Channel Divinity to deal maximum damage, instead of rolling.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "trickery",
-          "name": "trickery-channel-divinity-duplicity",
-          "title": "Trickery Channel Divinity: Invoke Duplicity",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 10HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "war",
-          "name": "war-channel-divinity-strike",
-          "title": "War Channel Divinity: Guided Strike",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to strike with supernatural accuracy.</p><p>When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "forge",
-          "name": "forge-channel-divinity-artisan",
-          "title": "Forge Channel Divinity: Artisan's Blessing",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create simple items.</p><pStarting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.</p><p>The object can be worth no more than 100 gp, and as part of this ritual you must expend metals, such as coins or other finished items, with a value equal to the item you want to make. The item can be an exact duplicate of a nonmagical item, such as a copy of a key, if you possess the original during your short rest.</p>"
-        },
-        {
-          "level": 2,
-          "subclass": "grave",
-          "name": "grave-channel-divinity-path",
-          "title": "Grave Channel Divinity: Path to the Grave",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to mark another creature's life force for termination.</p><p>As an action, you touch a creature. The next time that creature takes damage from a spell or an attack from you or an ally, it is vulnerable to that spell or attack's damage. If the source of damage has multiple damage types, the creature is vulnerable to all of them. The vulnerability applies only to the first time that source inflicts damage, and then ends. If the creature has resistance or is immune to the damage, it instead loses its resistance or immunity against that spell or attack when it first applies damage.</p>"
+          "subclass": "necromancy",
+          "name": "necromancy-minor-alchemy",
+          "title": "Necromancy: Grim Harvest",
+          "text": "At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell of 1st level or higher, you regain hit points equal to twice the spell's level, or three times its level if the spell belongs to the School of Necromancy. You don't gain this benefit for killing constructs or undead."
         },
         {
           "level": 4,
@@ -5116,102 +5143,74 @@
           "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 5,
-          "subclass": "base",
-          "name": "destroy-undead-half",
-          "title": "Destroy Undead (CR 1/2)",
-          "text": "Starting at 5th level, when an undead of CR 1/2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
-        },
-        {
           "level": 6,
           "subclass": "base",
-          "name": "channel-divinity-2",
-          "title": "Channel Divinity (2/rest)",
-          "text": "Beginning at 6th level, you can use your Channel Divinity twice between rests."
+          "name": "arcane-tradition-1",
+          "title": "Arcane Tradition Feature",
+          "text": "At 6th level, you gain a feature granted by your Arcane Tradition."
         },
         {
           "level": 6,
-          "subclass": "base",
-          "name": "domain-2",
-          "title": "Divine Domain Feature",
-          "text": "At 6th level, you gain a feature from your Divine Domain."
+          "subclass": "abjuration",
+          "name": "abjuration-projected-ward",
+          "title": "Abjuration: Projected Ward",
+          "text": "Starting at 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage."
         },
         {
           "level": 6,
-          "subclass": "arcana",
-          "name": "arcana-spell-breaker",
-          "title": "Arcana Domain: Spell Breaker",
-          "text": "Starting at 6th level, when you restore hit points to an ally with a spell of 1st level or higher, you can also end one spell of your choice on that creature. The level of the spell you end must be equal to or lower than the level of the spell slot you use to cast the healing spell."
+          "subclass": "bladesinger",
+          "name": "bladesinger-extra-attack",
+          "title": "Bladesinger: Extra Attack",
+          "text": "Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
         },
         {
           "level": 6,
-          "subclass": "death",
-          "name": "death-inescapable",
-          "title": "Death Domain: Inescapable Destruction",
-          "text": "Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and Channel Divinity options ignores resistance to necrotic damage."
+          "subclass": "conjuration",
+          "name": "conjuration-benign-transposition",
+          "title": "Conjuration: Benign Transposition",
+          "text": "<p>Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.</p><p>Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.</p>"
         },
         {
           "level": 6,
-          "subclass": "knowledge",
-          "name": "knowledge-channel-divinity-thoughts",
-          "title": "Knowledge Channel Divinity: Read Thoughts",
-          "text": "<p>At 6th level, you can use your Channel Divinity to read a creature's thoughts. You can then use your access to the creature's mind to command it.</p><p>As an action, choose one creature that you can see within 60 feet of you. That creature must make a Wisdom saving throw. If the creature succeeds on the saving throw, you can't use this feature on it again until you finish a long rest.</p><p>If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.</p><p>During that time, you can use your action to end this effect and cast the suggestion spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.</p>"
+          "subclass": "divination",
+          "name": "divination-expert-divining",
+          "title": "Divination: Expert Divining",
+          "text": "Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell of 2nd level or higher using a spell slot, you regain one expended spell slot. The slot you regain must be of a level lower than the spell you cast and can't be higher than 5th level."
         },
         {
           "level": 6,
-          "subclass": "life",
-          "name": "life-blessed-healer",
-          "title": "Life Domain: Blessed Healer",
-          "text": "Beginning at 6th level, the healing spells you cast on others heal you as well. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, you regain hit points equal to 2 + the spell's level."
+          "subclass": "enchantment",
+          "name": "enchantment-instinctive-charm",
+          "title": "Enchantment: Instinctive Charm",
+          "text": "<p>Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.</p><p>You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be charmed are immune to this effect.</p>"
         },
         {
           "level": 6,
-          "subclass": "light",
-          "name": "light-improved-flare",
-          "title": "Light Domain: Improved Flare",
-          "text": "Starting at 6th level, you can also use your Warding Flare feature when a creature that you can see within 30 feet of you attacks a creature other than you."
+          "subclass": "evocation",
+          "name": "evocation-potent-cantrip",
+          "title": "Evocation: Potent Cantrip",
+          "text": "Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip."
         },
         {
           "level": 6,
-          "subclass": "nature",
-          "name": "nature-dampen-elements",
-          "title": "Nature Domain: Dampen Elements",
-          "text": "Starting at 6th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage."
+          "subclass": "illusion",
+          "name": "illusion-malleable-illusions",
+          "title": "Illusion: Malleable Illusions",
+          "text": "Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell's normal parameters for the illusion), provided that you can see the illusion."
         },
         {
           "level": 6,
-          "subclass": "tempest",
-          "name": "tempest-thunderbolt-strike",
-          "title": "Tempest Domain: Thunderbolt Strike",
-          "text": "At 6th level, when you deal lightning damage to a Large or smaller creature, you can also push it up to 10 feet away from you."
+          "subclass": "transmutation",
+          "name": "transmutation-transmuters-stone",
+          "title": "Transmutation: Transmuter's Stone",
+          "text": "<p>Starting at 6th level, you can spend 8 hours creating a transmuter's stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature's possession. When you create the stone, choose the benefit from the following options:</p><ul><li>Darkvision out to a range of 60 feet.</li><li>An increase to speed of 10 feet while the creature is unencumbered.</li><li>Proficiency in Constitution saving throws.</li><li>Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit).</li></ul><p>Each time you cast a transmutation spell of 1st level or higher, you can change the effect of your stone if the stone is on your person. If you create a new transmuter's stone, the previous one ceases to function.</p>"
         },
         {
           "level": 6,
-          "subclass": "trickery",
-          "name": "trickery-cloak-of-shadows",
-          "title": "Trickery Channel Divinity: Shrouded Invoke Duplicity",
-          "text": "Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Invisibility."
-        },
-        {
-          "level": 6,
-          "subclass": "war",
-          "name": "war-channel-divinity-strike",
-          "title": "War Channel Divinity: War God's Blessing",
-          "text": "At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +10 bonus to the roll, using your Channel Divinity. You make this choice after you see the roll, but before the DM says whether the attack hits or misses."
-        },
-        {
-          "level": 6,
-          "subclass": "forge",
-          "name": "forge-soul",
-          "title": "Forge Domain: Soul of the Forge",
-          "text": "<p>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</p><ul><li>You gain a +1 bonus to AC while you are wearing medium or heavy armor.</li><li>You gain resistance to fire damage.</li><li>When you hit a construct with an attack, you deal additional force damage to it equal to your cleric level.</li></ul>"
-        },
-        {
-          "level": 6,
-          "subclass": "grave",
-          "name": "grave-sentinel",
-          "title": "Grave Domain: Sentinel at Death's Door",
-          "text": "Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. Once you use this feature, you can't use it again until you finish a short or long rest."
+          "subclass": "necromancy",
+          "name": "necromancy-undead-thralls",
+          "title": "Necromancy: Undead Thralls",
+          "text": "<p>At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate. Whenever you create an undead using a necromancy spell, it has additional benefits:</p><ul><li>The creature's hit point maximum is increased by an amount equal to your wizard level.</li><li>The creature adds your proficiency bonus to its weapon damage rolls.</li></ul>."
         },
         {
           "level": 8,
@@ -5221,32 +5220,74 @@
           "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 8,
+          "level": 10,
           "subclass": "base",
-          "name": "destroy-undead-1",
-          "title": "Destroy Undead (CR 1)",
-          "text": "Starting at 8th level, when an undead of CR 1 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
-        },
-        {
-          "level": 8,
-          "subclass": "base",
-          "name": "spellcasting-and-strike",
-          "title": "Divine Conduit",
-          "text": "At 8th level, you receive two boons from your divine domain.</p><p>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8. The type of this damage is determined by your Divine Domain as follows:</p><ul><li>Arcana: force</li><li>Death: necrotic</li><li>Knowledge: psychic</li><li>Life: radiant</li><li>Light: radiant or fire</li><li>Nature: fire, cold, or lightning</li><li>Tempest: thunder</li><li>Trickery: acid</li><li>War: same as weapon</li><li>Forge: fire</li><li>Grave: necrotic</li></ul>"
+          "name": "arcane-tradition-2",
+          "title": "Arcane Tradition Feature",
+          "text": "At 10th level, you gain a feature granted by your Arcane Tradition."
         },
         {
           "level": 10,
-          "subclass": "base",
-          "name": "divine-intervention",
-          "title": "Divine Intervention",
-          "text": "Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great. Imploring your deity's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric domain spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest."
+          "subclass": "abjuration",
+          "name": "abjuration-improved-abjuration",
+          "title": "Abjuration: Improved Abjuration",
+          "text": "Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in counterspell and dispel magic), you add your proficiency bonus to that ability check."
         },
         {
-          "level": 11,
-          "subclass": "base",
-          "name": "destroy-undead-2",
-          "title": "Destroy Undead (CR 2)",
-          "text": "Starting at 11th level, when an undead of CR 2 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+          "level": 10,
+          "subclass": "bladesinger",
+          "name": "bladesinger-song-of-defense",
+          "title": "Bladesinger: Song of Defense",
+          "text": "Beginning at 10th level, you can direct your magic to absorb damage while your bladesong is active. When you take damage, you can use your reaction to expend one spell slot and reduce that damage to you by an amount equal to five times the spell's slot level."
+        },
+        {
+          "level": 10,
+          "subclass": "conjuration",
+          "name": "conjuration-focused-conjuration",
+          "title": "Conjuration: Focused Conjuration",
+          "text": "Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can't be broken as a result of taking damage."
+        },
+        {
+          "level": 10,
+          "subclass": "divination",
+          "name": "divination-third-eye",
+          "title": "Divination: Third Eye",
+          "text": "<p>Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can't use the feature again until you finish a rest.</p><ul><li>Darkvision. You gain darkvision out to a range of 60 feet.</li><li>Ethereal Sight. You can see into the Ethereal Plane within 60 feet of you.</li><li>Greater Comprehension. You can read any language.</li><li>See Invisibility. You can see invisible creatures and objects within 10 feet of you that are within line of sight.</li></ul>"
+        },
+        {
+          "level": 10,
+          "subclass": "enchantment",
+          "name": "enchantment-split-enchantment",
+          "title": "Enchantment: Split Enchantment",
+          "text": "Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature."
+        },
+        {
+          "level": 10,
+          "subclass": "evocation",
+          "name": "evocation-empowered-evocation",
+          "title": "Evocation: Empowered Evocation",
+          "text": "Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast."
+        },
+        {
+          "level": 10,
+          "subclass": "illusion",
+          "name": "illusion-illusory-step",
+          "title": "Illusion: Illusory Step",
+          "text": "Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates. Once you use this feature, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "level": 10,
+          "subclass": "transmutation",
+          "name": "transmutation-shapechanger",
+          "title": "Transmutation: Shapechanger",
+          "text": "<p>At 10th level, you add the polymorph spell to your spellbook, if it is not there already. You can cast polymorph without expending a spell slot. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.</p><p>Once you cast polymorph in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.</p>"
+        },
+        {
+          "level": 10,
+          "subclass": "necromancy",
+          "name": "necromancy-inured-to-undeath",
+          "title": "Necromancy: Inured to Undeath",
+          "text": "Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects."
         },
         {
           "level": 12,
@@ -5258,9 +5299,72 @@
         {
           "level": 14,
           "subclass": "base",
-          "name": "destroy-undead-3",
-          "title": "Destroy Undead (CR 3)",
-          "text": "Starting at 14th level, when an undead of CR 3 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
+          "name": "arcane-tradition-3",
+          "title": "Arcane Tradition Feature",
+          "text": "At 14th level, you gain a feature granted by your Arcane Tradition."
+        },
+        {
+          "level": 14,
+          "subclass": "abjuration",
+          "name": "abjuration-spell-resistance",
+          "title": "Abjuration: Spell Resistance",
+          "text": "Starting at 14th level, you have advantage on saving throws against spells and resistance against the damage of spells."
+        },
+        {
+          "level": 14,
+          "subclass": "bladesinger",
+          "name": "bladesinger-song-of-victory",
+          "title": "Bladesinger: Song of Victory",
+          "text": "Starting at 14th level, you add your Intelligence modifier (minimum of +1) to the damage of your melee weapon attacks while your Bladesong is active."
+        },
+        {
+          "level": 14,
+          "subclass": "conjuration",
+          "name": "conjuration-durable-summons",
+          "title": "Conjuration: Durable Summons",
+          "text": "Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points."
+        },
+        {
+          "level": 14,
+          "subclass": "divination",
+          "name": "divination-greater-portent",
+          "title": "Divination: Greater Portent",
+          "text": "Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two."
+        },
+        {
+          "level": 14,
+          "subclass": "enchantment",
+          "name": "enchantment-alter-memories",
+          "title": "Enchantment: ALter Memories",
+          "text": "<p>At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being charmed.</p><p>Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "evocation",
+          "name": "evocation-overchannel",
+          "title": "Evocation: Overchannel",
+          "text": "<p>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.</p><p>The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "illusion",
+          "name": "illusion-illusory-reality",
+          "title": "Illusion: Illusory Reality",
+          "text": "<p>By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell of 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.</p><p>The object can't deal damage or otherwise directly harm anyone.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "transmutation",
+          "name": "transmutation-master-transmuter",
+          "title": "Transmutation: Master Transmuter",
+          "text": "<p>Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter's stone in a single burst. When you do so, choose one of the following effects. Your transmuter's stone is destroyed and can't be remade until you finish a long rest.</p><ul><li>You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.</li><li>You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.</li><li>You cast the raise dead spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.</li><li>You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.</li></ul>"
+        },
+        {
+          "level": 14,
+          "subclass": "necromancy",
+          "name": "necromancy-command-undead",
+          "title": "Necromancy: Command Undead",
+          "text": "<p>Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.</p><p>Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.</p>"
         },
         {
           "level": 16,
@@ -5270,102 +5374,11 @@
           "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
         },
         {
-          "level": 17,
-          "subclass": "base",
-          "name": "destroy-undead-4",
-          "title": "Destroy Undead (CR 4)",
-          "text": "Starting at 17th level, when an undead of CR 4 or lower fails its saving throw against your Turn Undead feature, the creature is instantly destroyed."
-        },
-        {
-          "level": 17,
-          "subclass": "base",
-          "name": "domain-3",
-          "title": "Divine Domain Feature",
-          "text": "At 17th level, you gain a feature from your Divine Domain."
-        },
-                {
-          "level": 17,
-          "subclass": "arcana",
-          "name": "arcana-mastery",
-          "title": "Arcana Domain: Arcane Mastery",
-          "text": "At 17th level, you choose four spells from the Wizard spell list, one from each of the following levels: 6th, 7th, 8th, and 9th. You add them to your list of domain spells. Like your other domain spells, they are always prepared and count as cleric spells for you."
-        },
-        {
-          "level": 17,
-          "subclass": "death",
-          "name": "death-improved-reaper",
-          "title": "Death Domain: Improved Reaper",
-          "text": "Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target."
-        },
-        {
-          "level": 17,
-          "subclass": "knowledge",
-          "name": "knowledge-visions",
-          "title": "Knowledge Domain: Visions of the Past",
-          "text": "<p>Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain concentration during that time, as if you were casting a spell.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p><p><strong>Object Reading:</strong> Holding an object as you meditate, you can see visions of the object's previous owner. After meditating for 1 minute, you learn how the owner acquired and lost the object, as well as the most recent significant event involving the object and that owner. If the object was owned by another creature in the recent past (within a number of days equal to your Wisdom score), you can spend 1 additional minute for each owner to learn the same information about that creature.</p><p><strong>Area Reading:</strong> As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.</p>"
-        },
-        {
-          "level": 17,
-          "subclass": "life",
-          "name": "life-supreme-healing",
-          "title": "Life Domain: Supreme Healing",
-          "text": "Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12."
-        },
-        {
-          "level": 17,
-          "subclass": "light",
-          "name": "light-corona",
-          "title": "Light Domain: Corona of Light",
-          "text": "Starting at 17th level, you can use your action to activate an aura of sunlight that lasts for 1 minute or until you dismiss it using another action. You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage."
-        },
-        {
-          "level": 17,
-          "subclass": "nature",
-          "name": "nature-master",
-          "title": "Nature Domain: Master of Nature",
-          "text": "At 17th level, you gain the ability to command animals and plant creatures. While creatures are charmed by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn."
-        },
-        {
-          "level": 17,
-          "subclass": "tempest",
-          "name": "tempest-stormborn",
-          "title": "Tempest Domain: Stormborn",
-          "text": "At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors."
-        },
-        {
-          "level": 17,
-          "subclass": "trickery",
-          "name": "trickery-cloak-of-shadows",
-          "title": "Trickery Channel Divinity: Improved Invoke Duplicity",
-          "text": "At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones."
-        },
-        {
-          "level": 17,
-          "subclass": "war",
-          "name": "war-avatar",
-          "title": "War Domain: Avatar of Battle",
-          "text": "At 17th level, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons."
-        },
-        {
-          "level": 17,
-          "subclass": "forge",
-          "name": "forge-saint",
-          "title": "Forge Domain: Saint of FOrge and Fire",
-          "text": "At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks"
-        },
-        {
-          "level": 17,
-          "subclass": "grave",
-          "name": "grave-keeper",
-          "title": "Grave Domain: Keeper of Souls",
-          "text": "At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round."
-        },
-        {
           "level": 18,
           "subclass": "base",
-          "name": "channel-divinity-3",
-          "title": "Channel Divinity (3/rest)",
-          "text": "Beginning at 18th level, you can use your Channel Divinity three times between rests."
+          "name": "spell-mastery",
+          "title": "Spell Mastery",
+          "text": "<p>At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.</p><p>By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.</p>"
         },
         {
           "level": 19,
@@ -5377,9 +5390,9 @@
         {
           "level": 20,
           "subclass": "base",
-          "name": "divine-intervention-improvement",
-          "title": "Divine Intervention Improvement",
-          "text": "At 20th level, your call for intervention succeeds automatically, no roll required."
+          "name": "signature-spells",
+          "title": "Signature Spells",
+          "text": "When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.If you want to cast either spell at a higher level, you must expend a spell slot as normal."
         }
       ]
     }
