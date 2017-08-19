@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Navbar, Nav, NavDropdown, MenuItem, NavItem} from  'react-bootstrap';
+import {Navbar, Nav, NavDropdown, MenuItem} from  'react-bootstrap';
 
 export default class NavbarComponent extends React.Component {
   render() {
