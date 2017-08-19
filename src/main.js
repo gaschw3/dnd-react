@@ -14,6 +14,7 @@ import {Beastiary} from './views/beastiary/Beastiary.js';
 import {Race} from './views/races/Race.js';
 import {Condition} from './views/conditions/Condition.js';
 import {Item} from './views/items/Item.js';
+import {Rule} from './views/rules/Rule.js';
 
 
 class NotFound extends Component {
@@ -37,6 +38,7 @@ export default class Main extends React.Component {
                     <Route path="/races/:raceName" component={Race}/>
                     <Route path="/conditions/:conditionName" component={Condition}/>
                     <Route path="/items/:itemName" component={Item}/>
+                    <Route path="/rules/:ruleName" component={Rule}/>
                     <Route path="*" component={NotFound}/>
             </Router>
         )

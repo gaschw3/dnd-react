@@ -30,8 +30,8 @@ export default class Home extends Component {
                 <p>Table and details for most items in 5e. Doesn't include merchant fodder. Also doesn't really work right yet.</p>
                 <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
                 <p>Table and details for monsters in D&D 5e. Shows relevant stats as well as special abilities, actions, and reactions.</p>
-                <h4><a href="/dnd-react/#/rules">Rules</a></h4>
-                <p>View a 404 page, because this isn't done.</p>
+                <h4><a href="/dnd-react/#/rules/undef">Rules</a></h4>
+                <p>Check a wide variety of rules and flavor text from official and unofficial sources.</p>
               </Col>
               <Col sm={1} />
             </Row>
