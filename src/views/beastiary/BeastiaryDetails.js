@@ -140,8 +140,6 @@ export class BeastiaryDetails extends React.Component {
               </div>
               <div className="beastiary-title">
                 <div className="row">
-                  {this.printIfExists("Skills:", currBeastiary.skills)}
-                  {this.printIfExists("Saves: ", currBeastiary.saves)}
                   {this.printIfExists("Senses: ", currBeastiary.senses)}
                   {this.printIfExists("Languages: ", currBeastiary.languages)}
                   {this.printIfExists("Immune: ", currBeastiary.immune)}
