@@ -49,7 +49,7 @@ export class BeastiaryList extends React.Component {
 
   filtered(beastiary) {
     if (beastiary.name.toLowerCase().indexOf(this.getNameFilterText().toLowerCase()) !== -1)
-      if (beastiary.cr === this.getCrFilterText() || this.getCrFilterText()==='')
+      if (beastiary.cr.replace(/ \(.*\)/, "") === this.getCrFilterText() || this.getCrFilterText()==='')
         if (beastiary.type.toLowerCase().indexOf(this.getTypeFilterText().toLowerCase()) !== -1)
           if (beastiary.other.toLowerCase().indexOf(this.getOtherFilterText().toLowerCase()) !== -1)
             return true;
@@ -151,7 +151,7 @@ export class BeastiaryList extends React.Component {
                     onClick={this.props.handleClick.bind(this, beastiary.name)}
                   >
                     <Td column="name">{beastiary.name}</Td>
-                    <Td column="cr">{beastiary.cr}</Td>
+                    <Td column="cr">{beastiary.cr.replace(/ \(.*\)/, "")}</Td>
                     <Td column="type">{beastiary.type}</Td>
                     <Td column="other">{beastiary.other}</Td>
                   </Tr>

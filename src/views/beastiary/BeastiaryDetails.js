@@ -89,15 +89,11 @@ export class BeastiaryDetails extends React.Component {
               </div>
               <div className="beastiary-title">
                 <div className="row">
-                  <div className="col-sm-6">
-                    <strong>AC</strong> {currBeastiary.ac}
-                  </div>
-                  <div className="col-sm-6">
-                    <strong>HP</strong> {currBeastiary.hp}
-                  </div>
-                  <div className="col-sm-12">
-                    <strong>Spd</strong> {currBeastiary.speed}
-                  </div>
+                  {this.printIfExists("HP ",currBeastiary.hp)}
+                  {this.printIfExists("AC ",currBeastiary.ac)}
+                  {this.printIfExists("Saves ",currBeastiary.skill)}
+                  {this.printIfExists("Skills ",currBeastiary.save)}
+                  {this.printIfExists("Speed ",currBeastiary.speed)}
                 </div>
               </div>
               <div className="beastiary-title">

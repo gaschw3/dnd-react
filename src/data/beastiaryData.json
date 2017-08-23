@@ -20,7 +20,7 @@
       ],
       "passive": "15",
       "languages": "Auran, Aarakocra",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Dive Attack",
         "text": [
@@ -83,7 +83,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -142,7 +142,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "20",
       "languages": "Deep Speech, telepathy 120 ft.",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -237,7 +237,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Yeti",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Fear of Fire",
           "text": [
@@ -310,7 +310,7 @@
       ],
       "passive": "12",
       "languages": "any one language (usually Common)",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -356,7 +356,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "21",
       "languages": "Common, Draconic",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -465,7 +465,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "22",
       "languages": "Common, Draconic",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
           "name": "Legendary Resistance (3/Day)",
           "text": [
@@ -572,7 +572,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "22",
       "languages": "Common, Draconic",
-      "cr": "16",
+      "cr": "16 (15,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -672,7 +672,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "21",
       "languages": "Common, Draconic",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -755,7 +755,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "22",
       "languages": "Common, Draconic",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -864,7 +864,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "22",
       "languages": "Common, Draconic",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -966,7 +966,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "24",
       "languages": "Common, Draconic",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -1076,7 +1076,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "22",
       "languages": "Common, Draconic",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -1183,7 +1183,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "23",
       "languages": "Common, Draconic",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -1295,7 +1295,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "21",
       "languages": "Common, Draconic",
-      "cr": "16",
+      "cr": "16 (15,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -1397,7 +1397,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "21",
       "languages": "Common, Draconic",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Ice Walk",
           "text": [
@@ -1496,13 +1496,13 @@
       "int": "6",
       "wis": "10",
       "cha": "6",
-      "resist": "lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "lightning, thunder, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Auran",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Air Form",
         "text": [
@@ -1549,13 +1549,13 @@
       "int": "9",
       "wis": "10",
       "cha": "10",
-      "resist": "lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "lightning, thunder, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "paralyzed, petrified, poisoned, prone",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Auran, one language of its creator's choice",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
         "name": "Magic Weapons",
         "text": [
@@ -1610,12 +1610,12 @@
       ],
       "resist": "cold, lightning, necrotic",
       "vulnerable": "",
-      "immune": "poison; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "poison; nonmagical b/p/s",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, poisoned",
       "senses": "truesight 120 ft.",
       "passive": "17",
       "languages": "Deep Speech, Undercommon, telepathy 120 ft.",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -1693,7 +1693,7 @@
         "Perception +5"
       ],
       "passive": "15",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Pounce",
         "text": [
@@ -1743,7 +1743,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "understands Draconic but can't speak it",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Pack Tactics",
           "text": [
@@ -1794,7 +1794,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "26",
       "languages": "Common, Draconic",
-      "cr": "21",
+      "cr": "21 (33,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -1898,7 +1898,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "27",
       "languages": "Common, Draconic",
-      "cr": "23",
+      "cr": "23 (50,000 XP)",
       "action": [{
           "name": "Legendary Resistance (3/Day)",
           "text": [
@@ -1998,7 +1998,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "24",
       "languages": "Common, Draconic",
-      "cr": "20",
+      "cr": "20 (25,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -2107,7 +2107,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "27",
       "languages": "Common, Draconic",
-      "cr": "22",
+      "cr": "22 (41,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -2223,7 +2223,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "27",
       "languages": "Common, Draconic",
-      "cr": "21",
+      "cr": "21 (33,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -2332,7 +2332,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "27",
       "languages": "Common, Draconic",
-      "cr": "24",
+      "cr": "24 (62,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -2449,7 +2449,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "27",
       "languages": "Common, Draconic",
-      "cr": "22",
+      "cr": "22 (41,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -2556,7 +2556,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "26",
       "languages": "Common, Draconic",
-      "cr": "24",
+      "cr": "24 (62,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -2656,7 +2656,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "26",
       "languages": "Common, Draconic",
-      "cr": "23",
+      "cr": "23 (50,000 XP)",
       "trait": [{
         "name": "Legendary Resistance (3/Day)",
         "text": [
@@ -2765,7 +2765,7 @@
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "23",
       "languages": "Common, Draconic",
-      "cr": "20",
+      "cr": "20 (25,000 XP)",
       "trait": [{
           "name": "Ice Walk",
           "text": [
@@ -2849,12 +2849,12 @@
       "skill": [
         "Arcana +9, Perception +10, Religion +15"
       ],
-      "immune": "psychic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "psychic, nonmagical b/p/s",
       "conditionImmune": "charmed, frightened",
       "senses": "truesight 120 ft.",
       "passive": "20",
       "languages": "Common, Sphinx",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
           "name": "Inscrutable",
           "text": [
@@ -2951,7 +2951,7 @@
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "6",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Antimagic Susceptibility",
           "text": [
@@ -3000,7 +3000,7 @@
       "cha": "6",
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "11",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -3038,7 +3038,7 @@
       "wis": "12",
       "cha": "5",
       "passive": "11",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
         "name": "Tail",
         "text": [
@@ -3069,14 +3069,14 @@
       "skill": [
         "Deception +5, Perception +5"
       ],
-      "resist": "cold; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold; nonmagical b/p/s",
       "vulnerable": "",
       "immune": "",
       "conditionImmune": "",
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Common, Giant, Sylvan",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -3210,7 +3210,7 @@
         "Athletics +5, Perception +3"
       ],
       "passive": "13",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -3264,7 +3264,7 @@
       "senses": "",
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -3305,13 +3305,13 @@
       "skill": [
         "Arcana +13, Deception +9, Insight +9, Perception +7"
       ],
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "acid, poison",
       "conditionImmune": "charmed, poisoned",
       "senses": "truesight 120 ft.",
       "passive": "17",
       "languages": "all, telepathy 120 ft.",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -3402,7 +3402,7 @@
       "senses": "",
       "passive": "19",
       "languages": "Druidic plus any two languages",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -3467,7 +3467,7 @@
       "senses": "",
       "passive": "15",
       "languages": "any one language (usually Common)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Archer's Eye",
         "text": [
@@ -3524,7 +3524,7 @@
       "resist": "damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)",
       "passive": "12",
       "languages": "any six languages",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -3584,7 +3584,7 @@
       "resist": "poison",
       "passive": "13",
       "languages": "Thieves' cant plus any two languages",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Assassinate",
           "text": [
@@ -3657,7 +3657,7 @@
       "senses": "",
       "passive": "11",
       "languages": "",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -3786,7 +3786,7 @@
       "vulnerable": "fire",
       "passive": "10",
       "languages": "one language known by its creator",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
@@ -3820,7 +3820,7 @@
       "wis": "10",
       "cha": "5",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Beak",
         "text": [
@@ -3852,7 +3852,7 @@
       "conditionImmune": "poisoned",
       "passive": "11",
       "languages": "Ignan",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Heated Body",
           "text": [
@@ -3905,14 +3905,14 @@
       "skill": [
         "Perception +5, Stealth +5"
       ],
-      "resist": "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning; nonmagical b/p/s",
       "vulnerable": "",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "15",
       "languages": "Abyssal",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
         "name": "Innate Spellcasting",
         "text": [
@@ -4041,13 +4041,13 @@
       "wis": "16",
       "cha": "22",
       "save": "Str +14, Con +12, Wis +9, Cha +12",
-      "resist": "cold, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, lightning, nonmagical b/p/s",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "truesight 120 ft.",
       "passive": "13",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "19",
+      "cr": "19 (22,000 XP)",
       "trait": [{
           "name": "Death Throes",
           "text": [
@@ -4146,7 +4146,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "understands Common and the languages of its creator, but can't speak",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Resonant Connection",
           "text": [
@@ -4217,7 +4217,7 @@
       "cha": "10",
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
           "name": "Scimitar",
           "text": [
@@ -4260,7 +4260,7 @@
       ],
       "passive": "10",
       "languages": "any two languages",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -4310,13 +4310,13 @@
       "wis": "11",
       "cha": "17",
       "save": "Wis +2, Cha +5",
-      "resist": "acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, fire, lightning, thunder, nonmagical b/p/s",
       "immune": "cold, necrotic, poison",
       "conditionImmune": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Elvish",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Detect Life",
           "text": [
@@ -4379,7 +4379,7 @@
       "senses": "truesight 120 ft.",
       "passive": "24",
       "languages": "all, telepathy 120 ft.",
-      "cr": "23",
+      "cr": "23 (50,000 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -4518,13 +4518,13 @@
       "skill": [
         "Deception +5, Insight +5, Perception +8"
       ],
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "18",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Barbed Hide",
           "text": [
@@ -4609,7 +4609,7 @@
       "senses": "",
       "passive": "15",
       "languages": "any two languages",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -4674,14 +4674,14 @@
       "skill": [
         "Deception +4, Intimidation +4, Perception +5, Stealth +4"
       ],
-      "resist": "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning; nonmagical b/p/s",
       "vulnerable": "",
       "immune": "acid, poison",
       "conditionImmune": "poisoned",
       "senses": "blindsight 60 ft., darkvision 60 ft.",
       "passive": "15",
       "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft.",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -4766,7 +4766,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "15",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -4841,7 +4841,7 @@
       "cha": "7",
       "senses": "darkvision 60 ft.",
       "passive": "9",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Petrifying Gaze",
         "text": [
@@ -4919,13 +4919,13 @@
       "wis": "11",
       "cha": "11",
       "save": "Str +5, Con +4, Wis +2",
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -4994,7 +4994,7 @@
       "senses": "darkvision 90 ft.",
       "passive": "16",
       "languages": "Draconic",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -5064,7 +5064,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "22",
       "languages": "Deep Speech, Undercommon",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
         "name": "Antimagic Cone",
         "text": [
@@ -5128,7 +5128,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "understands Deep Speech and Undercommon but can't speak",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Undead Fortitude",
         "text": [
@@ -5175,7 +5175,7 @@
       "cha": "9",
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Reckless",
         "text": [
@@ -5209,7 +5209,7 @@
       "wis": "12",
       "cha": "7",
       "passive": "13",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Keen Smell",
         "text": [
@@ -5266,7 +5266,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -5320,7 +5320,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "understands Draconic but can't speak it",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -5374,7 +5374,7 @@
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, prone",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "8",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Amorphous",
           "text": [
@@ -5440,7 +5440,7 @@
       "senses": "",
       "passive": "12",
       "languages": "any one language (usually Common)",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -5505,7 +5505,7 @@
       ],
       "passive": "10",
       "languages": "Blink Dog, understands Sylvan but can't speak it",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Keen Hearing and Smell",
         "text": [
@@ -5549,7 +5549,7 @@
         "Perception +4"
       ],
       "passive": "14",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Keen Sight",
           "text": [
@@ -5597,7 +5597,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -5645,7 +5645,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "understands Draconic but can't speak it",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -5696,7 +5696,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Slaad, telepathy 60 ft.",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -5762,7 +5762,7 @@
       "wis": "9",
       "cha": "5",
       "passive": "9",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -5816,7 +5816,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Sylvan",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Boggle Oil",
           "text": [
@@ -5881,13 +5881,13 @@
       "skill": [
         "Deception +7, Insight +6"
       ],
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "9",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -5947,13 +5947,13 @@
       "skill": [
         "Deception +7, Insight +6"
       ],
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "9",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -6023,7 +6023,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Common plus one other language",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -6067,7 +6067,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Common plus one other language",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -6114,7 +6114,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -6161,7 +6161,7 @@
       "senses": "",
       "passive": "10",
       "languages": "",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "action": [{
           "name": "Stomp",
           "text": [
@@ -6209,7 +6209,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -6258,7 +6258,7 @@
         "Perception +3"
       ],
       "passive": "13",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Keen Smell",
         "text": [
@@ -6313,7 +6313,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Goblin",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Brute",
           "text": [
@@ -6373,7 +6373,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Common, Goblin",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Brute",
           "text": [
@@ -6444,7 +6444,7 @@
       ],
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "16",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Standing Leap",
         "text": [
@@ -6489,7 +6489,7 @@
       ],
       "passive": "10",
       "languages": "Bullywug",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -6561,11 +6561,11 @@
       "skill": [
         "Deception +6, Intimidation +6, Perception +4, Stealth +7"
       ],
-      "resist": "cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, poison, nonmagical b/p/s",
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Abyssal, Common, Infernal",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Fiendish Blessing",
           "text": [
@@ -6632,7 +6632,7 @@
       "wis": "8",
       "cha": "5",
       "passive": "9",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
         "name": "Bite",
         "text": [
@@ -6664,7 +6664,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "13",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -6765,7 +6765,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -6821,7 +6821,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "13",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Keen Smell",
         "text": [
@@ -6881,7 +6881,7 @@
       "senses": "blindsight 60 ft.",
       "passive": "12",
       "languages": "",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Adhesive Filament",
           "text": [
@@ -6946,7 +6946,7 @@
       ],
       "passive": "13",
       "languages": "Elvish, Sylvan",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -7008,13 +7008,13 @@
       "wis": "12",
       "cha": "14",
       "save": "Con +7, Wis +4, Cha +5",
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "8",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -7085,7 +7085,7 @@
       "senses": "",
       "passive": "16",
       "languages": "any one language (usually Common)",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Indomitable (2/Day)",
           "text": [
@@ -7154,7 +7154,7 @@
       "senses": "blindsight 10 ft., darkvision 120 ft.",
       "passive": "15",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Drone",
           "text": [
@@ -7215,7 +7215,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "18",
       "languages": "understands Draconic but can't speak",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -7287,7 +7287,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Undercommon",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -7358,7 +7358,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Undercommon",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -7445,7 +7445,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "understands Deep Speech but can't speak",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -7498,12 +7498,12 @@
       "int": "3",
       "wis": "8",
       "cha": "1",
-      "immune": "acid, poison, psychic, bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "immune": "acid, poison, psychic, nonmagical b/p/s that aren't adamantine",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Acid Absorption",
           "text": [
@@ -7580,7 +7580,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Deep Speech, Undercommon",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Damage Transfer",
           "text": [
@@ -7662,7 +7662,7 @@
       ],
       "passive": "17",
       "languages": "Common, Giant",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -7746,7 +7746,7 @@
       "senses": "",
       "passive": "17",
       "languages": "Common, Giant",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -7828,7 +7828,7 @@
       "cha": "5",
       "senses": "darkvision 60 ft.",
       "passive": "11",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "action": [{
         "name": "Bite",
         "text": [
@@ -7895,7 +7895,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -7946,7 +7946,7 @@
       "cha": "3",
       "senses": "blindsight 10 ft.",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -7991,7 +7991,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -8032,11 +8032,11 @@
       "cha": "18",
       "save": "Con +5, Wis +7, Cha +6",
       "resist": "radiant",
-      "immune": "psychic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "psychic, nonmagical b/p/s",
       "senses": "truesight 120 ft.",
       "passive": "15",
       "languages": "all, telepathy 120 ft.",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -8112,7 +8112,7 @@
       "senses": "",
       "passive": "10",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -8278,7 +8278,7 @@
         "Stealth +2"
       ],
       "passive": "10",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Hold Breath",
         "text": [
@@ -8316,7 +8316,7 @@
       ],
       "passive": "11",
       "languages": "any one language (usually Common)",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Dark Devotion",
           "text": [
@@ -8373,7 +8373,7 @@
       ],
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Dark Devotion",
         "text": [
@@ -8408,7 +8408,7 @@
       "cha": "10",
       "passive": "8",
       "languages": "Giant",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Poor Depth Perception",
         "text": [
@@ -8462,7 +8462,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Terran",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Earth Glide",
           "text": [
@@ -8557,7 +8557,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "15",
       "languages": "Elvish, Sylvan",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Death Flash",
           "text": [
@@ -8610,7 +8610,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "16",
       "languages": "Elvish, Sylvan",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Death Burn",
         "text": [
@@ -8666,7 +8666,7 @@
       ],
       "senses": "blindsight 60 ft.",
       "passive": "10",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Echolocation",
           "text": [
@@ -8720,7 +8720,7 @@
       ],
       "senses": "darkvision 120 ft.",
       "passive": "15",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Two-Headed",
         "text": [
@@ -8771,7 +8771,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "15",
       "languages": "Deep Speech, Undercommon",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
         "name": "Lightning Blood",
         "text": [
@@ -8828,7 +8828,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "13",
       "languages": "Abyssal, Common",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
           "name": "Undead Nature",
           "text": [
@@ -8913,7 +8913,7 @@
       "senses": "blindsight 60 ft., darkvision 60 ft.",
       "passive": "18",
       "languages": "Slaad, telepathy 60 ft.",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -9019,7 +9019,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "22",
       "languages": "Deep Speech, Undercommon",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
         "name": "Negative Energy Cone",
         "text": [
@@ -9084,7 +9084,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "Gnomish, Terran, Undercommon",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Stone Camouflage",
           "text": [
@@ -9151,7 +9151,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -9206,7 +9206,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Aquan, Common, thieves' cant",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -9318,7 +9318,7 @@
       "senses": "",
       "passive": "13",
       "languages": "",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Pounce",
         "text": [
@@ -9370,11 +9370,11 @@
       "cha": "20",
       "save": "Con +6, Int +11, Wis +9, Cha +11",
       "resist": "bludgeoning, piercing, and slashing from magic weapons",
-      "immune": "necrotic, poison, psychic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "necrotic, poison, psychic, nonmagical b/p/s",
       "conditionImmune": "charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned",
       "senses": "truesight 120 ft.",
       "passive": "13",
-      "cr": "18",
+      "cr": "18 (20,000 XP)",
       "trait": [{
           "name": "Avoidance",
           "text": [
@@ -9459,7 +9459,7 @@
       "senses": "truesight 120 ft.",
       "passive": "21",
       "languages": "all, telepathy 120 ft.",
-      "cr": "26",
+      "cr": "26 (90,000 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -9567,7 +9567,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "7",
       "languages": "Dwarvish, Undercommon",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Insanity",
           "text": [
@@ -9629,7 +9629,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "7",
       "languages": "Dwarvish, Undercommon",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Insanity",
           "text": [
@@ -9701,12 +9701,12 @@
       "skill": [
         "Insight +9, Perception +9"
       ],
-      "resist": "radiant, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "radiant, nonmagical b/p/s",
       "conditionImmune": "charmed, exhaustion, frightened",
       "senses": "darkvision 120 ft.",
       "passive": "19",
       "languages": "all, telepathy 120 ft.",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Angelic Weapons",
           "text": [
@@ -9783,7 +9783,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -9844,7 +9844,7 @@
       "senses": "",
       "passive": "12",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Source",
         "text": [
@@ -9883,7 +9883,7 @@
         "Perception +3, Stealth +4"
       ],
       "passive": "13",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Keen Hearing and Smell",
           "text": [
@@ -9925,7 +9925,7 @@
       "cha": "8",
       "senses": "darkvision 60 ft.",
       "passive": "11",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Avoidance",
           "text": [
@@ -9983,7 +9983,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -10041,7 +10041,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "13",
       "languages": "Auran",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Elemental Demise",
           "text": [
@@ -10122,7 +10122,7 @@
       "senses": "blindsight 60 ft.",
       "passive": "13",
       "languages": "",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -10173,7 +10173,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Common",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -10246,7 +10246,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "13",
       "languages": "Abyssal, Elvish, Undercommon",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -10307,7 +10307,7 @@
       "wis": "11",
       "cha": "7",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Hooves",
         "text": [
@@ -10339,7 +10339,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Aquan, Draconic",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -10412,7 +10412,7 @@
       ],
       "passive": "10",
       "languages": "Common, Draconic",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Dragon Fanatic",
           "text": [
@@ -10475,7 +10475,7 @@
       "resist": "one of the following: acid, cold, fire, lightning or poison",
       "passive": "11",
       "languages": "Common, Draconic, Infernal",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Dragon Fanatic",
           "text": [
@@ -10547,7 +10547,7 @@
       "resist": "one of the following: acid, cold, fire, lightning or poison",
       "passive": "11",
       "languages": "Common, Draconic, Infernal",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Dragon Fanatic",
           "text": [
@@ -10625,7 +10625,7 @@
       "resist": "one of the following: acid, cold, fire, lightning, or poison",
       "passive": "10",
       "languages": "Common, Draconic",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Dragon Fanatic",
           "text": [
@@ -10693,7 +10693,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -10748,7 +10748,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "15",
       "languages": "Elvish, Undercommon",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -10841,7 +10841,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "15",
       "languages": "Elvish, Undercommon",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -10946,7 +10946,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "Elvish, Undercommon",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -11012,7 +11012,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "14",
       "languages": "Elvish, Undercommon",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -11089,7 +11089,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "14",
       "languages": "Elvish, Undercommon",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -11166,7 +11166,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Elvish, Undercommon",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Fey Ancestry",
           "text": [
@@ -11246,7 +11246,7 @@
       ],
       "passive": "14",
       "languages": "Druidic plus any two languages",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -11291,7 +11291,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Elvish, Sylvan",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -11361,7 +11361,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Duergar Resilience",
           "text": [
@@ -11429,7 +11429,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Innate Spellcasting (Psionics)",
           "text": [
@@ -11507,7 +11507,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Mounted",
           "text": [
@@ -11596,7 +11596,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Innate Spellcasting (Psionics)",
           "text": [
@@ -11684,7 +11684,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Duergar Resilience",
           "text": [
@@ -11759,7 +11759,7 @@
       "senses": "blindsight 30 ft. (blind beyond this radius)",
       "passive": "8",
       "languages": "-",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "action": [{
         "name": "War Pick",
         "text": [
@@ -11790,7 +11790,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Duergar Resilience",
           "text": [
@@ -11858,7 +11858,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Dwarvish, Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Duergar Resilience",
           "text": [
@@ -11921,7 +11921,7 @@
       "senses": "truesight 120 ft.",
       "passive": "10",
       "languages": "Modron",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Axiomatic Mind",
           "text": [
@@ -11986,7 +11986,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Auran, Terran",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -12077,14 +12077,14 @@
       "int": "5",
       "wis": "10",
       "cha": "5",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "vulnerable": "thunder",
       "immune": "poison",
       "conditionImmune": "exhaustion, paralyzed, petrified, poisoned, unconscious",
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "10",
       "languages": "Terran",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Earth Glide",
           "text": [
@@ -12131,13 +12131,13 @@
       "int": "8",
       "wis": "10",
       "cha": "10",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "paralyzed, petrified, poisoned, prone",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Terran, one language of its creator's choice",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
         "name": "Magic Weapons",
         "text": [
@@ -12191,7 +12191,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "Ignan",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Elemental Demise",
           "text": [
@@ -12275,7 +12275,7 @@
       "senses": "blindsight 120 ft.",
       "passive": "14",
       "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
           "name": "Creature Sense",
           "text": [
@@ -12391,7 +12391,7 @@
       "wis": "11",
       "cha": "6",
       "passive": "10",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
         "name": "Trampling Charge",
         "text": [
@@ -12435,7 +12435,7 @@
       "wis": "10",
       "cha": "6",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -12485,11 +12485,11 @@
       "skill": [
         "Insight +13, Persuasion +15"
       ],
-      "immune": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "nonmagical b/p/s",
       "senses": "truesight 120 ft.",
       "passive": "16",
       "languages": "all",
-      "cr": "23",
+      "cr": "23 (50,000 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -12584,7 +12584,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -12635,13 +12635,13 @@
       "wis": "14",
       "cha": "18",
       "save": "Dex +7, Con +8, Wis +6, Cha +8",
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "truesight 120 ft.",
       "passive": "12",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Hellish Weapons",
           "text": [
@@ -12715,7 +12715,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "13",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Spider Climb",
           "text": [
@@ -12798,7 +12798,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Giant, Orc",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Two Heads",
           "text": [
@@ -12865,7 +12865,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -12922,7 +12922,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Draconic, Sylvan",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "The Colors of Age",
           "text": [
@@ -13007,7 +13007,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "-",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Spider Climb",
           "text": [
@@ -13058,13 +13058,13 @@
       "int": "6",
       "wis": "10",
       "cha": "7",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "immune": "fire, poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Ignan",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Fire Form",
           "text": [
@@ -13121,13 +13121,13 @@
       "int": "9",
       "wis": "10",
       "cha": "10",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "immune": "fire, poison",
       "conditionImmune": "paralyzed, petrified, poisoned, prone",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Ignan, one language of its creator's choice",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Illumination",
           "text": [
@@ -13196,7 +13196,7 @@
       "immune": "fire",
       "passive": "16",
       "languages": "Giant",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -13250,7 +13250,7 @@
       "senses": "",
       "passive": "15",
       "languages": "Giant",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
         "name": "Dual Shields",
         "text": [
@@ -13310,13 +13310,13 @@
       "int": "7",
       "wis": "10",
       "cha": "8",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "vulnerable": "cold",
       "immune": "fire",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "understands Ignan but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Heated Body",
         "text": [
@@ -13376,7 +13376,7 @@
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "10",
       "languages": "",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Antimagic Shell",
           "text": [
@@ -13449,7 +13449,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Common",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Illumination",
           "text": [
@@ -13520,7 +13520,7 @@
       "immune": "fire",
       "passive": "10",
       "languages": "Common, Ignan",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -13567,12 +13567,12 @@
       "int": "6",
       "wis": "10",
       "cha": "5",
-      "immune": "lightning, poison, bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "immune": "lightning, poison, nonmagical b/p/s that aren't adamantine",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Berserk",
           "text": [
@@ -13655,7 +13655,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Abyssal, Gnoll",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
         "name": "Aura of Blood Thirst",
         "text": [
@@ -13730,7 +13730,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "understands Undercommon but can't speak, telepathy 60 ft.",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Advanced Telepathy",
           "text": [
@@ -13785,7 +13785,7 @@
       "cha": "5",
       "senses": "blindsight 10 ft.",
       "passive": "11",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Flyby",
         "text": [
@@ -13823,7 +13823,7 @@
       "conditionImmune": "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "7",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Antimagic Susceptibility",
           "text": [
@@ -13869,7 +13869,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "18",
       "languages": "Giant, Undercommon",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -13966,7 +13966,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "19",
       "languages": "",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -14038,7 +14038,7 @@
       "immune": "cold",
       "passive": "13",
       "languages": "Giant",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "action": [{
           "name": "Weighted Net",
           "text": [
@@ -14101,7 +14101,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Giant",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Extra Heads",
           "text": [
@@ -14169,13 +14169,13 @@
       "int": "6",
       "wis": "11",
       "cha": "7",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "resist": "nonmagical b/p/s that aren't adamantine",
       "immune": "poison",
       "conditionImmune": "exhaustion, petrified, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Terran",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
@@ -14228,7 +14228,7 @@
       "conditionImmune": "blinded, deafened, frightened, paralyzed, poisoned, prone",
       "senses": "blindsight 30 ft. (blind beyond this radius)",
       "passive": "5",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -14275,7 +14275,7 @@
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, prone",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "8",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Ooze Cube",
           "text": [
@@ -14333,7 +14333,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Stench",
           "text": [
@@ -14383,13 +14383,13 @@
       "int": "10",
       "wis": "12",
       "cha": "17",
-      "resist": "acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, fire, lightning, thunder, nonmagical b/p/s",
       "immune": "cold, necrotic, poison",
       "conditionImmune": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "any languages it knew in life",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Ethereal Sight",
           "text": [
@@ -14453,7 +14453,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -14494,7 +14494,7 @@
         "Athletics +9, Perception +4"
       ],
       "passive": "14",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -14539,7 +14539,7 @@
       "cha": "5",
       "senses": "darkvision 30 ft.",
       "passive": "11",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Keen Smell",
         "text": [
@@ -14590,7 +14590,7 @@
       "cha": "6",
       "senses": "blindsight 60 ft.",
       "passive": "11",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Echolocation",
           "text": [
@@ -14631,7 +14631,7 @@
       "wis": "7",
       "cha": "5",
       "passive": "8",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -14676,7 +14676,7 @@
       "cha": "3",
       "senses": "blindsight 30 ft.",
       "passive": "8",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Bite",
         "text": [
@@ -14708,7 +14708,7 @@
       ],
       "senses": "blindsight 10 ft.",
       "passive": "12",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -14750,7 +14750,7 @@
       ],
       "senses": "blindsight 30 ft.",
       "passive": "9",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -14787,7 +14787,7 @@
         "Stealth +5"
       ],
       "passive": "10",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Hold Breath",
         "text": [
@@ -14841,7 +14841,7 @@
       ],
       "passive": "14",
       "languages": "Giant Eagle, understands Common and Auran but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Keen Sight",
         "text": [
@@ -14895,7 +14895,7 @@
       ],
       "passive": "14",
       "languages": "Giant Elk, understands Common, Elvish, and Sylvan but can't speak",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -15001,7 +15001,7 @@
       ],
       "senses": "darkvision 30 ft.",
       "passive": "12",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -15049,7 +15049,7 @@
       "wis": "12",
       "cha": "6",
       "passive": "11",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -15096,7 +15096,7 @@
         "Perception +3"
       ],
       "passive": "13",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -15131,7 +15131,7 @@
       "cha": "5",
       "senses": "darkvision 30 ft.",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Variant: Hold Breath",
           "text": [
@@ -15176,7 +15176,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "14",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Hold Breath",
           "text": [
@@ -15235,7 +15235,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "15",
       "languages": "Giant Owl, understands Common, Elvish, and Sylvan but can't speak",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Flyby",
           "text": [
@@ -15280,7 +15280,7 @@
       ],
       "senses": "blindsight 10 ft.",
       "passive": "12",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Bite",
         "text": [
@@ -15309,7 +15309,7 @@
       "cha": "4",
       "senses": "darkvision 60 ft.",
       "passive": "10",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -15351,7 +15351,7 @@
       "cha": "3",
       "senses": "blindsight 60 ft.",
       "passive": "9",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
           "name": "Claw",
           "text": [
@@ -15399,7 +15399,7 @@
       ],
       "senses": "blindsight 60 ft.",
       "passive": "13",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Blood Frenzy",
           "text": [
@@ -15444,7 +15444,7 @@
       ],
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "10",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Spider Climb",
           "text": [
@@ -15502,7 +15502,7 @@
       "cha": "3",
       "senses": "darkvision 30 ft.",
       "passive": "10",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -15555,7 +15555,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "13",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Keen Hearing and Smell",
         "text": [
@@ -15591,7 +15591,7 @@
       "conditionImmune": "prone",
       "senses": "darkvision 60 ft.",
       "passive": "10",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Aberrant Ground",
           "text": [
@@ -15655,7 +15655,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Source",
           "text": [
@@ -15713,13 +15713,13 @@
       "wis": "17",
       "cha": "16",
       "save": "Str +9, Con +9, Wis +7, Cha +7",
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "truesight 120 ft.",
       "passive": "13",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -15792,7 +15792,7 @@
       ],
       "passive": "11",
       "languages": "any one language (usually Common)",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Brave",
           "text": [
@@ -15858,7 +15858,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Gnoll",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -15914,7 +15914,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Abyssal, Gnoll",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -15971,7 +15971,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Gnoll",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -16038,7 +16038,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Gnoll",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -16101,7 +16101,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Gnoll",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -16173,7 +16173,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "7",
       "languages": "understands Gnoll but can't speak",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -16279,7 +16279,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Common, Goblin",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Nimble Escape",
         "text": [
@@ -16328,7 +16328,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Common, Goblin",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Nimble Escape",
         "text": [
@@ -16391,7 +16391,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -16442,7 +16442,7 @@
       "immune": "petrified",
       "senses": "darkvision 60 ft.",
       "passive": "14",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Trampling Charge",
         "text": [
@@ -16495,13 +16495,13 @@
       "skill": [
         "Perception +7"
       ],
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "17",
       "languages": "Abyssal",
-      "cr": "17",
+      "cr": "17 (18,000 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -16588,7 +16588,7 @@
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, prone",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Amorphous",
           "text": [
@@ -16642,7 +16642,7 @@
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, prone",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Amorphous",
           "text": [
@@ -16703,7 +16703,7 @@
       "senses": "blindsight 60 ft., darkvision 60 ft.",
       "passive": "16",
       "languages": "Slaad, telepathy 60 ft.",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -16810,7 +16810,7 @@
       "senses": "truesight 120 ft.",
       "passive": "22",
       "languages": "all, telepathy 120 ft.",
-      "cr": "24",
+      "cr": "24 (62,000 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -16926,7 +16926,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Draconic",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -16980,7 +16980,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "understands Draconic but can't speak it",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -17036,7 +17036,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Common, Draconic, Sylvan",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -17135,7 +17135,7 @@
       "senses": "blindsight 30 ft., darkvision 60 ft.",
       "passive": "12",
       "languages": "Slaad, telepathy 60 ft.",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -17243,7 +17243,7 @@
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "14",
       "languages": "Grell",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -17290,7 +17290,7 @@
       "resist": "bludgeoning, piercing, and slashing damage from nonmagical attacks",
       "senses": "darkvision 60 ft.",
       "passive": "12",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Stone Camouflage",
         "text": [
@@ -17342,7 +17342,7 @@
       "resist": "bludgeoning, piercing, and slashing damage from nonmagical attacks",
       "senses": "darkvision 60 ft.",
       "passive": "12",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
         "name": "Stone Camouflage",
         "text": [
@@ -17405,7 +17405,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "15",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Keen Sight",
         "text": [
@@ -17461,7 +17461,7 @@
       "senses": "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius)",
       "passive": "13",
       "languages": "Undercommon",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Blind Senses",
           "text": [
@@ -17518,7 +17518,7 @@
       "senses": "",
       "passive": "12",
       "languages": "Grung",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -17588,7 +17588,7 @@
       "senses": "",
       "passive": "12",
       "languages": "Grung",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -17674,7 +17674,7 @@
       "senses": "",
       "passive": "14",
       "languages": "Grung",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -17757,7 +17757,7 @@
       ],
       "passive": "12",
       "languages": "any one language (usually Common)",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
         "name": "Spear",
         "text": [
@@ -17792,7 +17792,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "understands Draconic but can't speak it",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -17841,7 +17841,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Celestial, Common",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Rejuvenation",
           "text": [
@@ -17903,13 +17903,13 @@
       "skill": [
         "Arcana +12, History +12, Perception +8, Religion +8"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "immune": "psychic",
       "conditionImmune": "charmed, frightened",
       "senses": "truesight 120 ft.",
       "passive": "18",
       "languages": "Common, Sphinx",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Inscrutable",
           "text": [
@@ -18000,7 +18000,7 @@
       "senses": "",
       "passive": "12",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Tail",
         "text": [
@@ -18032,7 +18032,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Common, Giant",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "action": [{
           "name": "Battleaxe",
           "text": [
@@ -18072,7 +18072,7 @@
       "cha": "13",
       "passive": "10",
       "languages": "Common",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -18167,7 +18167,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "understands Infernal but can't speak it",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Keen Hearing and Smell",
           "text": [
@@ -18220,13 +18220,13 @@
       "skill": [
         "Perception +4"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "resist": "nonmagical b/p/s that aren't adamantine",
       "immune": "force, necrotic, poison",
       "conditionImmune": "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "14",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -18274,13 +18274,13 @@
       "wis": "12",
       "cha": "13",
       "save": "Str +7, Con +8, Wis +4",
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -18349,7 +18349,7 @@
       ],
       "passive": "12",
       "languages": "Giant",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "action": [{
           "name": "Squash",
           "text": [
@@ -18405,7 +18405,7 @@
         "Perception +5"
       ],
       "passive": "15",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Keen Sight",
         "text": [
@@ -18457,7 +18457,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Goblin",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Martial Advantage",
         "text": [
@@ -18506,7 +18506,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Goblin",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Martial Advantage",
         "text": [
@@ -18575,7 +18575,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Common, Goblin",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Source",
           "text": [
@@ -18646,7 +18646,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Common, Goblin",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -18716,7 +18716,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Goblin",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Martial Advantage",
         "text": [
@@ -18834,7 +18834,7 @@
       "senses": "blindsight 60 ft., darkvision 10 ft.",
       "passive": "13",
       "languages": "Hook Horror",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Echolocation",
           "text": [
@@ -18882,13 +18882,13 @@
       "wis": "16",
       "cha": "17",
       "save": "Str +10, Dex +7, Wis +7, Cha +7",
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "13",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -18958,7 +18958,7 @@
       ],
       "senses": "darkvision 30 ft.",
       "passive": "12",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Blood Frenzy",
           "text": [
@@ -19003,7 +19003,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "16",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Hold Breath",
           "text": [
@@ -19102,13 +19102,13 @@
       "wis": "15",
       "cha": "18",
       "save": "Dex +7, Con +9, Wis +7, Cha +9",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "12",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -19182,13 +19182,13 @@
       "wis": "15",
       "cha": "18",
       "save": "Dex +7, Con +9, Wis +7, Cha +9",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "blindsight 60 ft., darkvision 120 ft.",
       "passive": "12",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "14",
+      "cr": "14 (11,500 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -19279,7 +19279,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Aquan, Auran",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -19353,7 +19353,7 @@
       "senses": "",
       "passive": "10",
       "languages": "any four languages",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -19411,7 +19411,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Infernal, Common",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -19473,12 +19473,12 @@
       "skill": [
         "Perception +2, Stealth +4"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "conditionImmune": "blinded",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "12",
       "languages": "understands Deep Speech but can't speak, telepathy 60 ft.",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Detect Sentience",
         "text": [
@@ -19534,13 +19534,13 @@
       "skill": [
         "Perception +8, Stealth +10"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "18",
       "languages": "Auran, understands Common but doesn't speak it",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Invisibility",
           "text": [
@@ -19587,12 +19587,12 @@
       "int": "3",
       "wis": "11",
       "cha": "1",
-      "immune": "fire, poison, psychic, bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "immune": "fire, poison, psychic, nonmagical b/p/s that aren't adamantine",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "16",
+      "cr": "16 (15,000 XP)",
       "trait": [{
           "name": "Fire Absorption",
           "text": [
@@ -19719,7 +19719,7 @@
       "immune": "bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered",
       "passive": "12",
       "languages": "Common (can't speak in jackal form)",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -19791,7 +19791,7 @@
       "senses": "truesight 120 ft.",
       "passive": "22",
       "languages": "all, telepathy 120 ft.",
-      "cr": "23",
+      "cr": "23 (50,000 XP)",
       "trait": [{
           "name": "Foul",
           "text": [
@@ -19914,7 +19914,7 @@
       ],
       "passive": "12",
       "languages": "understands Auran and Common but speaks only through the use of its Mimicry trait",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Ambusher",
           "text": [
@@ -19975,7 +19975,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "19",
       "languages": "all, telepathy 120 ft.",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -20092,7 +20092,7 @@
       "save": "Con +4, Wis +2",
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Brave",
         "text": [
@@ -20156,7 +20156,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "Common, Draconic",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Sunlight Sensitivity",
           "text": [
@@ -20217,7 +20217,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Common, Draconic",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Dragon's Resistance",
           "text": [
@@ -20289,7 +20289,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Draconic",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Sunlight Sensitivity",
           "text": [
@@ -20379,7 +20379,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Common, Draconic",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -20440,12 +20440,12 @@
       "wis": "18",
       "cha": "20",
       "save": "Str +17, Dex +7, Con +14, Int +13, Wis +11",
-      "immune": "lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "lightning, nonmagical b/p/s",
       "conditionImmune": "frightened, paralyzed",
       "senses": "truesight 120 ft.",
       "passive": "14",
       "languages": "understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.",
-      "cr": "23",
+      "cr": "23 (50,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -20545,14 +20545,14 @@
       "skill": [
         "Perception +5"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "vulnerable": "",
       "immune": "",
       "conditionImmune": "",
       "senses": "",
       "passive": "15",
       "languages": "any two languages",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -20610,7 +20610,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "14",
       "languages": "Undercommon",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -20694,7 +20694,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "19",
       "languages": "Undercommon",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -20782,7 +20782,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -20862,7 +20862,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Undercommon",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -20946,7 +20946,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Abyssal, Common",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
         "name": "Innate Spellcasting",
         "text": [
@@ -21059,7 +21059,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Abyssal, Gnoll",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -21134,12 +21134,12 @@
         "Arcana +18, History +12, Insight +9, Perception +9"
       ],
       "resist": "cold, lightning, necrotic",
-      "immune": "poison, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "poison, nonmagical b/p/s",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, poisoned",
       "senses": "truesight 120 ft.",
       "passive": "19",
       "languages": "Common plus up to five other languages",
-      "cr": "21",
+      "cr": "21 (33,000 XP)",
       "trait": [{
           "name": "Legendary Resistance (3/Day)",
           "text": [
@@ -21235,7 +21235,7 @@
         "Perception +3, Stealth +6"
       ],
       "passive": "13",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -21334,7 +21334,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Abyssal, Draconic",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Hold Breath",
           "text": [
@@ -21405,7 +21405,7 @@
       ],
       "passive": "13",
       "languages": "Draconic",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Hold Breath",
         "text": [
@@ -21477,7 +21477,7 @@
       ],
       "passive": "14",
       "languages": "Draconic",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Hold Breath",
           "text": [
@@ -21552,7 +21552,7 @@
       ],
       "passive": "11",
       "languages": "any four languages",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -21602,7 +21602,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Ignan, Terran",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -21665,12 +21665,12 @@
       "int": "8",
       "wis": "11",
       "cha": "10",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "immune": "fire",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Ignan",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -21719,7 +21719,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "-",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Spider Climb",
           "text": [
@@ -21771,7 +21771,7 @@
       "wis": "11",
       "cha": "6",
       "passive": "10",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Trampling Charge",
         "text": [
@@ -21816,7 +21816,7 @@
       "cha": "8",
       "senses": "darkvision 60 ft.",
       "passive": "11",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Tail Spike Regrowth",
         "text": [
@@ -21885,7 +21885,7 @@
       "senses": "",
       "passive": "13",
       "languages": "any one language (usually Common)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Unarmored Defense",
         "text": [
@@ -21956,7 +21956,7 @@
       "senses": "",
       "passive": "13",
       "languages": "any one language (usually Common) plus thieves' cant",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Cunning Action",
           "text": [
@@ -22032,7 +22032,7 @@
         "Perception +3"
       ],
       "passive": "13",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Keen Hearing and Smell",
         "text": [
@@ -22073,7 +22073,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "understands Abyssal but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Rampage",
         "text": [
@@ -22114,7 +22114,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Common",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Petrifying Gaze",
         "text": [
@@ -22179,7 +22179,7 @@
       ],
       "passive": "12",
       "languages": "Aquan, Common",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -22215,7 +22215,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Abyssal, Aquan",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -22276,13 +22276,13 @@
       "skill": [
         "Perception +3"
       ],
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "acid, poison",
       "conditionImmune": "poisoned",
       "senses": "blindsight 60 ft., darkvision 60 ft.",
       "passive": "13",
       "languages": "Abyssal, Infernal, telepathy 60 ft.",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -22370,7 +22370,7 @@
       "conditionImmune": "prone",
       "senses": "darkvision 60 ft.",
       "passive": "11",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -22439,7 +22439,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Deep Speech, Undercommon, telepathy 120 ft.",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -22509,7 +22509,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Deep Speech, Undercommon, telepathy 120 ft.",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -22596,7 +22596,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Deep Speech, Undercommon, telepathy 120 ft.",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -22674,7 +22674,7 @@
       "senses": "",
       "passive": "11",
       "languages": "Giant",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Mouth of Madness",
         "text": [
@@ -22735,7 +22735,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -22796,7 +22796,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Common, Deep Speech, Undercommon",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Mental Fortitude",
           "text": [
@@ -22867,7 +22867,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Mental Fortitude",
           "text": [
@@ -22919,7 +22919,7 @@
       "senses": "darkvision 120 ft. (penetrates magical darkness)",
       "passive": "13",
       "languages": "Common, Deep Speech, Undercommon, telepathy 30 ft.",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Mental Fortitude",
           "text": [
@@ -22999,7 +22999,7 @@
       "senses": "blindsight 120 ft.",
       "passive": "13",
       "languages": "",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Creature Sense",
           "text": [
@@ -23072,7 +23072,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Common, Goblin",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -23149,7 +23149,7 @@
       "senses": "",
       "passive": "10",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -23204,7 +23204,7 @@
       "senses": "",
       "passive": "12",
       "languages": "",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Dive Attack",
           "text": [
@@ -23259,7 +23259,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Common, Sylvan",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Blurred Movement",
           "text": [
@@ -23318,7 +23318,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "understands Draconic but can't speak it",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -23373,7 +23373,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Common, Sylvan",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Iron Boots",
           "text": [
@@ -23438,7 +23438,7 @@
       "senses": "darkvision 30 ft.",
       "passive": "10",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -23483,7 +23483,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "understands Aquan and Common but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Limited Amphibiousness",
         "text": [
@@ -23543,14 +23543,14 @@
       "skill": [
         "Perception +3, Stealth +6"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness",
+      "resist": "nonmagical b/p/s while in dim light or darkness",
       "vulnerable": "",
       "immune": "",
       "conditionImmune": "",
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Ethereal Awareness",
           "text": [
@@ -23611,7 +23611,7 @@
       "senses": "",
       "passive": "10",
       "languages": "",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "action": [{
         "name": "Tail",
         "text": [
@@ -23648,7 +23648,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -23703,7 +23703,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Common, Giant",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
         "name": "Dreamwalker's Charm",
         "text": [
@@ -23765,7 +23765,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "17",
       "languages": "Abyssal",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -23830,7 +23830,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "understands Abyssal but can't speak",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -23879,7 +23879,7 @@
       "senses": "truesight 120 ft.",
       "passive": "10",
       "languages": "Modron",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Axiomatic Mind",
           "text": [
@@ -23937,7 +23937,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Aquan, Terran",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -23991,7 +23991,7 @@
       "wis": "10",
       "cha": "5",
       "passive": "10",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Beast of Burden",
           "text": [
@@ -24033,12 +24033,12 @@
       "cha": "12",
       "save": "Wis +2",
       "vulnerable": "fire",
-      "immune": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "nonmagical b/p/s",
       "conditionImmune": "necrotic, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "the languages it knew in life",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -24083,12 +24083,12 @@
         "History +5, Religion +5"
       ],
       "vulnerable": "bludgeoning",
-      "immune": "necrotic, poison, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "necrotic, poison, nonmagical b/p/s",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "the languages it knew in life",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -24189,7 +24189,7 @@
       "cha": "7",
       "senses": "darkvision 120 ft.",
       "passive": "11",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Distress Spores",
           "text": [
@@ -24244,7 +24244,7 @@
       "cha": "10",
       "senses": "darkvision 120 ft.",
       "passive": "12",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Distress Spores",
           "text": [
@@ -24368,7 +24368,7 @@
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "9",
       "languages": "understands Common but can't speak",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
           "name": "Claws",
           "text": [
@@ -24408,12 +24408,12 @@
       "skill": [
         "Deception +7, Insight +6, Perception +6, Stealth +6"
       ],
-      "resist": "cold, fire, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, fire, nonmagical b/p/s that aren't silvered",
       "conditionImmune": "charmed",
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Abyssal, Common, Infernal, Primordial",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -24516,7 +24516,7 @@
       "immune": "fire",
       "passive": "11",
       "languages": "understands Abyssal, Common, and Infernal but can't speak",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Confer Fire Resistance",
           "text": [
@@ -24568,7 +24568,7 @@
       ],
       "passive": "12",
       "languages": "any two languages",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
         "name": "Rapier",
         "text": [
@@ -24607,7 +24607,7 @@
       "senses": "truesight 120 ft.",
       "passive": "12",
       "languages": "Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Keen Sight",
         "text": [
@@ -24665,13 +24665,13 @@
       "skill": [
         "Intimidation +6, Perception +4, Stealth +4"
       ],
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "acid, poison",
       "conditionImmune": "poisoned",
       "senses": "blindsight 60 ft., darkvision 60 ft.",
       "passive": "14",
       "languages": "Abyssal, Infernal, telepathy 60 ft.",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -24755,7 +24755,7 @@
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, prone",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "8",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Amorphous",
           "text": [
@@ -24862,7 +24862,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "Common, Giant",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
           "name": "Greatclub",
           "text": [
@@ -24905,7 +24905,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "understands Common and Giant but can't speak",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Undead Fortitude",
         "text": [
@@ -24945,7 +24945,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Common, Giant",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -25024,7 +25024,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Orc",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Aggressive",
         "text": [
@@ -25073,7 +25073,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Common, Orc",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Aggressive",
           "text": [
@@ -25132,7 +25132,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Orc",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Aggressive",
           "text": [
@@ -25205,7 +25205,7 @@
       "senses": "truesight 120 ft.",
       "passive": "22",
       "languages": "all, telepathy 120 ft.",
-      "cr": "26",
+      "cr": "26 (90,000 XP)",
       "trait": [{
           "name": "Wand of Orcus",
           "text": [
@@ -25322,7 +25322,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Orc",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Aggressive",
         "text": [
@@ -25375,7 +25375,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Otyugh",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Limited Telepathy",
         "text": [
@@ -25480,7 +25480,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "13",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Keen Sight and Smell",
         "text": [
@@ -25533,7 +25533,7 @@
         "Perception +4, Stealth +6"
       ],
       "passive": "14",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -25589,7 +25589,7 @@
       ],
       "passive": "16",
       "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "action": [{
         "name": "Hooves",
         "text": [
@@ -25622,7 +25622,7 @@
       "senses": "truesight 120 ft.",
       "passive": "14",
       "languages": "Modron",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Axiomatic Mind",
           "text": [
@@ -25678,10 +25678,10 @@
       "skill": [
         "Perception +5"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "passive": "15",
       "languages": "understands Common and Elvish but can't speak",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Dive Attack",
           "text": [
@@ -25747,14 +25747,14 @@
       "skill": [
         "Perception +2, Stealth +4"
       ],
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "vulnerable": "",
       "immune": "cold, necrotic, poison",
       "conditionImmune": "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "any languages it knew in life",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Ethereal Sight",
           "text": [
@@ -25819,7 +25819,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "10",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Ethereal Jaunt",
           "text": [
@@ -25871,7 +25871,7 @@
       ],
       "senses": "blindsight 30 ft., darkvision 60 ft.",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "False Appearance",
           "text": [
@@ -25912,13 +25912,13 @@
       "wis": "18",
       "cha": "24",
       "save": "Dex +8, Con +13, Wis +10",
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "truesight 120 ft.",
       "passive": "14",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "20",
+      "cr": "20 (25,000 XP)",
       "trait": [{
           "name": "Fear Aura",
           "text": [
@@ -26012,7 +26012,7 @@
       ],
       "passive": "14",
       "languages": "Sylvan",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -26057,12 +26057,12 @@
       "skill": [
         "Perception +11"
       ],
-      "resist": "radiant, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "radiant, nonmagical b/p/s",
       "conditionImmune": "charmed, exhaustion, frightened",
       "senses": "truesight 120 ft.",
       "passive": "21",
       "languages": "all, telepathy 120 ft.",
-      "cr": "16",
+      "cr": "16 (15,000 XP)",
       "trait": [{
           "name": "Angelic Weapons",
           "text": [
@@ -26135,7 +26135,7 @@
         "Perception +3, Stealth +4"
       ],
       "passive": "13",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Hold Breath",
         "text": [
@@ -26170,7 +26170,7 @@
       "cha": "3",
       "senses": "blindsight 10 ft.",
       "passive": "10",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
         "name": "Bite",
         "text": [
@@ -26201,7 +26201,7 @@
         "Perception +3"
       ],
       "passive": "13",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Keen Smell",
         "text": [
@@ -26250,13 +26250,13 @@
       "int": "10",
       "wis": "10",
       "cha": "11",
-      "resist": "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, cold, fire, lightning, thunder, nonmagical b/p/s",
       "immune": "necrotic, poison",
       "conditionImmune": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "understands all languages it knew in life but can't speak",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Incorporeal Movement",
           "text": [
@@ -26312,7 +26312,7 @@
       "wis": "11",
       "cha": "7",
       "passive": "10",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
         "name": "Hooves",
         "text": [
@@ -26344,7 +26344,7 @@
       ],
       "passive": "13",
       "languages": "any two languages",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Divine Eminence",
           "text": [
@@ -26399,7 +26399,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "13",
       "languages": "understands Common and Draconic but can't speak",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Keen Senses",
           "text": [
@@ -26465,7 +26465,7 @@
         "Perception +1"
       ],
       "passive": "11",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Flyby",
         "text": [
@@ -26501,7 +26501,7 @@
       "save": "Con +11, Wis +4",
       "senses": "blindsight 30 ft., tremorsense 60 ft.",
       "passive": "9",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
         "name": "Tunneler",
         "text": [
@@ -26557,7 +26557,7 @@
       "senses": "truesight 120 ft.",
       "passive": "12",
       "languages": "Modron",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Axiomatic Mind",
           "text": [
@@ -26621,7 +26621,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Wounded Fury",
         "text": [
@@ -26672,7 +26672,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Undercommon",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Wounded Fury",
           "text": [
@@ -26729,13 +26729,13 @@
       "skill": [
         "Stealth +5"
       ],
-      "resist": "cold; fire; lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold; fire; lightning; nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "Abyssal, Common",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -26840,11 +26840,11 @@
         "Deception +10, Insight +8"
       ],
       "vulnerable": "piercing from magic weapons wielded by good creatures",
-      "immune": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "nonmagical b/p/s",
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Common, Infernal",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Limited Magic Immunity",
           "text": [
@@ -26975,7 +26975,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Slaad, telepathy 60 ft.",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Magic Resistance",
           "text": [
@@ -27048,7 +27048,7 @@
       ],
       "senses": "blindsight 30 ft.",
       "passive": "12",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Pack Tactics",
           "text": [
@@ -27091,7 +27091,7 @@
       "immune": "cold, fire",
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "10",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
         "name": "Heated Body",
         "text": [
@@ -27142,7 +27142,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "the languages it knew in life",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Regeneration",
           "text": [
@@ -27208,7 +27208,7 @@
       "wis": "12",
       "cha": "6",
       "passive": "11",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Charge",
         "text": [
@@ -27245,7 +27245,7 @@
       "wis": "11",
       "cha": "7",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Hooves",
         "text": [
@@ -27277,7 +27277,7 @@
         "Perception +4"
       ],
       "passive": "14",
-      "cr": "11",
+      "cr": "11 (7,200 XP)",
       "trait": [{
         "name": "Keen Sight",
         "text": [
@@ -27331,7 +27331,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "16",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "False Appearance",
           "text": [
@@ -27403,7 +27403,7 @@
       "conditionImmune": "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "6",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Antimagic Susceptibility",
           "text": [
@@ -27451,7 +27451,7 @@
       "cha": "6",
       "senses": "darkvision 60 ft.",
       "passive": "11",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Iron Scent",
           "text": [
@@ -27503,7 +27503,7 @@
         "Perception +3, Stealth +6"
       ],
       "passive": "13",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -27559,7 +27559,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "15",
       "languages": "Sahuagin",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Blood Frenzy",
           "text": [
@@ -27638,7 +27638,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "17",
       "languages": "Sahuagin",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Blood Frenzy",
           "text": [
@@ -27716,7 +27716,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Sahuagin",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Blood Frenzy",
           "text": [
@@ -27790,13 +27790,13 @@
       "int": "11",
       "wis": "10",
       "cha": "12",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "vulnerable": "cold",
       "immune": "fire",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Ignan",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Heated Body",
           "text": [
@@ -27860,7 +27860,7 @@
       ],
       "passive": "12",
       "languages": "Common, Elvish, Sylvan",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Magic Resistance",
         "text": [
@@ -27918,14 +27918,14 @@
       "int": "10",
       "wis": "10",
       "cha": "13",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "nonmagical b/p/s",
       "vulnerable": "fire",
       "immune": "poison",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
@@ -28005,7 +28005,7 @@
       ],
       "passive": "15",
       "languages": "any one language (usually Common)",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Keen Hearing and Sight",
         "text": [
@@ -28057,7 +28057,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Aquan, Common, Giant",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -28145,13 +28145,13 @@
       "skill": [
         "Stealth +4"
       ],
-      "resist": "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, cold, fire, lightning, thunder, nonmagical b/p/s",
       "vulnerable": "radiant",
       "immune": "necrotic, poison",
       "conditionImmune": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 60 ft.",
       "passive": "10",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Amorphous",
           "text": [
@@ -28202,14 +28202,14 @@
       "skill": [
         "Stealth +7"
       ],
-      "resist": "acid, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, fire, necrotic, thunder, nonmagical b/p/s",
       "vulnerable": "radiant",
       "immune": "cold, lightning, poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Incorporeal Movement",
           "text": [
@@ -28264,7 +28264,7 @@
       "conditionImmune": "blinded, deafened, exhaustion",
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "10",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Lightning Absorption",
         "text": [
@@ -28315,7 +28315,7 @@
       "senses": "blindsight 10 ft., darkvision 60 ft.",
       "passive": "10",
       "languages": "understands commands given in any language but can't speak",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Bound",
           "text": [
@@ -28412,7 +28412,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "understands all languages it spoke in life but can't speak",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
           "name": "Shortsword",
           "text": [
@@ -28456,7 +28456,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "7",
       "languages": "understands Slaad but can't speak",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "Magic Resistance",
         "text": [
@@ -28497,7 +28497,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Auran, Ignan",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -28555,13 +28555,13 @@
       "skill": [
         "Perception +14"
       ],
-      "resist": "radiant, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "radiant, nonmagical b/p/s",
       "immune": "necrotic, poison",
       "conditionImmune": "charmed, exhaustion, frightened, poisoned",
       "senses": "truesight 120 ft.",
       "passive": "24",
       "languages": "all, telepathy 120 ft.",
-      "cr": "21",
+      "cr": "21 (33,000 XP)",
       "trait": [{
           "name": "Angelic Weapons",
           "text": [
@@ -28671,7 +28671,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "16",
       "languages": "Deep Speech, Undercommon, telepathy 120 ft.",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -28721,13 +28721,13 @@
       "int": "10",
       "wis": "10",
       "cha": "11",
-      "resist": "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, cold, fire, lightning, thunder, nonmagical b/p/s",
       "immune": "necrotic, poison",
       "conditionImmune": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "understands all languages it knew in life but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Incorporeal Movement",
           "text": [
@@ -28767,13 +28767,13 @@
       "int": "11",
       "wis": "14",
       "cha": "8",
-      "resist": "cold, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "cold, nonmagical b/p/s that aren't silvered",
       "immune": "fire, poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "Infernal, telepathy 120 ft.",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Devil's Sight",
           "text": [
@@ -28856,7 +28856,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Abyssal, Common",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
           "name": "Rejuvenation",
           "text": [
@@ -28909,7 +28909,7 @@
       ],
       "passive": "13",
       "languages": "Common, Elvish, Sylvan",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
           "name": "Longsword",
           "text": [
@@ -28963,7 +28963,7 @@
       ],
       "passive": "16",
       "languages": "any two languages",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Cunning Action",
           "text": [
@@ -29027,7 +29027,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Aquan, Ignan",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Death Burst",
           "text": [
@@ -29086,7 +29086,7 @@
       "cha": "6",
       "senses": "darkvision 60 ft.",
       "passive": "9",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "action": [{
         "name": "Blood Drain",
         "text": [
@@ -29121,7 +29121,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Giant",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
         "name": "Stone Camouflage",
         "text": [
@@ -29191,12 +29191,12 @@
       "int": "3",
       "wis": "11",
       "cha": "1",
-      "immune": "poison, psychic, bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "immune": "poison, psychic, nonmagical b/p/s that aren't adamantine",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "10",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Immutable Form",
           "text": [
@@ -29263,7 +29263,7 @@
       "immune": "lightning, thunder",
       "passive": "19",
       "languages": "Common, Giant",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -29336,14 +29336,14 @@
       "skill": [
         "Arcana +8, History +8, Perception +10"
       ],
-      "resist": "cold; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold; nonmagical b/p/s",
       "vulnerable": "",
       "immune": "lightning, thunder",
       "conditionImmune": "",
       "senses": "truesight 60 ft.",
       "passive": "20",
       "languages": "Common, Giant",
-      "cr": "16",
+      "cr": "16 (15,000 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -29429,7 +29429,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "understands the languages it knew in life but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Loathsome Limbs",
         "text": [
@@ -29493,14 +29493,14 @@
       "skill": [
         "Arcana +15, Perception +12, Religion +10, Stealth +14"
       ],
-      "resist": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "necrotic; nonmagical b/p/s",
       "vulnerable": "",
       "immune": "",
       "conditionImmune": "",
       "senses": "darkvision 120 ft.",
       "passive": "22",
       "languages": "Abyssal, Common, Draconic, Elvish, Giant, Infernal",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -29642,11 +29642,11 @@
       "skill": [
         "Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7"
       ],
-      "resist": "cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, poison, nonmagical b/p/s",
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Abyssal, Common, Infernal, telepathy 60 ft.",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Telepathic Bond",
           "text": [
@@ -29713,7 +29713,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 60 ft.",
       "passive": "11",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Echolocation",
           "text": [
@@ -29764,7 +29764,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 10 ft.",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Swarm",
         "text": [
@@ -29802,7 +29802,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 10 ft.",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Swarm",
         "text": [
@@ -29845,7 +29845,7 @@
       "senses": "darkvision 30 ft.",
       "passive": "10",
       "languages": "telepathy 30 ft.",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Illumination",
           "text": [
@@ -29906,7 +29906,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 10 ft.",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Swarm",
         "text": [
@@ -29944,7 +29944,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 10 ft.",
       "passive": "10",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "Swarm",
         "text": [
@@ -29982,7 +29982,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "darkvision 60 ft.",
       "passive": "8",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Blood Frenzy",
           "text": [
@@ -30033,7 +30033,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "darkvision 30 ft.",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -30077,7 +30077,7 @@
       "resist": "bludgeoning, piercing, slashing",
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "passive": "15",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Swarm",
         "text": [
@@ -30115,7 +30115,7 @@
       "conditionImmune": "charmed, frightened, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 10 ft.",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Swarm",
           "text": [
@@ -30172,7 +30172,7 @@
       "conditionImmune": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
       "senses": "blindsight 10 ft.",
       "passive": "8",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Swarm",
         "text": [
@@ -30217,7 +30217,7 @@
       "senses": "",
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Lightfooted",
           "text": [
@@ -30275,11 +30275,11 @@
       "wis": "11",
       "cha": "11",
       "save": "Int +5, Wis +9, Cha +9",
-      "immune": "fire, poison, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "immune": "fire, poison, nonmagical b/p/s",
       "conditionImmune": "charmed, frightened, paralyzed, poisoned",
       "senses": "blindsight 120 ft.",
       "passive": "10",
-      "cr": "30",
+      "cr": "30 (155,000 XP)",
       "trait": [{
           "name": "Legendary Resistance (3/Day)",
           "text": [
@@ -30403,7 +30403,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Thri-kreen",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Chameleon Carapace",
           "text": [
@@ -30489,7 +30489,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Thri-kreen, telepathy 60 ft.",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Chameleon Carapace",
           "text": [
@@ -30585,7 +30585,7 @@
       ],
       "passive": "10",
       "languages": "any one language (usually Common)",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Pack Tactics",
         "text": [
@@ -30643,7 +30643,7 @@
       "senses": "darkvision 240 ft., truesight 120 ft.",
       "passive": "36",
       "languages": "Common, Draconic, Infernal",
-      "cr": "30",
+      "cr": "30 (155,000 XP)",
       "trait": [{
           "name": "Discorporation",
           "text": [
@@ -30803,7 +30803,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "13",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -30864,7 +30864,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any four languages",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Spellcasting",
           "text": [
@@ -30932,7 +30932,7 @@
       "senses": "blindsight 30 ft., darkvision 60 ft.",
       "passive": "11",
       "languages": "",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Fake Appearance",
           "text": [
@@ -30977,7 +30977,7 @@
       "vulnerable": "fire",
       "passive": "13",
       "languages": "Common, Druidic, Elvish, Sylvan",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
           "name": "False Appearance",
           "text": [
@@ -31040,7 +31040,7 @@
       "wis": "11",
       "cha": "5",
       "passive": "10",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Trampling Charge",
         "text": [
@@ -31086,7 +31086,7 @@
       "senses": "truesight 120 ft.",
       "passive": "10",
       "languages": "Modron",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Axiomatic Mind",
           "text": [
@@ -31148,7 +31148,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Troglodyte",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Chameleon Skin",
           "text": [
@@ -31216,7 +31216,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Troglodyte",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Chameleon Skin",
           "text": [
@@ -31302,7 +31302,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Giant",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -31381,7 +31381,7 @@
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "9",
       "languages": "understands Common but can't speak",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
@@ -31418,7 +31418,7 @@
         "Perception +4"
       ],
       "passive": "14",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -31464,13 +31464,13 @@
       "skill": [
         "Intimidation +9, Perception +7, Stealth +8"
       ],
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "acid, poison",
       "conditionImmune": "charmed, frightened, poisoned",
       "senses": "truesight 120 ft.",
       "passive": "17",
       "languages": "Abyssal, Infernal, telepathy 120 ft.",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -31552,7 +31552,7 @@
       "senses": "darkvision 120 ft., tremorsense 60 ft.",
       "passive": "10",
       "languages": "Umber Hulk",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Confusing Gaze",
           "text": [
@@ -31615,7 +31615,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft.",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Charge",
           "text": [
@@ -31725,11 +31725,11 @@
       "skill": [
         "Perception +7, Stealth +9"
       ],
-      "resist": "necrotic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "necrotic, nonmagical b/p/s",
       "senses": "darkvision 120 ft.",
       "passive": "17",
       "languages": "the languages it knew in life",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -31852,11 +31852,11 @@
       "skill": [
         "Perception +3, Stealth +6"
       ],
-      "resist": "necrotic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "necrotic, nonmagical b/p/s",
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "the languages it knew in life",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Regeneration",
           "text": [
@@ -31926,11 +31926,11 @@
       "skill": [
         "Perception +7, Stealth +9"
       ],
-      "resist": "necrotic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "necrotic, nonmagical b/p/s",
       "senses": "darkvision 120 ft.",
       "passive": "17",
       "languages": "the languages it knew in life",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -32048,11 +32048,11 @@
       "skill": [
         "Perception +7, Stealth +9"
       ],
-      "resist": "necrotic, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "necrotic, nonmagical b/p/s",
       "senses": "darkvision 120 ft.",
       "passive": "17",
       "languages": "the languages it knew in life",
-      "cr": "15",
+      "cr": "15 (13,000 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -32169,7 +32169,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "understands Abyssal, Infernal, and any languages it knew before becoming a vargouille but can't speak",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "action": [{
           "name": "Bite",
           "text": [
@@ -32221,7 +32221,7 @@
       "senses": "",
       "passive": "13",
       "languages": "",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Pack Tactics",
         "text": [
@@ -32276,7 +32276,7 @@
       ],
       "passive": "12",
       "languages": "any one language (usually Common)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -32335,7 +32335,7 @@
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "10",
       "languages": "Common",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
@@ -32378,7 +32378,7 @@
       "conditionImmune": "blinded, deafened, frightened",
       "senses": "blindsight 30 ft. (blind beyond this radius)",
       "passive": "6",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
@@ -32419,13 +32419,13 @@
       "wis": "13",
       "cha": "8",
       "save": "Dex +5, Wis +4, Cha +2",
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "11",
       "languages": "Abyssal, telepathy 120 ft.",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Magic Resistance",
         "text": [
@@ -32505,7 +32505,7 @@
       "senses": "",
       "passive": "13",
       "languages": "any two languages",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "trait": [{
         "name": "Spellcasting",
         "text": [
@@ -32560,7 +32560,7 @@
       "wis": "12",
       "cha": "7",
       "passive": "11",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Trampling Charge",
         "text": [
@@ -32604,7 +32604,7 @@
       "senses": "",
       "passive": "11",
       "languages": "any two languages (usually Sylvan)",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -32668,7 +32668,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "any two languages (usually Abyssal or Infernal)",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -32732,7 +32732,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "any two languages, telepathy 30 ft.",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -32796,7 +32796,7 @@
       "senses": "",
       "passive": "15",
       "languages": "any two languages",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Indomitable (3/Day)",
           "text": [
@@ -32878,13 +32878,13 @@
       "int": "5",
       "wis": "10",
       "cha": "8",
-      "resist": "acid; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid; nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Aquan",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Water Form",
           "text": [
@@ -32938,13 +32938,13 @@
       "int": "8",
       "wis": "10",
       "cha": "10",
-      "resist": "acid; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid; nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "paralyzed, petrified, poisoned, prone",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Aquan, one language of its creator's choice",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
         "name": "Magic Weapons",
         "text": [
@@ -32993,13 +32993,13 @@
       "int": "11",
       "wis": "10",
       "cha": "10",
-      "resist": "fire; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "fire; nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious",
       "senses": "blindsight 30 ft.",
       "passive": "10",
       "languages": "understands Aquan but doesn't speak",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Invisible in Water",
           "text": [
@@ -33082,7 +33082,7 @@
       "immune": "bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered",
       "passive": "17",
       "languages": "Common (can't speak in bear form)",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -33153,7 +33153,7 @@
       "immune": "bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered",
       "passive": "12",
       "languages": "Common (can't speak in boar form)",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -33225,7 +33225,7 @@
       "senses": "darkvision 60 ft. (rat form only)",
       "passive": "12",
       "languages": "Common (can't speak in rat form)",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -33296,12 +33296,12 @@
       ],
       "resist": "",
       "vulnerable": "",
-      "immune": "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons",
+      "immune": "nonmagical b/p/s not made with silvered weapons",
       "conditionImmune": "",
       "senses": "",
       "passive": "16",
       "languages": "Common (can't speak in raven form)",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -33375,7 +33375,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Common (can't speak in tiger form)",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -33461,7 +33461,7 @@
       "immune": "bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered",
       "passive": "14",
       "languages": "Common (can't speak in wolf form)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -33530,12 +33530,12 @@
       "skill": [
         "Perception +3, Stealth +4"
       ],
-      "immune": "necrotic, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "immune": "necrotic, nonmagical b/p/s that aren't silvered",
       "conditionImmune": "poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "the languages it knew in life",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
         "name": "Sunlight Sensitivity",
         "text": [
@@ -33594,13 +33594,13 @@
       "int": "13",
       "wis": "14",
       "cha": "11",
-      "resist": "acid, cold, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, cold, fire, necrotic, thunder, nonmagical b/p/s",
       "immune": "lightning, poison",
       "conditionImmune": "exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious",
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "the languages it knew in life",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Consume Life",
           "text": [
@@ -33662,7 +33662,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "Common, Draconic",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Sunlight Sensitivity",
           "text": [
@@ -33718,7 +33718,7 @@
       "immune": "cold",
       "passive": "15",
       "languages": "Common, Giant, Winter Wolf",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Keen Hearing and Smell",
           "text": [
@@ -33778,7 +33778,7 @@
         "Perception +3, Stealth +4"
       ],
       "passive": "13",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Keen Hearing and Smell",
           "text": [
@@ -33824,7 +33824,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "Goblin, Worg",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
         "name": "Keen Hearing and Smell",
         "text": [
@@ -33857,13 +33857,13 @@
       "int": "12",
       "wis": "14",
       "cha": "15",
-      "resist": "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered",
+      "resist": "acid, cold, fire, lightning, thunder, nonmagical b/p/s that aren't silvered",
       "immune": "necrotic, poison",
       "conditionImmune": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "the languages it knew in life",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Incorporeal Movement",
           "text": [
@@ -33915,7 +33915,7 @@
       ],
       "senses": "darkvision 60 ft.",
       "passive": "14",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -33974,7 +33974,7 @@
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "16",
       "languages": "Terran",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Earth Glide",
           "text": [
@@ -34047,7 +34047,7 @@
       "senses": "darkvision 30 ft.",
       "passive": "8",
       "languages": "Abyssal",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Low Cunning",
           "text": [
@@ -34115,7 +34115,7 @@
       "senses": "darkvision 30 ft.",
       "passive": "8",
       "languages": "Abyssal and one additional language (usually Common or Goblin)",
-      "cr": "1/8",
+      "cr": "1/8 (25 XP)",
       "trait": [{
           "name": "Low Cunning",
           "text": [
@@ -34182,7 +34182,7 @@
       "senses": "truesight 120 ft.",
       "passive": "24",
       "languages": "all, telepathy 120 ft.",
-      "cr": "24",
+      "cr": "24 (62,000 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -34290,14 +34290,14 @@
       "wis": "12",
       "cha": "7",
       "save": "",
-      "resist": "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons",
+      "resist": "nonmagical b/p/s not made with silvered weapons",
       "vulnerable": "",
       "immune": "",
       "conditionImmune": "charmed, exhaustion, frightened",
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "understands Common, Elvish, and Sylvan but can't speak",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Keen Hearing and Smell",
           "text": [
@@ -34359,7 +34359,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Yeti",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Fear of Fire",
           "text": [
@@ -34422,13 +34422,13 @@
       "skill": [
         "Deception +10, Insight +6"
       ],
-      "resist": "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "cold, fire, lightning, nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "poisoned",
       "senses": "darkvision 120 ft.",
       "passive": "12",
       "languages": "Abyssal, Elvish, Undercommon",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -34520,7 +34520,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "16",
       "languages": "Common, Draconic",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -34586,7 +34586,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "19",
       "languages": "Common, Draconic",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -34646,7 +34646,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "16",
       "languages": "Common, Draconic",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -34708,7 +34708,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "17",
       "languages": "Common, Draconic",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -34776,7 +34776,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "17",
       "languages": "Common, Draconic",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -34838,7 +34838,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "19",
       "languages": "Common, Draconic",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -34907,7 +34907,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "17",
       "languages": "Common, Draconic",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -34973,7 +34973,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "18",
       "languages": "Common, Draconic",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -35034,7 +35034,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "18",
       "languages": "Common, Draconic",
-      "cr": "13",
+      "cr": "13 (10,000 XP)",
       "trait": [{
           "name": "Living Shadow",
           "text": [
@@ -35108,7 +35108,7 @@
       "immune": "cold, fire",
       "senses": "darkvision 60 ft., tremorsense 60 ft.",
       "passive": "10",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Heated Body",
         "text": [
@@ -35152,7 +35152,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "18",
       "languages": "Common, Draconic",
-      "cr": "9",
+      "cr": "9 (5,000 XP)",
       "action": [{
           "name": "Multiattack",
           "text": [
@@ -35214,7 +35214,7 @@
       "senses": "blindsight 30 ft., darkvision 120 ft.",
       "passive": "16",
       "languages": "Common, Draconic",
-      "cr": "6",
+      "cr": "6 (2,300 XP)",
       "trait": [{
         "name": "Ice Walk",
         "text": [
@@ -35280,7 +35280,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "15",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -35375,7 +35375,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "17",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "12",
+      "cr": "12 (8,400 XP)",
       "trait": [{
           "name": "Innate Spellcasting (Anathema Form Only)",
           "text": [
@@ -35492,7 +35492,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Mental Resistance",
           "text": [
@@ -35569,7 +35569,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -35662,7 +35662,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -35737,7 +35737,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -35842,7 +35842,7 @@
       "senses": "darkvision 120 ft. (penetrates magical darkness)",
       "passive": "12",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -35955,7 +35955,7 @@
       "senses": "darkvision 120 ft. (penetrates magical darkness)",
       "passive": "11",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -36071,7 +36071,7 @@
       "senses": "darkvision 120 ft. (penetrates magical darkness)",
       "passive": "11",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -36172,7 +36172,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "13",
       "languages": "Abyssal, Common, Draconic",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -36237,7 +36237,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "understands all languages it spoke in life but can't speak",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
         "name": "Undead Fortitude",
         "text": [
@@ -36278,7 +36278,7 @@
       "senses": "blindsight 60 ft.",
       "passive": "13",
       "languages": "Common, Sylvan",
-      "cr": "4",
+      "cr": "4 (1,100 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -36344,7 +36344,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "9",
       "languages": "Common, Goblin",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "trait": [{
           "name": "Nimble Escape",
           "text": [
@@ -36395,7 +36395,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "Common, Goblin",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Martial Advantage",
         "text": [
@@ -36443,7 +36443,7 @@
       "cha": "4",
       "senses": "darkvision 60 ft.",
       "passive": "10",
-      "cr": "1/4",
+      "cr": "1/4 (50 XP)",
       "action": [{
         "name": "Bite",
         "text": [
@@ -36477,7 +36477,7 @@
       "senses": "darkvision 120 ft.",
       "passive": "14",
       "languages": "Dwarvish, Undercommon",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
           "name": "Cunning Action",
           "text": [
@@ -36557,7 +36557,7 @@
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "10",
       "languages": "-",
-      "cr": "1/2",
+      "cr": "1/2 (100 XP)",
       "trait": [{
           "name": "Adhesive Blossoms",
           "text": [
@@ -36604,7 +36604,7 @@
       "senses": "blindsight 30 ft.",
       "passive": "9",
       "languages": "-",
-      "cr": "8",
+      "cr": "8 (3,900 XP)",
       "trait": [{
         "name": "Amphibious",
         "text": [
@@ -36642,7 +36642,7 @@
       "senses": "",
       "passive": "14",
       "languages": "-",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -36710,13 +36710,13 @@
       "skill": [
         "Arcana +3, Perception +4"
       ],
-      "resist": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "necrotic; nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "exhaustion, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "14",
       "languages": "the languages it knew in life",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Innate Spellcasting",
           "text": [
@@ -36780,7 +36780,7 @@
       "senses": "darkvision 60 ft .",
       "passive": "13",
       "languages": "Common",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
         "name": "Undead Fortitude",
         "text": [
@@ -36829,13 +36829,13 @@
       "skill": [
         "Arcana +7, Insight +4"
       ],
-      "resist": "lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "lightning, necrotic; nonmagical b/p/s",
       "immune": "acid, cold, poison",
       "conditionImmune": "blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone",
       "senses": "blindsight 120 ft.",
       "passive": "10",
       "languages": "Common, Primordial, Thayan",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Corrosive Form",
           "text": [
@@ -36904,7 +36904,7 @@
       "senses": "blindsight 60 ft. (blind beyond this radius)",
       "passive": "10",
       "languages": "telepathy 50 ft.",
-      "cr": "10",
+      "cr": "10 (5,900 XP)",
       "trait": [{
           "name": "Amorphous Form",
           "text": [
@@ -36961,7 +36961,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "understands Giant but can't speak",
-      "cr": "7",
+      "cr": "7 (2,900 XP)",
       "trait": [{
           "name": "Evasion",
           "text": [
@@ -37020,7 +37020,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "8",
       "languages": "understands the languages it knew in life but can't speak",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
         "name": "Turn Resistance",
         "text": [
@@ -37065,7 +37065,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "12",
       "languages": "Common, Elvish, Sylvan",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Amphibious",
           "text": [
@@ -37119,13 +37119,13 @@
       "wis": "12",
       "cha": "7",
       "save": "Wis +3",
-      "resist": "acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks",
+      "resist": "acid, cold, lightning, necrotic, thunder; nonmagical b/p/s",
       "immune": "poison",
       "conditionImmune": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "-",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Blood Sense",
           "text": [
@@ -37182,7 +37182,7 @@
       "senses": "darkvision 60 ft.",
       "passive": "11",
       "languages": "Deep Speech",
-      "cr": "1",
+      "cr": "1 (200 XP)",
       "trait": [{
           "name": "Aberrant Quickness (Recharge after a Short or Long Rest)",
           "text": [
@@ -37233,7 +37233,7 @@
       ],
       "senses": "",
       "passive": "13",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Keen Smell",
           "text": [
@@ -37275,11 +37275,11 @@
       "skill": [
         "Perception +4, Stealth +3"
       ],
-      "immune": "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons",
+      "immune": "nonmagical b/p/s not made with silvered weapons",
       "senses": "",
       "passive": "14",
       "languages": "Common (can't speak in canid form)",
-      "cr": "3",
+      "cr": "3 (700 XP)",
       "trait": [{
           "name": "Shapechanger",
           "text": [
@@ -37361,12 +37361,12 @@
       "int": "6",
       "wis": "10",
       "cha": "5",
-      "immune": "lightning, poison, bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine",
+      "immune": "lightning, poison, nonmagical b/p/s that aren't adamantine",
       "conditionImmune": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
       "senses": "darkvision 60 ft.",
       "passive": "10",
       "languages": "understands the languages of its creator but can't speak",
-      "cr": "5",
+      "cr": "5 (1,800 XP)",
       "trait": [{
           "name": "Berserk",
           "text": [
@@ -37483,7 +37483,7 @@
       "senses": "darkvision 60 ft.;",
       "passive": "10",
       "languages": "speaks and understands the languages known by its creator",
-      "cr": "2",
+      "cr": "2 (450 XP)",
       "trait": [{
         "name": "False Appearance",
         "text": [
