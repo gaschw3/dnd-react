@@ -164,7 +164,7 @@
           "subclass": "storm",
           "name": "storm",
           "title": "Primal Path: Path of the Storm Herald (UA)",
-          "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
+          "text": "Barbarians who follow the Path of the Storm Herald learn to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects."
         },
         {
           "level": 3,
@@ -2267,14 +2267,14 @@
           "level": 10,
           "subclass": "battlemaster",
           "name": "battlemaster-superiority-1",
-          "title": "Battle Master: Improved Combat SUperiority (d10)",
+          "title": "Battle Master: Improved Combat Superiority (d10)",
           "text": "At 10th level, your superiority dice turn into d10s."
         },
         {
           "level": 10,
           "subclass": "cavalier",
           "name": "cavalier-superiority-1",
-          "title": "Cavalier: Improved Combat SUperiority (d10)",
+          "title": "Cavalier: Improved Combat Superiority (d10)",
           "text": "At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s."
         },
         {
@@ -3237,7 +3237,7 @@
           "subclass": "spheres",
           "name": "spheres",
           "title": "Sacred Oath: Oath of Spheres (HB)",
-          "text": "<pThe Oath of Spheres is sometimes taken by warriors who serve otherworldly entities and quest to release them into the material plane, but other adherents are incidental devotees. Some were trying to prevent otherworldly incursion and lost their way. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many who find themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consciousness found in the ever-widening gyre of the stars</p><h5>Tenets of Madness</h5><p>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Whisper the Truths.</strong> Normalcy is a curse. You must find hidden knowledge and share its truths to unburden the afflicted.</p><p class='pad-left'><strong>Write the Books.</strong> There is no point only speaking -- spoken word exists for mere seconds. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Assist the Envoys.</strong> Those touched with madness have seen the patterns in the stars. You are the protector of the mad, wild, and forgotten; do not allow them to be harmed.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible so that you might look to the stars -- and so that the stars might look back.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - dimension door, confusion</li><li>17th - telekinesis, dream</li></ul>"
+          "text": "<p>The Oath of Spheres is sometimes taken by warriors who serve otherworldly entities and quest to release them into the material plane, but other adherents are incidental devotees. Some were trying to prevent otherworldly incursion and lost their way. Some simply allowed their studies or imagination to roam too widely. Whatever the cause, many who find themselves brushing too close to incomprehensible truth eventually take this oath and become singly devoted to showing others the joy of unrestrained consciousness found in the ever-widening gyre of the stars</p><h5>Tenets of Madness</h5><p>The tenets of the Oath of the Madness vary as widely as its followers, but generally emphasize the following tenets.</p><p class='pad-left'><strong>Whisper the Truths.</strong> Normalcy is a curse. You must find hidden knowledge and share its truths to unburden the afflicted.</p><p class='pad-left'><strong>Write the Books.</strong> There is no point only speaking -- spoken word exists for mere seconds. Write the gospel wherever you go, with whatever tools and surfaces are available.</p><p class='pad-left'><strong>Assist the Envoys.</strong> Those touched with madness have seen the patterns in the stars. You are the protector of the mad, wild, and forgotten; do not allow them to be harmed.</p><p class='pad-left'><strong>Open the Way.</strong> Doors and windows must be open and uncovered as much as possible so that you might look to the stars -- and so that the stars might look back.</p><h5>Oath Spells</h5><p>You gain oath spells at the paladin levels listed.</p><ul><li>3rd - tasha's hideous laughter, ensnaring strike</li><li>5th - crown of madness, detect thoughts</li><li>9th - hunger of hadar, major image</li><li>13th - dimension door, confusion</li><li>17th - telekinesis, dream</li></ul>"
         },
         {
           "level": 3,
@@ -4623,7 +4623,7 @@
           "level": 1,
           "subclass": "celestial",
           "name": "celestial-healing-light",
-          "title": "Life Domain: Bonus Proficiency",
+          "title": "The Celestial: Healing Light",
           "text": "<p>At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.</p><p>As a bonus action, you can touch a creature and heal it, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.</p><p>Your pool regains all expended dice when you finish a long rest.</p>"
         },
         {
