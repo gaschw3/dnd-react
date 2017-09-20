@@ -1018,7 +1018,7 @@
           "subclass": "trickery",
           "name": "trickery",
           "title": "Domain: Trickery (HB)",
-          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - counterspell, dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
+          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - counterspell (Old: blink), dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
         },
         {
           "level": 1,
@@ -1259,7 +1259,7 @@
           "subclass": "trickery",
           "name": "trickery-channel-divinity-duplicity",
           "title": "Trickery Channel Divinity: Invoke Duplicity",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 10HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p>"
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 5HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p><p>(Old: clone requires concentration, moving it requires a bonus action, it has no AC of HP values and cannot explode)</p>"
         },
         {
           "level": 2,
@@ -1362,9 +1362,9 @@
         {
           "level": 6,
           "subclass": "trickery",
-          "name": "trickery-cloak-of-shadows",
-          "title": "Trickery Channel Divinity: Shrouded Invoke Duplicity",
-          "text": "Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Invisibility."
+          "name": "trickery-shrouded-duplicity",
+          "title": "Trickery Channel Divinity: Shrouded Duplicity",
+          "text": "<p>Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible until the end of your next turn per the spell Invisibility.</p><p>(Old: Different channel choice - Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.)"
         },
         {
           "level": 6,
@@ -1406,7 +1406,7 @@
           "subclass": "base",
           "name": "spellcasting-and-strike",
           "title": "Divine Conduit",
-          "text": "At 8th level, you receive two boons from your divine domain.</p><p>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8. The type of this damage is determined by your Divine Domain as follows:</p><ul><li>Arcana: force</li><li>Death: necrotic</li><li>Knowledge: psychic</li><li>Life: radiant</li><li>Light: radiant or fire</li><li>Nature: fire, cold, or lightning</li><li>Tempest: thunder</li><li>Trickery: acid</li><li>War: same as weapon</li><li>Forge: fire</li><li>Grave: necrotic</li></ul>"
+          "text": "At 8th level, you receive two boons from your divine domain.</p><p>You add your Wisdom modifier to the damage you deal with any cleric cantrip.</p><p>Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage to the target. When you reach 14th level, the extra damage increases to 2d8. The type of this damage is determined by your Divine Domain as follows:</p><ul><li>Arcana: force</li><li>Death: necrotic</li><li>Knowledge: psychic</li><li>Life: radiant</li><li>Light: radiant or fire</li><li>Nature: fire, cold, or lightning</li><li>Tempest: thunder</li><li>Trickery: acid</li><li>War: same as weapon</li><li>Forge: fire</li><li>Grave: necrotic</li></ul><p>(Old: 'Martial' clerics got Divine Strike and 'Caster' clerics got improved cantrips.)</p>"
         },
         {
           "level": 10,
@@ -1509,9 +1509,9 @@
         {
           "level": 17,
           "subclass": "trickery",
-          "name": "trickery-cloak-of-shadows",
-          "title": "Trickery Channel Divinity: Improved Invoke Duplicity",
-          "text": "At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones."
+          "name": "trickery-improved-shrouded-duplicity",
+          "title": "Trickery Channel Divinity: Improved Shrouded Duplicity",
+          "text": "<p>At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible until the end of your next turn per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones.</p><p>(Old: different effect - At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.)</p>"
         },
         {
           "level": 17,
