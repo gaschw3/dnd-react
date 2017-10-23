@@ -194,7 +194,7 @@
         ]
     },
     {
-        "title": "City Watch",
+        "title": "City Watch (SCAG)",
         "name": "city-watch",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Athletics, Insight",
@@ -226,7 +226,7 @@
         ]
     },
     {
-        "title": "Clan Crafter",
+        "title": "Clan Crafter (SCAG)",
         "name": "clan-crafter",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "History, Insight",
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "title": "Cloistered Scholar",
+        "title": "Cloistered Scholar (SCAG)",
         "name": "cloistered-scholar",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "History",
@@ -298,7 +298,7 @@
         ]
     },
     {
-        "title": "Courtier",
+        "title": "Courtier (SCAG)",
         "name": "coutier",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Insight, Persuasion",
@@ -325,6 +325,106 @@
               "name": "Feature: Court Functionary",
               "text": [
                 "Your knowledge of how bureaucracies function lets you gain access to the records and inner workings of any noble court or government you encounter. You know who the movers and shakers are, whom to go to for the favors you seek, and what the current intrigues of interest in the group are."
+              ]
+          }
+        ]
+    },
+    {
+        "title": "Commoner (HB)",
+        "name": "commoner",
+        "source": "Homebrew",
+        "proficiency": "Insight, Persuasion",
+        "trait": [
+          {
+              "name": "Skill Proficiencies",
+              "text": [
+                "Insight, Persuasion"
+              ]
+          },
+          {
+              "name": "Tool Proficiencies",
+              "text": [
+                "one musical instrument, one set of artisan's tools, vehicles (land)"
+              ]
+          },
+          {
+              "name": "Equipment",
+              "text": [
+                "A set of common clothes, shovel, tool kit, backpack, and 10gp"
+              ]
+          },
+          {
+              "name": "Feature: Salt of teh Earth",
+              "text": [
+                "You are a commoner and it shows, while you may have trouble with noble born the common folk recognize you and welcome you as one of their own. You are able to rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. You can obtain poor food and lodging while resting among the commoners."
+              ]
+          },
+          {
+            "name": "Profession",
+            "text": [
+              "You weren’t born into the kind of life that let you take a day off of work to relax. You’ve spent your entire life working. Consider what job or jobs you worked to survive in the harsh life of a commoner. You can roll on the following table to determine your profession or choose one that best fits your character.",
+                "d8 - Profession",
+                "1 - Fisher",
+                "2 - Forester",
+                "3 - Laborer",
+                "4 - Messenger",
+                "5 - Cook",
+                "6 - Farmer",
+                "7 - Servant",
+                "8 - Shepard",
+                "9 - Trapper",
+                "10 - Hunter"
+            ]
+          },
+          {
+              "name": "Personality Trait",
+              "text": [
+                "d8 - Trait",
+                "1 - I can’t stand those who flaunt their wealth.",
+                "2 - I have a hard time fitting in at proper or fancy events.",
+                "3 - I have never been confident in my abilities to do anything except feed myself.",
+                "4 - I know quite a few rustic proverbs and will share them at every occasion.",
+                "5 - I've never had to watch my language and I won't start now.",
+                "6 - I keep my head down and my thoughts to myself.",
+                "7 - I was meant for more than the common life.",
+                "8 - I’m always willing to lend a hand because I’ve needed help as well."
+              ]
+          },
+          {
+              "name": "Ideal",
+              "text": [
+                "d6 - Ideal",
+                "1 - Freedom. People should be free to pursue their wants and livelihood no matter what. (Chaotic)",
+                "2 - Fairness. Everyone should be treated the same. Nobody is above the law. (Lawful)",
+                "3 - Respect. People deserve to be treated with dignity and respect. (Good)",
+                "4 - Power. If I can become powerful nobody will be able to walk over me again. (Evil)",
+                "5 - People. I worry about people like me, not ideals. (Neutral)",
+                "6 - Greater Good. It is everyone’s responsibility to do the most good to help the town."
+              ]
+          },
+          {
+              "name": "Bond",
+              "text": [
+                "d6 - Bond",
+                "1 - Doing what I can to help common people like me is yhe most important thing to me.",
+                "2 - I worked the land and I will protect the land.",
+                "3 - I pursue wealth to win the heart of another.",
+                "4 - I’ll always remember the people who took me in when I lost everything.",
+                "5 - I seek to create a utopia where all people are on equal footing.",
+                "6 - I will become a noble or die trying."
+              ]
+          },
+          {
+              "name": "Flaw",
+              "text": [
+                "",
+                "d6 - Flaws",
+                "1 - I refuse to work with a noble.",
+                "2 - I've never been wrong and if I was I wouldn't tell anyone.",
+                "3 - I would kill to acquire a noble title.",
+                "4 - I'm jealous of anyone who had an easier upbringing than me and I can't hide it.",
+                "5 - I have a good memory for those who have wronged me and I will get back at them all one day.",
+                "6 - I will follow orders, even if I think they're wrong."
               ]
           }
         ]
@@ -607,7 +707,7 @@
         ]
     },
     {
-        "title": "Faction Agent",
+        "title": "Faction Agent (SCAG)",
         "name": "faction-agent",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Insight",
@@ -640,7 +740,7 @@
         ]
     },
     {
-        "title": "Far Traveler",
+        "title": "Far Traveler (SCAG)",
         "name": "far-traveler",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Insight, Perception",
@@ -848,6 +948,108 @@
         ]
     },
     {
+        "title": "Gambler (HB)",
+        "name": "gambler",
+        "source": "Homebrew",
+        "proficiency": "Deception, Insight",
+        "trait": [
+          {
+              "name": "Skill Proficiencies",
+              "text": [
+                "Deception, Insight"
+              ]
+          },
+          {
+              "name": "Tool Proficiencies",
+              "text": [
+                "Two types of gaming set"
+              ]
+          },
+          {
+              "name": "Equipment",
+              "text": [
+                "A set of common clothes, two gaming sets, and a pouch containing 15 gp"
+              ]
+          },
+          {
+              "name": "Feature: Gambler's Luck",
+              "text": [
+                "You are quite talented at making enough to survive in a gambling den, casino, or at a table in an Inn. In a place where you can gamble you have the ability to earn just enough money to provide you and your party modest lodging and food for two nights before they stop letting you gamble."
+              ]
+          },
+          {
+            "name": "Game of Choice",
+            "text": [
+              "You enjoy any chance to gamble and make some money but you’ve got a favorite. This one you are particularly good at and can seldom resist the temptation of playing. Choose the game you most like to play, or roll on the table blow.",
+                "d6 - Game of Choice",
+                "1 - Dice",
+                "2 - Dragonchess",
+                "3 - Playing Cards",
+                "4 - THree-Dragon Ante",
+                "5 - Mage's Luck",
+                "6 - Sports Betting"
+            ]
+          },
+          {
+              "name": "Suggested Characteristics",
+              "text": [
+                "Gamblers have spent most of their time in the pursuit of wealth, but often for very different reasons. They’re usually impulsive, a bit disorganized, and enjoy a good thrill. Once wealth is obtained a gambler will still find joy in the game."
+              ]
+          },
+          {
+              "name": "Personality Trait",
+              "text": [
+                "d8 - Trait",
+                "1 - I worry about today. Not tomorrow and definitely not yesterday.",
+                "2 - The easiest way to make friends is through some sort of game. That’s why they call it friendly competition.",
+                "3 - I part money with easily. I can always win more back.",
+                "4 - I think every issue can be settled with a bet.",
+                "5 - I’ve learned quite a few seedy jokes in the places I’ve been and I’d be happy to share them.",
+                "6 - I find it hard to tell the truth, even when I’m not at the poker table.",
+                "7 - If it looks like fun I’m going to try it.",
+                "8 - If there’s a profit in it I’ll hear it out."
+              ]
+          },
+          {
+              "name": "Ideal",
+              "text": [
+                "d6 - Ideal",
+                "1 - Honor. The rules are there for a reason. If I don’t play by them I can’t call myself the best. (Lawful)",
+                "2 - Change. By being the one to change up the game I increase my chances for success. (Chaotic)",
+                "3 - Skill. If I can use my skills to take from those who would use it for evil I have to try. (Good)",
+                "4 - Greed. Nothing will stop me from making my fortune. (Evil)",
+                "5 - Luck. I’d rather be lucky than good anyday. (Any)",
+                "6 - Carefree. There’s always a next hand so I’m not worried about this one. (Neutral)"
+              ]
+          },
+          {
+              "name": "Bond",
+              "text": [
+                "d6 - Bond",
+                "1 -Adventuring is the greatest gamble I’ve found and I could never give up the rush.",
+                "2 - I am in bad with a powerful person or group over a few gambling debts.",
+                "3 - I know what it’s like to have nothing and will help those who look to be in the same spot. ",
+                "4 - I send what I can spare back to my family whenever possible.",
+                "5 - I love the fulfillment of teaching someone else the game.",
+                "6 - I was cheated out of a big win and want to get even."
+              ]
+          },
+          {
+              "name": "Flaw",
+              "text": [
+                "",
+                "d6 - Flaws",
+                "1 - I need a drink, wine, or something else to help dull the pain of a loss.",
+                "2 - My pride causes me more trouble than I’d like to admit.",
+                "3 - I don’t consider the odds in gambling or in my life.",
+                "4 - I am easily distracted by the promise of fun.",
+                "5 - I let my need to win take precedence over my health and that of my friends.",
+                "6 - I have trouble trusting those around me."
+              ]
+          }
+        ]
+    },
+    {
         "title": "Guild Artisan",
         "name": "guild-artisan",
         "source": "Player's Handbook",
@@ -1001,101 +1203,6 @@
         ]
     },
     {
-      "title": "Haunted One",
-      "name": "haunted-one",
-      "source": "Curse of Strahd",
-      "proficiency": "",
-      "trait": [
-        {
-            "name": "Skill Proficiencies",
-            "text": [
-              "Choose one of Arcana, Investigation, Religion, or Survival"
-            ]
-        },
-        {
-            "name": "Languages",
-            "text": [
-              "Choose one exotic language (Abyssal, Celestial, Deep Speech, Draconic, Infernal, Primordial, Sylvan, or Undercommon)"
-            ]
-        },
-        {
-            "name": "Equipment",
-            "text": [
-              "Monster hunter's pack, one trinket of special significance (choose one or roll on the Gothic Trinkets table)"
-            ]
-        },
-        {
-            "name": "Feature: Heart of Darkness",
-            "text": [
-              "Those who look into your eyes can see that you have faced unimaginable horror and that you are no stranger to darkness. Though they might fear you, commoners will extend you every courtesy and do their utmost to help you. Unless you have shown yourself to be a danger to them, they will even take up arms to fight alongside you, should you find yourself facing an enemy alone."
-            ]
-        },
-        {
-            "name": "Harrowing Event",
-            "text": [
-              "Prior to becoming an adventurer, your path in life was defined by one dark moment, one fateful decision, or one tragedy. Now you feel a darkness threatening to consume you, and you fear there may be no hope of escape. Choose a harrowing event that haunts you, or roll 1d10.",
-              "<br>1. A monster that slaughtered dozens of innocent people spared your life, and you don't know why.",
-              "2. You were born under a dark star. You can feel it watching you, coldly and distantly. Sometimes it beckons you in the dead of night.",
-              "3. An apparition that has haunted your family for generations now haunts you. You don't know what it wants, and it won't leave you alone.",
-              "4. Your family has a history of practicing the dark arts. You dabbled once and felt something horrible clutch at your soul, whereupon you  ed in terror.",
-              "5. An oni took your sibling one cold, dark night, and you were unable to stop it.",
-              "6. You were cursed with lycanthropy and later cured. You are now haunted by the innocents you slaughtered.",
-              "7. A hag kidnapped and raised you. You escaped, but the hag still has a magical hold over you and fills your mind with evil thoughts.",
-              "8. You opened an eldritch tome and saw things unfit for a sane mind. You burned the book, but its words and images are burned into your psyche.",
-              "9. A fiend possessed you as a child. You were locked away but escaped. The fiend is still inside you, but now you try to keep it locked away.",
-              "10. You did terrible things to avenge the murder of someone you loved. You became a monster, and it haunts your waking dreams."
-            ]
-        },
-        {
-            "name": "Personality Trait",
-            "text": [
-              "d8 - Trait",
-              "1. I don't run from evil. Evil runs from me.",
-              "2. I like to read and memorize poetry. It keeps me calm and brings me fleeting moments of happiness.",
-              "3. I spend money freely and live life to the fullest, knowing that tomorrow I might die.",
-              "4. I live for the thrill of the hunt.",
-              "5. I don't talk about the thing that torments me. I'd rather not burden others with my curse.",
-              "6. I expect danger around every corner.",
-              "7. I refuse to become a victim, and I will not allow others to be victimized.",
-              "8. I put no trust in divine beings."
-            ]
-        },
-        {
-            "name": "Ideal",
-            "text": [
-              "1. I try to help those in need, no matter what the personal cost. (Good)",
-              "2. I'll stop the spirits that haunt me or die trying. (Any)",
-              "3. I kill monsters to make the world a safer place, and to exorcise my own demons. (Good)",
-              "4. I have a dark calling that puts me above the law. (Chaotic)",
-              "5. I like to know my enemy's capabilities and weaknesses before rushing into battle. (Lawful)",
-              "6. I'm a monster that destroys other monsters, and anything else that gets in my way. (Evil)"
-            ]
-        },
-        {
-            "name": "Bond",
-            "text": [
-              "1. I keep my thoughts and discoveries in a journal. My journal is my legacy.",
-              "2. I would sacrifice my life and my soul to protect the innocent.",
-              "3. My torment drove away the person I love. I strive to win back the love I've lost.",
-              "4. A terrible guilt consumes me. I hope that I can find redemption through my actions.",
-              "5. There's evil in me, I can feel it. It must never be set free.",
-              "6. I have a child to protect. I must make the world a safer place for him (or her)."
-            ]
-        },
-        {
-            "name": "Flaw",
-            "text": [
-              "1. I have certain rituals that I must follow every day. I can never break them.",
-              "2. I assume the worst in people.",
-              "3. I feel no compassion for the dead. They're the lucky ones.",
-              "4. I have an addiction.",
-              "5. I am a purveyor of doom and gloom who lives in a world without hope.",
-              "6. I talk to spirits that no one else can see."
-            ]
-        }
-      ]
-    },
-    {
         "title": "Hermit",
         "name": "hermit",
         "source": "Player's Handbook",
@@ -1208,7 +1315,7 @@
         ]
     },
     {
-        "title": "Inheritor",
+        "title": "Inheritor (SCAG)",
         "name": "inheritor",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Survival",
@@ -1256,7 +1363,7 @@
         ]
     },
     {
-        "title": "Investigator",
+        "title": "Investigator (SCAG)",
         "name": "investigator",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Insight, Investigation",
@@ -1288,7 +1395,7 @@
         ]
     },
     {
-        "title": "Inquisitor",
+        "title": "Inquisitor (UA)",
         "name": "inquisitor",
         "source": "Plane Shift Innistrad",
         "proficiency": "Investigation, Religion",
@@ -1320,7 +1427,7 @@
         ]
     },
     {
-        "title": "Knight of the Order",
+        "title": "Knight of the Order (SCAG)",
         "name": "knight-of-the-order",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Persuasion",
@@ -1359,7 +1466,90 @@
         ]
     },
     {
-        "title": "Mercenary Veteran",
+        "title": "Medic (HB)",
+        "name": "medic",
+        "source": "Homebrew",
+        "proficiency": "Medicine, Investigation",
+        "trait": [
+          {
+              "name": "Skill Proficiencies",
+              "text": [
+                "Medicine, Investigation"
+              ]
+          },
+          {
+              "name": "Tool Proficiencies",
+              "text": [
+                "Herbalism kit"
+              ]
+          },
+          {
+              "name": "Equipment",
+              "text": [
+                "A healer’s kit, a diplomat’s pack, herbalism kit, a book about disease, common clothes, and a belt pouch containing 10 gp."
+              ]
+          },
+          {
+              "name": "Feature: Burden of Life",
+              "text": [
+                "Due to your vow, you are expected to cure the ill and as such you can make use of any non-hostile hospital or place of healing as a temporary residence for yourself, your patient(s), and your companions if there is room. Other medics will also often put you up at a lifestyle one step below their own in exchange for assistance. "
+              ]
+          },
+          {
+              "name": "Personality Trait",
+              "text": [
+                "d8 - Trait",
+                "1 - I tend to obsess over saving lives or worrying about the lives I’ve lost.",
+                "2 - I practice medicine in the name of my religion, nation, or clan.",
+                "3 - I am cold and calculating in every word and action.",
+                "4 - In stressful situations my brain shuts down and my body seems to act on its own.",
+                "5 - I am waging a personal war on death itself.",
+                "6 - I am fascinated with the body and will study it every chance I get.",
+                "7 - I love to debate any and all topics, but especially those related to medicine.",
+                "8 - I have very strong feelings about the use of magical healing versus natural healing."
+              ]
+          },
+          {
+              "name": "Ideal",
+              "text": [
+                "d6 - Ideal",
+                "1 - Life. I was put in this world to protect and save lives. (Good)",
+                "2 - Honor. I swore an oath to heal and now I must live by its tenets. (Lawful)",
+                "3 - Profit. Is it really my fault that all who come to me suffering also come bearing compensation? (Evil)",
+                "4 - Survival. We all must work together to survive. (Neutral)",
+                "5 - Fairness. Everyone deserves to live regardless of their disposition. (Neutral)",
+                "6 - Freedom. No man can dictate who shall die, when, or how. (Chaotic)"
+              ]
+          },
+          {
+              "name": "Bond",
+              "text": [
+                "d6 - Bond",
+                "1 - I owe everything to someone who put up the resources to get me where I am today.",
+                "2 -My patients are my family. When one dies it’s like losing a brother or sister.",
+                "3 - I took up the profession because someone close to me died of something treatable.",
+                "4 - I was forced into being a medic by my family.",
+                "5 - The child of a powerful person died under my care and now they are out to get me.",
+                "6 - I taught myself using the texts I carry with me everywhere."
+              ]
+          },
+          {
+              "name": "Flaw",
+              "text": [
+                "",
+                "d6 - Flaws",
+                "1 - I have a habit of only seeing people as patients.",
+                "2 - I feel contempt for many of my patients.",
+                "3 - I think I am better than other doctors. And everyone else.",
+                "4 - I am sickened by human suffering.",
+                "5 - Sometimes I go too far in my efforts to save those around me.",
+                "6 - No one can know that I’ve broken my vow."
+              ]
+          }
+        ]
+    },
+    {
+        "title": "Mercenary Veteran (SCAG)",
         "name": "mercenary-veteran",
         "source": "Sword Coast Adventurer's Guide",
         "proficiency": "Athletics, Persuasion",
@@ -1971,7 +2161,7 @@
         ]
     },
     {
-        "title": "Urban Bounty Hunter",
+        "title": "Urban Bounty Hunter (SCAG)",
         "name": "urban-bounty-hunter",
         "source": "Sword Coast Adventurer's Guide",
         "trait": [
