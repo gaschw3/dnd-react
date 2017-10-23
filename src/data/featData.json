@@ -631,7 +631,7 @@
                "You may use your bonus action to make a single melee attack against a creature whose grapple you escaped this round."
             ]
          }
-      }
+      },
       {
          "title": "Field Medic (HB)",
          "name": "field-medic",
@@ -644,7 +644,7 @@
                "You have advantage on Wisdom (Medicine) checks to stabilize another creature."
             ]
          }
-      }
+      },
       {
          "title": "Phalanx Fighter (HB)",
          "name": "phalanx-fighter",
@@ -657,7 +657,7 @@
                "While wielding a shield, as your bonus action, you may take a -2 penalty to your AC and grant a +3 AC bonus to an adjacent creature until the start of your next turn. If the creature ceases to be adjacent to you before the start of your next turn they lose the +2 AC bonus."
             ]
          }
-      }
+      },
       {
          "title": "Stalwart (HB)",
          "name": "stalwart",
