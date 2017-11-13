@@ -971,7 +971,7 @@
           "filter": "yes",
           "subclass": "arcana",
           "name": "arcana",
-          "title": "Domain: Arcana",
+          "title": "Domain: Arcana (UA)",
           "text": "<p>Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - detect magic, magic missile</li><li>3rd - magic weapon, Nystul's magic aura</li><li>5th - dispel magic, magic circle</li><li>7th - arcane eye, Leomund's secret chest</li><li>9th - planar binding, teleportation circle</li></ul>"
         },
         {
@@ -986,7 +986,7 @@
           "filter": "yes",
           "subclass": "death",
           "name": "death",
-          "title": "Domain: Death",
+          "title": "Domain: Death (DMG)",
           "text": "<p>The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Gods of Death are patrons of necromancers, death knights, liches, and vampires. THey can also embody murder, pain, disease, or poison.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - false life, ray of sickness</li><li>3rd - blindness/deafness, ray of enfeeblement</li><li>5th - animate dead, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, cloudkill</li></ul>"
         },
         {
@@ -1008,7 +1008,7 @@
           "filter": "yes",
           "subclass": "knowledge",
           "name": "knowledge",
-          "title": "Domain: Knowledge",
+          "title": "Domain: Knowledge (PHB)",
           "text": "<p>The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. </p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - command, identify</li><li>3rd - augury, suggestion</li><li>5th - nondetection, speak with dead</li><li>7th - arcane eye, confusion</li><li>9th - legend lore, scrying</li></ul>"
         },
         {
@@ -1023,7 +1023,7 @@
           "filter": "yes",
           "subclass": "life",
           "name": "life",
-          "title": "Domain: Life",
+          "title": "Domain: Life (PHB)",
           "text": "<p>The Life domain focuses on the vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.</p><ul><li>1st - bless, cure wounds</li><li>3rd - lesser restoration, spiritual weapon</li><li>5th - beacon of hope, revivify</li><li>7th - death ward, guardian of faith</li><li>9th - mass cure wounds, raise dead</li></ul>"
         },
         {
@@ -1045,7 +1045,7 @@
           "filter": "yes",
           "subclass": "light",
           "name": "light",
-          "title": "Domain: Light",
+          "title": "Domain: Light (PHB)",
           "text": "<p>Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.</p><ul><li>1st - burning hands, faerie fire</li><li>3rd - flaming sphere, scorching ray</li><li>5th - daylight, fireball</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, scrying</li></ul>"
         },
         {
@@ -1067,7 +1067,7 @@
           "filter": "yes",
           "subclass": "nature",
           "name": "nature",
-          "title": "Domain: Nature",
+          "title": "Domain: Nature (PHB)",
           "text": "<p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature but cleric act as champions who take a more active role in advancing the interests of a nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><ul><li>1st - animal friendship, speak with animals</li><li>3rd - barkskin, spike growth</li><li>5th - plant growth, wind wall</li><li>7th - dominate beast, grasping vine</li><li>9th - insect plague, tree stride</li></ul>"
         },
         {
@@ -1089,7 +1089,7 @@
           "filter": "yes",
           "subclass": "tempest",
           "name": "tempest",
-          "title": "Domain: Tempest",
+          "title": "Domain: Tempest (PHB)",
           "text": "<p>Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><ul><li>1st - fog cloud, thunderwave</li><li>3rd - gust of wind, shatter</li><li>5th - call lightning, sleet storm</li><li>7th - control water, ice storm</li><li>9th - destructive wave, insect plague</li></ul>"
         },
         {
@@ -1111,7 +1111,7 @@
           "filter": "yes",
           "subclass": "trickery",
           "name": "trickery",
-          "title": "Domain: Trickery",
+          "title": "Domain: Trickery (PHB)",
           "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - blink (HB: counterspell), dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
         },
         {
@@ -1133,7 +1133,7 @@
           "filter": "yes",
           "subclass": "war",
           "name": "war",
-          "title": "Domain: War",
+          "title": "Domain: War (PHB)",
           "text": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p><ul><li>1st - divine favor, shield of faith</li><li>3rd - magic weapon, spiritual weapon</li><li>5th - crusader's mantle, spirit guardians</li><li>7th - freedom of movement, stoneskin</li><li>9th - flame strike, hold monster</li></ul>"
         },
         {
@@ -1155,15 +1155,15 @@
           "filter": "yes",
           "subclass": "forge",
           "name": "forge",
-          "title": "Domain: Forge (UA)",
-          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
+          "title": "Domain: Forge (XGE)",
+          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, identify</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
         },
         {
           "level": 1,
           "subclass": "forge",
           "name": "forge-proficiency",
           "title": "Forge Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools."
         },
         {
           "level": 1,
@@ -1177,22 +1177,22 @@
           "filter": "yes",
           "subclass": "grave",
           "name": "grave",
-          "title": "Domain: Grave (UA)",
+          "title": "Domain: Grave (XGE)",
           "text": "<p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures.</p><ul><li>1st - bane, false life</li><li>3rd - gentle repose, ray of enfeeblement</li><li>5th - revivify, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, raise dead</li></ul>"
         },
         {
           "level": 1,
           "subclass": "grave",
-          "name": "grave-proficiency",
-          "title": "Grave Domain: Bonus Proficiency",
-          "text": "When you choose this domain at 1st level, you gain proficiency with heavy armor."
+          "name": "grave-eyes",
+          "title": "Grave Domain: Eyes of the Grave",
+          "text": "<p>At 1st level, you gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.</p><p>You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.</p>"
         },
         {
           "level": 1,
           "subclass": "grave",
           "name": "grave-circle",
           "title": "Grave Domain: Circle of Mortality",
-          "text": "At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. In addition, if you have the spare the dying cantrip, you can cast it as a bonus action."
+          "text": "<p>At 1st level, you gain the ability to manipulate the line between life and death. When you cast a spell that restores hit points to a living creature currently at 0, treat any dice rolled to determine the spell's healing as having rolled their maximum result. </p><p>In addition, you learn the spare the dying cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.</p>"
         },
         {
           "level": 2,
@@ -1283,7 +1283,7 @@
           "subclass": "forge",
           "name": "forge-channel-divinity-artisan",
           "title": "Forge Channel Divinity: Artisan's Blessing",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create simple items.</p><pStarting at the beginning of a short rest, you conduct a ritual to your deity that grants you the ability to craft a finished item that is at least part metal. The item is completed at the end of the rest.</p><p>The object can be worth no more than 100 gp, and as part of this ritual you must expend metals, such as coins or other finished items, with a value equal to the item you want to make. The item can be an exact duplicate of a nonmagical item, such as a copy of a key, if you possess the original during your short rest.</p>"
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create simple items.</p><p>You conduct an hour-long ritual that crafts a nonmagical item that must include some metal: a simple or martial weapon, a suit of armor, ten pieces of ammunition, a set of tools, or another metal object (\"Equipment,\" in the rules section of the site for potential examples). The creation is completed at the end of the hour, coalescing in an unoccupied space of your choice on a surface within 5 feet of you.</p><p>The thing you create can be something that is worth no more than 100 gp. As part of this ritual, you must lay out metal, which can include coins, with a value equal to the creation. The metal irretrievably coalesces and transforms into the creation at the ritual's end, magically forming even nonmetal parts of the creation. The ritual can create a duplicate of a nonmagical item that contains metal, such as a key, if you possess the original during the ritual.</p>"
         },
         {
           "level": 2,
@@ -1388,14 +1388,14 @@
           "subclass": "forge",
           "name": "forge-soul",
           "title": "Forge Domain: Soul of the Forge",
-          "text": "<p>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</p><ul><li>You gain a +1 bonus to AC while you are wearing medium or heavy armor.</li><li>You gain resistance to fire damage.</li><li>When you hit a construct with an attack, you deal additional force damage to it equal to your cleric level.</li></ul>"
+          "text": "<p>Starting at 6th level, your mastery of the forge grants you a number of special abilities:</p><ul><li>You gain a +1 bonus to AC while you are wearing heavy armor.</li><li>You gain resistance to fire damage.</li></ul>"
         },
         {
           "level": 6,
           "subclass": "grave",
           "name": "grave-sentinel",
           "title": "Grave Domain: Sentinel at Death's Door",
-          "text": "Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. Once you use this feature, you can't use it again until you finish a short or long rest."
+          "text": "Starting at 6th level, you gain the ability to impede death's progress. As a reaction when you or an ally that you can see within 30 feet of you suffers a critical hit, you can turn that attack into a normal hit. Any effects triggered by a critical hit are canceled. You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest."
         },
         {
           "level": 8,
@@ -1534,7 +1534,7 @@
           "level": 17,
           "subclass": "forge",
           "name": "forge-saint",
-          "title": "Forge Domain: Saint of FOrge and Fire",
+          "title": "Forge Domain: Saint of Forge and Fire",
           "text": "At 17th level, your affinity for fire and metal becomes more powerful due to your deity's blessing. You gain immunity to fire damage, and while you're wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks"
         },
         {
@@ -1542,7 +1542,7 @@
           "subclass": "grave",
           "name": "grave-keeper",
           "title": "Grave Domain: Keeper of Souls",
-          "text": "At 17th level, you gain the ability to manipulate the boundary between life and death. When an enemy you can see dies within 30 feet of you, you or one ally of your choice that is within 30 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature as long as you aren't incapacitated, but no more than once per round."
+          "text": "Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't incapacitated. Once you use it, you can't do so again until the start of your next turn."
         },
         {
           "level": 18,
