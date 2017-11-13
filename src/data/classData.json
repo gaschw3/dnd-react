@@ -2653,7 +2653,7 @@
           "filter": "yes",
           "subclass": "shadow",
           "name": "shadow",
-          "title": "Monastic Tradition: Way of Shadow",
+          "title": "Monastic Tradition: Way of Shadow (PHB)",
           "text": "Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadowdancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students."
         },
         {
@@ -2668,7 +2668,7 @@
           "filter": "yes",
           "subclass": "hand",
           "name": "hand",
-          "title": "Monastic Tradition: Way of the Open Hand",
+          "title": "Monastic Tradition: Way of the Open Hand (PHB)",
           "text": "Monks of the Way of the Open Hand are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate ki to heal damage to their bodies, and practice advanced meditation that can protect them from harm."
         },
         {
@@ -2683,8 +2683,8 @@
           "filter": "yes",
           "subclass": "elements",
           "name": "elements",
-          "title": "Monastic Tradition: Way of the Four Elements (HB)",
-          "text": "<p>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</p><p>Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.</p>"
+          "title": "Monastic Tradition: Way of the Four Elements (PHB/HB)",
+          "text": "<p>(ORIGINAL: The original version of this was quite bad, so this is just a better version all around, some stuff is unchanged but I didn't really want to mark all the changes.)</p><p>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</p><p>Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.</p>"
         },
         {
           "level": 3,
@@ -2712,7 +2712,7 @@
           "filter": "yes",
           "subclass": "death",
           "name": "death",
-          "title": "Monastic Tradition: Way of the Long Death",
+          "title": "Monastic Tradition: Way of the Long Death (SCAG)",
           "text": "Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style."
         },
         {
@@ -2727,7 +2727,7 @@
           "filter": "yes",
           "subclass": "sun",
           "name": "sun",
-          "title": "Monastic Tradition: Way of the Sun Soul",
+          "title": "Monastic Tradition: Way of the Sun Soul (XGE)",
           "text": "Monks of the Way of the Sun Soul learn to channel their own life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature."
         },
         {
@@ -2735,22 +2735,51 @@
           "subclass": "sun",
           "name": "sun-bolt",
           "title": "Way of the Sun Soul: Radiant Sun Bolt",
-          "text": "<p>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.</p><p>You gain a ranged spell attack that you can use with the Attack action. The attack has a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels—to a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.</p><p>When you use the Attack action on your turn to use this special attack, you can spend 1 ki point to make two additional attacks with it as a bonus action.</p>"
+          "text": "<p>Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.</p><p>You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p><p>When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.</p>"
         },
         {
           "level": 3,
           "filter": "yes",
           "subclass": "drunken",
           "name": "drunken",
-          "title": "Monastic Tradition: Way of the Drunken Master (UA)",
+          "title": "Monastic Tradition: Way of the Drunken Master (XGE)",
           "text": "The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant but proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats. Cunning warriors can see through the drunken master's apparent incompetence to recognize the masterful technique employed."
+        },
+        {
+          "level": 3,
+          "subclass": "drunken",
+          "name": "drunken-proficiency",
+          "title": "Way of the Drunken Master: Bonus Proficiency",
+          "text": "When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don't already have it. Your martial arts technique mixes combat training with the precision of a dancer and the antics of a jester. You also gain proficiency with brewer's supplies if you don't already have it."
         },
         {
           "level": 3,
           "subclass": "drunken",
           "name": "drunken-technique",
           "title": "Way of the Drunken Master: Drunken Technique",
-          "text": "<p>When you choose this tradition at 3rd level, you gain proficiency in the Performance skill if you don't already have it; your martial arts technique mixes martial training with the precision of a dancer and the antics of a jester.</p><p>You also learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn.</p>"
+          "text": "At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the Disengage action, and your walking speed increases by 10 feet until the end of the current turn."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "sohei",
+          "name": "sohei",
+          "title": "Monastic Tradition: Way of the Sohei (XGE)",
+          "text": "<p>(ORIGINAL: This was called Way of the Kensei, but that means 'sword monk' and these guys can use any weapons, so I'm going with 'warrior monk' instead)</p><p>Monks of the Way of the Sohei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons. A sohei sees a weapon in much the same way a calligrapher or painter regards a pen or brush. Whatever the weapon, the sohei views it as a tool used to express the beauty and precision of the martial arts. That such mastery makes a sohei a peerless warrior is but a side effect of intense devotion, practice, and study.</p>"
+        },
+        {
+          "level": 3,
+          "subclass": "sohei",
+          "name": "sohei-weapons",
+          "title": "Way of the Sohei: Weapons",
+          "text": "Choose two types of weapons to be your sohei weapons: one melee weapon and one ranged weapon. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. The longbow is also a valid choice. You gain proficiency with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition's features work only with your sohei weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon — either melee or ranged — to be a sohei weapon for you, following the criteria above."
+        },
+        {
+          "level": 3,
+          "subclass": "sohei",
+          "name": "sohei-tactics",
+          "title": "Way of the Sohei: Weapon Tactics",
+          "text": "<p>You special martial arts training gives you two abilities when using your sohei weapons in battle:<p><strong>Agile Parry. </strong>If you make an unarmed strike as part of the Attack action on your turn and are holding a sohei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't incapacitated.</p><p><strong>Sohei's Shot. </strong>You can use a bonus action on your turn to make your ranged attacks with a sohei weapon more deadly. When you do so, any target you hit with a ranged attack using a sohei weapon takes an extra 1d4 damage of the weapon's type. You retain this benefit until the end of the current turn.</p>"
         },
         {
           "level": 3,
@@ -2832,16 +2861,23 @@
         {
           "level": 6,
           "subclass": "sun",
-          "name": "sun-bolt",
-          "title": "Way of the Sun Soul: Radiant Sun Bolt",
-          "text": "<p>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the 1st-level spell burning hands as a bonus action.</p><p>You can spend additional ki points to cast burning hands as a higher level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level (round down).</p>"
+          "name": "sun-searing-arc",
+          "title": "Way of the Sun Soul: Searing Arc Strike",
+          "text": "<p>At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast the burning hands spell as a bonus action.</p><p>You can spend additional ki points to cast burning hands as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.</p>"
         },
         {
           "level": 6,
           "subclass": "drunken",
           "name": "drunken-tipsy-sway",
           "title": "Way of the Drunken Master: Tipsy Sway",
-          "text": "<p>At 6th level, your swaying in combat becomes maddeningly unpredictable. As a reaction when an enemy misses you with a melee attack roll, you can cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you. Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
+          "text": "<p>Starting at 6th level, you can move in sudden, swaying ways. You gain the following benefits.</p><p><strong>Leap to Your Feet.</strong> When you're prone, you can stand up by spending 5 feet of movement, rather than half your speed.</p><p><strong>Redirect Attack.</strong> When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.</p>"
+        },
+        {
+          "level": 6,
+          "subclass": "sohei",
+          "name": "sohei-one-with-weapons",
+          "title": "Way of the Sohei: One with Weapons",
+          "text": "<p>At 6th level, you extend your ki into your sohei weapons, granting you the following benefits.</p><p><strong>Magic Sohei Weapons.</strong> Your attacks with your sohei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p><p><strong>Deft Strike. </strong> When you hit a target with a sohei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.</p>"
         },
         {
           "level": 7,
@@ -2916,16 +2952,23 @@
         {
           "level": 11,
           "subclass": "sun",
-          "name": "sun-searing",
+          "name": "sun-sunburst",
           "title": "Way of the Sun Soul: Searing Sunburst",
-          "text": "<p>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.</p><p>Each creature in that 20-foot radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.</p><p>You can increase the sphere's damage by spending ki points. Each point you spend, up to a maximum of 3, increases the damage by 2d6.</p>"
+          "text": "<p>At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.</p><p>Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take 2d6 radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.</p><p>You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by 2d6.</p>"
         },
         {
           "level": 11,
           "subclass": "drunken",
           "name": "drunken-luck",
           "title": "Way of the Drunken Master: Drunkard's Luck",
-          "text": "<p>Starting at 11th level, you always seem to get a lucky bounce at just the right moment to save you from doom. When you make a saving throw, you can spend 1 ki point to give yourself advantage on that roll. You must decide to use this feature before rolling.</p>"
+          "text": "Starting at 11th level, you always seem to get a lucky bounce at the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll."
+        },
+        {
+          "level": 11,
+          "subclass": "sohei",
+          "name": "sohei-imbue",
+          "title": "Way of the Sohei: Imbue Weapon",
+          "text": "At 11th level, you gain the ability to augment your weapons further with your ki. As a bonus action, you can expend up to 3 ki points to grant one sohei weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of ki points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect on a magic weapon that already has a bonus to attack and damage rolls."
         },
         {
           "level": 12,
@@ -3009,14 +3052,21 @@
           "subclass": "sun",
           "name": "sun-shield",
           "title": "Way of the Sun Soul: Sun Shield",
-          "text": "<p>At 17th level, you become wreathed in a luminous aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.</p><p>If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.</p>"
+          "text": "<p>At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.</p><p>If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage equal to 5 + WIS to the creature.</p>"
         },
         {
           "level": 17,
           "subclass": "drunken",
           "name": "drunken-frenzy",
           "title": "Way of the Drunken Master: Intoxicated Frenzy",
-          "text": "<p>At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five attacks), provided that each Flurry of Blows attack targets a different creature this turn.</p>"
+          "text": "At 17th level, you gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your Flurry of Blows, you can make up to three additional attacks with it (up to a total of five Flurry of Blows attacks), provided that each Flurry of Blows attack targets a different creature this turn."
+        },
+        {
+          "level": 17,
+          "subclass": "sohei",
+          "name": "sohei-unerring-accuracy",
+          "title": "Way of the Sohei: Unerring Accuracy",
+          "text": "At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns."
         },
         {
           "level": 18,
