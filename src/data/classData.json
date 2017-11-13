@@ -4579,11 +4579,25 @@
         },
         {
           "level": 1,
+          "subclass": "fey",
+          "name": "fey-presence",
+          "title": "The Archfey: Fey Presence",
+          "text": "<p>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
+        },
+        {
+          "level": 1,
           "filter": "yes",
           "subclass": "fiend",
           "name": "fiend",
           "title": "Patron: The Fiend",
           "text": "<p>You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Mephisto, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.</p><p>The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - burning hands, command</li><li>3rd - blindness/deafness, scorching ray</li><li>5th - fireball, stinking cloud</li><li>7th - fire shield, wall of fire</li><li>9th - flame strike, hallow</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "fiend",
+          "name": "fiend-dark-ones-blessing",
+          "title": "The Fiend: Dark One's Blessing",
+          "text": "Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1)."
         },
         {
           "level": 1,
@@ -4595,32 +4609,18 @@
         },
         {
           "level": 1,
+          "subclass": "goo",
+          "name": "goo-awakened-mind",
+          "title": "The Great Old One: Awakened Mind",
+          "text": "At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other."
+        },
+        {
+          "level": 1,
           "filter": "yes",
           "subclass": "celestial",
           "name": "celestial",
           "title": "Patron: The Celestial (UA)",
           "text": "<p>Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, or unicorn or to another entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.</p><p>The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - burning hands, cure wounds</li><li>3rd - flaming sphere, lesser restoration</li><li>5th - daylight, revivify</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, greater restoration</li></ul>"
-        },
-        {
-          "level": 1,
-          "subclass": "fey",
-          "name": "fey-presence",
-          "title": "The Archfey: Fey Presence",
-          "text": "<p>Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
-        },
-        {
-          "level": 1,
-          "subclass": "fiend",
-          "name": "fiend-dark-ones-blessing",
-          "title": "The Fiend: Dark One's Blessing",
-          "text": "Starting at 1st level, when you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your Charisma modifier + your warlock level (minimum of 1)."
-        },
-        {
-          "level": 1,
-          "subclass": "goo",
-          "name": "goo-awakened-mind",
-          "title": "The Great Old One: Awakened Mind",
-          "text": "At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other."
         },
         {
           "level": 1,
@@ -4645,7 +4645,7 @@
         },
         {
           "level": 3,
-          "subclass": "bsdr",
+          "subclass": "base",
           "name": "pact-boon",
           "title": "Pact Boon",
           "text": "<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p><h5>Pact Boon: Pact of the Chain</h5><p>You learn the find familiar spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</p><p>When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.</p><p>Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to use its reaction to make one attack of its own.</p><h5>Pact Boon: Pact of the Blade</h5><p>You can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see chapter 5 for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p><p>Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</p><p>You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.</p><h5>Pact Boon: Pact of the Tome</h5><p>Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class's spell list. The cantrips do not need to be from the same spell list. While the book is on your person, you can cast those cantrips at will. They don't count against your number of cantrips known. Any cantrip you cast with this feature is considered a warlock cantrip for you. If you lose your Book of Shadows, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous book. The book turns to ash when you die.</p>"
