@@ -1,71 +1,6 @@
 {
    "feat": [
       {
-         "title": "Arcanist (UA)",
-         "name": "arcanist",
-         "source": "Unearthed Arcana: Feats for Skills",
-         "text": {
-            "description": "You study the arcane arts, gaining the following benefits:",
-            "benefits": [
-               "Increase your Intelligence score by 1, to a maximum of 20.",
-               "You gain proficiency in the Arcana skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.",
-               "You learn the prestidigitation and detect magic spells. You can cast detect magic once without expending a spell slot, and you regain the ability to do so when you finish a long rest."
-            ]
-         }
-      },
-      {
-         "title": "Empathic (UA)",
-         "name": "empathic",
-         "source": "Unearthed Arcana: Feats for Skills",
-         "text": {
-            "description": "You possess keen insight into how other people think and feel. You gain the following benefits:",
-            "benefits": [
-               "Increase your Wisdom score by 1, to a maximum of 20.",
-               "You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.",
-               "You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on attack rolls and ability checks against the target until the end of your next turn."
-            ]
-         }
-      },
-      {
-         "title": "Medic (UA)",
-         "name": "medic",
-         "source": "Unearthed Arcana: Feats for Skills",
-         "text": {
-            "description": "You master the physician’s arts, gaining the following benefits:",
-            "benefits": [
-               "Increase your Wisdom score by 1, to a maximum of 20.",
-               "You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.",
-               "During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends."
-            ]
-         }
-      },
-      {
-         "title": "Performer (UA)",
-         "name": "performer",
-         "source": "Unearthed Arcana: Feats for Skills",
-         "text": {
-            "description": "You master performance so that you can command any stage. You gain the following benefits:",
-            "benefits": [
-               "Increase your Charisma score by 1, to a maximum of 20.",
-               "You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.",
-               "While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing."
-            ]
-         }
-      },
-      {
-         "title": "Quick-Fingered (UA)",
-         "name": "quick-fingered",
-         "source": "Unearthed Arcana: Feats for Skills",
-         "text": {
-            "description": "Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:",
-            "benefits": [
-               "Increase your Dexterity score by 1, to a maximum of 20.",
-               "You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.",
-               "As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket."
-            ]
-         }
-      },
-      {
          "title": "Fell Handed (UA)",
          "name": "fell-handed",
          "source": "Unearthed Arcana: Feats",
@@ -143,32 +78,6 @@
                "You gain a +1 bonus to attack rolls you make with a whip.",
                "When you use a spear, its damage die changes from a d4 to a d6. (This benefit has no effect if another feature has already improved the weapon’s die.)",
                "Whenever you have advantage on a melee attack roll you make with a whip and hit, you can knock a weapon or another item from the target's grasp if the lower of the two d20 rolls would also hit the target."
-            ]
-         }
-      },
-      {
-         "title": "Burglar (UA)",
-         "name": "burglar",
-         "source": "Unearthed Arcana: Feats",
-         "text": {
-            "description": "You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:",
-            "benefits": [
-               "Increase your Dexterity score by 1, to a maximum of 20.",
-               "You gain proficiency with thieves’ tools. If you are already proficient with them, you add double your proficiency bonus to checks you make with them."
-            ]
-         }
-      },
-      {
-         "title": "Gourmand (UA)",
-         "name": "gourmand",
-         "source": "Unearthed Arcana: Feats",
-         "text": {
-            "description": "You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:",
-            "benefits": [
-               "Increase your Constitution score by 1, to a maximum of 20.",
-               "You gain proficiency with cook’s utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.",
-               "As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.",
-               "During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours."
             ]
          }
       },
@@ -707,6 +616,57 @@
             "benefits": [
                "Increase your Strength or Dexterity score by 1, to a maximum of 20.",
                "You gain proficiency with four simple or martial weapons of your choice."
+            ]
+         }
+      },
+      {
+         "title": "Escape Artist (HB)",
+         "name": "escape-artist",
+         "source": "Homebrew - Aaron",
+         "text": {
+            "description": "You have mastered the art of escaping the clutches of your enemies. You gain the following benefits:",
+            "benefits": [
+               "You gain proficiency in Dexterity (Acrobatics).",
+               "You may add double your proficiency bonus to all checks made to escape a grapple.",
+               "You may use your bonus action to make a single melee attack against a creature whose grapple you escaped this round."
+            ]
+         }
+      },
+      {
+         "title": "Field Medic (HB)",
+         "name": "field-medic",
+         "source": "Homebrew - Aaron",
+         "text": {
+            "description": "You’re an expert at saving people from the brink of death. You gain the following benefits:",
+            "benefits": [
+               "You gain proficiency in Wisdom (Medicine).",
+               "Allies within 60 feet of you must fail an additional death saving throw to die.",
+               "You have advantage on Wisdom (Medicine) checks to stabilize another creature."
+            ]
+         }
+      },
+      {
+         "title": "Phalanx Fighter (HB)",
+         "name": "phalanx-fighter",
+         "source": "Homebrew - Aaron",
+         "text": {
+            "description": "You have trained extensively with shields to protect yourself and others. You gain the following benefits:",
+            "benefits": [
+               "Increase your Strength or Constitution score by 1, to a maximum of 20.",
+               "You gain proficiency with shields.",
+               "While wielding a shield, as your bonus action, you may take a -2 penalty to your AC and grant a +3 AC bonus to an adjacent creature until the start of your next turn. If the creature ceases to be adjacent to you before the start of your next turn they lose the +2 AC bonus."
+            ]
+         }
+      },
+      {
+         "title": "Stalwart (HB)",
+         "name": "stalwart",
+         "source": "Homebrew - Aaron",
+         "text": {
+            "description": "You can plant yourself into the dirt and become an immovable object. You gain the following benefits:",
+            "benefits": [
+               "At the start of your turn, you can reduce your speed to zero and impose disadvantage on the next attack made against you before the start of your next turn.",
+               "When an effect causes you to move, you can choose to move half of the distance instead."
             ]
          }
       }

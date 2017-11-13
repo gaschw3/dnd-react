@@ -21,7 +21,7 @@ export class RaceFeatures extends React.Component {
   }
   getTraits(data){
     if(data)
-      return data.map(function(trait) { return <p><strong>{trait.name}: </strong>{trait.text}</p>})
+      return data.map(function(trait) { return <p><strong>{trait.name}: </strong><span dangerouslySetInnerHTML={{__html: trait.text}}></span></p>})
   }
 
   render() { 

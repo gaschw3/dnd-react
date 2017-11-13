@@ -524,16 +524,16 @@
         {
           "level": 3,
           "subclass": "base",
-          "name": "college",
-          "title": "Bard College",
-          "text": "At 3rd level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th and 14th level."
+          "name": "expertise-1",
+          "title": "Expertise",
+          "text": "At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
         },
         {
           "level": 3,
           "subclass": "base",
-          "name": "expertise-1",
-          "title": "Expertise",
-          "text": "At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+          "name": "college",
+          "title": "Bard College",
+          "text": "At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level."
         },
         {
           "level": 3,
@@ -545,11 +545,43 @@
         },
         {
           "level": 3,
+          "subclass": "lore",
+          "initial": "yes",
+          "name": "lore-proficiencies",
+          "title": "College of Lore: Bonus Proficiencies",
+          "text": "When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice."
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "initial": "yes",
+          "name": "lore-cutting",
+          "title": "College of Lore: Cutting Words",
+          "text": "Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can't hear you or if it's immune to being charmed."
+        },
+        {
+          "level": 3,
           "filter": "yes",
           "subclass": "valor",
           "name": "valor",
           "title": "Bard College: College of Valor",
           "text": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "initial": "yes",
+          "name": "valor-proficiencies",
+          "title": "College of Valor: Bonus Proficiencies",
+          "text": "When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "initial": "yes",
+          "name": "valor-combat",
+          "title": "College of Valor: Combat Inspiration",
+          "text": "Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack."
         },
         {
           "level": 3,
@@ -561,11 +593,43 @@
         },
         {
           "level": 3,
+          "subclass": "glamour",
+          "initial": "yes",
+          "name": "glamour-mantle",
+          "title": "College of Glamour: Mantle of Inspiration",
+          "text": "When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points. The temporary HP die increases along with your Inspiration die."
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "initial": "yes",
+          "name": "glamour-enthrall",
+          "title": "College of Glamour: Enthralling Performance",
+          "text": "Also at 3rd level, if you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. If a target succeeds on its save against this effect, the target has no hint that you tried to charm it."
+        },
+        {
+          "level": 3,
           "filter": "yes",
           "subclass": "whispers",
           "name": "whispers",
           "title": "Bard College: College of Whispers (UA)",
           "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "initial": "yes",
+          "name": "whispers-blades",
+          "title": "College of Whispers: Venomous Blades",
+          "text": "When you join the College of Whispers at 3rd level, and when you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn. The venom damage die increases along with your Inspiration die."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "initial": "yes",
+          "name": "whispers-words",
+          "title": "College of Whispers: Venomous Words",
+          "text": "If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. If the target succeeds on its save, the target has no hint that you tried to frighten it."
         },
         {
           "level": 3,
@@ -577,63 +641,8 @@
         },
         {
           "level": 3,
-          "subclass": "lore",
-          "name": "lore-proficiencies",
-          "title": "College of Lore: Bonus Proficiencies",
-          "text": "When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice."
-        },
-        {
-          "level": 3,
-          "subclass": "lore",
-          "name": "lore-cutting",
-          "title": "College of Lore: Cutting Words",
-          "text": "Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can't hear you or if it's immune to being charmed."
-        },
-        {
-          "level": 3,
-          "subclass": "valor",
-          "name": "valor-proficiencies",
-          "title": "College of Valor: Bonus Proficiencies",
-          "text": "When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
-        },
-        {
-          "level": 3,
-          "subclass": "valor",
-          "name": "valor-combat",
-          "title": "College of Valor: Combat Inspiration",
-          "text": "Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack."
-        },
-        {
-          "level": 3,
-          "subclass": "glamour",
-          "name": "glamour-mantle",
-          "title": "College of Glamour: Mantle of Inspiration",
-          "text": "When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that enthralls your allies with vigor and speed. As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one). Each target gains 2d6 temporary hit points. The temporary HP die increases along with your Inspiration die."
-        },
-        {
-          "level": 3,
-          "subclass": "glamour",
-          "name": "glamour-enthrall",
-          "title": "College of Glamour: Enthralling Performance",
-          "text": "Also at 3rd level, if you perform for at least 10 minutes, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies. If a target succeeds on its save against this effect, the target has no hint that you tried to charm it."
-        },
-        {
-          "level": 3,
-          "subclass": "whispers",
-          "name": "whispers-blades",
-          "title": "College of Whispers: Venomous Blades",
-          "text": "When you join the College of Whispers at 3rd level, and when you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 poison damage to that target. You can do so only once per round on your turn. The venom damage die increases along with your Inspiration die."
-        },
-        {
-          "level": 3,
-          "subclass": "whispers",
-          "name": "whispers-words",
-          "title": "College of Whispers: Venomous Words",
-          "text": "If you speak to a humanoid alone for at least 10 minutes, you can attempt to seed paranoia and fear into its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened for the next hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. While frightened in this way, the target is paranoid and tries to avoid the company of others, including its allies. The target seeks out what it considers the safest, most secret place available to it and hides there. If the target succeeds on its save, the target has no hint that you tried to frighten it."
-        },
-        {
-          "level": 3,
           "subclass": "spheres",
+          "initial": "yes",
           "name": "spheres-proficiencies",
           "title": "College of Spheres: Eldritch Mind",
           "text": "When you join the College of Spheres at 3rd level, your experience depicting and worshipping beings that defy mortal sanity grants you proficiency in the Arcana skill and Wisdom saving throws."
@@ -641,6 +650,7 @@
         {
           "level": 3,
           "subclass": "spheres",
+          "initial": "yes",
           "name": "spheres-madness",
           "title": "College of Spheres: Maestro of Madness",
           "text": "Also at 3rd level, you learn how to use your mind's alien nature to disorient, scare, and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or  saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."
@@ -966,90 +976,18 @@
         },
         {
           "level": 1,
+          "subclass": "arcana",
+          "name": "arcana-initiate",
+          "title": "Arcana Domain: Arcane Initiate",
+          "text": "When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips."
+        },
+        {
+          "level": 1,
           "filter": "yes",
           "subclass": "death",
           "name": "death",
           "title": "Domain: Death",
           "text": "<p>The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Gods of Death are patrons of necromancers, death knights, liches, and vampires. THey can also embody murder, pain, disease, or poison.</p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - false life, ray of sickness</li><li>3rd - blindness/deafness, ray of enfeeblement</li><li>5th - animate dead, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, cloudkill</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "knowledge",
-          "name": "knowledge",
-          "title": "Domain: Knowledge",
-          "text": "<p>The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. </p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - command, identify</li><li>3rd - augury, suggestion</li><li>5th - nondetection, speak with dead</li><li>7th - arcane eye, confusion</li><li>9th - legend lore, scrying</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "life",
-          "name": "life",
-          "title": "Domain: Life",
-          "text": "<p>The Life domain focuses on the vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.</p><ul><li>1st - bless, cure wounds</li><li>3rd - lesser restoration, spiritual weapon</li><li>5th - beacon of hope, revivify</li><li>7th - death ward, guardian of faith</li><li>9th - mass cure wounds, raise dead</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "light",
-          "name": "light",
-          "title": "Domain: Light",
-          "text": "<p>Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.</p><ul><li>1st - burning hands, faerie fire</li><li>3rd - flaming sphere, scorching ray</li><li>5th - daylight, fireball</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, scrying</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "nature",
-          "name": "nature",
-          "title": "Domain: Nature",
-          "text": "<p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature but cleric act as champions who take a more active role in advancing the interests of a nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><ul><li>1st - animal friendship, speak with animals</li><li>3rd - barkskin, spike growth</li><li>5th - plant growth, wind wall</li><li>7th - dominate beast, grasping vine</li><li>9th - insect plague, tree stride</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "tempest",
-          "name": "tempest",
-          "title": "Domain: Tempest",
-          "text": "<p>Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><ul><li>1st - fog cloud, thunderwave</li><li>3rd - gust of wind, shatter</li><li>5th - call lightning, sleet storm</li><li>7th - control water, ice storm</li><li>9th - destructive wave, insect plague</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "trickery",
-          "name": "trickery",
-          "title": "Domain: Trickery (HB)",
-          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - counterspell (Old: blink), dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "war",
-          "name": "war",
-          "title": "Domain: War",
-          "text": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p><ul><li>1st - divine favor, shield of faith</li><li>3rd - magic weapon, spiritual weapon</li><li>5th - crusader's mantle, spirit guardians</li><li>7th - freedom of movement, stoneskin</li><li>9th - flame strike, hold monster</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "forge",
-          "name": "forge",
-          "title": "Domain: Forge (UA)",
-          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
-        },
-        {
-          "level": 1,
-          "filter": "yes",
-          "subclass": "grave",
-          "name": "grave",
-          "title": "Domain: Grave (UA)",
-          "text": "<p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures.</p><ul><li>1st - bane, false life</li><li>3rd - gentle repose, ray of enfeeblement</li><li>5th - revivify, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, raise dead</li></ul>"
-        },
-        {
-          "level": 1,
-          "subclass": "arcana",
-          "name": "arcana-initiate",
-          "title": "Arcana Domain: Arcane Initiate",
-          "text": "When you choose this domain at 1st level, you gain proficiency in the Arcana skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips."
         },
         {
           "level": 1,
@@ -1067,10 +1005,26 @@
         },
         {
           "level": 1,
+          "filter": "yes",
+          "subclass": "knowledge",
+          "name": "knowledge",
+          "title": "Domain: Knowledge",
+          "text": "<p>The gods of knowledge value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. </p><p>At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.</p><ul><li>1st - command, identify</li><li>3rd - augury, suggestion</li><li>5th - nondetection, speak with dead</li><li>7th - arcane eye, confusion</li><li>9th - legend lore, scrying</li></ul>"
+        },
+        {
+          "level": 1,
           "subclass": "knowledge",
           "name": "arcana-blessings",
           "title": "Knowledge Domain: Blessings of Knowledge",
           "text": "<p>At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: Arcana, History, Nature, or Religion.</p><p>Your proficiency bonus is doubled for any ability check you make that uses either of those skills.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "life",
+          "name": "life",
+          "title": "Domain: Life",
+          "text": "<p>The Life domain focuses on the vibrant positive energy that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath.</p><ul><li>1st - bless, cure wounds</li><li>3rd - lesser restoration, spiritual weapon</li><li>5th - beacon of hope, revivify</li><li>7th - death ward, guardian of faith</li><li>9th - mass cure wounds, raise dead</li></ul>"
         },
         {
           "level": 1,
@@ -1088,6 +1042,14 @@
         },
         {
           "level": 1,
+          "filter": "yes",
+          "subclass": "light",
+          "name": "light",
+          "title": "Domain: Light",
+          "text": "<p>Gods of light promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.</p><ul><li>1st - burning hands, faerie fire</li><li>3rd - flaming sphere, scorching ray</li><li>5th - daylight, fireball</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, scrying</li></ul>"
+        },
+        {
+          "level": 1,
           "subclass": "light",
           "name": "light-cantrip",
           "title": "Light Domain: Bonus Proficiency",
@@ -1099,6 +1061,14 @@
           "name": "light-flare",
           "title": "Light Domain: Warding Flare",
           "text": "<p>Also at 1st level, you can interpose divine light between yourself and an attacking enemy. When you are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "nature",
+          "name": "nature",
+          "title": "Domain: Nature",
+          "text": "<p>Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests to friendly deities associated with particular springs and groves. Druids revere nature but cleric act as champions who take a more active role in advancing the interests of a nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.</p><ul><li>1st - animal friendship, speak with animals</li><li>3rd - barkskin, spike growth</li><li>5th - plant growth, wind wall</li><li>7th - dominate beast, grasping vine</li><li>9th - insect plague, tree stride</li></ul>"
         },
         {
           "level": 1,
@@ -1116,6 +1086,14 @@
         },
         {
           "level": 1,
+          "filter": "yes",
+          "subclass": "tempest",
+          "name": "tempest",
+          "title": "Domain: Tempest",
+          "text": "<p>Gods whose portfolios include the Tempest domain govern storms, sea, and sky. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.</p><ul><li>1st - fog cloud, thunderwave</li><li>3rd - gust of wind, shatter</li><li>5th - call lightning, sleet storm</li><li>7th - control water, ice storm</li><li>9th - destructive wave, insect plague</li></ul>"
+        },
+        {
+          "level": 1,
           "subclass": "tempest",
           "name": "tempest-proficiency",
           "title": "Tempest Domain: Bonus Proficiency",
@@ -1127,6 +1105,14 @@
           "name": "tempest-acolyte",
           "title": "Tempest Domain: Wrath of the Storm",
           "text": "<p>Also at 1st level, you can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. The creature takes 2d8 lightning or thunder damage (your choice) on a failed saving throw, and half as much damage on a successful one.</p><p>You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "trickery",
+          "name": "trickery",
+          "title": "Domain: Trickery",
+          "text": "<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.</p><ul><li>1st - charm person, disguise self</li><li>3rd - mirror image, pass without trace</li><li>5th - blink (HB: counterspell), dispel magic</li><li>7th - dimension door, polymorph</li><li>9th - dominate person, modify memory</li></ul>"
         },
         {
           "level": 1,
@@ -1144,6 +1130,14 @@
         },
         {
           "level": 1,
+          "filter": "yes",
+          "subclass": "war",
+          "name": "war",
+          "title": "Domain: War",
+          "text": "<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p><ul><li>1st - divine favor, shield of faith</li><li>3rd - magic weapon, spiritual weapon</li><li>5th - crusader's mantle, spirit guardians</li><li>7th - freedom of movement, stoneskin</li><li>9th - flame strike, hold monster</li></ul>"
+        },
+        {
+          "level": 1,
           "subclass": "war",
           "name": "war-proficiency",
           "title": "War Domain: Bonus Proficiency",
@@ -1158,6 +1152,14 @@
         },
         {
           "level": 1,
+          "filter": "yes",
+          "subclass": "forge",
+          "name": "forge",
+          "title": "Domain: Forge (UA)",
+          "text": "<p>The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithril have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can transform from a lump of ore to a beautifully wrought object. Clerics of these deities quest to search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items.</p><ul><li>1st - searing smite, shield</li><li>3rd - heat metal, magic weapon</li><li>5th - elemental weapon, protection from energy</li><li>7th - fabricate, wall of fire</li><li>9th - animate objects, creation</li></ul>"
+        },
+        {
+          "level": 1,
           "subclass": "forge",
           "name": "forge-proficiency",
           "title": "Forge Domain: Bonus Proficiency",
@@ -1169,6 +1171,14 @@
           "name": "forge-blessing",
           "title": "Forge Domain: Blessing of the Forge",
           "text": "<p>At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a long rest, touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest, the object becomes a magic item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "grave",
+          "name": "grave",
+          "title": "Domain: Grave (UA)",
+          "text": "<p>Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse's workings. To resist death, or to desecrate the dead's rest, is an abomination. These deities teach their followers to respect the dead and pay them due homage. Followers of these deities seek to put restless spirits to rest, destroy the undead wherever they find them, and ease the suffering of dying creatures.</p><ul><li>1st - bane, false life</li><li>3rd - gentle repose, ray of enfeeblement</li><li>5th - revivify, vampiric touch</li><li>7th - blight, death ward</li><li>9th - antilife shell, raise dead</li></ul>"
         },
         {
           "level": 1,
@@ -1259,7 +1269,7 @@
           "subclass": "trickery",
           "name": "trickery-channel-divinity-duplicity",
           "title": "Trickery Channel Divinity: Invoke Duplicity",
-          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 5HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p><p>(Old: clone requires concentration, moving it requires a bonus action, it has no AC of HP values and cannot explode)</p>"
+          "text": "<p>Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.</p><p>As an action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a free action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.</p><p>The clone has AC equal to your cleric spell save DC and 10HP and explodes into shards of magic power when it is destroyed. This explosion does 2d6 damage to any adjacent creature except the creator. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature.</p><p>(ORIGINAL 2nd PARAGRAPH: For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.)</p>"
         },
         {
           "level": 2,
@@ -1362,9 +1372,9 @@
         {
           "level": 6,
           "subclass": "trickery",
-          "name": "trickery-shrouded-duplicity",
-          "title": "Trickery Channel Divinity: Shrouded Duplicity",
-          "text": "<p>Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible until the end of your next turn per the spell Invisibility.</p><p>(Old: Different channel choice - Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.)"
+          "name": "trickery-cloak-of-shadows",
+          "title": "Trickery Channel Divinity: Shrouded Invoke Duplicity",
+          "text": "<p>Starting at 6th level, when you use your Channel Divinity to Invoke Duplicity you can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Invisibility.</p><p>(ORIGINAL TEXT: Starting at 6th level, you can use your Channel Divinity to vanish. As an action, you become invisible until the end of your next turn. You become visible if you attack or cast a spell.)</p>"
         },
         {
           "level": 6,
@@ -1509,9 +1519,9 @@
         {
           "level": 17,
           "subclass": "trickery",
-          "name": "trickery-improved-shrouded-duplicity",
-          "title": "Trickery Channel Divinity: Improved Shrouded Duplicity",
-          "text": "<p>At 17th level, when you use your Channel Divinity to Invoke Duplicity you create three clones and can also choose to vanish. As part of your Channel, you may become invisible until the end of your next turn per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can teleport to trade places with any of your remaining clones.</p><p>(Old: different effect - At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.)</p>"
+          "name": "trickery-cloak-of-shadows",
+          "title": "Trickery Channel Divinity: Improved Invoke Duplicity",
+          "text": "<p>At 17th level, when you use your Channel Divinity to Invoke Duplicity you create two clones and can also choose to vanish. As part of your Channel, you may become invisible for 6 seconds (until the end of your next turn) per the spell Greater Invisibility. Additionally, as a bonus action on your turn, you can trade places with any of your remaining clones.</p><p>(ORIGINAL TEXT: At 17th level, you can create up to four duplicates of yourself, instead of one, when you use Invoke Duplicity. As a bonus action on your turn, you can move any number of them up to 30 feet, to a maximum range of 120 feet.)</p>"
         },
         {
           "level": 17,

@@ -156,10 +156,22 @@ td.center, th.center {
 }
 .subclass h4 {
   color: #0000a7;
+  border-bottom: none;
+  font-size: 16px;
+}
+.archetype h4 {
+  color: #0000a7;
   border-bottom: 1px solid #0000a7;
+  font-size: 18px;
 }
 .subclass h5 {
   color: #0000a7;
+}
+.subclass {
+  margin-left: 10px;
+}
+.subclass p {
+    padding-left: 0px;
 }
 
 .list-group-item.selected,
