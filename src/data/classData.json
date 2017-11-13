@@ -126,7 +126,7 @@
           "filter": "yes",
           "subclass": "berserker",
           "name": "berserker",
-          "title": "Primal Path: Path of the Berserker",
+          "title": "Primal Path: Path of the Berserker (PHB)",
           "text": "For some barbarians, rage is a means to an end—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being."
         },
         {
@@ -141,7 +141,7 @@
           "filter": "yes",
           "subclass": "totem",
           "name": "totem",
-          "title": "Primal Path: Path of the Totem Warrior",
+          "title": "Primal Path: Path of the Totem Warrior (PHB)",
           "text": "<div>The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.</div><div>Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.</div>"
         },
         {
@@ -163,15 +163,15 @@
           "filter": "yes",
           "subclass": "storm",
           "name": "storm",
-          "title": "Primal Path: Path of the Storm Herald (UA)",
+          "title": "Primal Path: Path of the Storm Herald (XGE)",
           "text": "Barbarians who follow the Path of the Storm Herald learn to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects."
         },
         {
           "level": 3,
           "subclass": "storm",
-          "name": "storm-fury",
-          "title": "Path of the Storm Herald: Storm of Fury",
-          "text": "When you select this path at 3rd level, choose an environment to shape the nature of the storm you conjure when you rage. While raging, you emanate an aura in a 10-foot radius.<ul><li><strong>Desert: </strong>Any enemy that ends its turn in your aura takes fire damage equal to 2 + your barbarian level divided by 4.</li><li><strong>Sea: </strong>At the end of each of your turns, you can choose a creature in your aura other than yourself. The target must make a Dexterity saving throw against a DC equal to 8 + your proficiency + CON. The target takes 2d6 lightning damage on a failed save, and half as much damage on a successful one. This damage increases to 3d6 at 10th level and to 4d6 at 15th level.</li><li><strong>Tundra: </strong>Any enemy that ends its turn in your aura takes cold damage equal to 2 + your barbarian level divided by 4.</li></ul>"
+          "name": "storm-aura",
+          "title": "Path of the Storm Herald: Storm Aura",
+          "text": "Starting at 3rd level, you emanate a stormy, magical aura while you rage. The aura extends 10 feet from you in every direction, but not through total cover. Your aura has an effect that activates when you enter your rage, and you can activate the effect again on each of your turns as a bonus action. Choose desert, sea, or tundra. Your aura's effect depends on that chosen environment, as detailed below. You can change your environment choice whenever you gain a level in this class. If your aura's effects require a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.<ul><li><strong>Desert: </strong>When this effect is activated, all other creatures in your aura take fire damage equal to 2 + your barbarian level divided by 4.</li><li><strong>Sea: </strong>When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes 1d6 lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.</li><li><strong>Tundra: </strong>When this effect is activated, each creature of your choice in your aura gains temporary HP equal to 2 + your barbarian level divided by 4.</li></ul>"
         },
         {
           "level": 3,
@@ -179,19 +179,19 @@
           "subclass": "zealot",
           "name": "zealot",
           "title": "Primal Path: Path of the Zealot (UA)",
-          "text": "Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots—warriors who channel their rage into powerful displays of divine power."
+          "text": "Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots — warriors who channel their rage into powerful displays of divine power."
         },
         {
           "level": 3,
           "subclass": "zealot",
           "name": "zealot-fury",
           "title": "Path of the Zealot: Divine Fury",
-          "text": "Starting when you choose this path at 3rd level, you can channel divine fury when you start to rage. If you do so, you become cloaked in an aura of divine power until the rage ends. At the end of each of your turns for that duration, each creature within 5 feet of you takes damage equal to 1d6 + half your barbarian level. The damage is necrotic or radiant; you choose the type of damage when you gain this feature."
+          "text": "Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to 1d6 + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature."
         },
         {
           "level": 3,
           "subclass": "zealot",
-          "name": "zealot-fury",
+          "name": "zealot-warrior",
           "title": "Path of the Zealot: Warrior of the Gods",
           "text": "At 3rd level, your soul is marked for endless battle. If a spell would have the sole effect of restoring you to life, the caster does not need material components to cast the spell on you."
         },
@@ -242,14 +242,14 @@
           "subclass": "storm",
           "name": "storm-soul",
           "title": "Path of the Storm Herald: Storm Soul",
-          "text": "At 6th level, your link to the power of the storm grants you additional abilities based on the environment you chose at 3rd level.<ul><li><strong>Desert: </strong>You gain resistance to fire damage and don’t suffer the effects of extreme heat.</li><li><strong>Sea: </strong>You gain resistance to lightning damage and can breathe underwater.</li><li><strong>Tundra: </strong> You gain resistance to cold damage and don’t suffer the effects of extreme cold.</li></ul>"
+          "text": "At 6th level, your link to the power of the storm grants you additional abilities even when your aura isn't active.<ul><li><strong>Desert: </strong>You gain resistance to fire damage and don’t suffer the effects of extreme heat. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.</li><li><strong>Sea: </strong>You gain resistance to lightning damage, and you can breathe underwater. You also gain a swimming speed of 30 feet.</li><li><strong>Tundra: </strong> You gain resistance to cold damage and don’t suffer the effects of extreme cold. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube.</li></ul>"
         },
         {
           "level": 6,
           "subclass": "zealot",
           "name": "zealot-focus",
-          "title": "Path of the Zealot: Zealous Focus",
-          "text": "At 6th level, the divine power that fuels your rage can shield you from harm. If you fail a saving throw while raging, you can instead succeed on that saving throw as a reaction. However, doing so immediately ends your rage, and you can’t rage again until you finish a short or long rest."
+          "title": "Path of the Zealot: Fanatical Focus",
+          "text": "At 6th level, the divine power that fuels your rage can protect you. If you fail a saving throw while you're raging, you can reroll it, and you must use the new roll. You can use this ability only once per rage."
         },
         {
           "level": 7,
@@ -297,15 +297,15 @@
           "level": 10,
           "subclass": "storm",
           "name": "storm-shield",
-          "title": "Path of the Storm Herald: Shield of the Storm",
-          "text": "At 10th level, you learn to use your mastery of the storm to protect your allies. While you are raging, allies within your aura gain the benefits of your Storm Soul feature."
+          "title": "Path of the Storm Herald: Shielding Storm",
+          "text": "At 10th level, you learn to use your mastery of the storm to protect your allies. Each creature of your choice has the damage resistance you gained from the Storm Soul feature while the creature is in your Storm Aura."
         },
         {
           "level": 10,
           "subclass": "zealot",
           "name": "zealot-presence",
           "title": "Path of the Zealot: Zealous Presence",
-          "text": "At 10th level, you learn to channel divine power to inspire zealotry in others. As an action, you howl in fury and unleash a battle cry infused with divine energy. Every ally within 60 feet of you gains advantage on attack rolls and saving throws until the start of your next turn. Once you use this feature, you can’t use it again until you finish a long rest."
+          "text": "At 10th level, you learn to channel divine power to inspire zealotry in others. As an action, you howl in fury and unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you that can hear you gain advantage on attack rolls and saving throws until the start of your next turn. Once you use this feature, you can’t use it again until you finish a long rest."
         },
         {
           "level": 11,
@@ -354,14 +354,14 @@
           "subclass": "storm",
           "name": "storm-shield",
           "title": "Path of the Storm Herald: Raging Storm",
-          "text": "At 14th level, the power of the storm you channel grows mightier.<ul><li><strong>Desert: </strong>The ground around you becomes like shifting sand. Any enemy that attempts to move more than 5 feet per turn on the ground while in your aura must make a Strength saving throw (DC 8 + proficiency + CON). On a failed save, the creature’s speed drops to 0 until the start of its next turn.</li><li><strong>Sea: </strong>Roaring winds tear through the area around you. Any creature in your aura that you hit with an attack must make a Strength saving throw (DC 8 + proficiency + STR) or be knocked prone.</li><li><strong>Tundra: </strong>The air around you coldly slows your foes. The area within your aura is difficult terrain for your enemies.</li></ul>"
+          "text": "At 14th level, the power of the storm you channel grows mightier.<ul><li><strong>Desert: </strong>Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your barbarian level.</li><li><strong>Sea: </strong>When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked prone, as if struck by a wave.</li><li><strong>Tundra: </strong>Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it.</li></ul>"
         },
         {
           "level": 14,
           "subclass": "zealot",
-          "name": "zealot-presence",
+          "name": "zealot-beyond-death",
           "title": "Path of the Zealot: Rage Beyond Death",
-          "text": "While raging, having 0 hit points doesn’t knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don’t die until your rage ends."
+          "text": "While you're raging, having 0 hit points doesn't knock you unconscious. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points."
         },
         {
           "level": 15,
