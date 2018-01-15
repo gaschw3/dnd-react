@@ -4701,6 +4701,555 @@
       ]
     },
     {
+      "name": "Sorcerer",
+      "id": "sorcerer",
+      "description": "Arcane casters defined by their ability to alter teh effects of spells they cast. Sorcerers use their own inborn talents and power to create a wide variety of magic effects.",
+      "hd": "6",
+      "proficiencies": [
+                     "You are proficient with the following items, in addition to any proficiencies provided by your race or background.",
+                     "<strong>Armor:</strong> none",
+                     "<strong>Weapons:</strong> daggers, darts, slings, quarterstaffs, light crossbows",
+                     "<strong>Tools:</strong> none",
+                     "<strong>Saving Throws:</strong> CON, CHA",
+                     "<strong>Skills:</strong> Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion"
+                      ],
+      "equipment": [
+                     "You start with the following items, plus anything provided by your background.",
+                     "<ul><li>(a)a light crossbow and 20 bolts or (b) any simple weapon</li><li>(a) a component pouch or (b) an arcane focus</li><li>(a) a dungeoneer's pack or (b) an explorer's pack</li><li>two daggers</li></ul>",
+                     "Alternatively, you may start with 3d4 × 10 gp to buy your own equipment."
+                   ],
+      "leveltable": [
+        { 
+          "columns": 15,
+          "data": ["Level", "Proficiency", "Features", "Points", "Spells", "Cantrips", "1st", "2nd","3rd","4th","5th","6th", "7th", "8th", "9th"],
+          "width": ["1", "1", "5", "1", "1"]
+        },
+        {
+          "data": ["1", "+2", "features","-","2","4","2","-","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["2", "+2", "features","2","3","4","3","-","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["3", "+2", "features","3","4","4","4","2","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["4", "+2", "features","4","5","5","4","3","-","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["5", "+3", "features","5","6","5","4","3","2","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["6", "+3", "features","6","7","5","4","3","3","-","-","-","-","-","-"]
+        },
+        {
+          "data": ["7", "+3", "features","7","8","5","4","3","3","1","-","-","-","-","-"]
+        },
+        {
+          "data": ["8", "+3", "features","8","9","5","4","3","3","2","-","-","-","-","-"]
+        },
+        {
+          "data": ["9", "+4", "features","9","10","5","4","3","3","3","1","-","-","-","-"]
+        },
+        {
+          "data": ["10", "+4", "features","10","11","6","4","3","3","3","2","-","-","-","-"]
+        },
+        {
+          "data": ["11", "+4", "features","11","12","6","4","3","3","3","2","1","-","-","-"]
+        },
+        {
+          "data": ["12", "+4", "features","12","12","6","4","3","3","3","2","1","-","-","-"]
+        },
+        {
+          "data": ["13", "+5", "features","13","13","6","4","3","3","3","2","1","1","-","-"]
+        },
+        {
+          "data": ["14", "+5", "features","14","13","6","4","3","3","3","2","1","1","-","-"]
+        },
+        {
+          "data": ["15", "+5", "features","15","14","6","4","3","3","3","2","1","1","1","-"]
+        },
+        {
+          "data": ["16", "+5", "features","16","14","6","4","3","3","3","2","1","1","1","-"]
+        },
+        {
+          "data": ["17", "+6", "features","17","15","6","4","3","3","3","2","1","1","1","1"]
+        },
+        {
+          "data": ["18", "+6", "features","18","15","6","4","3","3","3","3","1","1","1","1"]
+        },
+        {
+          "data": ["19", "+6", "features","19","15","6","4","3","3","3","3","2","1","1","1"]
+        },
+        {
+          "data": ["20", "+6", "features","20","15","6","4","3","3","3","3","2","2","1","1"]
+        }
+      ],
+      "features" : [
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "casting",
+          "title": "Spellcasting",
+          "text": "<p>An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells.</p><h5>Cantrips</h5><p class='pad-left'>At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels per the Bard table.</p><h5>Spell Slots</h5><p class='pad-left'>The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p><h5>Spells Known of 1st Level and Higher</h5><p class='pad-left'>You know two 1st-level spells of your choice from the sorcerer spell list. You learn additional sorcerer spells per the Sorcerer table (usually 1 per level).</p><p class='pad-left'>Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list.</p><h5>Spellcasting Ability</h5><p class='pad-left'>Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world.</p><ul><li>Spell save DC = 8 + proficiency + CHA</li><li>Spell attack modifier = proficiency + CHA</li></ul><h5>Spellcasting Focus</h5><p class='pad-left'>When you cast a spell that requires a material component with a value less than 25gp you can use your body as the material component instead.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "base",
+          "name": "origin",
+          "title": "Sorcerous Origin",
+          "text": "<p>Choose a sorcerous origin, which describes the source of your innate magical power</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "raw",
+          "name": "raw",
+          "title": "Raw Magic (PHB + HB)",
+          "text": "You are capable of tapping directly into the source of arcane magic. Your magic is unfiltered, powerful, and hard to control; it's capable of both increased power and unpredictable side effects.</p><p>At each indicated sorcerer level, add the listed spells to your list of known spells. They do not count towards your limit.</p><ul><li>1st - detect magic</li><li>3rd - nystul's magic aura</li><li>5th - dispel magic</li><li>7th - confusion</li><li>9th - wall of force</li><li>11th - globe of invulnerability</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "raw",
+          "name": "raw-surge",
+          "title": "Raw Magic Surge",
+          "text": "Your magic comes straight from the source, unfiltered and unpredictable. Normally you are able to control it, but this control can be loosed causing greater energies to surge through you. Such surges can empower your magic, but they can also cause chaotic side effects.</p><p>When you cast a sorcerer spell of 1st level or higher you can roll on both the Positive and Negative surge tables below (using a seperate roll for each) and add those effects to your spell. You can use this feature a number of times equal to 1 + CHA (minimum once). You regain any expended uses when you finish a long rest.</p><div><input type='checkbox' class='read-more-state' id='post-2' /><label for='post-2' class='read-more-trigger'></label><div class='read-more-wrap'><div class='read-more-target'><div class='col-sm-6 no-padding'><table class='table table-striped table-bordered'><tr><th>Positive Effects</th></tr><tr><td><table class='table'><tr><td>1</td><td>The flow of raw magic overpowers you and you have to concentrate to avoid a disaster. No positive effect.</td></tr></table></td></tr><tr><td><table class='table'><tr><td>2</td><td>Your clothes become cleaned, and faded dyes return to full brightness</td></tr></table></td></tr><tr><td><table class='table'><tr><td>3</td><td>A 5ft area of ground near your feet is revitalized (plants grow and bloom, marred floor corrects itself, colors return to full saturation, etc)</td></tr></table></td></tr><tr><td><table class='table'><tr><td>4</td><td>Your body becomes sheathed in a thin protective layer of energy. You gain 1d8 temporary HP</td></tr></table></td></tr><tr><td><table class='table'><tr><td>5</td><td>Excess energy creates a confusing after glow around your body. The next attack that targets you has disadvantage</td></tr></table></td></tr><tr><td><table class='table'><tr><td>6</td><td>You siphon off some energy for later use. You regain 1 sorcery point</td></tr></table></td></tr><tr><td><table class='table'><tr><td>7</td><td>The energy of the spell begins to glow very brightly. A target of your choice within 5 feet fo you must make a CON save vs your spell save DC or be blinded until the end of your next turn</td></tr></table></td></tr><tr><td><table class='table'><tr><td>8</td><td>The energy of the spell becomes raw and loses form. If the spell deals damage you can chsnge it's damage type to force damage</td></tr></table></td></tr><tr><td><table class='table'><tr><td>9</td><td>With a surge of energy you can shift your position. You immediately teleport to a point of your choice within 10 feet.</td></tr></table></td></tr><tr><td><table class='table'><tr><td>10</td><td>Arcs of chaotic energy emanate from the spell. A random hostile target within range takes lightning damage equal to half your sorcerer level + CHA</td></tr></table></td></tr><tr><td><table class='table'><tr><td>11</td><td>A wave of energy curves weapons and attacks away from you. You immediately take the Disengage action</td></tr></table></td></tr><tr><td><table class='table'><tr><td>12</td><td>The air around you fills with crackling sparks. Until the start of your next turn, if a creature hits you with an attack, it takes 1d4 lightning damage per spell level</td></tr></table></td></tr><tr><td><table class='table'><tr><td>13</td><td>The spell becomes easy to morph and control. The first 2 sorcery points you would spend on metamagic for this spell are instead free.</td></tr></table></td></tr><tr><td><table class='table'><tr><td>14</td><td>You become energetic. You gain the effects of <em>haste</em> until the end of your next turn, ignoring the lethargy effect</td></tr></table></td></tr><tr><td><table class='table'><tr><td>15</td><td>The spell is amplified. If the spell deals damage it deals and extra 1d8 damage per spell level to each target</td></tr></table></td></tr><tr><td><table class='table'><tr><td>16</td><td>You are able to siphon off a lot of extra energy for later you regain sorcery points equal to your Charisma modifier</td></tr></table></td></tr><tr><td><table class='table'><tr><td>17</td><td>The spell becomes unusually stable. If the spell requires concentration you have advantage on concentration check to maintain it</td></tr></table></td></tr><tr><td><table class='table'><tr><td>18</td><td>The spell seems to guide itself towards your targets. You have advantage on the attack roll and targets have disadvantage on saving throws for this spells</td></tr></table></td></tr><tr><td><table class='table'><tr><td>19</td><td>With a burst of energy the spell shapes itself beneficially. You may use Twin or Quicken the spell for free if it's eligible</td></tr></table></td></tr><tr><td><table class='table'><tr><td>20</td><td>Magical energy surges more chaotically than expected. Roll twice on this table, rerolling 20s.</td></tr></table></td></tr></table></div><div class='col-sm-6 no-padding'><table class='table table-striped table-bordered'><tr><th>Negative Effects</th></tr><tr><td><table class='table'><tr><td>1</td><td>Magical energy surges more chaotically than expected. Roll twice on this table, rerolling 1s</td></tr></table></td></tr><tr><td><table class='table'><tr><td>2</td><td>The spells' energy is drawn to your foes. As a reaction, a hostile creature within 30 feet of you can cast this spell without expending a spell slot if it is of 4th level or lower</td></tr></table></td></tr><tr><td><table class='table'><tr><td>3</td><td>The spell becomes erratic and hard to aim. You have disadvantage on the attack roll, and targets have advantage on saving throws for this spell</td></tr></table></td></tr><tr><td><table class='table'><tr><td>4</td><td>The spell becomes unstable, requiring extra effort to hold in place. If the spell requires concentration you have disadvantage on concentration checks to maintain it</td></tr></table></td></tr><tr><td><table class='table'><tr><td>5</td><td>The spell failes to draw enough energy to sustain itself and requires energy from your own reserve. You must spend 2 sorcery point or the spell fails. The spell slot is expended even if you don't pay the sorcery point cost</td></tr></table></td></tr><tr><td><table class='table'><tr><td>6</td><td>The spell bleeds away energy. If the spell deals damage it deals 1d6 less damage per spell level to each target</td></tr></table></td></tr><tr><td><table class='table'><tr><td>7</td><td>Electricity courses through your body causing you to tense up. You suffetr the effects of <em>slow</em> until the end of your next turn</td></tr></table></td></tr><tr><td><table class='table'><tr><td>8</td><td>The spell becomes hard to control and impossible to properly shape. You can use any Metamagic on this spell</td></tr></table></td></tr><tr><td><table class='table'><tr><td>9</td><td>The spell discharges some of it's energy backwards into your body. You take 1d4 damage per spell level</td></tr></table></td></tr><tr><td><table class='table'><tr><td>10</td><td>Enemy weapons are magically drawn towards you. One creature within 5 feet of you can use its reaction to make a melee weapon attack against you after you cast the spell</td></tr></table></td></tr><tr><td><table class='table'><tr><td>11</td><td>Arcs of chaotic energy emanate from the spell. A random friendly target withing range takes 1d8 lightning damage</td></tr></table></td></tr><tr><td><table class='table'><tr><td>12</td><td>Your position becomes unstable and you blink wildly. You teleport 10 feet in a random direction</td></tr></table></td></tr><tr><td><table class='table'><tr><td>13</td><td>The spell fails to coalesce and penetrate defenses properly. If a target would have vulnerability or resistance to the spell damage type they have immunity instead.</td></tr></table></td></tr><tr><td><table class='table'><tr><td>14</td><td>A flash of light bursts in your face. You must make a CON save vs your spell save DC or be blinded until the end of your next turn</td></tr></table></td></tr><tr><td><table class='table'><tr><td>15</td><td>The spell failes to draw enough energy to sustain itself and requires energy from your own reserve. You must spend 1 sorcery point or the spell fails. If a spell fails in this way you do not expend a spell slot</td></tr></table></td></tr><tr><td><table class='table'><tr><td>16</td><td>You become thirst and hungry. If you don't eat in the next hour you gain one level of exhaustion.</td></tr></table></td></tr><tr><td><table class='table'><tr><td>17</td><td>A loud ringing in your ears causes deafness for the next minute</td></tr></table></td></tr><tr><td><table class='table'><tr><td>18</td><td>Fractal lightning shaped scars appear on your hands and arms. They dissapate upon receiving any magical healing</td></tr></table></td></tr><tr><td><table class='table'><tr><td>19</td><td>A 5 foot area of ground near your feet is ruined by overflow magic (grass dies, concrete cracks, colors fade, etc.)</td></tr></table></td></tr><tr><td><table class='table'><tr><td>20</td><td>You manage to perfectly control the flow of raw magic. No negative effect</td></tr></table></td></tr></table></div></div></div></div>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "dragon",
+          "name": "dragon",
+          "title": "Draconic Bloodline (PHB)",
+          "text": "Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent.</p><p>At each indicated sorcerer level, add the listed spells to your list of known spells. They do not count towards your limit.</p><ul><li>1st - absorb elements</li><li>3rd - aganazzar's scorcher</li><li>5th - fear</li><li>7th - elemental bane</li><li>9th - cone of cold</li><li>11th - true seeing</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "dragon",
+          "name": "dragon-ancestor",
+          "title": "Draconic Ancestor",
+          "text": "<p>At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.</p><ul><li>Violet/Platinum: radiant</li><li>Black/Lead: necrotic</li><li>Blue/Mercury: lightning</li><li>Red/Gold: fire</li><li>White/Silver: cold</li><li>Green/Iron: acid</li></ul><p>You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your Proficiency bonus is doubled if it applies to the check.</p>"
+        },
+        {
+          "level": 1,
+          "subclass": "dragon",
+          "name": "dragon-resilience",
+          "title": "Draconic Resilience",
+          "text": "<p>As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.</p><p>Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.</p>"
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "storm",
+          "name": "storm",
+          "title": "Storm Sorcery (XGE)",
+          "text": "Your innate magic comes from the power of elemental air. Those with this power might be able to trace their magic back to a near-death experience during a flood, a birth during a blizzard or howling gale, or even lineage from a djinn or sphinx. Storm sorcerers are often valuable members of a ship's crew with ability to read and exert control over wind and weather.</p><p>At each indicated sorcerer level, add the listed spells to your list of known spells. They do not count towards your limit.</p><ul><li>1st - fog cloud</li><li>3rd - gust of wind</li><li>5th - call lightning</li><li>7th - storm sphere</li><li>9th - control winds</li><li>11th - chain lightning</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "storm",
+          "name": "storm-speaker",
+          "title": "Wind Speaker",
+          "text": "The arcane magic you command is infused with elemental air. You can speak, read, and write Primordial. Knowing this language allows you to understand and be understood by those who speak its dialects: Aquan, Auran, Ignan, and Terran."
+        },
+        {
+          "level": 1,
+          "subclass": "storm",
+          "name": "storm-tempestuous",
+          "title": "Tempestuous Magic",
+          "text": "Starting at 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks."
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "divine",
+          "name": "divine",
+          "title": "Divine Soul (XGE + HB)",
+          "text": "Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Those with this power might be able to trace their magic back to angelic ancestory, or find that their life aligns with an ancient prophecy. A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.</p><p>At each indicated sorcerer level, add the listed spells to your list of known spells. They do not count towards your limit.</p><ul><li>1st - bless</li><li>3rd - prayer of healing</li><li>5th - revivify</li><li>7th - guardian of faith</li><li>9th - greater restoration</li><li>11th - heal</li></ul>"
+        },
+        {
+          "level": 1,
+          "subclass": "divine",
+          "name": "divine-powers",
+          "title": "Divine Powers",
+          "text": "Your link to teh divine gives you rudimentary access to clerical powers. You know the spell <em>cure wounds</em>, which doesn't count against your spells known. In addition, you can read, speak, and write Celestial."
+        },
+        {
+          "level": 1,
+          "subclass": "divine",
+          "name": "divine-favored",
+          "title": "Favored by the Gods",
+          "text": "Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest."
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "shadow",
+          "name": "shadow",
+          "title": "Shadow Mage (XGE)",
+          "text": "You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it. The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul.</p><p>At each indicated sorcerer level, add the listed spells to your list of known spells. They do not count towards your limit.</p><ul><li>1st - bless</li><li>3rd - prayer of healing</li><li>5th - revivify</li><li>7th - guardian of faith</li><li>9th - greater restoration</li><li>11th - heal</li></ul>"
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "jack-of-all-tradees",
+          "title": "Jack of All Trades",
+          "text": "<p>Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.</p><p>Each origin has a list of spells - its origin spells - that you gain at the levels noted in the origin spells table. Once you gain an origin spell you always know it and it doesn't count against the number of spells you know.</p><p>if you have an origin spell that isn't in the sorcerer spell list the spell is nonetheless a sorcerer spell for you.</p>"
+        },
+        {
+          "level": 2,
+          "subclass": "base",
+          "name": "song-of-rest-1",
+          "title": "Song of Rest (d6)",
+          "text": "Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra 1d6 hit points."
+        },
+        {
+          "level": 3,
+          "subclass": "base",
+          "name": "expertise-1",
+          "title": "Expertise",
+          "text": "At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+        },
+        {
+          "level": 3,
+          "subclass": "base",
+          "name": "college",
+          "title": "Bard College",
+          "text": "At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "lore",
+          "name": "lore",
+          "title": "Bard College: College of Lore (PHB)",
+          "text": "Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. "
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "initial": "yes",
+          "name": "lore-proficiencies",
+          "title": "College of Lore: Bonus Proficiencies",
+          "text": "When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice."
+        },
+        {
+          "level": 3,
+          "subclass": "lore",
+          "initial": "yes",
+          "name": "lore-cutting",
+          "title": "College of Lore: Cutting Words",
+          "text": "Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. The creature is immune if it can't hear you or if it's immune to being charmed."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "valor",
+          "name": "valor",
+          "title": "Bard College: College of Valor (PHB)",
+          "text": "Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "initial": "yes",
+          "name": "valor-proficiencies",
+          "title": "College of Valor: Bonus Proficiencies",
+          "text": "When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons."
+        },
+        {
+          "level": 3,
+          "subclass": "valor",
+          "initial": "yes",
+          "name": "valor-combat",
+          "title": "College of Valor: Combat Inspiration",
+          "text": "Also at 3rd level, you learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roll it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack."
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "glamour",
+          "name": "glamour",
+          "title": "Bard College: College of Glamour (XGE)",
+          "text": "Bards of the College of Glamour mastered their craft in the vibrant, deadly realm of the Feywild. Tutored by satyrs, eladrin, and other fey, these bards learn to use their magic to delight and captivate others."
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "initial": "yes",
+          "name": "glamour-mantle",
+          "title": "College of Glamour: Mantle of Inspiration",
+          "text": "<p>When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that embues your allies with vigor and speed. As a bonus action, you can expend a use of Bardic Inspiration to grant yourself a wondrous, otherworldly appearance. When you do so, choose a number of allies you can see and who can see you within 60 feet of you, up to a number of them equal to your Charisma modifier (minimum of one).  Each of them gains 6 temporary hit points. When a creature gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.</p><p>The number of temporary hit points increases alongside your bardic inspiration die (eg. to 8 at level 5).</p>"
+        },
+        {
+          "level": 3,
+          "subclass": "glamour",
+          "initial": "yes",
+          "name": "glamour-enthrall",
+          "title": "College of Glamour: Enthralling Performance",
+          "text": "<p>Also at 3rd level, you can charge your performance with seductive, fey magic. if you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number of them equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.</p><p>If a target succeeds on its save against this effect, the target has no hint that you tried to charm it.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "whispers",
+          "name": "whispers",
+          "title": "Bard College: College of Whispers (XGE)",
+          "text": "Bards of the College of Whispers appear as any other, sharing news, singing songs, and telling tales to rapt audiences but they are taught to be wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "initial": "yes",
+          "name": "whispers-blades",
+          "title": "College of Whispers: Venomous Blades",
+          "text": "When you join the College of Whispers at 3rd level, you gain the ability to make your weapon attacks magically toxic to a creature's mind. When you hit a creature with a weapon attack, you can expend one use of your Bardic Inspiration to deal an additional 2d6 psychic damage to that target. You can do so only once per round on your turn. The psychic damage increases when you reach certain levels in this class, increasing to 3d6 at 5th level, 5d6 at 10th level, and 8d6 at 15th level."
+        },
+        {
+          "level": 3,
+          "subclass": "whispers",
+          "initial": "yes",
+          "name": "whispers-words",
+          "title": "College of Whispers: Venomous Words",
+          "text": "<p>You also learn to infuse innocent-seeming words with an insidious magic that can inspire terror. If you speak to a humanoid alone for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened of you or another creature of your choice. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged.</p><p>If the target succeeds on its save, the target has no hint that you tried to frighten it.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>"
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "spheres",
+          "name": "spheres",
+          "title": "Bard College: College of Spheres (HB)",
+          "text": "Bards of the College of Spheres are the scant few mad enough to reach for inspiration and discover that art isn't universal - it transcends universes and speaks to minds beyond mortal ken. They create works blasphemous, alien, and heretical while the abyss beyond offers its strange applause."
+        },
+        {
+          "level": 3,
+          "subclass": "spheres",
+          "initial": "yes",
+          "name": "spheres-proficiencies",
+          "title": "College of Spheres: Eldritch Mind",
+          "text": "When you join the College of Spheres at 3rd level, your experience depicting and worshipping beings that defy mortal sanity grants you proficiency in the Arcana skill and Wisdom saving throws."
+        },
+        {
+          "level": 3,
+          "subclass": "spheres",
+          "initial": "yes",
+          "name": "spheres-madness",
+          "title": "College of Spheres: Maestro of Madness",
+          "text": "Also at 3rd level, you learn how to use your mind's alien nature to disorient, scare, and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or  saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."
+        },
+        {
+          "level": 4,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "inspiration-2",
+          "title": "Bardic Inspiration (d8)",
+          "text": "At 5th level, your Bardic Inspiration die changes to a d8."
+        },
+        {
+          "level": 5,
+          "subclass": "base",
+          "name": "font-of-inspiration",
+          "title": "Font of Inspiration",
+          "text": "Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "countercharm",
+          "title": "Countercharm",
+          "text": "At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required)."
+        },
+        {
+          "level": 6,
+          "subclass": "base",
+          "name": "college-feature-1",
+          "title": "2nd College Feature",
+          "text": "At 6th level, you gain a feature from your Bard College."
+        },
+        {
+          "level": 6,
+          "subclass": "lore",
+          "name": "lore-secrets",
+          "title": "College of Lore: Additional Magical Secrets",
+          "text": "At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know."
+        },
+        {
+          "level": 6,
+          "subclass": "valor",
+          "name": "valor-attack",
+          "title": "College of Valor: Extra Attack",
+          "text": "Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."
+        },
+        {
+          "level": 6,
+          "subclass": "glamour",
+          "name": "glamour-majesty",
+          "title": "College of Glamour: Mantle of Majesty",
+          "text": "<p>At 6th level, you gain the ability to cloak yourself in a fey magic that makes others want to serve you. As a bonus action, you cast command, without expending a spell slot, and you take on an appearance of unearthly beauty for 1 minute or until your concentration ends (as if you were concentrating on a spell). During this time, you can cast command as a bonus action on each of your turns, without expending a spell slot.</p><p>Any creature charmed by you automatically fails its saving throw against the command you cast with this feature.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 6,
+          "subclass": "whispers",
+          "name": "whispers-mantle",
+          "title": "College of Whispers: Mantle of Whispers",
+          "text": "<p>At 6th level, you gain the ability to adopt a creature’s persona.  When a humanoid dies within 30 feet of you, you can magically capture its shadow using your reaction. You retain this shadow until you use it or you finish a long rest.</p><p>You can use the shadow as an action. When you do so, it vanishes, magically transforming into a disguise that appears on you. You now look like the dead person, but healthy and alive. This disguise lasts for 1 hour or until you end it as a bonus action.</p><p>While you're in the disguise, you gain access to all information that the humanoid would freely share with a casual acquaintance. Such information includes general details on its background and personal life, but doesn't include secrets. The information is enough that you can pass yourself off as the person by drawing on its memories.</p><p>Another creature can see through this disguise by succeeding on a Wisdom (Insight) check contested by your Charisma (Deception) check. You gain a +5 bonus to your check.</p><p>Once you capture a shadow with this feature, you can't capture another one with it until you finish a short or long rest.</p>"
+        },
+        {
+          "level": 6,
+          "subclass": "spheres",
+          "name": "spheres-requiem",
+          "title": "College of Spheres: Sanity's Requiem",
+          "text": "<p>Beginning at 6th level, and creature that inflicts psychic damage or tries to read your thoughts or control your actions finds their mind recoiling from the strange patterns of your own. They must make a save against your bard spell save DC or immediately roll on the short term madness table.<p><p>In addition, when you deal psychic damage to another creature you add your CHA modifier to the damage dealt and you add the spell Phantasmal Force to your list of known Bard spells.</p>"
+        },
+        {
+          "level": 8,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 9,
+          "subclass": "base",
+          "name": "song-of-rest-2",
+          "title": "Song of Rest (d8)",
+          "text": "At 9th level, the extra hit points gained from Song of Rest increases to 1d8."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "inspiration-3",
+          "title": "Bardic Inspiration (d10)",
+          "text": "At 10th level, your Bardic Inspiration die changes to a d10."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "expertise-2",
+          "title": "Expertise",
+          "text": "At 10th level, you can choose another two skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies."
+        },
+        {
+          "level": 10,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 12,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Increase",
+          "text": "When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 13,
+          "subclass": "base",
+          "name": "song-of-rest-3",
+          "title": "Song of Rest (d10)",
+          "text": "At 13th level, the extra hit points gained from Song of Rest increases to 1d10."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "By 14th level choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 14,
+          "subclass": "base",
+          "name": "college-feature-2",
+          "title": "3rd College Feature",
+          "text": "At 14th level, you gain a feature from your Bard College."
+        },
+        {
+          "level": 14,
+          "subclass": "lore",
+          "name": "lore-skill",
+          "title": "College of Lore: Peerless Skill",
+          "text": "Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roil the die for the ability check, but before the DM tells you whether you succeed or fail."
+        },
+        {
+          "level": 14,
+          "subclass": "valor",
+          "name": "valor-battle",
+          "title": "College of Valor: Battle Magic",
+          "text": "At 14th level, you have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action"
+        },
+        {
+          "level": 14,
+          "subclass": "glamour",
+          "name": "glamour-unbreakable",
+          "title": "College of Glamour: Unbreakable Majesty",
+          "text": "<p>At 14th level, your appearance permanently gains an otherworldly aspect that makes you look more lovely and fierce.In addition, as a bonus action, you can assume a magically majestic presence for 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw against your spell save DC. On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your spells on your next turn.</p><p>Once you assume this majestic presence, you can't do so again until you finish a short or long rest.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "whispers",
+          "name": "whispers-mantle",
+          "title": "College of Whispers: Shadow Lore",
+          "text": "<p>At 14th level, you gain the ability to weave dark magic into your words and tap into a creature’s deepest fears.</p><p>As an action, you magically whisper a phrase that only one creature of your choice within 30 feet of you can hear. The target must make a Wisdom saving throw against your spell save DC. It automatically succeeds if it doesn’t share a language with you or if it can’t hear you. On a successful saving throw, your whisper sounds like unintelligible mumbling and has no effect.</p><p>On a failed saving throw, the target is charmed by you for the next 8 hours or until you or your allies attack it, damage it, or force it to make a saving throw. It interprets the whispers as a description of its most mortifying secret. You gain no knowledge of this secret, but the target is convinced you know it.</p><p>The charmed creature obeys your commands for fear that you will reveal its secret. It won't risk its life for you or fight for you, unless it was already inclined to do so. It grants you favors and gifts it would offer to a close friend.</p><p>When the effect ends, the creature has no understanding of why it held you in such fear. Once you use this feature, you can’t use it again until you finish a long rest.</p>"
+        },
+        {
+          "level": 14,
+          "subclass": "spheres",
+          "name": "spheres-aesthetic",
+          "title": "College of Spheres: Incomprehensible Aesthetic",
+          "text": "<p>At 14th level, your soul warps past the point of mortal understanding. The artist becomes the subject and you are considered a humanoid aberration.</p><p>You may use your reaction to offer a true glimpse of your hidden self to a creature that targets you with an spell or weapon attack. They must immediately make a Wisdom save as if they had tried to read your thoughts. Creatures who were unaware of your true nature are also frightened until the end of their next turn.</p><p>Fellow aberrations are charmed rather than frightened and you may allow them to automatically pass the Wisdom save.<p><p>You can use this feature up to 3 times per day and regain all expended uses on a long rest</p>"
+        },
+        {
+          "level": 15,
+          "subclass": "base",
+          "name": "inspiration-4",
+          "title": "Bardic Inspiration (d12)",
+          "text": "At 15th level, your Bardic Inspiration die changes to a d12."
+        },
+        {
+          "level": 16,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 17,
+          "subclass": "base",
+          "name": "song-of-rest-4",
+          "title": "Song of Rest (d12)",
+          "text": "At 17th level, the extra hit points gained from Song of Rest increases to 1d12."
+        },
+        {
+          "level": 18,
+          "subclass": "base",
+          "name": "secrets",
+          "title": "Magical Secrets",
+          "text": "At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+        },
+        {
+          "level": 19,
+          "subclass": "base",
+          "name": "asi",
+          "title": "Ability Score Improvement",
+          "text": "When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. You may instead take a feat."
+        },
+        {
+          "level": 20,
+          "subclass": "base",
+          "name": "superior-inspiration",
+          "title": "Superior Inspiration",
+          "text": "At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use."
+        }
+      ]
+    },
+    {
       "name": "Warlock",
       "id": "warlock",
       "description": "Arcane casters defined by their pact with a powerful patron. Warlocks use unique powers granted by their pact to cause damage, control the battlefield, and further their patrons aims on the material plane.",
