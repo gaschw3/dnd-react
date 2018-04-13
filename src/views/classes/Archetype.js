@@ -1,5 +1,6 @@
 import React from 'react';
 import JumbotronComponent from '../../jumbotron.js';
+import Footer from '../../footer.js';
 
 import classes from '../../data/classData.json';
 
@@ -29,6 +30,7 @@ export const Archetype = ( {params} ) => {
         <ClassLevels currClass={currClass[0]} />
       </div>
       <ClassFeatures features={currFeatures} />
+      <Footer />
     </div>
   );
 }

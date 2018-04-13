@@ -1,5 +1,5 @@
 import React from 'react';
-import Scrollchor from 'react-scrollchor';
+import Scroll from 'react-scroll-to-element';
 
 export class ClassLevels extends React.Component {
   render() {
@@ -21,9 +21,9 @@ export class ClassLevels extends React.Component {
         return (
           <span>
             {index>0?", ":""}
-            <Scrollchor animate={{offset: -100, duration: 600}} to={"#"+feature.name}>
-              {feature.title}
-            </Scrollchor>
+            <Scroll offset={-100} type="id" element={feature.name}>
+              <a>{feature.title}</a>
+            </Scroll>
           </span>
         );
       })

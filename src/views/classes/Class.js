@@ -1,5 +1,6 @@
 import React from 'react';
 import JumbotronComponent from '../../jumbotron.js';
+import Footer from '../../footer.js';
 
 import classes from '../../data/classData.json';
 
@@ -29,6 +30,8 @@ export const Class = ( {params} ) => {
       </div>
       
       <ClassFeatures features={currClass.features} />
+      <Footer />
     </div>
+
   );
 }

@@ -1,11 +1,16 @@
 import React from 'react';
+import Scroll from 'react-scroll-to-element';
 
 export default class Footer extends React.Component {
   render() {
     return (
-      <footer className="footer">
+      <footer className="navbar-fixed-bottom footer">
         <div className="container">
-          <p className="text-muted">Place sticky footer content here.</p>
+        <Scroll>
+          <div className="col-sm-2 col-sm-offset-5 color--footer">
+              <p className="text-center color--footer-text">Return to Top</p>
+          </div>
+        </Scroll>
         </div>
       </footer>
     );
