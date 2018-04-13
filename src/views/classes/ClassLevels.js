@@ -21,7 +21,7 @@ export class ClassLevels extends React.Component {
         return (
           <span>
             {index>0?", ":""}
-            <Scroll offset={-100} type="id" element={feature.name}>
+            <Scroll offset={-60} type="id" element={feature.name}>
               <a>{feature.title}</a>
             </Scroll>
           </span>
