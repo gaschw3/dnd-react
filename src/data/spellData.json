@@ -3,7 +3,7 @@
         {
             "title": "Abi-Dalzim's Horrid Wilting",
             "name": "abi-dalzims-horrid-wilting",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "8",
             "school": "Necromancy",
             "time": "1 action",
@@ -12,8 +12,8 @@
             "duration": "Instantaneous",
             "classes": "Sorcerer, Wizard",
             "text": [
-                "You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 10d8 necrotic damage on a failed save, or half as much damage on a successful one.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead aren't affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.",
+                "Nonmagical plants in the area that aren't creatures, such as trees and shrubs, wither and die instantly."
             ],
             "roll": "10d8"
         },
@@ -30,8 +30,7 @@
             "classes": "Druid, Ranger, Wizard, Fighter (Eldritch Knight)",
             "text": [
                 "The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.",
-                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
             ],
             "roll": "1d6"
         },
@@ -60,7 +59,7 @@
         {
             "title": "Aganazzar's Scorcher",
             "name": "aganazzars-scorcher",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "2",
             "school": "Evocation",
             "time": "1 action",
@@ -70,8 +69,7 @@
             "classes": "Sorcerer, Wizard, Fighter (Eldritch Knight)",
             "text": [
                 "A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.",
-                "At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
             ],
             "roll": "3d8"
         },
@@ -539,7 +537,7 @@
         {
             "title": "Beast Bond",
             "name": "beast-bond",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "1",
             "school": "Divination",
             "time": "1 action",
@@ -548,8 +546,7 @@
             "duration": "Concentration, up to 10 minutes",
             "classes": "Druid, Ranger",
             "text": [
-                "You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's Intelligence is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see."
             ]
         },
         {
@@ -746,7 +743,7 @@
         {
             "title": "Bones of the Earth",
             "name": "bones-of-the-earth",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -755,10 +752,10 @@
             "duration": "Instantaneous",
             "classes": "Druid",
             "text": [
-                "You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius. The rubble lasts until cleared.",
+                "You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot diameter portion of the area requires at least 1 minute to clear by hand.",
                 "If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.",
-                "At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.",
+                "At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th."
             ]
         },
         {
@@ -857,7 +854,7 @@
         {
             "title": "Catapult",
             "name": "catapult",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "1",
             "school": "Transmutation",
             "time": "1 action",
@@ -866,11 +863,42 @@
             "duration": "Instantaneous",
             "classes": "Sorcerer, Wizard",
             "text": [
-                "Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. In either case, both the object and the creature or solid surface take 3d8 bludgeoning damage.",
-                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.",
+                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st."
             ],
             "roll": "3d8"
+        },
+        {
+            "title": "Catnap",
+            "name": "catnap",
+            "source": "XGE",
+            "level": "3",
+            "school": "Enchantment",
+            "time": "1 action",
+            "range": "30 feet",
+            "components": "S, M (a pinch of sand)",
+            "duration": "10 minutes",
+            "classes": "Bard, Sorcerer, Wizard",
+            "text": [
+                "You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.",
+                "At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd."
+            ]
+        },
+        {
+            "title": "Cause Fear",
+            "name": "cause-fear",
+            "source": "XGE",
+            "level": "1",
+            "school": "Necromancy",
+            "time": "1 action",
+            "range": "60 feet",
+            "components": "V",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Warlock, Wizard",
+            "text": [
+                "You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success",
+                "At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+            ]
         },
         {
             "title": "Chain Lightning",
@@ -904,6 +932,22 @@
             "text": [
                 "You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.",
                 "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+            ]
+        },
+        {
+            "title": "Charm Monster",
+            "name": "charm-monster",
+            "source": "XGE",
+            "level": "4",
+            "school": "Enchantment",
+            "time": "1 action",
+            "range": "30 feet",
+            "components": "V, S",
+            "duration": "1 hour",
+            "classes": "Bard, Druid, Sorcerer, Warlock, Wizard",
+            "text": [
+                "You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you.",
+                "At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them."
             ]
         },
         {
@@ -1438,22 +1482,21 @@
         {
             "title": "Control Flames",
             "name": "control-flames",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
             "range": "60 feet",
             "components": "S",
             "duration": "Instantaneous or 1 hour (see below)",
-            "classes": "Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)",
+            "classes": "Druid, Sorcerer, Wizard",
             "text": [
-                "You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways.",
+                "You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:",
                 "You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.",
                 "You instantaneously extinguish the flames within the cube.",
                 "You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.",
                 "You cause simple shapes-such as the vague form of a creature, an inanimate object, or a location-to appear within the flames and animate as you like. The shapes last for 1 hour.",
-                "If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
             ]
         },
         {
@@ -1516,7 +1559,7 @@
         {
             "title": "Control Winds",
             "name": "control-winds",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "5",
             "school": "Transmutation",
             "time": "1 action",
@@ -1526,10 +1569,9 @@
             "classes": "Druid, Sorcerer, Wizard",
             "text": [
                 "You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you've halted.",
-                "Gusts: A wind picks up within the cube, continually blowing in a horizontal direction that you choose. You choose the intensity of the wind - calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.",
+                "Gusts: A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.",
                 "Downdraft: You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.",
-                "Updraft: You cause a sustained updraft within the cube, rising upward from the cube's bottom edge. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "Updraft: You cause a sustained updraft within the cube, rising upward from the cube's bottom side. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal."
             ]
         },
         {
@@ -1569,18 +1611,17 @@
         {
             "title": "Create Bonfire",
             "name": "create-bonfire",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "0",
             "school": "Conjuration",
             "time": "1 action",
             "range": "60 feet",
             "components": "V, S",
             "duration": "Concentration, up to 1 minute",
-            "classes": "Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)",
+            "classes": "Druid, Sorcerer, Warlock, Wizard",
             "text": [
-                "You create a bonfire on ground that you can see within range. Until the spells ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.",
-                "The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "You create a bonfire on ground that you can see within range. Until the spell ends, the bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it enters the bonfire's space for the first time on a turn or ends its turn there.",
+                "The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
             ],
             "roll": [
                 "1d8",
@@ -1601,6 +1642,23 @@
             "duration": "Instantaneous",
             "classes": "Cleric, Druid (Desert), Paladin",
             "text": ["You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad."]
+        },
+        {
+            "title": "Create Homunculus",
+            "name": "create-homunculus",
+            "source": "XGE",
+            "level": "6",
+            "school": "Transmutation",
+            "time": "1 hour",
+            "range": "Touch",
+            "components": "V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)",
+            "duration": "Instantaneous",
+            "classes": "Wizard",
+            "text": [
+                "While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a homunculus.",
+                "The statistics of the homunculus are in the Monster Manual. It is you faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by that total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction your hit point maximum can't be removed by any means before then, except by the homunculus's death.",
+                "You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails."
+                ]
         },
         {
             "title": "Create Undead",
@@ -1680,6 +1738,23 @@
             ]
         },
         {
+            "title": "Crown of Stars",
+            "name": "crown-of-stars",
+            "source": "XGE",
+            "level": "7",
+            "school": "Evocation",
+            "time": "1 action",
+            "range": "Self",
+            "components": "V, S",
+            "duration": "1 hour",
+            "classes": "Sorcerer, Warlock, Wizard",
+            "text": [
+                "Seven star-like motes of light appear and orbit your head until the spell ends. You can use a bonus action to send one of the motes streaking toward one creature or object within 120 feet of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.",
+                "If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius.",
+                "At Higher Levels. When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th."
+            ]
+        },
+        {
             "title": "Crusader's Mantle",
             "name": "crusaders-mantle",
             "source": "PHB",
@@ -1724,6 +1799,41 @@
             "text": [
                 "You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10-foot radius.",
                 "As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range."
+            ]
+        },
+        {
+            "title": "Danse Macabre",
+            "name": "danse-macabre",
+            "source": "XGE",
+            "level": "5",
+            "school": "Necromancy",
+            "time": "1 action",
+            "range": "60 feet",
+            "components": "V, S",
+            "duration": "Concentration, up to 1 hour",
+            "classes": "Warlock, Wizard",
+            "text": [
+                "Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a zombie or a skeleton (the statistics for zombies and skeletons are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.",
+                "You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creature do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.",
+                "The creatures are under your control until the spell ends, after which they become inanimate once more.",
+                "At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th."
+            ]
+        },
+        {
+            "title": "Dawn",
+            "name": "dawn",
+            "source": "XGE",
+            "level": "5",
+            "school": "Evocation",
+            "time": "1 action",
+            "range": "60 feet",
+            "components": "V, S, M (a sunburst pendant worth at least 100 gp)",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Cleric, Wizard",
+            "text": [
+                "The light of dawn shines down on a location you specify within range. Until the spell ends, a 30-foot-radius, 40-foot-high cylinder of bright light glimmers there. This light is sunlight.",
+                "When the cylinder appears, each creature in it must make a Constitution saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw whenever it ends its turn in the cylinder.",
+                "If you're within 60 feet of the cylinder, you can move it up to 60 feet as a bonus action on your turn."
             ]
         },
         {
@@ -2116,6 +2226,22 @@
             ]
         },
         {
+            "title": "Dragon's Breath (b)",
+            "name": "dragons-breath",
+            "source": "XGE",
+            "level": "2",
+            "school": "Transmutation",
+            "time": "1 bonus action",
+            "range": "Touch",
+            "components": "V, S, M (a hot pepper)",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Sorcerer, Wizard",
+            "text": [
+                "You touch one willing creature and imbue it with the power to spew magical energy from its mouth, provided it has one. Choose acid, cold, fire, lightning, or poison. Until the spell ends, the creature can use an action to exhale energy of the chosen type in a 15-foot cone. Each creature in that area must make a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save, or half as much damage on a successful one.",
+                "At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd."
+            ]
+        },
+        {
             "title": "Drawmij's Instant Summon (r)",
             "name": "drawmijs-instant-summon",
             "source": "PHB",
@@ -2173,9 +2299,34 @@
             ]
         },
         {
+            "title": "Druid's Grove",
+            "name": "druids-grove",
+            "source": "XGE",
+            "level": "6",
+            "school": "Abjuration",
+            "time": "10 minutes",
+            "range": "Touch",
+            "components": "V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)",
+            "duration": "24 Hours",
+            "classes": "Druid",
+            "text": [
+                "You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a 30-foot cube or as large as 90-foot cube. Buildings and other structures are excluded from the affected area. If you can cast this spell in the same area every day for a year, the spell lasts until dispelled.",
+                "The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.",
+                "The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell's caster chooses which effect to end. Only when all its effects are gone is this spell dispelled.",
+                "Solid Fog: You can fill any number of 5-foot squares on the ground with thick fog, making them heavily obscured. The fog reaches 10 feet high. In addition, every foot of movement through the fog costs 2 extra feet. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air.",
+                "Grasping Undergrowth: You can fill any number of 5-foot squares on the ground that aren't filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds.",
+                "Grove Guardians: You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the Monster Manual, except they can't speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have drive off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the grove guardians do nothing. The grove guardians can't leave the the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible.",
+                "Additional Spell Effect: You can place your choice of one of the following magical effects within the warded area:",
+                "• A constant gust of wind in two locations of your choice",
+                "• Spike growth in one location of your choice",
+                "• Wind wall in two locations of your choice",
+                "To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless."
+            ]
+        },
+        {
             "title": "Dust Devil",
             "name": "dust-devil",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "2",
             "school": "Conjuration",
             "time": "1 action",
@@ -2185,35 +2336,33 @@
             "classes": "Druid, Sorcerer, Wizard",
             "text": [
                 "Choose an unoccupied 5-foot cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell's duration.",
-                "Any creature that ends its turn within 5 feet of the dust devil must make a Strength saving throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away. On a successful save, the creature takes half as much damage and isn't pushed.",
-                "As a bonus action, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or small gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.",
-                "At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "Any creature that ends its turn within 5 feet of the dust devil must make a Strength saving throw. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 10 feet away from the dust devil. On a successful save, the creature takes half as much damage and isn't pushed.",
+                "As a bonus action, you can move the dust devil up to 30 feet in any direction. If the dust devil moves over sand, dust, loose dirt, or light gravel, it sucks up the material and forms a 10-foot-radius cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.",
+                "At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
             ],
             "roll": "1d8"
         },
         {
             "title": "Earth Tremor",
             "name": "earth-tremor",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
-            "range": "Self (10-foot radius)",
+            "range": "10 feet",
             "components": "V, S",
             "duration": "Instantaneous",
-            "classes": "Bard, Druid, Sorcerer, Wizard, Fighter (Eldritch Knight)",
+            "classes": "Bard, Druid, Sorcerer, Wizard",
             "text": [
-                "You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.",
-                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot diameter portion requiring at least 1 minute to clear by hand.",
+                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st."
             ],
             "roll": "1d6"
         },
         {
             "title": "Earthbind",
             "name": "earthbind",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "2",
             "school": "Transmutation",
             "time": "1 action",
@@ -2222,8 +2371,7 @@
             "duration": "Concentration, up to 1 minute",
             "classes": "Druid, Sorcerer, Warlock, Wizard",
             "text": [
-                "Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell descends at 60 feet per round until it reaches the ground or the spell ends.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends."
             ]
         },
         {
@@ -2275,7 +2423,7 @@
         {
             "title": "Elemental Bane",
             "name": "elemental-bane",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "4",
             "school": "Transmutation",
             "time": "1 action",
@@ -2284,9 +2432,8 @@
             "duration": "Concentration, up to 1 minute",
             "classes": "Druid, Warlock, Wizard",
             "text": [
-                "Choose one creature you can see within range, and choose one of the following damage types - acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.",
-                "At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "Choose one creature you can see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.",
+                "At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them."
             ],
             "roll": "2d6"
         },
@@ -2306,6 +2453,39 @@
                 "At Higher Levels: When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to 3d4."
             ],
             "roll": "1d4"
+        },
+        {
+            "title": "Enemies Abound",
+            "name": "enemies-abound",
+            "source": "XGE",
+            "level": "3",
+            "school": "Enchantment",
+            "time": "1 action",
+            "range": "120 feet",
+            "components": "V, S",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Bard, Sorcerer, Warlock, Wizard",
+            "text": [
+                "You reach into the mind of one creature you can see and force it to make an Intelligence saving throw. A creature automatically succeeds if it is immune to being frightened. On a failed save, the target loses the ability to distinguish friend from foe, regarding all creatures it can see as enemies until the spell ends. Each time the target takes damage, it can repeat the saving throw, ending the effect on itself on a success.",
+                "Whenever the affected creature chooses another creature as a target, it must choose the target at random from among the creatures it can see within range of the attack, spell, or other ability it's using. If an enemy provokes an opportunity attack from the affected creature, the creature must make that attack if it is able to."
+            ]
+        },
+        {
+            "title": "Enervation",
+            "name": "enervation",
+            "source": "PHB",
+            "level": "5",
+            "school": "Necromancy",
+            "time": "1 action",
+            "range": "60 feet",
+            "components": "V, S",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Sorcerer, Warlock, Wizard",
+            "text": [
+                "A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a Dexterity saving throw. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your action to do anything else, if the target is ever outside the spell's range, or if the target has total cover from you.",
+                "Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.",
+                "At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th."
+            ]
         },
         {
             "title": "Enhance Ability",
@@ -2398,7 +2578,7 @@
         {
             "title": "Erupting Earth",
             "name": "erupting-earth",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -2407,7 +2587,7 @@
             "duration": "Instantaneous",
             "classes": "Druid, Sorcerer, Wizard",
             "text": [
-                "Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared away. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.",
+                "Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.",
                 "At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d12 for each slot level above 2nd.",
                 "This spell can be found in the Elemental Evil Player's Companion."
             ],
@@ -2533,6 +2713,21 @@
             "roll": "1d4+4"
         },
         {
+            "title": "Far Step (b)",
+            "name": "far-step",
+            "source": "XGE",
+            "level": "5",
+            "school": "Conjuration",
+            "time": "1 bonus action",
+            "range": "Self",
+            "components": "V",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Sorcerer, Warlock, Wizard",
+            "text": [
+                "You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a bonus action to teleport in this way again."
+            ]
+        },
+        {
             "title": "Fear",
             "name": "fear",
             "source": "PHB",
@@ -2635,6 +2830,25 @@
                 "When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.",
                 "While your steed is within 1 mile of you, you can communicate with it telepathically.",
                 "You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear."
+            ]
+        },
+        {
+            "title": "Find Greater Steed",
+            "name": "find-greater-steed",
+            "source": "XGE",
+            "level": "4",
+            "school": "Conjuration",
+            "time": "10 minutes",
+            "range": "30 feet",
+            "components": "V, S",
+            "duration": "Instantaneous",
+            "classes": "Paladin",
+            "text": [
+                "You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a griffon, a pegasus, a peryton, a dire wolf, a rhinoceros, or a saber-toothed tiger. The creature has the statistics provided in the Monster Manual for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 of lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.",
+                "You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.",
+                "The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.",
+                "You can't have more than one mount bonded by this spell or find steed at any time. As an action, you can release a mount from its bond, causing it to disappear permanently.",
+                "Whenever the mount disappears, it leaves behind any objects it was wearing or carrying."
             ]
         },
         {
@@ -2765,7 +2979,7 @@
         {
             "title": "Flame Arrows",
             "name": "flame-arrows",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "3",
             "school": "Transmutation",
             "time": "1 action",
@@ -2775,10 +2989,8 @@
             "classes": "Druid, Ranger, Sorcerer, Wizard",
             "text": [
                 "You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell's magic ends on the piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.",
-                "At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.",
-                "This spell can be found in the Elemental Evil Player's Companion."
-            ],
-            "roll": "1d6"
+                "At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd."
+            ]
         },
         {
             "title": "Flame Blade (b)",
@@ -2976,18 +3188,17 @@
         {
             "title": "Frostbite",
             "name": "frostbite",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "0",
             "school": "Evocation",
             "time": "1 action",
             "range": "60 feet",
             "components": "V, S",
             "duration": "Instantaneous",
-            "classes": "Druid, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)",
+            "classes": "Druid, Sorcerer, Warlock, Wizard",
             "text": [
                 "You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.",
-                "The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
             ],
             "roll": [
                 "1d6",
@@ -3256,6 +3467,31 @@
             ]
         },
         {
+            "title": "Guardian of Nature (b)",
+            "name": "guardian-of-nature",
+            "source": "PHB",
+            "level": "4",
+            "school": "Transmutation",
+            "time": "1 bonus action",
+            "range": "30 feet",
+            "components": "V",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Druid, Ranger",
+            "text": [
+                "A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.",
+                "Primal Beast. Bestial fur covers your body, your facial feature becomes feral, and you gain the following benefits.",
+                "• Your walking speed increases by 10 feet.",
+                "• You gain darkvision with a range of 120 feet.",
+                "• You make Strength-based attack rolls with advantage.",
+                "• Your melee weapon attacks deal an extra 1d6 force damage on a hit.",
+                "Great Tree. Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:",
+                "• You gain 10 temporary hit points.",
+                "• You make Constitution saving throws with advantage.",
+                "• You make Dexterity- and Wisdom-based attack rolls with advantage.",
+                "• While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies."
+            ]
+        },
+        {
             "title": "Guards and Wards",
             "name": "guards-and-wards",
             "source": "PHB",
@@ -3319,20 +3555,19 @@
         {
             "title": "Gust",
             "name": "gust",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "0",
             "school": "Transmutation",
             "time": "1 action",
             "range": "30 feet",
             "components": "V, S",
             "duration": "Instantaneous",
-            "classes": "Druid, Sorcerer, Wizard, Rogue (Arcane Trickster), Fighter (Eldritch Knight)",
+            "classes": "Druid, Sorcerer, Wizard",
             "text": [
-                "You seize the air and compel it to create one of the following effects at a point you can see within range.",
+                "You seize the air and compel it to create one of the following effects at a point you can see within range:",
                 "• One Medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.",
                 "• You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.",
-                "• You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "• You create a harmless sensory affect using air, such as causing leaves to rustle, wind to slam shutters shut, or your clothing to ripple in a breeze."
             ]
         },
         {
@@ -3458,6 +3693,25 @@
                 "Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. The spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.",
                 "At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th."
             ]
+        },
+        {
+            "title": "Healing Spirit (b)",
+            "name": "healing-spirit",
+            "source": "XGE",
+            "level": "2",
+            "school": "Conjuration",
+            "time": "1 bonus action",
+            "range": "60 feet",
+            "components": "V, S",
+            "duration": "Concentration, 1 minute",
+            "classes": "Druid, Ranger",
+            "text": [
+                "You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a 5-foot cube you can see within range. The spirit looks like a transparent beast or fey (your choice).",
+                "Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can use your reaction to cause the spirit to restore 1d6 hit points to that creature. The spirit can't heal constructs or undead.",
+                "On your turn, you can move the spirit up to 30 feet to a space you can see (no action required).",
+                "At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd."
+            ],
+            "roll": "1d6"
         },
         {
             "title": "Healing Word (b)",
@@ -3608,6 +3862,22 @@
             "text": ["Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends."]
         },
         {
+            "title": "Holy Weapon (b)",
+            "name": "holy-weapon",
+            "source": "XGE",
+            "level": "5",
+            "school": "Evocation",
+            "time": "1 bonus action",
+            "range": "Touch",
+            "components": "V, S",
+            "duration": "Concentration, up to 1 hour",
+            "classes": "Cleric, Paladin",
+            "text": [
+                "You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.",
+                "As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of you must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success." 
+            ]
+        },
+        {
             "title": "Hunger of Hadar",
             "name": "hunger-of-hadar",
             "source": "PHB",
@@ -3662,7 +3932,7 @@
         {
             "title": "Ice Knife",
             "name": "ice-knife",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "1",
             "school": "Conjuration",
             "time": "1 action",
@@ -3671,13 +3941,12 @@
             "duration": "Instantaneous",
             "classes": "Druid, Sorcerer, Wizard",
             "text": [
-                "You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.",
-                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 cold damage.",
+                "At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above 1st."
             ],
             "roll": [
-                "1d20+SPELL+PROF",
-                "1d10"
+                "1d10",
+                "2d6"
             ]
         },
         {
@@ -3716,6 +3985,24 @@
             ]
         },
         {
+            "title": "Illusory Dragon",
+            "name": "illusory-dragon",
+            "source": "XGE",
+            "level": "8",
+            "school": "Illusion",
+            "time": "1 action",
+            "range": "120 feet",
+            "components": "S",
+            "duration": "Concentration, up to 1 minute",
+            "classes": "Wizard",
+            "text": [
+                "By gathering threads of shadow material from the Shadowfell, you create a Huge shadowy dragon in an unoccupied space that you can see within range. The illusion lasts for the spell's duration and occupies its space, as if it were a creature",
+                "When the illusion appears, any of your enemies that can see it must succeed on a Wisdom saving throw or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the saving throw, ending the effect on itself on a success.",
+                "As a bonus action on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.",
+                "The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath."
+            ]
+        },
+        {
             "title": "Illusory Script (r)",
             "name": "illusory-script",
             "source": "PHB",
@@ -3737,7 +4024,7 @@
         {
             "title": "Immolation",
             "name": "immolation",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "5",
             "school": "Evocation",
             "time": "1 action",
@@ -3746,9 +4033,8 @@
             "duration": "Concentration, up to 1 minute",
             "classes": "Sorcerer, Wizard",
             "text": [
-                "Flames wreathe one creature you can see within range. The target must make a Dexterity saving throw. It takes 7d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The burning target sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of each of its turns, the target repeats the saving throw. It takes 3d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished through nonmagical means.",
-                "If damage from this spell reduces a target to 0 hit points, the target is turned to ash.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "Flames wreathe one creature you can see within range. The target must make a Dexterity saving throw. It takes 8d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The burning target sheds bright light in a 30-foot radius and dim light for an additional 30 feet. At the end of each of its turns, the target repeats the saving throw. It takes 4d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished by nonmagical means.",
+                "If damage from this spell reduces a target to 0 hit points, the target is turned to ash."
             ],
             "roll": [
                 "7d6",
@@ -3803,6 +4089,30 @@
             "roll": "10d8"
         },
         {
+            "title": "Infernal Calling",
+            "name": "infernal-calling",
+            "source": "XGE",
+            "level": "5",
+            "school": "Conjuration",
+            "time": "1 minute",
+            "range": "90 feet",
+            "components": "V, S, M (a ruby worth at least 999 gp)",
+            "duration": "Concentration, up to 1 hour",
+            "classes": "Warlock, Wizard",
+            "text": [
+                "Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a barbed devil or a bearded devil. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.",
+                "The devil is unfriendly toward you and your companions. Roll initiative for the devil, which has its own turns. It is under the Dungeon Master's control and acts according to its nature on each of its turns, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service. The DM has the creature's statistics.",
+                "On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a Charisma (Deception, Intimidation, or Persuasion) check contested by its Wisdom (Insight) check. You make the check with advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as 'attack my enemies,' 'explore the room ahead,' or 'bear this message to the queen'—until it completes the activity, at which point it returns to you to report having done so.",
+                "If your concentration ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for 3d6 minutes, and then it disappears.",
+                "If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no Charisma checks required.",
+                "At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th."
+            ],
+            "roll": [
+                "1d20+SPELL+PROF",
+                "3d10"
+            ]
+        },
+        {
             "title": "Inflict Wounds",
             "name": "inflict-wounds",
             "source": "PHB",
@@ -3843,7 +4153,7 @@
         {
             "title": "Investiture of Flame",
             "name": "investiture-of-flame",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -3855,15 +4165,14 @@
                 "Flames race across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for the spell's duration. The flames don't harm you. Until the spell ends, you gain the following benefits.",
                 "• You are immune to fire damage and have resistance to cold damage.",
                 "• Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 fire damage.",
-                "• You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "• You can use your action to create a line of fire 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one."
             ],
             "roll": "1d10"
         },
         {
             "title": "Investiture of Ice",
             "name": "investiture-of-ice",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -3876,14 +4185,13 @@
                 "• You are immune to cold damage and have resistance to fire damage.",
                 "• You can move across difficult terrain created by ice or snow without spending extra movement.",
                 "• The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.",
-                "• You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "• You can use your action to create a 15-foot cone of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its speed halved until the start of your next turn."
             ]
         },
         {
             "title": "Investiture of Stone",
             "name": "investiture-of-stone",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -3895,14 +4203,13 @@
                 "Until the spell ends, bits of rock spread across your body, and you gain the following benefits.",
                 "• You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.",
                 "• You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked prone.",
-                "• You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "• You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are stunned until the end of your next turn."
             ]
         },
         {
             "title": "Investiture of Wind",
             "name": "investiture-of-wind",
-            "source": "EEPC",
+            "source": "XGE",
             "level": "6",
             "school": "Transmutation",
             "time": "1 action",
@@ -3914,8 +4221,7 @@
                 "Until the spell ends, wind whirls around you, and you gain the following benefits.",
                 "• Ranged weapon attacks made against you have disadvantage on the attack roll.",
                 "• You gain a flying speed of 60 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.",
-                "• You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube.",
-                "This spell can be found in the Elemental Evil Player's Companion."
+                "• You can use your action to create a 15-foot cube of swirling wind centered on a point you can see within 60 feet of you. Each creature in that area must make a Constitution saving throw. A creature takes 2d10 bludgeoning damage on a failed save, or half as much damage on a successful one. If a Large or smaller creature fails the save, that creature is also pushed up to 10 feet away from the center of the cube."
             ],
             "roll": "2d10"
         },
@@ -7371,30 +7677,30 @@
         {
             "title": "Ceremony (r)",
             "name": "ceremony",
-            "source": "UAStarterSpells",
+            "source": "XGE",
             "level": "1",
             "ritual": "YES",
             "school": "Evocation",
             "time": "1 hour",
             "range": "Touch",
             "components": "V, S, M (25 gp worth of powdered silver)",
-            "duration": "Instantaneous (see text)",
+            "duration": "Instantaneous",
             "classes": "Cleric, Paladin",
             "text": [
-                "You perform one of several religious ceremonies. When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.",
-                "Atonement: You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a success, you restore the target to its original alignment.",
-                "Bless Water: You touch one vial of water and cause it to become holy water.",
-                "Coming of Age: You touch one humanoid old enough to be a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this ceremony just once.",
-                "Dedication: You touch one humanoid who would willingly convert to your religion or who wishes to be dedicated to your god’s service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this ceremony just once.",
-                "Funeral Rite: You bless one corpse within 5 feet of you. For the next 24 hours, the target can’t become undead by any means short of a wish spell.",
+                "You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.",
+                "Atonement. You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a successful check, you restore the target to its original alignment.",
+                "Bless Water. You touch one vial of water and cause it to become holy water.",
+                "Coming of Age. You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a 1d4 and add the number rolled to the ability check. A creature can benefit from this rite only once.",
+                "Dedication. You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a 1d4 and add the number rolled to the save. A creature can benefit from this rite only once.",
+                "Funeral Rite. You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell.",
                 "Investiture: You touch one willing humanoid. Choose one 1st-level spell you have prepared and expend a spell slot and any material components as if you were casting that spell. The spell has no effect. Instead, the target can cast this spell once without having to expend a spell slot or use material components. If the target doesn’t cast the spell within 1 hour, the invested spell is lost.",
-                "Marriage: You touch adult humanoids willing to be bonded together in marriage. For the next 24 hours, each target gains a +2 bonus to AC and saving throws while they are within 30 feet of each other. A creature can benefit from this ceremony just once."
+                "Wedding. You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed."
             ]
         },
         {
             "title": "Chaos Bolt",
             "name": "chaos-bolt",
-            "source": "UAStarterSpells",
+            "source": "XGE",
             "level": "1",
             "school": "Evocation",
             "time": "1 action",
@@ -7403,7 +7709,7 @@
             "duration": "Instantaneous",
             "classes": "Sorcerer",
             "text": [
-                "You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 damage. Choose one of the d8s. The number it rolled determines the type of damage, as shown below.",
+                "You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 damage + 1d6 damage. Choose one of the 1d8s. The number rolled on that die determines the attack's damage type, as shown below.",
                 "d8 ---- Damage Type",
                 "1 ----- Acid",
                 "2 ----- Cold",
@@ -7413,8 +7719,8 @@
                 "6 ----- Poison",
                 "7 ----- Psychic",
                 "8 ----- Thunder",
-                "If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again. A creature can be targeted only once by this mass of chaotic energy.",
-                "At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, each target takes extra damage of the type rolled. The extra damage equals 1d6 for each slot level above 1st."
+                "If you roll the same number on both 1d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.",
+                "At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st."
             ]
         },
         {
@@ -7470,17 +7776,17 @@
         {
             "title": "Infestation",
             "name": "infestation",
-            "source": "UAStarterSpells",
+            "source": "XGE",
             "level": "0",
             "school": "Conjuration",
             "time": "1 action",
             "range": "30 feet",
-            "components": "V, S, M (a living flee)",
+            "components": "V, S, M (a living flea)",
             "duration": "Instantaneous",
             "classes": "Druid, Sorcerer, Warlock, Wizard",
             "text": [
-              "You cause mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw or take 1d6 piercing damage. If the target takes any of that damage, the target moves 5 feet in a random direction. Roll a d8 for the direction: 1, north; 2, northeast; 3, east; 4, southeast; 5, south; 6, southwest; 7, west; or 8, northwest.",
-              "The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
+              "You cause a cloud of mites, fleas, and other parasites to appear momentarily on one creature you can see within range. The target must succeed on a Constitution saving throw, or it takes 1d6 poison damage and moves 5 feet in a random direction if it can move and its speed is at least 5 feet. Roll a 1d4 for the direction: 1, north; 2, south; 3, east; or 4, west. This movement doesn't provoke opportunity attacks, and if the direction rolled is blocked, the target doesn't move",
+              "The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
             ],
             "roll": "1d8"
         },
