@@ -21311,7 +21311,7 @@
       }]
     },
     {
-      "name": "Lizard King/Queen",
+      "name": "Lizard Ruler",
       "size": "M",
       "type": "humanoid (lizardfolk)",
       "source": "MM",
@@ -29624,7 +29624,7 @@
       "spells": "mage hand, prestidigitation, ray of frost, comprehend languages, fog cloud, sleep, detect thoughts, gust of wind, mirror image, animate dead, fireball, nondetection, blight, greater invisibility, polymorph, animate objects, scrying"
     },
     {
-      "name": "Succubus/Incubus",
+      "name": "Succubus or Incubus",
       "size": "M",
       "type": "fiend (shapechanger)",
       "source": "MM",
