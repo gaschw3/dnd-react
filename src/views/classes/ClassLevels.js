@@ -33,7 +33,7 @@ export class ClassLevels extends React.Component {
     return (
       <div className="col-sm-7">
         <div className="level-table">
-          <table className={"table table-striped table-"+this.props.currClass.id}><tbody>
+          <table className={"table table-responsive table-striped table-"+this.props.currClass.id}><tbody>
             {
               levels.map( (i) => {
                 return (<tr>

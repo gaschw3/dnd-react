@@ -1,6 +1,12 @@
 import React from 'react';
 
 export class ClassFeatures extends React.Component {
+  paragraphize(data){
+    return (
+        data.map(function(line) { return <p dangerouslySetInnerHTML={{__html: line}}></p> })
+    )
+  }
+
   render() {
     var json = this.props.features;
     return (
@@ -11,7 +17,7 @@ export class ClassFeatures extends React.Component {
               return (
                 <div id={feature.name} className={" col-lg-12 feature"+classes}>
                 <h4>{feature.title}</h4>
-                <p dangerouslySetInnerHTML={{__html: feature.text}}></p>
+                <div className="feature-text">{this.paragraphize(feature.text)}</div>
                 </div>
               );
             })

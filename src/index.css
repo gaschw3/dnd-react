@@ -96,6 +96,7 @@ ul {
 .level-table {
   margin: 10px;
   font-size:.8em;
+  overflow: auto;
 }
 .table-bard>tbody>tr>th,
 .table-cleric>tbody>tr>th,
@@ -134,7 +135,7 @@ td.center, th.center {
 .btn-toolbar .btn {
   margin: 5px;
 }
-.feature > p {
+.feature-text {
   padding-left: 10px;
   padding-bottom: 10px;
 }

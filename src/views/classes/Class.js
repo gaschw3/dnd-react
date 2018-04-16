@@ -28,7 +28,6 @@ export const Class = ( {params} ) => {
         </div>
         <ClassLevels currClass={currClass} />
       </div>
-      
       <ClassFeatures features={currClass.features} />
       <Footer />
     </div>
