@@ -48,7 +48,7 @@ export class SpellList extends React.Component {
 
   filtered(spell) {
     if (spell.title.toLowerCase().indexOf(this.getNameFilterText().toLowerCase()) !== -1)
-      if (spell.source.toLowerCase().indexOf(this.getSrcFilterText().toLowerCase()) !== -1)
+      if (spell.source.toLowerCase() === this.getSrcFilterText().toLowerCase() || this.getSrcFilterText()==='')
         if (spell.level.toLowerCase().indexOf(this.getLvlFilterText().toLowerCase()) !== -1)
           if (spell.classes.toLowerCase().indexOf(this.getClassFilterText().toLowerCase()) !== -1)
             return true;
