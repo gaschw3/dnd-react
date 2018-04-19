@@ -11,7 +11,7 @@ export class Recap extends React.Component {
     super(props);
     this.state = { 
       recap: "Recap",
-      image: "Recaps",
+      image: "Rules",
       active: "",
       json: json.recap
     };
