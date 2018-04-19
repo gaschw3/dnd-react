@@ -35,8 +35,8 @@ export class RecapList extends React.Component {
       </FormGroup>
       <ListGroupItem disabled>
         <div className="row">
-          <div className="col-sm-7">Name</div>
-          <div className="col-sm-5">Ability Scores</div>
+          <div className="col-sm-7">Session</div>
+          <div className="col-sm-5">Date</div>
         </div>
       </ListGroupItem>
       <ListGroup className="race-list">

@@ -24,8 +24,9 @@ export default class NavbarComponent extends React.Component {
               <MenuItem href="#/rules/ability-scores-basic"eventKey={3.1}>Rules</MenuItem>
               <MenuItem href="#/spells/abi-dalzims-horrid-wilting" eventKey={3.2}>Spells</MenuItem>
               <MenuItem href="#/conditions/blinded" eventKey={3.3}>Conditions</MenuItem>
+              <MenuItem href="#/campaign" eventKey={3.3}>Campaign <span className="label label-wip">new, WIP</span></MenuItem>
             </NavDropdown>
-            <NavDropdown eventKey={4} title="DMs" id="basic-nav-dropdown">
+            <NavDropdown eventKey={4} title="DM" id="basic-nav-dropdown">
               <MenuItem href="#/beastiary/Aarakocra" eventKey={4.2}>Beastiary</MenuItem>
               <MenuItem href="#/items/abacus" eventKey={4.3}>Items</MenuItem>
             </NavDropdown>

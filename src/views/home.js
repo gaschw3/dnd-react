@@ -13,21 +13,23 @@ export default class Home extends Component {
               <Col sm={1} />
               <Col sm={5}>
                 <h4><a href="/dnd-react/#/classes">Classes</a></h4>
-                <p>Reference page of 5e classes (at least the ones I have created JSON for) and their descriptions. You can tell this section got made first because it is the most stupidly designed.</p>
+                <p>Reference page of 5e classes and their descriptions. You can tell this section got made first because it is the most stupidly designed.</p>
                 <h4><a href="/dnd-react/#/backgrounds/acolyte">Backgrounds</a></h4>
-                <p>View all official backgrounds in D&D 5e, including those from supplement material.</p>
+                <p>View backgrounds for D&D.</p>
                 <h4><a href="/dnd-react/#/races/aarakocra">Races</a></h4>
-                <p>View entries for each of the races in D&D 5e, including subraces and variants.</p>
+                <p>View entries for the races in D&D, including subraces and variants.</p>
                 <h4><a href="/dnd-react/#/feats/acrobat">Feats</a></h4>
-                <p>View a list of the feats in D&D 5e, including those from Unearthed Arcana and supplements.</p>
+                <p>View a list of the feats in my games.</p>
+                <h4><a href="/dnd-react/#/campaign">Campaign</a> <span className="label label-wip">new, WIP</span></h4>
+                <p>Under construction: View person/place info or session recaps for the current game.</p>
               </Col>
               <Col sm={5}>
                 <h4><a href="/dnd-react/#/spells/abi-dalzims-horrid-wilting">Spells</a></h4>
-                <p>Table and details for all spells available in D&D 5e. The list can be easily searched and filtered, and the entries can be shared through the generated URL.</p>
+                <p>Searchable table and details for all spells available in my games.</p>
                 <h4><a href="/dnd-react/#/conditions/blinded">Conditions</a></h4>
                 <p>Quick-reference for all the conditions in D&D 5e.</p>
                 <h4><a href="/dnd-react/#/items/undef">Items</a></h4>
-                <p>Table and details for most items in 5e. Doesn't include merchant fodder. Also doesn't really work right yet.</p>
+                <p>Table and details for most items in 5e.</p>
                 <h4><a href="/dnd-react/#/beastiary/undef">Beastiary</a></h4>
                 <p>Table and details for monsters in D&D 5e. Shows relevant stats as well as special abilities, actions, and reactions.</p>
                 <h4><a href="/dnd-react/#/rules/undef">Rules</a></h4>

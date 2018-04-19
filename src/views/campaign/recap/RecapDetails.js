@@ -4,7 +4,7 @@ export class RecapDetails extends React.Component {
 
   paragraphize(data){
     return (
-        data.map(function(line) { return <p>{line}</p> })
+        data.map(function(line) { return <p dangerouslySetInnerHTML={{__html: line}}></p> })
     )
   }
 
