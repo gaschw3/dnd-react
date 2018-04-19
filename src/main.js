@@ -16,6 +16,7 @@ import {Condition} from './views/conditions/Condition.js';
 import {Item} from './views/items/Item.js';
 import {Rule} from './views/rules/Rule.js';
 import {Campaign} from './views/campaign/Campaign.js';
+import {Recap} from './views/campaign/recap/Recap.js';
 
 class NotFound extends Component {
     render(){
@@ -40,6 +41,7 @@ export default class Main extends React.Component {
                     <Route path="/items/:itemName" component={Item}/>
                     <Route path="/rules/:ruleName" component={Rule}/>
                     <Route path="/campaign" component={Campaign}/>
+                    <Route path="/campaign/recap/:recapNum" component={Recap}/>
                     <Route path="*" component={NotFound}/>
             </Router>
         )

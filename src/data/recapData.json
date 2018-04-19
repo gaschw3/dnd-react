@@ -1,0 +1,22 @@
+{
+  "recap": [
+    {
+        "title": "Session 1 - To Mornrise",
+        "number": "1",
+        "date": "2018-04-18",
+        "text": [
+          "blah",
+          "blah"
+        ]
+    },
+    {
+        "title": "Session 2 - Shadows in Shallow Waters",
+        "number": "2",
+        "date": "2018-04-25",
+        "text": [
+          "yak",
+          "yak"
+        ]
+    }
+  ]
+}
