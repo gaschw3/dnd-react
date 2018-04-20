@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // Import routing components
 import {Router, Route } from 'react-router';
 import { hashHistory } from 'react-router';
+import ReactGA from 'react-ga';
 // Import custom components
 import Home from './views/home.js'
 import ClassList from './views/classes/ClassList.js';
@@ -18,6 +19,11 @@ import {Rule} from './views/rules/Rule.js';
 import {Campaign} from './views/campaign/Campaign.js';
 import {Recap} from './views/campaign/recap/Recap.js';
 
+ReactGA.initialize('UA-117974315-1');
+function fireTracking() {
+    ReactGA.pageview(window.location.hash);
+}
+
 class NotFound extends Component {
     render(){
         return (<h1>You have found a page that doesn't exist or isn't complete, try some other link.</h1>);
@@ -27,7 +33,7 @@ class NotFound extends Component {
 export default class Main extends React.Component {
     render(){
         return(
-            <Router history={hashHistory}>
+            <Router onUpdate={fireTracking} history={hashHistory}>
                 <Route path="/" exact component={Home}/>
                     <Route path="/classes" component={ClassList}/>
                         <Route path="/classes/:className" component={Class}/>
