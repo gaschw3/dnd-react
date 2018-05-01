@@ -3942,16 +3942,16 @@
         {
           "level": 3,
           "subclass": "base",
-          "name": "ranger-conclave",
-          "title": "Ranger Conclave",
-          "text": ["At 3rd level, you choose to emulate the ideals and training of a ranger conclave detailed below. Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level."]
+          "name": "ranger-archetype",
+          "title": "Archetype",
+          "text": ["At 3rd level, you choose to emulate the ideals and training of a archetype detailed below. Your choice grants you features at 3rd level and again at 5th, 7th, 11th, and 15th level."]
         },
         {
           "level": 3,
           "filter": "yes",
           "subclass": "beast",
           "name": "beast",
-          "title": "Ranger Conclave: Beast Conclave",
+          "title": "Archetype: Beast Conclave",
           "text": ["Many rangers are more at home in the wilds than in civilization, to the point where animals consider them kin. Rangers of the Beast Conclave develop a close bond with a beast, then further strengthen that bond through the use of magic."]
         },
         {
@@ -3973,7 +3973,7 @@
           "filter": "yes",
           "subclass": "hunter",
           "name": "hunter",
-          "title": "Ranger Conclave: Hunter",
+          "title": "Archetype: Hunter",
           "text": ["Some rangers seek to master weapons to better protect civilization from the terrors of the wilderness. Members of the Hunter Conclave learn specialized fighting techniques for use against the most dire threats, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons."]
         },
         {
@@ -3988,51 +3988,69 @@
           "filter": "yes",
           "subclass": "stalker",
           "name": "stalker",
-          "title": "Ranger Conclave: Deep Stalker (UA)",
-          "text": ["Most folk descend into the depths of the Underdark only under the most pressing conditions, undertaking some desperate quest or following the promise of vast riches. All too often, evil festers beneath the earth unnoticed, and rangers of the Deep Stalker Conclave strive to uncover and defeat such threats before they can reach the surface."]
+          "title": "Archetype: Gloom Stalker (XGE)",
+          "text": ["Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows."]
         },
         {
           "level": 3,
           "subclass": "stalker",
           "name": "stalker-magic",
-          "title": "Deep Stalker: Deep Stalker Magic",
-          "text": ["<p>At 3rd level, you have darkvision out to a range of 90 feet. If you already have darkvision, you increase its range by 30 feet. You also learn an additional spell when you reach certain levels in this class, as shown below. Once you gain a deep stalker spell, it counts as a ranger spell for you but doesn't count against the number of rangers spells you know.</p><ul><li>3rd - disguise self</li><li>5th - rope trick</li><li>9th - glyph of warding</li><li>13th - greater invisibility</li><li>17th - seeming</li></ul>"]
+          "title": "Gloom Stalker: Gloom Stalker Magic",
+          "text": [
+            "Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+            "<ul><li>3rd - disguise self</li><li>5th - rope trick</li><li>9th - fear</li><li>13th - greater invisibility</li><li>17th - seeming</li></ul>"]
         },
         {
           "level": 3,
           "subclass": "stalker",
-          "name": "stalker-underdark-scout",
-          "title": "Deep Stalker: Underdark Scout",
-          "text": ["At 3rd level, you master the art of the ambush. On your first turn during combat, you gain a +10 bonus to your speed and if you use the attack action on that turn, you can make one additional attack. You are also adept at evading creatures that rely on darkvision. Such creatures gain no benefit when attempting to detect you in dark and dim conditions. Additionally, when the DM determines if you can hide from a creature, that creature gains no benefit from its darkvision."]
+          "name": "stalker-ambusher",
+          "title": "Gloom Stalker: Dread Ambusher",
+          "text": [
+            "At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.",
+            "At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon's damage type."
+          ]
+        },
+        {
+          "level": 3,
+          "subclass": "stalker",
+          "name": "stalker-sight",
+          "title": "Gloom Stalker: Umbral Sight",
+          "text": [
+            "At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.",
+            "You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness."]
         },
         {
           "level": 3,
           "filter": "yes",
           "subclass": "horizon",
           "name": "horizon",
-          "title": "Ranger Conclave: Horizon Walker (UA)",
-          "text": ["Rangers of the Horizon Conclave guard the world against threats that originate from other planes. They seek out planar portals and keep watch over them, venturing to the outer and inner planes as needed to defeat threats."]
+          "title": "Archetype: Horizon Walker (XGE)",
+          "text": ["Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes."]
         },
         {
           "level": 3,
           "subclass": "horizon",
           "name": "horizon-magic",
           "title": "Horizon Walker: Planar Magic",
-          "text": ["<p>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown below. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.</p><ul><li>3rd - protection from good and evil</li><li>5th - alter self</li><li>9th - protection from energy</li><li>13th - banishment</li><li>17th - teleportation circle</li></ul>"]
+          "text": [
+            "Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.",
+            "<ul><li>3rd - protection from good and evil</li><li>5th - misty step</li><li>9th - haste</li><li>13th - banishment</li><li>17th - teleportation circle</li></ul>"]
         },
         {
           "level": 3,
           "subclass": "horizon",
           "name": "horizon-planar-warrior",
           "title": "Horizon Walker: Planar Warrior",
-          "text": ["<p>At 3rd level, you learn to draw on the energy of the planes to augment your attacks.</p><p>As a bonus action, choose one creature you can see within 30 feet of you. Until the end of this turn, your attacks against that creature ignore its damage resistances, and the next time you hit it on this turn, it takes an additional 1d6 force damage.</p>"]
+          "text": ["<p>At 3rd level, you learn to draw on the energy of the planes to augment your attacks.</p><p>As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.</p>"]
         },
         {
           "level": 3,
           "subclass": "horizon",
           "name": "horizon-portal-lore",
           "title": "Horizon Walker: Portal Lore",
-          "text": ["<p>At 3rd level, you gain the ability to detect the presence of planar portals. As an action, you detect the distance and direction to any planar portals within 1,000 feet of you. You also sense which plane of existence each portal leads to. However, if magic obscures any details of a portal, this feature doesn't reveal them.</p><p>Once you use this feature, you can't use it again until you finish a short or long rest. Alternatively, you can use the feature again if you expend a spell slot of 2nd level or higher.</p>"]
+          "text": [
+            "At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.",
+            "Once you use this feature, you can't use it again until you finish a short or long rest."]
         },
         {
           "level": 4,
@@ -4044,9 +4062,9 @@
         {
           "level": 5,
           "subclass": "base",
-          "name": "ranger-conclave-1",
-          "title": "Ranger Conclave Feature",
-          "text": ["At 5th level, you gain a feature granted to you by your Ranger Conclave."]
+          "name": "ranger-archetype-1",
+          "title": "Archetype Feature",
+          "text": ["At 5th level, you gain a feature granted to you by your Archetype."]
         },
         {
           "level": 5,
@@ -4066,7 +4084,7 @@
           "level": 5,
           "subclass": "stalker",
           "name": "stalker-attack",
-          "title": "Deep Stalker: Extra Attack",
+          "title": "Gloom Stalker: Extra Attack",
           "text": ["Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn."]
         },
         {
@@ -4086,9 +4104,9 @@
         {
           "level": 7,
           "subclass": "base",
-          "name": "ranger-conclave-2",
-          "title": "Ranger Conclave Feature",
-          "text": ["At 7th level, you gain a feature granted to you by your Ranger Conclave."]
+          "name": "ranger-archetype-2",
+          "title": "Archetype Feature",
+          "text": ["At 7th level, you gain a feature granted to you by your Archetype."]
         },
         {
           "level": 7,
@@ -4108,15 +4126,16 @@
           "level": 7,
           "subclass": "stalker",
           "name": "stalker-iron-mind",
-          "title": "Deep Stalker: Iron Mind",
-          "text": ["At 7th level, you gain proficiency in Wisdom saving throws."]
+          "title": "Gloom Stalker: Iron Mind",
+          "text": ["By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice)."]
         },
         {
           "level": 7,
           "subclass": "horizon",
           "name": "horizon-ethereal-step",
           "title": "Horizon Walker: Ethereal Step",
-          "text": ["At 7th level, you learn to step through the Ethereal Plane. As a bonus action on your turn, you can cast the etherealness spell with this feature, but the spell ends at the end of the current turn. Once you use this feature, you can't use it again until you finish a short or long rest."]
+          "text": ["At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the etherealness spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.",
+            "Once you use this feature, you can't use it again until you finish a short or long rest."]
         },
         {
           "level": 8,
@@ -4142,9 +4161,9 @@
         {
           "level": 11,
           "subclass": "base",
-          "name": "ranger-conclave-3",
-          "title": "Ranger Conclave Feature",
-          "text": ["At 11th level, you gain a feature granted to you by your Ranger Conclave."]
+          "name": "ranger-archetype-3",
+          "title": "Archetype Feature",
+          "text": ["At 11th level, you gain a feature granted to you by your Archetype."]
         },
         {
           "level": 11,
@@ -4164,15 +4183,17 @@
           "level": 11,
           "subclass": "stalker",
           "name": "stalker-flurry",
-          "title": "Deep Stalker: Stalker's Flurry",
-          "text": ["Starting at 11th level, once on each of your turns when you miss with an attack, you can make another attack. You can gain one additional attack during your turn with this ability."]
+          "title": "Gloom Stalker: Stalker's Flurry",
+          "text": ["At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action."]
         },
         {
           "level": 11,
           "subclass": "horizon",
           "name": "horizon-distant-strike",
           "title": "Horizon Walker: Distant Strike",
-          "text": ["<p>At 11th level, you gain the ability to step between the planes in a blink of an eye. When you use the Attack action, you can teleport up to 10 feet before each attack. You must be able to see the destination of the teleportation.</p><p>If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.</p>"]
+          "text": [
+            "At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.",
+            "If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature."]
         },
         {
           "level": 12,
@@ -4191,9 +4212,9 @@
         {
           "level": 15,
           "subclass": "base",
-          "name": "ranger-conclave-4",
-          "title": "Ranger Conclave Feature",
-          "text": ["At 15th level, you gain a feature granted to you by your Ranger Conclave."]
+          "name": "ranger-archetype-4",
+          "title": "Archetype Feature",
+          "text": ["At 15th level, you gain a feature granted to you by your Archetype."]
         },
         {
           "level": 15,
@@ -4213,15 +4234,15 @@
           "level": 15,
           "subclass": "stalker",
           "name": "stalker-dodge",
-          "title": "Deep Stalker: Stalker's Dodge",
-          "text": ["At 15th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined."]
+          "title": "Gloom Stalker: Shadowy Dodge",
+          "text": ["Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn't have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll."]
         },
         {
           "level": 15,
           "subclass": "horizon",
           "name": "horizon-spectral-defense",
           "title": "Horizon Walker: Spectral Defense",
-          "text": ["At 15th level, your ability to move between planes becomes even more finely tuned. As a reaction when you take damage, you can halve that damage against you. For a moment, you slip into the planar boundary to lessen the harm."]
+          "text": ["At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn."]
         },
         {
           "level": 16,
