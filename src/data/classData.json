@@ -5291,8 +5291,11 @@
           "filter": "yes",
           "subclass": "celestial",
           "name": "celestial",
-          "title": "Patron: The Celestial (UA)",
-          "text": ["<p>Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, or unicorn or to another entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.</p><p>The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><ul><li>1st - burning hands, cure wounds</li><li>3rd - flaming sphere, lesser restoration</li><li>5th - daylight, revivify</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, greater restoration</li></ul>"]
+          "title": "Patron: The Celestial (XGE)",
+          "text": ["Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, or unicorn or to another entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.",
+          "Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.",
+          "The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+          "<ul><li>1st - guiding bolt, command</li><li>3rd - flaming sphere, lesser restoration</li><li>5th - daylight, revivify</li><li>7th - guardian of faith, wall of fire</li><li>9th - flame strike, greater restoration</li></ul>"]
         },
         {
           "level": 1,
@@ -5306,7 +5309,54 @@
           "subclass": "celestial",
           "name": "celestial-healing-light",
           "title": "The Celestial: Healing Light",
-          "text": ["<p>At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.</p><p>As a bonus action, you can touch a creature and heal it, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.</p><p>Your pool regains all expended dice when you finish a long rest.</p>"]
+          "text": ["At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.",
+          "As a bonus action, you can touch a creature and heal it, spending dice from the pool. The maximum number of dice you can spend at once equals your Charisma modifier (minimum of one die). Roll the dice you spend, add them together, and restore a number of hit points equal to the total.",
+          "Your pool regains all expended dice when you finish a long rest."]
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "hexblade",
+          "name": "hexblade",
+          "title": "Patron: The Hexblade (XGE)",
+          "text": ["You have made your pact with a mysterious entity from the Shadowfell—a force that manifests in sentient magic weapons carved from the stuff of shadow. The mighty sword Blackrazor is the most notable of these weapons, which have been spread across the multiverse over the ages. The shadowy force behind these weapons can offer power to warlocks who form pacts with it. Many hexblade warlocks create weapons that emulate those formed in the Shadowfell. Others forgo such arms, content to weave the dark magic of that plane into their spellcasting.",
+          "The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+          "<ul><li>1st - shield, wrathful smite</li><li>3rd - blur, branding smite</li><li>5th - blink, elemental weapon</li><li>7th - phantasmal killer, staggering smite</li><li>9th - banishing smite, cone of cold</li></ul>"]
+        },
+        {
+          "level": 1,
+          "subclass": "hexblade",
+          "name": "hexblade-warrior",
+          "title": "The Hexblade: Hex Warrior",
+          "text": ["At 1st level, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with medium armor, shields, and martial weapons.",
+            "The influence of your patron also allows you to mystically channel your will through a particular weapon. Whenever you finish a long rest, you can touch one weapon that you are proficient with and that lacks the two-handed property. When you attack with that weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls. This benefit lasts until you finish a long rest. If you later gain the Pact of the Blade feature, this benefit extends to every pact weapon you conjure with that feature, no matter the weapon's type."]
+        },
+        {
+          "level": 1,
+          "subclass": "hexblade",
+          "name": "hexblade-curse",
+          "title": "The Hexblade: Hexblade's Curse",
+          "text": ["Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are incapacitated. Until the curse ends, you gain the following benefits:",
+          "<ul><li>You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.</li><li>If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).</li></ul>",
+          "You can't use this feature again until you finish a short or long rest."]
+        },
+        {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "undying",
+          "name": "undying",
+          "title": "Patron: The Undying (SCAG)",
+          "text": ["Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize—like all power—comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantalus.",
+          "The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+          "<ul><li>1st - false life, ray of sickness</li><li>3rd - blindness/deafness, silence</li><li>5th - feign death, speak with dead</li><li>7th - aura of life, death ward</li><li>9th - contagion, legend lore</li></ul>"]
+        },
+        {
+          "level": 1,
+          "subclass": "undying",
+          "name": "undying-among-the-dead",
+          "title": "The Undying: Among the Dead",
+          "text": ["Starting at 1st level, you learn the spare the dying cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.",
+            "Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of fireball). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell."]
         },
         {
           "level": 2,
@@ -5362,7 +5412,24 @@
           "subclass": "celestial",
           "name": "celestial-radiant-soul",
           "title": "The Celestial: Radiant Soul",
-          "text": ["Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you add your Charisma modifier to that damage against one target of your choice."]
+          "text": ["Starting at 6th level, your link to the Celestial allows you to serve as a conduit for radiant energy. You have resistance to radiant damage, and when you cast a spell that deals radiant or fire damage, you can add your Charisma modifier to one radiant or fire damage roll of that spell against one of its targets."]
+        },
+        {
+          "level": 6,
+          "subclass": "hexblade",
+          "name": "hexblade-curse",
+          "title": "The Hexblade: Accursed Specter",
+          "text": ["Starting at 6th level, when you kill a person you can temporarily bind their soul to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a <a>specter</a>. When the specter appears, it gains temporary hit points equal to half your warlock level. It obeys your verbal commands, takes it's actions on your turns in initiative, and gains a special bonus to its attack rolls equal to your Charisma modifier.",
+          "The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife. Once you bind a specter with this feature, you can't use the feature again until you finish a long rest."]
+        },
+{
+          "level": 6,
+          "subclass": "undying",
+          "name": "undying-defy-death",
+          "title": "The Undying: Defy Death",
+          "text": [
+            "Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to 1d8 + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with spare the dying.",
+            "Once you use this feature, you can't use it again until you finish a long rest."]
         },
         {
           "level": 8,
@@ -5412,6 +5479,26 @@
           "name": "celestial-celestial-resilience",
           "title": "The Celestial: Celestial Resilience",
           "text": ["Starting at 10th level, you gain temporary hit points whenever you finish a short or long rest. These temporary hit points equal your warlock level + your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain temporary hit points equal to half your warlock level + your Charisma modifier."]
+        },
+        {
+          "level": 10,
+          "subclass": "hexblade",
+          "name": "hexblade-armor",
+          "title": "The Hexblade: Armor of Hexes",
+          "text": [
+            "At 10th level, your hex grows more powerful. If the target cursed by your Hexblade's Curse hits you with an attack roll, you can use your reaction to roll a d6. On a 5 or higher, the attack instead misses you, regardless of its roll.",
+            "You can use this feature a number of times equal to your Charisma modifier, regaining any expened uses when you finish a long rest."
+          ]
+        },
+        {
+          "level": 10,
+          "subclass": "undying",
+          "name": "undying-nature",
+          "title": "The Undying: Undying Nature",
+          "text": [
+            "Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce exhaustion and still benefit from finishing short and long rests.",
+            "In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged."
+            ]
         },
         {
           "level": 11,
@@ -5467,7 +5554,28 @@
           "subclass": "celestial",
           "name": "celestial-healing-light",
           "title": "The Celestial: Healing Light",
-          "text": ["<p>Starting at 14th level, the radiant energy you channel allows you to overcome grievous injuries. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up, if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"]
+          "text": [
+            "Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to 2d8 + your Charisma modifier, and it is blinded until the end of the current turn.",
+            "Once you use this feature, you can't use it again until you finish a long rest."]
+        },
+        {
+          "level": 14,
+          "subclass": "hexblade",
+          "name": "hexblade-master",
+          "title": "The Hexblade: Master of Hexes",
+          "text": [
+            "Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't incapacitated. When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature."
+          ]
+        },
+        {
+          "level": 14,
+          "subclass": "undying",
+          "name": "undying-indestructible",
+          "title": "The Undying: Indestructible Life",
+          "text": [
+            "When you reach 14th level, you partake some of the true secrets of the Undying. On your turn, you can use a bonus action to regain hit points equal to 1d8 + your warlock level. Additionally, if you put a severed body part of yours back in place when you use this feature, the part reattaches.",
+            "Once you use this feature, you can't use it again until you finish a short or long rest."
+            ]
         },
         {
           "level": 15,
