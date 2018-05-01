@@ -15,6 +15,7 @@ More or less a test/personal site that I use to play/run D&D 5e. It is mostly up
 Ostensibly you could run this locally if you have npm and node installed (I don't really have steps for that process). Just pull from this repo and then in the same directory as package.json run:
 
 `npm update`
+
 `npm start`
 
 Pages should be served up at `http://localhost:3000/dnd-react/#/`
