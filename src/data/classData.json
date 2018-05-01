@@ -2130,7 +2130,7 @@
           "level": 3,
           "subclass": "base",
           "name": "archetype",
-          "title": "Martial Archetype",
+          "title": "Archetype",
           "text": ["At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level."]
         },
         {
@@ -2138,7 +2138,7 @@
           "filter": "yes",
           "subclass": "champion",
           "name": "champion",
-          "title": "Martial Archetype: Champion (PHB)",
+          "title": "Archetype: Champion (PHB)",
           "text": ["The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows."]
         },
         {
@@ -2153,7 +2153,7 @@
           "filter": "yes",
           "subclass": "battlemaster",
           "name": "battlemaster",
-          "title": "Martial Archetype: Battle Master (PHB)",
+          "title": "Archetype: Battle Master (PHB)",
           "text": ["Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge."]
         },
         {
@@ -2175,7 +2175,7 @@
           "filter": "yes",
           "subclass": "cavalier",
           "name": "cavalier",
-          "title": "Martial Archetype: Cavalier (XGE)",
+          "title": "Archetype: Cavalier (XGE)",
           "text": ["The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Drawn to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure."]
         },
         {
@@ -2204,7 +2204,7 @@
           "filter": "yes",
           "subclass": "eldritch",
           "name": "eldritch",
-          "title": "Martial Archetype: Eldritch Knight (PHB)",
+          "title": "Archetype: Eldritch Knight (PHB)",
           "text": ["The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook."]
         },
         {
@@ -2226,7 +2226,7 @@
           "filter": "yes",
           "subclass": "arcane",
           "name": "arcane",
-          "title": "Martial Archetype: Arcane Marksman (XGE)",
+          "title": "Archetype: Arcane Marksman (XGE)",
           "text": ["An Arcane Marksman studies a unique method of archery that weaves magic into attacks to produce supernatural effects. These techniques are the favorite of a variety of expert marksmen, including elite elven sentinels, dwarven gnoll hunters, and a number of well-known mercenaries. Requiring both a mastery of ranged combat and an understanding of the arcane arts, Arcane Marksmans stand out as versatile and effective sharpshooters."]
         },
         {
@@ -2248,7 +2248,7 @@
           "filter": "yes",
           "subclass": "samurai",
           "name": "samurai",
-          "title": "Martial Archetype: Samurai (XGE)",
+          "title": "Archetype: Samurai (XGE)",
           "text": ["The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai's resolve is nearly unbreakable, and the enemies in a Samurai's path have two choices: yield or die fighting.."]
         },
         {
@@ -2264,6 +2264,28 @@
           "name": "samurai-spirit",
           "title": "Samurai: Fighting Spirit",
           "text": ["Starting at 3rd level, your intensity in battle can shield you and help you strike true. As a bonus action on your turn, you can give yourself advantage on weapon attack rolls until the end of the current turn. When you do so, you also gain temporary hit points equal to your fighter level (ORIGINAL: 5, then 10 at 10th level, and 15 at 15th level). You can use this feature three times, and you regain all expended uses of it when you finish a long rest."]
+        },
+        {
+          "level": 3,
+          "filter": "yes",
+          "subclass": "banneret",
+          "name": "banneret",
+          "title": "Archetype: Banneret (HB)",
+          "text": [
+            "Also known as warlords, sergeants, or knight-commanders, bannerets are leaders on the battlefield, commanding and inspiring their allies through their heroism. Bannerets are not generals who sit and command from afar, they command from the front, fighting alongside their soldiers and allies in the midst of battle."]
+        },
+        {
+          "level": 3,
+          "subclass": "banneret",
+          "name": "banneret-proficiency",
+          "title": "Banneret: Morale",
+          "text": [
+            "You are able to inspire and bolster your comrades in battle, using special dice called morale dice. To do so, you use a bonus action on your turn to choose one creature other than yourself within 30 feet of you who can see or hear you. That creature gains one Morale die, a d4, and temporary hitpoints equal to your fighter level + your Charisma modifier.",
+            "Once within the next 10 minutes, the creature can roll the die and add the number rolled to one attack roll or weapon damage roll it makes. The creature can wait until after it rolls the d20 before deciding to use the Morale die, but must decide before the DM says whether the roll succeeds or fails.",
+            "Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Morale die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.",
+            "Once the Morale die is rolled, or the creature loses its temporary hitpoints, it is lost. If the creature's temporary hitpoints are overwritten by another source, the creature keeps the Morale die until rolled. A creature can have only one Morale die at a time.",
+            "You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a short or long rest."
+            ]
         },
         {
           "level": 4,
@@ -2290,8 +2312,8 @@
           "level": 7,
           "subclass": "base",
           "name": "archetype-1",
-          "title": "Martial Archetype Feature",
-          "text": ["At 7th level, you gain a feature from your Martial Archetype."]
+          "title": "Archetype Feature",
+          "text": ["At 7th level, you gain a feature from your Archetype."]
         },
         {
           "level": 7,
@@ -2350,6 +2372,23 @@
           "text": ["Starting at 7th level, your discipline and attention to detail allow you to excel in social situations. Whenever you make a Charisma (Persuasion) check, you gain a bonus to the check equal to your Wisdom modifier. Your self-control also causes you to gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice)."]
         },
         {
+          "level": 7,
+          "subclass": "banneret",
+          "name": "banneret-leadership",
+          "title": "Banneret: Leadership",
+          "text": ["At 7th level, you lead your troops through fear or love. Choose Intimidation or Persuasion. You gain proficiency in the chosen skill. If you are already proficient in it, you add double your proficiency bonus to checks made with it."]
+        },
+        {
+          "level": 7,
+          "subclass": "banneret",
+          "name": "banneret-hold-the-line",
+          "title": "Banneret: Hold the Line",
+          "text": [
+            "Beginning at 7th level, you can rally your allies even in the most dire of situations. When you use your Second Wind feature, you can expend one of your uses of Morale to rally your allies. When you do so, each ally may roll one of their hit die and regain hit points equal to the number rolled.",
+            "Additionally, when a friendly creature within 30 feet of you falls unconscious, you can use your reaction to expend one use of Morale and move up to your speed towards that creature. Roll a Morale die, the target regains hitpoints equal to the number rolled times the number of opportunity attacks you provoked by this movement (1, if no opportunity attacks were provoked)."
+          ]
+        },
+        {
           "level": 8,
           "subclass": "base",
           "name": "asi",
@@ -2367,8 +2406,8 @@
           "level": 10,
           "subclass": "base",
           "name": "archetype-2",
-          "title": "Martial Archetype Feature",
-          "text": ["At 10th level, you gain a feature from your Martial Archetype."]
+          "title": "Archetype Feature",
+          "text": ["At 10th level, you gain a feature from your Archetype."]
         },
         {
           "level": 10,
@@ -2434,6 +2473,13 @@
           "text": ["Starting at 10th level, when you roll initiative and have no uses of Fighting Spirit remaining, you regain one use."]
         },
         {
+          "level": 10,
+          "subclass": "banneret",
+          "name": "banneret-gambit",
+          "title": "Banneret: Commander's Gambit",
+          "text": ["Starting at 10th level, you can lead your allies in daring assaults upon your enemies. As an action, you can expend one of your uses of Morale and make a weapon attack, rolling a Morale die and adding the number rolled to the attack roll. If the attack hits, you can immediately command your allies to attack. When you do so, choose a number of allies within 30 feet of you equal to your Charisma modifier. The chosen creatures can each use their reaction to make one weapon attack against the target."]
+        },
+        {
           "level": 11,
           "subclass": "base",
           "name": "extra-attack-2",
@@ -2465,8 +2511,8 @@
           "level": 15,
           "subclass": "base",
           "name": "archetype-2",
-          "title": "Martial Archetype Feature",
-          "text": ["At 15th level, you gain a feature from your Martial Archetype."]
+          "title": "Archetype Feature",
+          "text": ["At 15th level, you gain a feature from your Archetype."]
         },
         {
           "level": 15,
@@ -2525,6 +2571,13 @@
           "text": ["Starting at 15th level, you learn to trade accuracy for swift strikes. If you take the Attack action on your turn and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional weapon attack against that target, as part of the same action. You can do so no more than once per turn."]
         }, 
         {
+          "level": 15,
+          "subclass": "banneret",
+          "name": "banneret-fearless-leader",
+          "title": "Banneret: Fearless Leader",
+          "text": ["Starting at 15th level, your fearless presence emboldens your allies. You, friendly creatures within 10 feet of you, and creatures with a Morale die from you can’t be frightened while you are conscious."]
+        },
+        {
           "level": 16,
           "subclass": "base",
           "name": "asi",
@@ -2549,8 +2602,8 @@
           "level": 18,
           "subclass": "base",
           "name": "archetype-3",
-          "title": "Martial Archetype Feature",
-          "text": ["At 18th level, you gain a feature from your Martial Archetype."]
+          "title": "Archetype Feature",
+          "text": ["At 18th level, you gain a feature from your Archetype."]
         },
         {
           "level": 18,
@@ -2593,6 +2646,15 @@
           "name": "samurai-strength-before-death",
           "title": "Samurai: Strength Before Death",
           "text": ["Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling unconscious, and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall unconscious if you still have 0 hit points. Once you use this feature, you can't use it again until you finish a long rest."]
+        },
+        {
+          "level": 18,
+          "subclass": "banneret",
+          "name": "banneret-warlord",
+          "title": "Banneret: Warlord",
+          "text": [
+            "Beginning at 18th level, you are a dominating presence in battle, striking fear into your enemies and courage into your allies. Your morale dice become d6s.",
+            "Additionally, when you score a critical hit you regain 1 use of Morale."]
         }, 
         {
           "level": 19,
