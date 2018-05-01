@@ -728,7 +728,7 @@
           "initial": "yes",
           "name": "spheres-madness",
           "title": "College of Spheres: Maestro of Madness",
-          "text": ["Also at 3rd level, you learn how to use your mind's alien nature to disorient, scare, and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or  saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."]
+          "text": ["Also at 3rd level, you learn how to use your mind's alien nature to disorient, scare, and weaken the mental resolve of others. When a creature that you can see within 60 feet of you makes a skill check or saving throw you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting half the number rolled from the creature's roll. The creature is immune if it's immune to being charmed."]
         },
         {
           "level": 4,
@@ -1941,7 +1941,7 @@
           "name": "shepherd-guardian",
           "title": "Circle of the Shephard: Guardian Spirit",
           "text": ["Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic. When a beast or fey that you summoned or created with a spell ends its turn in your Spirit Totem aura, that creature regains a number of hit points equal to half your druid level."]
-        },     
+        }, 
         {
           "level": 12,
           "subclass": "base",
@@ -4399,7 +4399,7 @@
           "filter": "yes",
           "subclass": "trickster",
           "name": "trickster",
-          "title": "Roguish Archetype: Arcane Trickster (PHB)",
+          "title": "Archetype: Arcane Trickster (PHB)",
           "text": ["Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers."]
         },
         {
@@ -4421,7 +4421,7 @@
           "filter": "yes",
           "subclass": "assassin",
           "name": "assassin",
-          "title": "Roguish Archetype: Assassin (PHB)",
+          "title": "Archetype: Assassin (PHB)",
           "text": ["You focus your training on the grim art of the death. Those who adhere to this archetype are diverse - hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency."]
         },
         {
@@ -4443,7 +4443,7 @@
           "filter": "yes",
           "subclass": "inquisitive",
           "name": "inquisitive",
-          "title": "Roguish Archetype: Inquisitive (XGE)",
+          "title": "Archetype: Inquisitive (XGE)",
           "text": ["As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils."]
         },
         {
@@ -4472,7 +4472,7 @@
           "filter": "yes",
           "subclass": "mastermind",
           "name": "mastermind",
-          "title": "Roguish Archetype: Mastermind (XGE)",
+          "title": "Archetype: Mastermind (XGE)",
           "text": ["Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures."]
         },
         {
@@ -4494,7 +4494,7 @@
           "filter": "yes",
           "subclass": "scout",
           "name": "scout",
-          "title": "Roguish Archetype: Scout (XGE)",
+          "title": "Archetype: Scout (XGE)",
           "text": ["You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter — these are just a few of the roles that Scouts assume as they range the world."]
         },
         {
@@ -4516,7 +4516,7 @@
           "filter": "yes",
           "subclass": "swashbuckler",
           "name": "swashbuckler",
-          "title": "Roguish Archetype: Swashbuckler (XGE)",
+          "title": "Archetype: Swashbuckler (XGE)",
           "text": ["<p>You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.</p><p>A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.</p>"]
         },
         {
@@ -4538,7 +4538,7 @@
           "filter": "yes",
           "subclass": "sawbones",
           "name": "sawbones",
-          "title": "Roguish Archetype: Sawbones (HB)",
+          "title": "Archetype: Sawbones (HB)",
           "text": ["You have studied the humanoid body on a more intimate level than other Rogues. While others may know where best to stab in order to kill, you also know how to repair the wounds you inflict, as well as how to make them even deeper. You delve into the secrets of the body, learning as much medical knowledge as you can get your hands on, regardless of how dirty the work becomes."]
         },
         {
@@ -4560,7 +4560,7 @@
           "filter": "yes",
           "subclass": "thief",
           "name": "thief",
-          "title": "Roguish Archetype: Thief (PHB)",
+          "title": "Archetype: Thief (PHB)",
           "text": ["You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ."]
         },
         {
@@ -5048,6 +5048,30 @@
           "text": ["Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest."]
         },
         {
+          "level": 1,
+          "filter": "yes",
+          "subclass": "gravity",
+          "name": "gravity",
+          "title": "Gravity Wielder (HB)",
+          "text": [
+            "Your innate magic comes from the cosmos itself. Perhaps you were touched by cosmic currents at birth, were granted your powers by an old god as a boon given to your lineage, or an incident hurled you into a plane with a vastly different composition and gravity than yours. Whatever the case, you are among the few that can exert control over the gravitational forces.",
+            "<p>At each indicated sorcerer level, add the listed spells to your list of known spells. They do not count towards your limit.</p><ul><li>1st - jump</li><li>3rd - levitate</li><li>5th - fly</li><li>7th - freedom of movement</li><li>9th - telekinesis</li><li>11th - move earth</li></ul>"]
+        },
+        {
+          "level": 1,
+          "subclass": "gravity",
+          "name": "gravity-motes",
+          "title": "Motes of Gravity",
+          "text": ["Starting at 1st level, you can use a bonus action on your turn to create a mote of gravity on the ground within 60 feet of you, immediately before or after you cast a spell of 1st level or higher. If you do, you can attempt to pull a Large or smaller creature within 15 feet of the mote 5 feet towards it. If the creature is unwilling, it must make a Strength saving throw against your spellcasting DC to resist the pull.  At 6th level you can pull a creature up to 10 feet, and at 14th level up to 15 feet."]
+        },
+        {
+          "level": 1,
+          "subclass": "gravity",
+          "name": "gravity-suspended",
+          "title": "Suspended Gravity",
+          "text": ["At 1st level, you're surrounded by a small pocket of low gravity as long as you're conscious. Objects and equipment you wear or are carrying count as weighing half their weight for you"]
+        },
+        {
           "level": 2,
           "subclass": "base",
           "name": "font-of-magic",
@@ -5111,6 +5135,14 @@
           "text": ["<p>Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't incapacitated. You can use this feature only once per turn.</p>"]
         },
         {
+          "level": 6,
+          "subclass": "gravity",
+          "name": "gravity-concentrated",
+          "title": "Gravity Wielder: Concentrated Cosmos",
+          "text": ["At 6th level, you gain the ability to create powerful nodes of gravity. As an action, you can spend 1 sorcery point and choose a point within 60 feet of you where a node is created. Each creature within 30 feet of the node must succeed on a Strength saving throw or be pulled up to 15 feet towards it. Huge or larger creatures have advantage on this saving throw, while Small or smaller creatures, as well as any creature not touching the ground, have disadvantage",
+            "Alternatively, you may spend 1 sorcery point to increase your movement speed by 10 feet for 10 minutes."]
+        },
+        {
           "level": 8,
           "subclass": "base",
           "name": "asi",
@@ -5167,6 +5199,14 @@
           "text": ["<p>Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're incapacitated, you die, or you dismiss them as a bonus action.</p><p>The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.</p>"]
         },
         {
+          "level": 14,
+          "subclass": "gravity",
+          "name": "gravity-afloat",
+          "title": "Gravity Wielder: Afloat in the Currents",
+          "text": ["At 14th level, you gain the ability to hover. You can start to hover as a bonus action. While hovering you can move in any direction, but you can't be higher than your base movement speed from the ground. You hover until you lose consiousness or use a bonus action to stop.",
+            "Additionally, you can use a reaction and 1 sorcery point to cast <em>feather fall</em>"]
+        },
+        {
           "level": 16,
           "subclass": "base",
           "name": "asi",
@@ -5214,6 +5254,17 @@
           "name": "divine-recovery",
           "title": "Divine: Miraculous Recovery",
           "text": ["<p>At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.</p><p>Once you use this feature, you can't use it again until you finish a long rest.</p>"]
+        },
+        {
+          "level": 18,
+          "subclass": "gravity",
+          "name": "gravity-master",
+          "title": "Gravity Wielder: Master of Gravity",
+          "text": [
+            "Beginning at 18th level, you can alther the gravity around you on a larger scale. As an action, you can spend 5 sorcery points to change the gravity in a 60-foot-radius, 60-foot high-cylinder, centered on you, for 1 minute or until you lose concentration (as if you were concentrating on a spell). You can create one of the following effects:",
+            "<ul><li>Gravity is tripled: A creature moving through the area must spend 3 feet of movement for every 1 foot it moves.</li><li>Gravity is reversed: Per the spell <em>reverse gravity</em></li><li>Gravity is halved: A creature moving through the area can move twice as fast and jump twice as high.</li></ul>",
+            "No matter which option you choose if a projectile from a ranged attack would travel through the affected area that attack is made at disadvantage.",
+            "When you take this action, you can choose a number of creatures equal to your Charisma modifier that are unaffected by it."]
         },
         {
           "level": 19,
