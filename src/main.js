@@ -18,6 +18,7 @@ import {Item} from './views/items/Item.js';
 import {Rule} from './views/rules/Rule.js';
 import {Campaign} from './views/campaign/Campaign.js';
 import {Recap} from './views/campaign/recap/Recap.js';
+import {Map} from './views/campaign/map/Map.js';
 
 ReactGA.initialize('UA-117974315-1');
 function fireTracking() {
@@ -47,6 +48,7 @@ export default class Main extends React.Component {
                     <Route path="/items/:itemName" component={Item}/>
                     <Route path="/rules/:ruleName" component={Rule}/>
                     <Route path="/campaign" component={Campaign}/>
+                    <Route path="/campaign/map" component={Map}/>
                     <Route path="/campaign/recap/:recapNum" component={Recap}/>
                     <Route path="*" component={NotFound}/>
             </Router>
