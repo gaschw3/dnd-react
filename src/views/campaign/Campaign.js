@@ -18,7 +18,7 @@ export class Campaign extends Component {
                 <p>Not even a working title, not to mention link.</p>
               </Col>
               <Col sm={5}>
-                <h4><a href="/dnd-react/#/campaign/recap/1">Recaps</a></h4>
+                <h4><a href="/dnd-react/#/campaign/recap/3">Recaps</a></h4>
                 <p>Session recaps. They vary in length depending on how much I felt like writing after we finished for the night.</p>
                 <h4><a href="/dnd-react/#/campaign/info">Info</a> <span className="align-top label label-broke">broken</span></h4>
                 <p>Also doesn't work</p>
